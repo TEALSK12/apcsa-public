@@ -19,8 +19,8 @@ Versions will come up with Git tags, change logs, and possibly releases (such as
 
 Authors
 -------
-__Curriculum Developer__ — Christine Keefe
-__TEALS Coordinator__ — Nathaniel Granor
+- Christine Keefe (Curriculum Developer)
+- Nathaniel Granor (TEALS Coordinator)
 
 
 License
@@ -67,5 +67,6 @@ Acknowledgments
 
 
 
-[GitBook]: https://www.gitbook.com
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[GitBook]:    https://www.gitbook.com
+[LICENSE.md]: LICENSE.md
