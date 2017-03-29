@@ -99,7 +99,3 @@ programming project 5 & 7 in the text book.
 
 If you were unable to finish grading student notebooks yesterday, finish them today while students
 are working. Return notebooks by the end of class so students may use them to study for the exam.
-
-
-----------------------------------------------------------------------------------------------------
-[Lesson 1.07](Lesson-107.md) ⯇ [Table of Contents](/Summary.md) ⯈ [Lesson 1.09](Lesson-109.md)

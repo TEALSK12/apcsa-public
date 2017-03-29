@@ -97,7 +97,3 @@ Accommodation and Differentiation
 ---------------------------------
 If you have students who are speeding through this lesson, you should encourage them to tackle
 programming project \#4 in the text book.
-
-
-----------------------------------------------------------------------------------------------------
-[Lesson 1.06](Lesson-106.md) ⯇ [Table of Contents](/Summary.md) ⯈ [Lesson 1.08](Lesson-108.md)

@@ -190,7 +190,3 @@ If you have the good fortune of not needing to re-teach any concepts, you can ma
 students extra time to start on the homework programming project \#1. If you are doing a lot of
 re-teaching during this class, and you feel that students need the emotional reward, you may drop
 programming project \#1.
-
-
-----------------------------------------------------------------------------------------------------
-[Lesson 1.05](Lesson-105.md) ⯇ [Table of Contents](/Summary.md) ⯈ [Lesson 1.07](Lesson-107.md)

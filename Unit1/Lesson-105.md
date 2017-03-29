@@ -175,7 +175,3 @@ If you have students who are speeding through this lesson, you should encourage 
     questions
   - Have the student write a sample test question with output that can be written using method
     calls. Be sure they include the answer key with the sample question!
-
-
-----------------------------------------------------------------------------------------------------
-[Lesson 1.04](Lesson-104.md) ⯇ [Table of Contents](/Summary.md) ⯈ [Lesson 1.06](Lesson-106.md)

@@ -116,7 +116,3 @@ Accommodation and Differentiation
 Allow students to work in pairs if they are having trouble understanding the directions. Encourage
 pairs to model the correct procedure for each other. Student helpers should point to areas on the
 screen rather than typing or using the mouse to complete the action.
-
-
-----------------------------------------------------------------------------------------------------
-[Table of Contents](/Summary.md) ⯈ [Lesson 1.02](Lesson-102.md)
