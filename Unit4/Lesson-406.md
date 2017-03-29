@@ -1,3 +1,6 @@
+Lesson 4.06 — Nested Loop Algorithms & Rectangular Arrays
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Correctly adjust** nested loop headers for use with arrays.

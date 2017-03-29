@@ -1,3 +1,6 @@
+Lesson 7.01 — Searching Algorithms
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Compare and contrast** the different search algorithms.

@@ -1,3 +1,6 @@
+Lesson 1.03 — String & Console Output
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Describe** the history of Java and why it is used today.

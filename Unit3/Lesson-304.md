@@ -1,3 +1,6 @@
+Lesson 3.04 — Programming Project
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Write** a program that uses parameters, the math class, and returns values.

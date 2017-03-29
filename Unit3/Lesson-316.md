@@ -1,3 +1,6 @@
+Lesson 3.16 — Boolean Logic
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Write** a game that plays Rock-Paper-Scissors.

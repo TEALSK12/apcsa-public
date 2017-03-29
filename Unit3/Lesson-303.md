@@ -1,3 +1,6 @@
+Lesson 3.03 — Return Values
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Write** a program that returns values.

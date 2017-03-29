@@ -1,3 +1,6 @@
+Lesson 8.03 — Mechanics of Recursion
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Model** how recursive methods execute.

@@ -1,3 +1,6 @@
+Lesson 4.09 — Magpie Lab
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Complete** a long-form lab, using if statements, algorithms, the Sting class, arrays, and ArrayLists.

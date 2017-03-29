@@ -1,3 +1,6 @@
+Lesson 5.02 — Object State & Behavior
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Describe** classes, objects, and client code.

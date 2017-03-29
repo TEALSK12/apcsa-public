@@ -1,3 +1,6 @@
+Lesson 6.05 — Has-a Relationships
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Identify and explain** why two classes have an is-a or a has-a relationship.

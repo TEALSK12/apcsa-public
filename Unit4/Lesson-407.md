@@ -1,3 +1,6 @@
+Lesson 4.07 — ArrayList
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Construct** code using ArrayList.

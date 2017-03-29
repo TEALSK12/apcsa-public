@@ -1,3 +1,6 @@
+Lesson 5.04 — Encapsulation
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Explain** what encapsulation/abstraction are, and why they are important programming strategies.

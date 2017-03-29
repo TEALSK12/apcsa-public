@@ -1,3 +1,6 @@
+Lesson 8.06 — Review & Quiz
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Identify** weaknesses in their Unit 8 knowledge.

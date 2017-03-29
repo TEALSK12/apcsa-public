@@ -1,3 +1,6 @@
+Lesson 3.05 — Using Objects & String Processing
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Differentiate** between primitive and object types.

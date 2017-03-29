@@ -1,3 +1,6 @@
+Lesson 3.01 — Parameters
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Correctly construct** formal and actual parameters (arguments).

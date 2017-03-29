@@ -1,3 +1,6 @@
+Lesson 1.04 — Common Errors & Comments
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Create** simple programs with comments and style.

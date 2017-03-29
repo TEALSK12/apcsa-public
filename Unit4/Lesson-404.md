@@ -1,3 +1,6 @@
+Lesson 4.04 — Reference Semantics
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Compare and contrast** how primitives and arrays are treated when passed as parameters.

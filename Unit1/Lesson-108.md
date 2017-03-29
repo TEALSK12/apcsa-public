@@ -1,3 +1,6 @@
+Lesson 1.08 — Finding & Fixing Errors
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Find and fix** errors and style in their returned homework assignments.

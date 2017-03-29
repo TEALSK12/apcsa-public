@@ -1,3 +1,6 @@
+Lesson 2.05 — for Loops
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Trace** loops to predict program behavior.

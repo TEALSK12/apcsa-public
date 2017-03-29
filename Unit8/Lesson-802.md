@@ -1,3 +1,6 @@
+Lesson 8.02 — Writing Recursive Solutions
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Identify** recursive methods.

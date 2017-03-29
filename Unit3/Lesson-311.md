@@ -1,3 +1,6 @@
+Lesson 3.11 — Reducing Redundancy
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Simplify code and reduce redundancy** by factoring if/else statements and testing multiple conditions simultaneously.

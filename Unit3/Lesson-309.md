@@ -1,3 +1,6 @@
+Lesson 3.09 — Relational Operators & if/else
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Evaluate** relational expressions

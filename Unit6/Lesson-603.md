@@ -1,3 +1,6 @@
+Lesson 6.03 — Interacting with the Object Superclass
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Replace** superclass behavior by writing overriding methods in the subclass.

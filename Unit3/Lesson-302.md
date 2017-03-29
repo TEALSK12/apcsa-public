@@ -1,3 +1,6 @@
+Lesson 3.02 — Limitations of Parameters & Multiple Parameters
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Modify** programs using parameters and class constants to create original artworks.

@@ -1,3 +1,6 @@
+Lesson 2.08 — Programming Project
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Plan and construct** a structured program containing nested loops.

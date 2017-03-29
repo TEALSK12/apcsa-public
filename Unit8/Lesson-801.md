@@ -1,3 +1,6 @@
+Lesson 8.01 — Thinking Recursively
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Define** recursion.

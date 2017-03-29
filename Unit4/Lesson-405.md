@@ -1,3 +1,6 @@
+Lesson 4.05 — Shifting Values & Arrays of Objects
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Shift** elements within an array

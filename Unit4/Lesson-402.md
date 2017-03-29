@@ -1,3 +1,6 @@
+Lesson 4.02 — For-Each Loop & Arrays Class
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Populate and access** arrays using a for-each loop

@@ -1,3 +1,6 @@
+Lesson 6.07 — Programming Project
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Write** complex code that uses polymorphism, inheritance, and interfaces.

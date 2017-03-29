@@ -1,3 +1,6 @@
+Lesson 7.02 — Sorting Algorithms
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Compare and contrast** different sorting methods and **evaluate** their relative speed and efficiency.

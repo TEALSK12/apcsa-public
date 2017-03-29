@@ -1,3 +1,6 @@
+Lesson 6.01 — Inheritance Basics
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Correctly define** inheritance.

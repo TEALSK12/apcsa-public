@@ -1,3 +1,6 @@
+Lesson 2.07 — Scope & Pseudocode
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Identify** the scope of a variable.

@@ -1,3 +1,6 @@
+Lesson 1.06 — Static Methods & Method Calls (2/2)
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Use** structure diagrams to plan complex programs.

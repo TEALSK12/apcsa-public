@@ -1,3 +1,6 @@
+Lesson 3.12 — Cumulative Algorithms
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Find and correct** syntax errors in conditional cumulative algorithms.

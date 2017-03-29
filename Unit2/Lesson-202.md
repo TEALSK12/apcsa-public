@@ -1,3 +1,6 @@
+Lesson 2.02 — Declaring & Assigning Variables
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Identify, declare, and assign** variables.

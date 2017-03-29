@@ -1,3 +1,6 @@
+Lesson 3.14 — Random Numbers
+====================================================================================================
+
 **N.B. THIS LESSON IS OPTIONAL**
 
 (*while Math.random might be included on the AP exam, the Random class is not part of the AP subset)*

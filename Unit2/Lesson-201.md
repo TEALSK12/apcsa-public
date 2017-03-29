@@ -1,3 +1,6 @@
+Lesson 2.01 — Basic Data Concepts
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Identify and categorize** data types

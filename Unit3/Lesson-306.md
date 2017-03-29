@@ -1,3 +1,6 @@
+Lesson 3.06 — Interactive Programs & Scanner Objects
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Write** programs that accept user input using a scanner object.

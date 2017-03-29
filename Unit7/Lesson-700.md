@@ -1,3 +1,6 @@
+Lesson 7.00 — Test Review & Reteach
+====================================================================================================
+
 **N.B. THIS LESSON IS OPTIONAL** (see below for details)
 
 Objectives Students will be able to…

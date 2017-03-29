@@ -1,3 +1,6 @@
+Lesson 2.03 — String Concatenation & Increment Decrement Operators
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Apply** the rules of string concatenation.

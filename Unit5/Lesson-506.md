@@ -1,3 +1,6 @@
+Lesson 5.06 — Picture Lab
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Complete** a long-form lab, using two-dimensional arrays of objects, array traversing algorithms, program analysis, binary numbers, inheritance, and interfaces.

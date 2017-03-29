@@ -1,29 +1,22 @@
 Lesson 1.01 — Using Eclipse & Practice-It
 ====================================================================================================
 
-**N.B. THIS LESSON IS OPTIONAL**
+_N.B. THIS LESSON IS OPTIONAL_
 
 Objectives Students will be able to…
-
 -   **Describe** one or more careers related to computer science and technology.
-
 -   **Ask** intelligent questions about the field of computer science.
-
 -   **Identify** 'next steps' to learn more about computer science
-
 -   **List** the class expectations and what is required of them.
 
 Assessments Students will...
-
 -   **Demonstrate** Plug-In and Un-Plug procedures
-
 -   **Log in and submit** a sample problem in Practice-It
 
- Homework Students will...
-
+Homework Students will...
 -   **Visit** pokemon.com and play a few games or **play** Pokémon on a gaming system
-
 -   **Visit** bulbapedia.bulbagarden.net to familiarize yourself with the Pokémon franchise
+
 
 Materials & Prep
 ================

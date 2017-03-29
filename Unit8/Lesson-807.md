@@ -1,3 +1,6 @@
+Lesson 8.07 — Quiz Review & Reteach
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Re-learn or strengthen** content knowledge and skills from Unit 8.

@@ -1,3 +1,6 @@
+Lesson 1.05 — Static Methods & Method Calls (1/2)
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Use** procedural decomposition to plan complex programs using structure diagrams.

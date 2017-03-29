@@ -1,3 +1,6 @@
+Lesson 2.06 — nested for Loops
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Trace** nested loops to predict program behavior.

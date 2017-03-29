@@ -1,3 +1,6 @@
+Lesson 7.03 — Elevens Lab
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Complete** a long-form lab, demonstrating effective use of object-oriented program design, program implementation and analysis, and standard data structures and algorithms.

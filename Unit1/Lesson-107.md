@@ -1,3 +1,6 @@
+Lesson 1.07 — Programming Project
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Construct** a program containing method calls and static methods.

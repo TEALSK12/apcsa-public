@@ -1,3 +1,6 @@
+Lesson 4.01 — Array Basics
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Define, populate, and access** arrays.

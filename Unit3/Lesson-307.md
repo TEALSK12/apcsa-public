@@ -1,3 +1,6 @@
+Lesson 3.07 — Pokémon Battle Programming Project
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Write** a program that requests user input and returns data.

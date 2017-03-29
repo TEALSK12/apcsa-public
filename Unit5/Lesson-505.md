@@ -1,3 +1,6 @@
+Lesson 5.05 — Finding & Fixing Errors
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Find** errors in their returned homework assignments.

@@ -1,3 +1,6 @@
+Lesson 8.04 — MergeSort
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Use** mergeSort to sort an ArrayList.

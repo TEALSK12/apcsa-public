@@ -1,3 +1,6 @@
+Lesson 4.03 — Printing, Searching, & Testing for Equality
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Manipulate** single-dimension arrays using a variety of array transversal algorithms.

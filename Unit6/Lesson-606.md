@@ -1,3 +1,6 @@
+Lesson 6.06 — Interfaces
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Implement and use** interfaces.

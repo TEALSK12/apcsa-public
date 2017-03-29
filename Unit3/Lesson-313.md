@@ -1,3 +1,6 @@
+Lesson 3.13 — while Loops
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Trace** while loops to predict:

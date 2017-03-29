@@ -1,3 +1,6 @@
+Lesson 6.02 — Overriding Methods & Accessing Inherited Code
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Replace** superclass behavior by writing overriding methods in the subclass.

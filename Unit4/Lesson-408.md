@@ -1,3 +1,6 @@
+Lesson 4.08 — Finding & Fixing Errors
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Find** errors in their returned homework assignments.

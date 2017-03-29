@@ -1,3 +1,6 @@
+Lesson 3.15 — Fencepost & Sentinel Loops
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Describe** when to use fencepost and sentinel loops.

@@ -1,3 +1,6 @@
+Lesson 2.04 — Mixing Types & Casting
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Describe** which types automatically convert into others when appearing together.
