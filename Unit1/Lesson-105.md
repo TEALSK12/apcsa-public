@@ -177,3 +177,5 @@ If you have students who are speeding through this lesson, you should encourage 
     calls. Be sure they include the answer key with the sample question!
 
 
+----------------------------------------------------------------------------------------------------
+[Lesson 1.04](Lesson-104.md) ⯇ [Table of Contents](/Summary.md) ⯈ [Lesson 1.06](Lesson-106.md)

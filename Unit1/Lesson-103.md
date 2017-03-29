@@ -179,3 +179,7 @@ and math anxiety.
 
 To learn more about the Pokemon storyline, game rules, underlying formulae, and characters, visit
 <http://bulbapedia.bulbagarden.net>.
+
+
+----------------------------------------------------------------------------------------------------
+[Lesson 1.02](Lesson-102.md) ⯇ [Table of Contents](/Summary.md) ⯈ [Lesson 1.04](Lesson-104.md)

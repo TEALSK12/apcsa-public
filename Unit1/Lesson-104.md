@@ -169,3 +169,7 @@ copy and paste between Eclipse and Practice-It. On some systems, this may transl
 character into a Unicode space character. This will cause code that worked in Eclipse to produce
 errors in Practice-It or vice versa. To avoid student frustration, be sure to demonstrate how to
 correct copied/pasted code before submitting to Practice-It.
+
+
+----------------------------------------------------------------------------------------------------
+[Lesson 1.03](Lesson-103.md) ⯇ [Table of Contents](/Summary.md) ⯈ [Lesson 1.05](Lesson-105.md)

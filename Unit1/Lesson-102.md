@@ -142,3 +142,7 @@ bread) might require additional planning. For maximum engagement, try to select 
 In ELL classrooms, you should pair students to ease the writing/composition burden of this activity.
 For advanced students, invite them to write algorithms for other activities, such as getting to
 school on time.
+
+
+----------------------------------------------------------------------------------------------------
+[Lesson 1.01](Lesson-101.md) ⯇ [Table of Contents](/Summary.md) ⯈ [Lesson 1.03](Lesson-103.md)
