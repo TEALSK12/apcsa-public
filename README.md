@@ -25,6 +25,12 @@ _Major_ number increase as content undergoes a large-scale update. For example, 
 finished conversion from Word & PowerPoint curriculum content, we'll upgrade from 1.x.x to 2.0.0.
 
 
+Style Guidelines
+----------------
+Please read the [Style Guidelines](STYLE.md) before modifying the contents of this repo. They're
+short and ensure consistency across the docset.
+
+
 Authors
 -------
 - Christine Keefe (Curriculum Developer)
