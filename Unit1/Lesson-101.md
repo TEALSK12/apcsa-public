@@ -1,3 +1,6 @@
+Lesson 1.01 — Using Eclipse & Practice-It
+====================================================================================================
+
 **N.B. THIS LESSON IS OPTIONAL**
 
 Objectives Students will be able to…

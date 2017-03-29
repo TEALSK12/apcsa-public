@@ -1,3 +1,6 @@
+Lesson 1.02 — Algorithms & Computational Thinking
+====================================================================================================
+
 Objectives Students will be able to…
 
 -   **Define** algorithms, programs, hardware, software, and operating systems.
