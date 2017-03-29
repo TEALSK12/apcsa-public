@@ -25,11 +25,11 @@ Materials & Prep
 Pacing Guide
 ------------
 | Section                                 | Total Time |
-|-----------------------------------------|------------|
-| Bell-work and attendance                | 5min       |
-| Introduction and note-taking            | 15min      |
-| Practice-It questions                   | 25min      |
-| Students trade work, check, and turn in | 5min       |
+|-----------------------------------------|-----------:|
+| Bell-work and attendance                |       5min |
+| Introduction and note-taking            |      15min |
+| Practice-It questions                   |      25min |
+| Students trade work, check, and turn in |       5min |
 
 
 Procedure

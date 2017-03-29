@@ -38,7 +38,7 @@ Pacing Guide
 ------------
 
 | Section                                 | Total Time |
-|-----------------------------------------|------------|
+|-----------------------------------------|-----------:|
 | Bell-work and attendance                |       5min |
 | Vocabulary and history of bugs          |      10min |
 | Error-checking algorithm                |      10min |
