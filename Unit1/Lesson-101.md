@@ -64,23 +64,23 @@ Procedure
 
 ### Classroom Introduction \[20 minutes\]
 
-  1. Using the slide deck as a base (edit the deck to fit your needs):
-    - Poll your class to learn their names, experience, and rationale behind taking the course.
-    - Go over background information of the computer science field.
-    - Go over class expectations and information.
-    - Touch on school requirements (varies) _e.g._ syllabus.
+1. Using the slide deck as a base (edit the deck to fit your needs):
+  - Poll your class to learn their names, experience, and rationale behind taking the course.
+  - Go over background information of the computer science field.
+  - Go over class expectations and information.
+  - Touch on school requirements (varies) _e.g._ syllabus.
 
-  2. Class icebreakers (varies school to school).
+2. Class icebreakers (varies school to school).
 
 ### Plug-In & Un-Plug Procedure \[10 minutes\]
 
-  1. Using WS 1.1.2, model the steps for:
-     - Opening Eclipse and a workspace
-     - Creating and saving a program
-     - Ejecting the USB (if applicable)
+1. Using WS 1.1.2, model the steps for:
+   - Opening Eclipse and a workspace
+   - Creating and saving a program
+   - Ejecting the USB (if applicable)
 
-  2. Have students demonstrate the Plug In and Un-Plug procedures for you before you move on to the
-     Practice-It exercise.
+2. Have students demonstrate the Plug In and Un-Plug procedures for you before you move on to the
+   Practice-It exercise.
 
 If your classroom has a projector hooked up to the teacher’s computer, project each step as you
 model it for the students.
@@ -91,11 +91,11 @@ Expect this exercise to take 10 minutes or longer.
 
 ### Practice-It \[10 minutes\]
 
-  1. Using WS 1.1.2, model the steps for creating a Practice-It account. Since you will probably
-     already have an account, select a student account to use as a model.
+1. Using WS 1.1.2, model the steps for creating a Practice-It account. Since you will probably
+   already have an account, select a student account to use as a model.
 
-  2. Have all students submit a Practice-It problem to demonstrate that they know how to use
-     Practice-It.
+2. Have all students submit a Practice-It problem to demonstrate that they know how to use
+   Practice-It.
 
 Wait until all students have completed a step before moving on to another step.
 
