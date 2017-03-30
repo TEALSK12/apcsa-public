@@ -4,24 +4,24 @@ Lesson 1.08 — Finding & Fixing Errors
 Overview
 --------
 ### Objectives — _Students will be able to…_
-  - **Find and fix** errors and style in their returned homework assignments.
-  - **Correct** their code
+- **Find and fix** errors and style in their returned homework assignments.
+- **Correct** their code
 
 ### Assessments — _Students will…_
-  - **Re-submit** all homework assignments with corrected answers.
+- **Re-submit** all homework assignments with corrected answers.
 
 ### Homework — _Students will…_
-  - **Study** for the test by:
-    - **Reviewing** all the blue pages at the end of Chapter 1
-    - **Re-reading** sections as needed
-  - **Submit** 5 questions for review in class tomorrow using electronic survey
+- **Study** for the test by:
+  - **Reviewing** all the blue pages at the end of Chapter 1
+  - **Re-reading** sections as needed
+- **Submit** 5 questions for review in class tomorrow using electronic survey
 
 
 Materials & Prep
 ----------------
-  - **Any student homework assignments** that you have not yet returned
-  - **Student self-help system** (such as C2B4 or student pairing)
-  - **Electronic survey** for student review requests
+- **Any student homework assignments** that you have not yet returned
+- **Student self-help system** (such as C2B4 or student pairing)
+- **Electronic survey** for student review requests
 
 When you grade homework assignments, it will be most useful to these lessons if you only mark an
 answer incorrect or correct. ELL classrooms are the exception to this rule—students will be having a

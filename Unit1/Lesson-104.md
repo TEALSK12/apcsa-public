@@ -4,29 +4,29 @@ Lesson 1.04 — Common Errors & Comments
 Overview
 --------
 ### Objectives — _Students will be able to…_
-  - **Create** simple programs with comments and style.
-  - **List and apply** the steps necessary for avoiding syntax errors.
+- **Create** simple programs with comments and style.
+- **List and apply** the steps necessary for avoiding syntax errors.
 
 ### Assessments — _Students will…_
-  - **Complete** a worksheet
-  - **Develop** a personal checklist for spotting syntax errors
+- **Complete** a worksheet
+- **Develop** a personal checklist for spotting syntax errors
 
 ### Homework — _Students will…_
-  - **Read** HW 1.4
-  - **Complete** Ch.1 Exercises 6, 7, 9
+- **Read** HW 1.4
+- **Complete** Ch.1 Exercises 6, 7, 9
 
 
 Materials & Prep
 ----------------
-  - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
-  - **White paper** **and** **markers**
-  - **Classroom copies** of WS 1.4
-  - **Sample punched card** to pass around (available on eBay: <http://tinyurl.com/nnthazu>)
-  - **Pictures**:
-    - Punch cards (<http://tinyurl.com/n9zqd3k>)
-    - Readers (<http://tinyurl.com/p34mvmb>)
-    - Jaquard loom (<http://tinyurl.com/n8tmra3>)
-    - Bug (<http://tinyurl.com/ljyguuy>)
+- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- **White paper** **and** **markers**
+- **Classroom copies** of WS 1.4
+- **Sample punched card** to pass around (available on eBay: <http://tinyurl.com/nnthazu>)
+- **Pictures**:
+  - Punch cards (<http://tinyurl.com/n9zqd3k>)
+  - Readers (<http://tinyurl.com/p34mvmb>)
+  - Jaquard loom (<http://tinyurl.com/n8tmra3>)
+  - Bug (<http://tinyurl.com/ljyguuy>)
 
 If you are able to laminate student work, or have plastic sleeves available for students that have
 binders, it would be a good idea to reinforce/preserve student error-correction algorithms (see

@@ -4,13 +4,13 @@ Lesson 2.08 — Programming Project
 Overview
 --------
 ### Objectives — _Students will be able to…_
-  - **Plan and construct** a structured program containing nested loops.
+- **Plan and construct** a structured program containing nested loops.
 
 ### Assessments — _Students will…_
-  - **Submit** a complete, functional program by the end of next class
+- **Submit** a complete, functional program by the end of next class
 
 ### Homework — _Students will…_
-  - **Outline** Chapter 2, omitting HW 2.5
+- **Outline** Chapter 2, omitting HW 2.5
 
 
 Materials & Prep

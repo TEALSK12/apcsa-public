@@ -4,26 +4,26 @@ Lesson 2.00 — Test Review & Reteach
 Overview
 --------
 ### Objectives — _Students will be able to…_
-  - **Re-learn or strengthen** content knowledge and skills from Unit 1.
+- **Re-learn or strengthen** content knowledge and skills from Unit 1.
 
 ### Assessments — _Students will…_
-  - **Re-submit** test answers with updated corrections for partial or full credit
-    - Credit depends on instructor preference
+- **Re-submit** test answers with updated corrections for partial or full credit
+  - Credit depends on instructor preference
 
 ### Homework — _Students will…_
-  - **Read** HW 2.1 except for “Mixing Types and Casting”
-  - **Correct** any incorrect test answers by re-answering on a separate sheet of paper
-    - To get back credit, they must justify their new answers
-    - Staple new answer sheet to old test and turn in tomorrow
+- **Read** HW 2.1 except for “Mixing Types and Casting”
+- **Correct** any incorrect test answers by re-answering on a separate sheet of paper
+  - To get back credit, they must justify their new answers
+  - Staple new answer sheet to old test and turn in tomorrow
 
 
 Materials & Prep
 ----------------
-  - **Projector and computer**
-  - **Whiteboard and** **markers**
-  - **Corrected student tests**
-  - **Student grades** (posted online, emailed to students, or handed back on paper in class)
-  - **Digital copy of test questions** for projector
+- **Projector and computer**
+- **Whiteboard and** **markers**
+- **Corrected student tests**
+- **Student grades** (posted online, emailed to students, or handed back on paper in class)
+- **Digital copy of test questions** for projector
 
 Pacing Guide
 ------------

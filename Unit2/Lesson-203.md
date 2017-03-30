@@ -4,15 +4,15 @@ Lesson 2.03 — String Concatenation & Increment Decrement Operators
 Overview
 --------
 ### Objectives — _Students will be able to…_
-  - **Apply** the rules of string concatenation.
-  - **Correctly interpret** incrementing and decrementing statements.
+- **Apply** the rules of string concatenation.
+- **Correctly interpret** incrementing and decrementing statements.
 
 ### Assessments — _Students will…_
-  - **Evaluate** statements and predict output during a game of grudgeball
+- **Evaluate** statements and predict output during a game of grudgeball
 
 ### Homework — _Students will…_
-  - **Read** remainder of HW 2.2
-  - **Complete** self-check question 4 (4<sup>th</sup> edition: 5)
+- **Read** remainder of HW 2.2
+- **Complete** self-check question 4 (4<sup>th</sup> edition: 5)
 
 
 Materials & Prep

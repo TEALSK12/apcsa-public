@@ -4,17 +4,17 @@ Lesson 2.10 — Finding & Fixing Errors
 Overview
 --------
 ### Objectives — _Students will be able to…_
-  - **Find** errors in their returned homework assignments.
-  - **Correct** their code
+- **Find** errors in their returned homework assignments.
+- **Correct** their code
 
 ### Assessments — _Students will…_
-  - **Re-submit** all homework assignments with corrected answers.
+- **Re-submit** all homework assignments with corrected answers.
 
 ### Homework — _Students will…_
-  - **Study** for the test by:
-    - **Reviewing** all the blue pages at the end of Chapter 2
-    - **Re-reading** sections as needed
-  - **Submit** 5 questions for review in class tomorrow using electronic survey
+- **Study** for the test by:
+  - **Reviewing** all the blue pages at the end of Chapter 2
+  - **Re-reading** sections as needed
+- **Submit** 5 questions for review in class tomorrow using electronic survey
 
 
 Materials & Prep

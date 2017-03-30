@@ -4,22 +4,22 @@ Lesson 1.05 — Static Methods & Method Calls (1/2)
 Overview
 --------
 ### Objectives — _Students will be able to…_
-  - **Use** procedural decomposition to plan complex programs using structure diagrams.
-  - **Manage** complexity by using method calls
+- **Use** procedural decomposition to plan complex programs using structure diagrams.
+- **Manage** complexity by using method calls
 
 ### Assessments — _Students will…_
-  - **Complete** Practice-It problems
+- **Complete** Practice-It problems
 
 ### Homework — _Students will…_
-  - **Read** HW 1.5
-  - **Complete** Ch.1 Exercises 11, 12, 14, 16
+- **Read** HW 1.5
+- **Complete** Ch.1 Exercises 11, 12, 14, 16
 
 
 Materials & Prep
 ----------------
-  - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
-  - **Whiteboard and marker**
-  - **Overly complicated diagram** (<http://tinyurl.com/y8a7cry>)
+- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- **Whiteboard and marker**
+- **Overly complicated diagram** (<http://tinyurl.com/y8a7cry>)
 
 
 Pacing Guide

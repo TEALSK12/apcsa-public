@@ -4,21 +4,21 @@ Lesson 1.09 — Review
 Overview
 --------
 ### Objectives — _Students will be able to…_
-  - **Identify** weaknesses in their Unit 1 knowledge.
+- **Identify** weaknesses in their Unit 1 knowledge.
 
 ### Assessments — _Students will…_
-  - **Create** a personalized list of review topics to guide tonight's study session.
+- **Create** a personalized list of review topics to guide tonight's study session.
 
 ### Homework — _Students will…_
-  - **Study** for tomorrow's test!
+- **Study** for tomorrow's test!
 
 
 Materials & Prep
 ----------------
-  - **Projector and computer**
-  - **Whiteboard and marker**
-  - **Results** from electronic survey of review topics
-  - **Classroom copies** of the practice test (WS 1.9)
+- **Projector and computer**
+- **Whiteboard and marker**
+- **Results** from electronic survey of review topics
+- **Classroom copies** of the practice test (WS 1.9)
 
 Once students have submitted their review requests, assemble those topics into categories and
 prepare to re-teach the topics as needed.

@@ -4,14 +4,14 @@ Lesson 2.02 — Declaring & Assigning Variables
 Overview
 --------
 ### Objectives — _Students will be able to…_
-  - **Identify, declare, and assign** variables.
+- **Identify, declare, and assign** variables.
 
 ### Assessments — _Students will…_
-  - **Write** a program that converts temperature from Fahrenheit to Celsius.
+- **Write** a program that converts temperature from Fahrenheit to Celsius.
 
 ### Homework — _Students will…_
-  - **Read** the rest of HW 2.2
-  - **Complete** self-check questions 5, 6, 9, 12-15 (4<sup>th</sup> edition: 6, 7, 10, 14-17)
+- **Read** the rest of HW 2.2
+- **Complete** self-check questions 5, 6, 9, 12-15 (4<sup>th</sup> edition: 6, 7, 10, 14-17)
 
 
 Materials & Prep

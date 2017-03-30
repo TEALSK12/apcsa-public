@@ -4,15 +4,15 @@ Lesson 2.06 — nested for Loops
 Overview
 --------
 ### Objectives — _Students will be able to…_
-  - **Trace** nested loops to predict program behavior.
-  - **Construct** loops to execute simple tasks.
+- **Trace** nested loops to predict program behavior.
+- **Construct** loops to execute simple tasks.
 
 ### Assessments — _Students will…_
-  - **Trace and construct** nested loops in Practice-It problems.
+- **Trace and construct** nested loops in Practice-It problems.
 
 ### Homework — _Students will…_
-  - **Read** HW 2.4 “Scope” and “Pseudocode”
-  - **Complete** self-check questions 26, 27 (4<sup>th</sup> edition 29, 30) and exercise 4
+- **Read** HW 2.4 “Scope” and “Pseudocode”
+- **Complete** self-check questions 26, 27 (4<sup>th</sup> edition 29, 30) and exercise 4
 
 
 Materials & Prep

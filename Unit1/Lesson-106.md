@@ -4,24 +4,24 @@ Lesson 1.06 — Static Methods & Method Calls (2/2)
 Overview
 --------
 ### Objectives — _Students will be able to…_
-  - **Use** structure diagrams to plan complex programs.
-  - **Manage** complexity by using method calls.
+- **Use** structure diagrams to plan complex programs.
+- **Manage** complexity by using method calls.
 
 ### Assessments — _Students will…_
-  - **Complete** Practice-It problems
-  - **Write** a structured Pikachu program
+- **Complete** Practice-It problems
+- **Write** a structured Pikachu program
 
 ### Homework — _Students will…_
-  - **Outline** Ch.1
-  - **Complete** Programming Project \#1\* & \#3 (must include a structure diagram for each)
+- **Outline** Ch.1
+- **Complete** Programming Project \#1\* & \#3 (must include a structure diagram for each)
 
 
 Materials & Prep
 ----------------
-  - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
-  - **Whiteboard and** **markers**
-  - **Rosters** for class teams
-  - **Ball** (preferably a large inflatable ball or kickball)
+- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- **Whiteboard and** **markers**
+- **Rosters** for class teams
+- **Ball** (preferably a large inflatable ball or kickball)
 
 The teams for today's competition should be your best guess at tiered grouping (these groups will
 probably change as the year goes on and you learn more about your students). Depending on the size

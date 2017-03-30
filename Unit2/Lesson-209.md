@@ -4,19 +4,19 @@ Lesson 2.09 — Programming Project
 Overview
 --------
 ### Objectives — _Students will be able to…_
-  - **Plan and construct** a structured program containing nested loops.
+- **Plan and construct** a structured program containing nested loops.
 
 ### Assessments — _Students will…_
-  - **Submit** a complete, functional program by the end of class.
+- **Submit** a complete, functional program by the end of class.
 
 ### Homework — _Students will…_
-  - **Complete** practice questions with class constants
+- **Complete** practice questions with class constants
 
 
 Materials & Prep
 ----------------
-  - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
-  - **Student self-help system** (such as C2B4 or student pairing)
+- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- **Student self-help system** (such as C2B4 or student pairing)
 
 Today is day 2 of the programming project; be sure to remind students that they only have the first
 30 minutes of class to finish and submit their program. Be prepared to review the correct code and

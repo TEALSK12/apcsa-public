@@ -5,28 +5,28 @@ _N.B. THIS LESSON IS OPTIONAL_
 Overview
 --------
 ### Objectives — _Students will be able to…_
-  - **Describe** one or more careers related to computer science and technology.
-  - **Ask** intelligent questions about the field of computer science.
-  - **Identify** 'next steps' to learn more about computer science
-  - **List** the class expectations and what is required of them.
+- **Describe** one or more careers related to computer science and technology.
+- **Ask** intelligent questions about the field of computer science.
+- **Identify** 'next steps' to learn more about computer science
+- **List** the class expectations and what is required of them.
 
 ### Assessments — _Students will…_
-  - **Demonstrate** Plug-In and Un-Plug procedures
-  - **Log in and submit** a sample problem in Practice-It
+- **Demonstrate** Plug-In and Un-Plug procedures
+- **Log in and submit** a sample problem in Practice-It
 
 ### Homework — _Students will…_
-  - **Visit** http://www.pokemon.com and play a few games or **play** Pokémon on a
-    gaming system
-  - **Visit** http://bulbapedia.bulbagarden.net to familiarize yourself with the Pokémon franchise
+- **Visit** http://www.pokemon.com and play a few games or **play** Pokémon on a
+  gaming system
+- **Visit** http://bulbapedia.bulbagarden.net to familiarize yourself with the Pokémon franchise
 
 
 Materials & Prep
 ----------------
-  - **Projector and computer**
-  - **Student Computers** with Eclipse installed
-  - **Classroom copies** of WS 1.1.2
-  - **USB Drives** for each student (if applicable to school)
-  - **Handout/Slide Deck** demonstrating file submission procedure
+- **Projector and computer**
+- **Student Computers** with Eclipse installed
+- **Classroom copies** of WS 1.1.2
+- **USB Drives** for each student (if applicable to school)
+- **Handout/Slide Deck** demonstrating file submission procedure
 
 If your school does not have a designated IT specialist available to install Eclipse on the
 classroom computers, **WS 1.1.1** offers step-by-step installation directions, with screenshots.
@@ -42,19 +42,18 @@ Since all instructors have different preferences and requirements for file uploa
 have not included a procedure for file submission. You should prepare a handout or slide deck
 **demonstrating your procedure for submitting work**, and have students send you a sample file to
 assess understanding of your procedure. 10 minutes of this lesson have been reserved for you to
-teach these procedures.*
+teach these procedures.
 
 
 Pacing Guide
 ------------
-
-| Section                                                     | Total<br>Time |
-|-------------------------------------------------------------|--------------:|
-| Bell-work and attendance                                    |      5min     |
-| Classroom Introduction<br>_Icebreakers & Background_        |     20min     |
-| Plug-In & Un-Plug Procedure<br>_Demonstration and practice_ |     10min     |
-| Practice-It<br>_Account setup and login practice_           |     10min     |
-| File Submission Procedure<br>_Demonstration and practice_   |     10min     |
+| Section                                                     | Total Time |
+|-------------------------------------------------------------|-----------:|
+| Bell-work and attendance                                    |       5min |
+| Classroom Introduction<br>_Icebreakers & Background_        |      20min |
+| Plug-In & Un-Plug Procedure<br>_Demonstration and practice_ |      10min |
+| Practice-It<br>_Account setup and login practice_           |      10min |
+| File Submission Procedure<br>_Demonstration and practice_   |      10min |
 
 
 Procedure
@@ -110,9 +109,9 @@ If you have extra time in class, introduce a “Scavenger Hunt” on Practice-It
    procedure.
 2. Have students send a sample file to assess understanding of the procedure.
 
+
 Accommodation and Differentiation
 ---------------------------------
-
 Allow students to work in pairs if they are having trouble understanding the directions. Encourage
 pairs to model the correct procedure for each other. Student helpers should point to areas on the
 screen rather than typing or using the mouse to complete the action.

@@ -4,17 +4,17 @@ Lesson 2.01 — Basic Data Concepts
 Overview
 --------
 ### Objectives — _Students will be able to…_
-  - **Identify and categorize** data types
-  - **Identify** operators and operands.
-  - **Correctly apply** rules of precedence
+- **Identify and categorize** data types
+- **Identify** operators and operands.
+- **Correctly apply** rules of precedence
 
 ### Assessments — _Students will…_
-  - **Write** code that yields a given answer, using rules of precedence
-  - **Create** expressions and predict output using operator/operand expression sets
+- **Write** code that yields a given answer, using rules of precedence
+- **Create** expressions and predict output using operator/operand expression sets
 
 ### Homework — _Students will…_
-  - **Complete** self-check questions 1-3 (4<sup>th</sup> edition: 1, 3, 4)
-  - **Read** HW 2.2 up to “String Concatenation”
+- **Complete** self-check questions 1-3 (4<sup>th</sup> edition: 1, 3, 4)
+- **Read** HW 2.2 up to “String Concatenation”
 
 
 Materials & Prep

@@ -4,15 +4,15 @@ Lesson 2.05 — for Loops
 Overview
 --------
 ### Objectives — _Students will be able to…_
-  - **Trace** loops to predict program behavior.
-  - **Construct** loops to execute simple tasks.
+- **Trace** loops to predict program behavior.
+- **Construct** loops to execute simple tasks.
 
 ### Assessments — _Students will…_
-  - **Trace and construct** loops in Practice-It problems
+- **Trace and construct** loops in Practice-It problems
 
 ### Homework — _Students will…_
-  - **Read** HW 2.3 “Nested for Loops”
-  - **Complete** self-check questions 19-21 (4<sup>th</sup> edition: 22-24)
+- **Read** HW 2.3 “Nested for Loops”
+- **Complete** self-check questions 19-21 (4<sup>th</sup> edition: 22-24)
 
 
 Materials & Prep

@@ -4,15 +4,15 @@ Lesson 1.07 — Programming Project
 Overview
 --------
 ### Objectives — _Students will be able to…_
-  - **Construct** a program containing method calls and static methods.
+- **Construct** a program containing method calls and static methods.
 
 ### Assessments — _Students will…_
-  - **Submit** a complete, functional program by the end of class
+- **Submit** a complete, functional program by the end of class
 
 ### Homework — _Students will…_
-  - **Check** class notes for completion, adding daily summaries if needed.
-    - Students may use the book to supplement their notes if needed.
-    - **All students must turn in notes for each day of class** (even if they were absent).
+- **Check** class notes for completion, adding daily summaries if needed.
+  - Students may use the book to supplement their notes if needed.
+  - **All students must turn in notes for each day of class** (even if they were absent).
 
 
 Materials & Prep

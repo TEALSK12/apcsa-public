@@ -4,27 +4,27 @@ Lesson 1.03 — String & Console Output
 Overview
 --------
 ### Objectives — _Students will be able to…_
-  - **Describe** the history of Java and why it is used today.
-  - **Correctly assemble** a complete program with a class header, body, and main method.
-  - **Correctly use** print, println, and escape sequences.
+- **Describe** the history of Java and why it is used today.
+- **Correctly assemble** a complete program with a class header, body, and main method.
+- **Correctly use** print, println, and escape sequences.
 
 ### Assessments — _Students will…_
-  - **Create** starter Pokémon program
-  - **Complete** several Practice-It questions
+- **Create** starter Pokémon program
+- **Complete** several Practice-It questions
 
 ### Homework — _Students will…_
-  - **Read** HW 1.3
-  - **Complete** Ch.1 exercises 1-5
+- **Read** HW 1.3
+- **Complete** Ch.1 exercises 1-5
 
 
 Materials & Prep
 ----------------
-  - **Projector and computer**
-  - **Whiteboard and marker**
-  - **ASCII Pokémon art**
-    - Pokéball: http://tinyurl.com/pba5x8r
-    - Pikachu: http://tinyurl.com/oa3g2al
-  - **Practice-It bookmarks** (installed on student computers, if possible)
+- **Projector and computer**
+- **Whiteboard and marker**
+- **ASCII Pokémon art**
+  - Pokéball: http://tinyurl.com/pba5x8r
+  - Pikachu: http://tinyurl.com/oa3g2al
+- **Practice-It bookmarks** (installed on student computers, if possible)
 
 If you do not have a projector in your classroom, print out pictures of the ASCII art, and place
 them around the room (or on desks) for students to pass around. Make sure you print pictures out
