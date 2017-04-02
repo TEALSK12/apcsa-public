@@ -91,7 +91,7 @@ construct the diagram:
   }
 
   public interface Aromatic {
-      String describeAroma();       // Notice the lack of “public”! Public is *assumed*.
+      String describeAroma();       // Notice the lack of "public"! Public is *assumed*.
   }
 
   public interface Greasy {         // Point out that interfaces look just like classes

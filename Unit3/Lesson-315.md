@@ -45,11 +45,11 @@ On the board, on the projector, or in a group handout, let students know that th
 5 minute lesson and a 2- 5 minute class activity to teach their topic. Use the grading rubric as
 outlined here:
 
-| 3 pts. | 2 pts. | 1 pts. | 0 pts. |
-|--------|--------|--------|--------|
-| Presentation includes definitions and an example with proper syntax.                | Presentation includes definitions or an example with proper syntax.                | Presentation includes definitions or an example with proper syntax with one mistake.             | Presentation includes definitions or an example with proper syntax with many mistakes.                   |
-| Presentation includes a non-example as helpful contrast.                            | Presentation includes a non-example that is marginally helpful.                    | Presentation includes a non-example that does not add to comprehension.                          | Presentation includes a non-example that adds confusion, or presentation does not include a non-example. |
-| Presentation includes a helpful tip that is clearly explained and concisely stated. | Presentation includes a helpful tip that is clearly explained or concisely stated. | Presentation includes a helpful tip that is not clearly explained and may include a small error. | Presentation does not include a helpful tip or hint.                                                     |
+| 3 pts. | 2 pts. | 1 pts. | 0 pts.
+|--------|--------|--------|-------
+| Presentation includes definitions and an example with proper syntax. | Presentation includes definitions or an example with proper syntax. | Presentation includes definitions or an example with proper syntax with one mistake. | Presentation includes definitions or an example with proper syntax with many mistakes.
+| Presentation includes a non-example as helpful contrast. | Presentation includes a non-example that is marginally helpful. | Presentation includes a non-example that does not add to comprehension. | Presentation includes a non-example that adds confusion, or presentation does not include a non-example.
+| Presentation includes a helpful tip that is clearly explained and concisely stated. | Presentation includes a helpful tip that is clearly explained or concisely stated. | Presentation includes a helpful tip that is not clearly explained and may include a small error. | Presentation does not include a helpful tip or hint.
 
 ### Mini-Lesson Planning & Prep \[15 minutes\]
 
@@ -115,4 +115,5 @@ up in the past, with their answers, are listed below:
 3. When do we know to reverse the order of loop construction? The example from the book has us
   switching around a lot of stuff for the sentinel loop with if statements.
 
-  _Put an example up on the board (or have the student instructors do so), and trace the flow of control before and after rearranging the loop body._
+  _Put an example up on the board (or have the student instructors do so), and trace the flow of
+  control before and after rearranging the loop body._

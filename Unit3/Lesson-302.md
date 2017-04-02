@@ -64,7 +64,8 @@ parameters**:
     pass information to you (the method). Have the class direct your other student what output to
     write on the board. Ask students what variable x is throughout the example to drive home the
     idea that parameters don’t change value when the method changes a local value.
-    ```
+
+    ``` Java
     public class ParameterExample {
         public static void main (String[] args) {
             int x = 17;
@@ -86,7 +87,8 @@ parameters**:
   - It is possible to declare multiple parameters! The trick is to always make sure your method
     accepts the parameters in the same order. When calling the method, pass the parameters in the
     same order in which they were declared.
-    ```
+
+    ``` Java
     public static <type> <name> (<type> <name>, <type> <name> … <type> <name>) {
         <statement>;
         <statement>;

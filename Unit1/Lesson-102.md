@@ -4,24 +4,24 @@
 Overview
 --------
 ### Objectives — _Students will be able to…_
-  - **Define** algorithms, programs, hardware, software, and operating systems.
-  - **Describe** the relationships between these concepts and components.
+- **Define** algorithms, programs, hardware, software, and operating systems.
+- **Describe** the relationships between these concepts and components.
 
 ### Assessments — _Students will…_
-  - **Write** sample algorithms
-  - **Assemble and debug** a program that directs the instructor to make a sandwich
+- **Write** sample algorithms
+- **Assemble and debug** a program that directs the instructor to make a sandwich
 
 ### Homework — _Students will…_
-  - **Read** HW 1.2
+- **Read** HW 1.2
 
 
 Materials & Prep
 ----------------
-  - **Projector and computer OR whiteboard and marker**
-  - **Food items** for peanut butter and jelly sandwich
-  - **Utensils** for sandwich assembly (spoon for jelly, knife for spreading)
-  - **Classroom copies** of HW 1.2
-  - **Wet wipes or water** to clean hands
+- **Projector and computer OR whiteboard and marker**
+- **Food items** for peanut butter and jelly sandwich
+- **Utensils** for sandwich assembly (spoon for jelly, knife for spreading)
+- **Classroom copies** of HW 1.2
+- **Wet wipes or water** to clean hands
 
 
 Pacing Guide
@@ -49,9 +49,9 @@ CS. As a hook, you should leave all of the food prep materials conspicuously lai
 of the classroom, without any explanation.
 
 1. You should begin your lesson with an informal, whole-group conversation about humans being the
-first “computers.” This is a great opportunity to use history, women’s accomplishments in CS, and
-humor to offer up and drill vocabulary without onerous repetition. Some suggestions for your opening
-discussion:
+  first “computers.” This is a great opportunity to use history, women’s accomplishments in CS, and
+  humor to offer up and drill vocabulary without onerous repetition. Some suggestions for your
+  opening discussion:
 
   - Computer was originally a job description, and was first used in 1613 to describe someone who
     performs mathematical calculations.
@@ -72,14 +72,13 @@ discussion:
     a word with silent letters, error/output: the misspelled word)
 
 2. Introduce the definition of an **algorithm**, and invite the students to write an algorithm for
-you, the computer, to make a peanut butter and jelly sandwich.
+  you, the computer, to make a peanut butter and jelly sandwich.
 
   - An algorithm may be defined as “a process or set of rules to be followed in calculations or
     other problem-solving operations”
 
 
 ### Explaining Activity and Assigning Pairs (2 minutes)
-
 Give student pairs 5 minutes to write a peanut-butter-and-jelly algorithm. Specify that they should
 write a **complete set of directions** to describe the process of making the sandwich.
 
@@ -88,18 +87,18 @@ write a **complete set of directions** to describe the process of making the san
 1. Ask for a student volunteer to come to the front of the classroom to “be Java.”
 
 2. Randomly choose a student’s algorithm for your first try, and narrate as “Java” picks up the
-“program” to read to you (the computer). Point out that when Java reads code, its compiler
-translates the code you type in so the computer can read it in binary. Bonus points if you can get
-the volunteer to read directions in a robotic voice.
+  “program” to read to you (the computer). Point out that when Java reads code, its compiler
+  translates the code you type in so the computer can read it in binary. Bonus points if you can get
+  the volunteer to read directions in a robotic voice.
 
 3. Ask your student volunteer reads the directions aloud, following instructions literally. Repeat
-the instruction out loud as you model the action. Usually students forget to tell you to open the
-bag of bread, etc. Ham up the errors, and stop “executing the program” when it becomes clear that
-the algorithm won’t result in a functional PB&J. Point out that this is an error or exception—your
-program does the same thing when it gets instructions that don’t make sense.
+  the instruction out loud as you model the action. Usually students forget to tell you to open the
+  bag of bread, etc. Ham up the errors, and stop “executing the program” when it becomes clear that
+  the algorithm won’t result in a functional PB&J. Point out that this is an error or exception—your
+  program does the same thing when it gets instructions that don’t make sense.
 
 4. Repeat this with 1 or 2 other algorithms, then graciously agree to let the class try again. Make
-sure to use the phrase “debugging” and have the students use it as well.
+  sure to use the phrase “debugging” and have the students use it as well.
 
 ### Activity Round 2 (10–15 minutes)
 
@@ -118,12 +117,10 @@ sure to use the phrase “debugging” and have the students use it as well.
 2. Give students with successful algorithms the various PB&Js (failed and otherwise).
 
 ### Homework Distribution and Exit Tickets (2 minutes)
-
 Distribute homework and have students complete exit tickets.
 
 Accommodation and Differentiation
 ---------------------------------
-
 Before delivering this lesson, you should check with the classroom teacher to make sure none of the
 students have a peanut allergy. If a student does have an allergy, find out how severe the allergy
 is (you can opt to make this student a jelly sandwich, but if the allergy is severe, you should

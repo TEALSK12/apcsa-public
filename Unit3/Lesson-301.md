@@ -84,21 +84,24 @@ our programs if we don’t make them adaptable.
   programming example from the book:
 
   - In the last chapter, we inserted spaces into a drawing by calling a method:
-    ```
+
+    ``` Java
     writeSpaces();
     ```
 
   - If we wanted to tell method writeSpaces to output 10 spaces, we might decide to declare a
     variable:
-    ```
-    int number = 10;  // Can anyone explain why this won’t work?
+
+    ``` Java
+    int number = 10;  // Can anyone explain why this won't work?
     writeSpaces();
     ```
-    → This won't work because `number`'s scope is outside the `writeSpaces` method.
+    → This won’t work because `number`’s scope is outside the `writeSpaces` method.
 
   - Instead we parameterize the number of spaces by changing the method header as highlighted below
     (this used to be empty parentheses, remember?)
-    ```
+
+    ``` Java
     public static void writeSpaces (int number) {
         for (int i = 1; i <= number; i++) {
             System.out.print(" ");
@@ -107,7 +110,8 @@ our programs if we don’t make them adaptable.
     ```
 
   - Now when we call the method, we can (and must!) include the parameterized value:
-    ```
+
+    ``` Java
     writeSpaces(10);
     writeSpaces();          // ERROR: No parameter specified
     writeSpaces(24901);

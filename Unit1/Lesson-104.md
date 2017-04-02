@@ -30,7 +30,7 @@ Materials & Prep
 
 If you are able to laminate student work, or have plastic sleeves available for students that have
 binders, it would be a good idea to reinforce/preserve student error-correction algorithms (see
-today's Activity). Students should be referring to these sheets often in the first few months of the
+today’s Activity). Students should be referring to these sheets often in the first few months of the
 course, so they will get a lot of wear & tear.
 
 
@@ -48,7 +48,7 @@ Pacing Guide
 
 Procedure
 ---------
-Today's lesson will be a combination of drilling the parts of a basic program, and conditioning
+Today’s lesson will be a combination of drilling the parts of a basic program, and conditioning
 students to check for common errors. To hook your class, have pictures of punch cards and punch card
 readers up when students enter. If possible, have physical punch cards available to pass around the
 room for tactile learners as you explain the origins of the phrase “bug” and “debugging.”
@@ -67,27 +67,27 @@ Begin with a lecture about the history of computing with punch cards and the ori
 - Punch cards were originally designed for use in a mechanical loom invented in 1801 (show pictures
   of loom & tapestry design).
 
-- When something wasn't working in the physical punch cards that coded the program, users would look
+- When something wasn’t working in the physical punch cards that coded the program, users would look
   for actual bugs in the system (show bug picture).
 
 - Nowadays, since all of our code is digitally stored as 0s and 1s, a “**bug**” means we wrote the
-  code incorrectly. Today we're going to create checklists of things to look for in our code to make
+  code incorrectly. Today we’re going to create checklists of things to look for in our code to make
   sure its working correctly—or “debugging” our code.
 
-- **Syntax errors** — when you don't follow the ordering rules of writing Java code, when you
+- **Syntax errors** — when you don’t follow the ordering rules of writing Java code, when you
   misspell something, or leave out punctuation.
 
-  - Analogy: in English, we say “the black bear.” In Spanish, you'd say “el oso negro,” and in
-    Italian “l'orso nero,” both translate to “the bear black.” There are different rules for how you
+  - Analogy: in English, we say “the black bear.” In Spanish, you’d say “el oso negro,” and in
+    Italian “l’orso nero,” both translate to “the bear black.” There are different rules for how you
     order your words in different languages, and Java has its own set of language rules too. If you
-    write the equivalent of “the bear black” in Java, Java won't understand it, and you'll get an
+    write the equivalent of “the bear black” in Java, Java won’t understand it, and you’ll get an
     error message. (Have students give you an example.)
 
   - You can also create confusion by writing/saying “the balck bear” (a misspelling), or “the!
     black, bear?” (incorrect punctuation)
 
-- **Logic errors** — sometimes you might write code that has the right syntax, but doesn't do what
-  you meant for it to do. In this case, the program will run, but you won't get the right output. An
+- **Logic errors** — sometimes you might write code that has the right syntax, but doesn’t do what
+  you meant for it to do. In this case, the program will run, but you won’t get the right output. An
   example of this would be if you wrote a print statement instead of a println.
 
 - **Runtime errors** — these errors can happen if you give Java a code that has no solution, or
@@ -134,7 +134,7 @@ Begin with a lecture about the history of computing with punch cards and the ori
 ### Worksheet \[20 minutes\]
 
 1. For 5 minutes go over documentation and proper commenting. Also go over identifiers, camelCase,
-   and do a short introduction to style. Style will be covered in 1.08, but it's important that
+   and do a short introduction to style. Style will be covered in 1.08, but it’s important that
      they are introduced to it here.
 
 2. Students have 15 minutes to complete WS 1.4. As they solve each problem, students should apply
@@ -142,7 +142,7 @@ Begin with a lecture about the history of computing with punch cards and the ori
 
 ### Students trade work, check, and turn in \[5 minutes\]
 
-At the end of class, have students trade their worksheets to check each other's answers before
+At the end of class, have students trade their worksheets to check each other’s answers before
 turning in the worksheet.
 
 

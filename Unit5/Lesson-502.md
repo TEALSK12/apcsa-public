@@ -65,7 +65,7 @@ class, for example Pikachu, Bulbasaur.)
 
   - Your example should look something like this:
 
-    ```
+    ``` Java
     public class Pokemon {
         private int hp;       // Pokémon stats include hit points, or "HP"
         private int attack;
@@ -74,7 +74,7 @@ class, for example Pikachu, Bulbasaur.)
   - Students will probably start volunteering additional examples once they realize that stats make
     for good fields. Some other fields include:
 
-    ```
+    ``` Java
         private int defense;
         private int specialAttack;
         private int specialDefense;
@@ -98,7 +98,7 @@ class, for example Pikachu, Bulbasaur.)
     their choices in fields and explain why they would include some data and not others. At every
     opportunity, repeat the fact that they are **using data to model the real world**:
 
-    ```
+    ``` Java
     public class Student {
         private String name;
         private int    gradeLevel;
@@ -129,7 +129,7 @@ class, for example Pikachu, Bulbasaur.)
   - Pokémon get an effort ribbon if their combined stats exceed a certain value. What would the
     method sumStats look like?
 
-    ```
+    ``` Java
     public int sumStats() {
         return HP + attack + defense + specialAttack + specialDefense + speed;
     }
@@ -157,7 +157,7 @@ class, for example Pikachu, Bulbasaur.)
   - In keeping with our earlier example, a method to update stats with vitamins would look something
     like this:
 
-    ```
+    ``` Java
     public void consumeVitamin (int hpUp, int protein) {
         hp += hpUp;
         attack += protein;
@@ -168,7 +168,7 @@ class, for example Pikachu, Bulbasaur.)
 5. Ask students if they can deduce the syntax rules for instance methods based on the two methods
   we’ve written so far:
 
-  ```
+  ``` Java
   public <type> <name> (<type <name>, <type> <name> …) {
       <statement>
       <statement>
@@ -184,7 +184,7 @@ class, for example Pikachu, Bulbasaur.)
 
   - Have students point out to you the class, fields, and constructor:
 
-    ```
+    ``` Java
     public class Pokemon {
         int hp;
         int attack;
@@ -199,7 +199,7 @@ class, for example Pikachu, Bulbasaur.)
 7. Now that you used the constructor, it’s very easy to create objects! What would an instance of
   the class Pokémon be? (Any Pokémon type; Pikachu, Bulbasaur, Squirtle, etc.)
 
-  ```
+  ``` Java
   Pokemon pikachu = new Pokemon(70, 120);
   ```
 

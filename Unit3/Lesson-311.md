@@ -63,18 +63,22 @@ Give students 5 minutes to complete the challenge, and take note of which team f
     or code. Encourage students to take notes during this process so they can review topics outside
     of class.
 
+----------------------------------------------------------------------------------------------------
+
 #### COMPETITION QUESTION 1
 _Factor out redundant code from the following example by moving it out of the if/else statement,
 preserving the same output._
 
-    if (x < 30) {
-        a = 2;
-        x++;
-        System.out.println("Spongebob Squarepants! " + x);
-    } else {
-        a = 2;
-        System.out.println("Spongebob Squarepants! " + x);
-    }
+``` Java
+if (x < 30) {
+    a = 2;
+    x++;
+    System.out.println("Spongebob Squarepants! " + x);
+} else {
+    a = 2;
+    System.out.println("Spongebob Squarepants! " + x);
+}
+```
 
 ### Competition Question 2 \[15 minutes\]
 Once you’ve completed this exercise, offer up the second challenge question, as before. This
@@ -84,24 +88,28 @@ question may take up to 10 minutes for students to complete.
 _Rewrite the poorly-structured code given here, so it avoids redundancy. For the case of this
 competition, you can assume that the user always inputs 1 or 2._
 
-    int sum = 1000;
-    Scanner console = new Scanner(System.in);
-    System.out.print("Is your money multiplied 1 or 2 times? ");
-    int times = console.nextInt();
-    if (times == 1) {
-        System.out.print("And how much are you contributing? ");
-        int donation = console.nextInt();
-        sum = sum + donation;
-        count1++;
-        total = total + donation;
-    }
-    if (times == 2) {
-        System.out.print("And how much are you contributing? ");
-        int donation = console.nextInt();
-        sum = sum + 2 * donation;
-        count2++;
-        total = total + donation;
-    }
+``` Java
+int sum = 1000;
+Scanner console = new Scanner(System.in);
+System.out.print("Is your money multiplied 1 or 2 times? ");
+int times = console.nextInt();
+if (times == 1) {
+    System.out.print("And how much are you contributing? ");
+    int donation = console.nextInt();
+    sum = sum + donation;
+    count1++;
+    total = total + donation;
+}
+if (times == 2) {
+    System.out.print("And how much are you contributing? ");
+    int donation = console.nextInt();
+    sum = sum + 2 * donation;
+    count2++;
+    total = total + donation;
+}
+```
+
+----------------------------------------------------------------------------------------------------
 
 ### Students Begin Outlining Chapter 4 \[15 minutes\]
 Once you have completed the competition and review, have students begin outlining Chapter 4.

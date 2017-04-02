@@ -51,7 +51,8 @@ this project is a good one to start with (a ‘loop’ badge, perhaps?).
 2. Review the concept of “**control structure**,” and have students explain to you that the loop
   controls the statements in the loop body. Ask students to walk you through the example on the board,
   narrating what Java is doing as you advance your hand along the loop:
-  ```
+
+  ``` Java
   for (int i = 1; i <= 3; i++) {
       System.out.println("Calacas y calaveras!");
   }
@@ -77,10 +78,11 @@ structures is that they can control other control structures!
   - (Engagement option: if your class is familiar with Xzibit/Pimp my Ride, this is a great
     opportunity for a yo-dawg meme, but at this point, this is probably only a reference that
     college-age and above will get.)
-    ```
+
+    ``` Java
     for (int i = 0; i < 3; i++) {
         for (int j = 1; j <= 3; j++) {
-            System.out.println(“Calacas y calaveras!”);
+            System.out.println("Calacas y calaveras!");
         }
     }
     ```
@@ -93,7 +95,8 @@ structures is that they can control other control structures!
 
   - Ask students how many lines Java will output (9), and walk through the loop showing flow of
     control and directing a student to produce the output.
-    ```
+
+    ``` Java
     public class Count1000 {
         public static void main (String[] args) {
             for (int i = 1; i < 1000; i++) {
@@ -153,17 +156,19 @@ pairs.
 Write a program that outputs the first 1,000 integers in 11 lines of code. You may not use a loop
 that executes more than 10 times.
 
-    public class Count1000 {
-        public static void main (String[] args) {
-            for (int i = 0; i < 10; i++) {
-                for (int j = 0; j < 10; j++) {
-                    for (int q = 0; q < 10; q++) {
-                        System.out.println(i);
-                    }
+``` Java
+public class Count1000 {
+    public static void main (String[] args) {
+        for (int i = 0; i < 10; i++) {
+            for (int j = 0; j < 10; j++) {
+                for (int q = 0; q < 10; q++) {
+                    System.out.println(i);
                 }
             }
         }
     }
+}
+```
 
 
 Accommodation and Differentiation

@@ -116,9 +116,9 @@ tomorrow’s class.
 
 1. **Why do we use a for-each loop for counting occurrences, but not for finding values in a list?**
 
-  _Neither one requires you to change the contents of the array! **If we're finding an item in a
-  list and returning its index, then we need to track indexes as we search. That's done naturally
-  with a regular for loop; with a for-each loop, we'd have to manually simulate a for loop to
+  _Neither one requires you to change the contents of the array! **If we’re finding an item in a
+  list and returning its index, then we need to track indexes as we search. That’s done naturally
+  with a regular for loop; with a for-each loop, we’d have to manually simulate a for loop to
   compute the index._
 
 2. **Why is the method “count” initialized to zero?**
@@ -202,11 +202,11 @@ None.
 
 3. Use the grading rubric as outlined here:
 
-  | 3 pts. | 2 pts. | 1 pts. | 0 pts. |
-  |--------|--------|--------|--------|
-  | Presentation includes definitions and an example with proper syntax. | Presentation includes definitions or an example with proper syntax. | Presentation includes definitions or an example with proper syntax with few mistakes. | Presentation includes definitions or an example with proper syntax with many mistakes. |
-  | Presentation includes a non-example as helpful contrast. | Presentation includes a non-example that is marginally helpful. | Presentation includes a non-example that does not add to comprehension. | Presentation includes a non-example that adds confusion, or presentation does not include a non-example. |
-  | Presentation includes a helpful tip that is clearly explained and concisely stated. | Presentation includes a helpful tip that is clearly explained or concisely stated. | Presentation includes a helpful tip that is not clearly explained and may include a small error. | Presentation does not include a helpful tip or hint. |
+  | 3 pts. | 2 pts. | 1 pts. | 0 pts.
+  |--------|--------|--------|-------
+  | Presentation includes definitions and an example with proper syntax. | Presentation includes definitions or an example with proper syntax. | Presentation includes definitions or an example with proper syntax with few mistakes. | Presentation includes definitions or an example with proper syntax with many mistakes.
+  | Presentation includes a non-example as helpful contrast. | Presentation includes a non-example that is marginally helpful. | Presentation includes a non-example that does not add to comprehension. | Presentation includes a non-example that adds confusion, or presentation does not include a non-example.
+  | Presentation includes a helpful tip that is clearly explained and concisely stated. | Presentation includes a helpful tip that is clearly explained or concisely stated. | Presentation includes a helpful tip that is not clearly explained and may include a small error. | Presentation does not include a helpful tip or hint.
 
 4. Administer the student-generated quiz to assess student understanding.
 

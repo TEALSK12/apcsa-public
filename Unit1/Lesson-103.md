@@ -54,7 +54,7 @@ and let them know that they will be creating their own pictures today as well.
 
 ### Introduction to Vocabulary and Syntax \[10 minutes\]
 
-1. Begin your lecture with a quick overview of Java and why we're using it.
+1. Begin your lecture with a quick overview of Java and why we’re using it.
   - Brief history of Java
   - Key characteristics of Java
 
@@ -72,41 +72,43 @@ and let them know that they will be creating their own pictures today as well.
 
   If your students are having trouble generating class headers, guide them through the following
   examples:
-    - `public class MyFile {` → correct!
-    - `Public class MyFile {` → incorrect, public should be lowercase
-    - `public Class MyFile {` → incorrect, class should be lowercase
-    - `public class Myfile {` → correct, but not as easy to read file name
-    - `public class WhateverIWant {` → correct!
-    - `public class ThisWorks2 {` → numbers are OK!
+    - `public class MyFile {` → _correct!_
+    - `Public class MyFile {` → _incorrect, public should be lowercase_
+    - `public Class MyFile {` → _incorrect, class should be lowercase_
+    - `public class Myfile {` → _correct, but not as easy to read file name_
+    - `public class WhateverIWant {` → _correct!_
+    - `public class ThisWorks2 {` → _numbers are OK!_
 
 4. Explain that the “meat” of the program comes from the **methods** (the parts of the program that
    tell Java to execute a particular action or computation)
   - You always need a main method, which starts with a method header:
 
-          public static void main(String\[\] args){
+    ``` Java
+    public static void main(String[] args){
+    ```
 
   - Explicitly point out that:
-    - This is a nonsense list of words for now, but that we'll return to what each part means later
+    - This is a nonsense list of words for now, but that we’ll return to what each part means later
       on
     - Curly brackets “hold the code together”, and so there will always need to be a closed curly
-      bracket at the end of the main method, just like there's a closing curly bracket for the class
+      bracket at the end of the main method, just like there’s a closing curly bracket for the class
 
 5. Ask students to volunteer a short phrase that they would like for their very first program to say
-   (as in `“Hello, World!”`) and use this phrase in your first `println` statement.
+   (as in `"Hello, World!"`) and use this phrase in your first `println` statement.
 
     - Point out that the statement:
       - Always ends in a semicolon
       - Represents 1 complete order/command
       - Tells Java to print the words within the quotation marks, then go to the next line (ln)
 
-    - Have students check the code you've written down on the board. With the class, model how to
+    - Have students check the code you’ve written down on the board. With the class, model how to
       check code by scanning each line, character by character, having students offer the rules for
       class and method headers/body, and statements.
 
     - Erase the “ln” from your print statement, and ask students to guess what Java will do with
-      that code (it won't return after outputting the string).
+      that code (it won’t return after outputting the string).
 
-    - Finally, bring students' attention to **escape sequences**, and add some quotation marks to
+    - Finally, bring students’ attention to **escape sequences**, and add some quotation marks to
       your sample code as an example.
 
 ### Signing Up/Into Practice-It \[10 minutes\]
@@ -140,8 +142,7 @@ Write a program called Welcome that outputs the following:
     z(_(")(")
 
 ### Students Trade Work and Debug (5 minutes)
-
-Have students trade their work and debug each other's programs.
+Have students trade their work and debug each other’s programs.
 
 If Eclipse is available, have students mail you their completed program using the file submission
 procedure of your choice. Otherwise, have students submit a handwritten form AFTER they have traded
@@ -152,14 +153,14 @@ Accommodation and Differentiation
 ---------------------------------
 
 If students are struggling with the Pokemon challenge:
--   Try pairing up students so they can check each other as they work
--   Write the first line of Pikachu code together as a class, modeling the use of escape sequences
+- Try pairing up students so they can check each other as they work
+- Write the first line of Pikachu code together as a class, modeling the use of escape sequences
 
 If you have students who are speeding through this lesson, you should encourage them to:
--   Add additional pictures or text to their Welcome program,
--   Help a student that is struggling with the material,
--   Create a poster for the classroom with steps (an algorithm!) for checking code for errors (many
-    tips can be found in § 1.3).
+- Add additional pictures or text to their Welcome program,
+- Help a student that is struggling with the material,
+- Create a poster for the classroom with steps (an algorithm!) for checking code for errors (many
+  tips can be found in § 1.3).
 
 
 About Pokemon

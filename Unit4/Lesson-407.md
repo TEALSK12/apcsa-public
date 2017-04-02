@@ -91,31 +91,31 @@ tested during the game.
 4. Using Poster 4.7, review some of the methods you can use to manipulate ArrayLists. Add some
   `spongebob` elements to your `ArrayList`:
 
-  ```
-  spongebob.add("Patrick Star");
-  spongebob.add("Squidward Tentacles");
-  spongebob.add("Mr. Krabs");
-  spongebob.add("Pikachu");
-  spongebob.add("Sandy Cheeks");
+  ``` Java
+  spongebob.add ("Patrick Star");
+  spongebob.add ("Squidward Tentacles");
+  spongebob.add ("Mr. Krabs");
+  spongebob.add ("Pikachu");
+  spongebob.add ("Sandy Cheeks");
   ```
 
   - Ask students for suggestions on how to print out this ArrayList, and ask them to predict the
     output:
 
-    ```
-    System.out.prinln("Some of the characters on Spongebob are " + spongebob);
+    ``` Java
+    System.out.println("Some of the characters on Spongebob are " + spongebob);
     ```
 
   - Students will probably notice that Pikachu is not a character in the Spongebob cartoon; ask them
     to refer to Poster 4.7 to suggest some code to remove Pikachu from the list:
 
-    ```
+    ``` Java
     spongebob.remove(3);    // Pikachu is stored at index 3
     ```
 
   - Now ask students to add another character from the show to the middle of the list, at index 3:
 
-    ```
+    ``` Java
     spongebob.add(3, "Plankton");
     ```
 
@@ -141,30 +141,40 @@ tested during the game.
 #### ARRAYLIST METHODS OVERVIEW
 
 ##### To get an element from the `ArrayList` and print it
-    System.out.println(spongebob.get(3));
+``` Java
+System.out.println(spongebob.get(3));
+```
 
 ##### To get the number of elements in the ArrayList and print it
-    System.out.println(spongebob.size());
+``` Java
+System.out.println(spongebob.size());
+```
 
 ##### To add all the elements in the ArrayList
-    int sum = 0;
+``` Java
+int sum = 0;
 
-    for (int = 0; i &lt; spongebob.size(); i++){
-        String s = spongebob.get(i);
-        sum += s.length();
-    }
-    System.out.println(“Total of lengths = “ + sum);
+for (int = 0; i < spongebob.size(); i++) {
+    String s = spongebob.get(i);
+    sum += s.length();
+}
+System.out.println("Total of lengths = " + sum);
+```
 
 Have students justify your code choices, and ask a student (or students) to trace the code and
 narrate the steps for the class.
 
 ##### To replace an array element (no shifting)
-    spongebob.set(3, "Plankton");
+``` Java
+spongebob.set(3, "Plankton");
+```
 
 This would replace Pikachu with Plankton directly, without requiring the shifting of the array.
 
 ##### To clear an array
-    spongebob.clear();
+``` Java
+spongebob.clear();
+```
 
 This removes all elements from the list and leaves null values at each index (it’s an empty array
 now).

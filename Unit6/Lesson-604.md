@@ -74,7 +74,7 @@ allow a little time for debate.
     1. `Lion` is a type of `Animal` so it is okay to assign `simba` to an `Animal`.
 
     2. Since `Lion` overrides some of the methods of `Animal`, when we call those overridden
-      methods, we'll still see the behavior `Lion` defines.
+      methods, we’ll still see the behavior `Lion` defines.
 
     3. When we assign something to an `Animal`, the only requirement is that it is-a-particular
       `Animal`. So we can only access behavior (methods) that the `Animal` class knows about.
@@ -87,7 +87,7 @@ allow a little time for debate.
   The RealCell class is the superclass to the ValueCell, PercentCell and FormulaCell making it easy
   to get returned values as a double:
 
-  ```java
+  ```Java
   RealCell myCell = (any subcell);
   myCell.getDoubleValue();    // Returns the double value to be displayed.
   ```

@@ -79,37 +79,37 @@ students work together with the guidance of WS 5.3.1
   - Ask students if they can think of some situations where they might want to leave out some of the
     fields from the constructor.
 
-    ```
+    ``` Java
     public class Student {
         public String name;
         public int    gradeLevel;
         public double gpa;
 
-        public Student (String n, int gl, double g) {    // It’s a good idea to use a single
+        public Student (String n, int gl, double g) {    // It's a good idea to use a single
             name = n;                                    // letter from the fields you are
             gradeLevel = gl;                             // initializing in the constructor.
             gpa = g;                                     // It keeps things simple!
         }
     ```
 
-    ```
+    ``` Java
     public class Dog {
         public String breed;
         public double weightInKg;
 
         public Dog (String b, double w) {    // Students may ask why we have to create
             breed = b;                       // these additional parameter names. This
-            weightInKg = w;                  // plumbing may feel clumsy, but it’s just
+            weightInKg = w;                  // plumbing may feel clumsy, but it's just
         }                                    // a step we have to accept in Java.
     ```
 
-    ```
+    ``` Java
     public class Forecast {
         public double  windSpeed;
         public String  windDirection;
         public boolean tornadoWarning;
 
-        public Forecast (double ws, String wd) {    // Maybe it doesn’t make sense to have
+        public Forecast (double ws, String wd) {    // Maybe it doesn't make sense to have
             windSpeed = ws;                         // a tornado warning in the forecast.
             windDirection = wd;                     // This is a design choice!
         }

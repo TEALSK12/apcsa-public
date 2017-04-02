@@ -77,7 +77,8 @@ physical space, so make sure that all groups are working along with their array 
   their array by tracing the code and checking for errors.
 
 4. The correct loop for this loop looks like this:
-  ```
+
+  ``` Java
   for (int j = 0; j < metroCardRides.length – 1; j++) {
       metroCardRides[j] = metroCardRides[j + 1];
   }
@@ -102,7 +103,8 @@ physical space, so make sure that all groups are working along with their array 
 
   - Select a group to give you the last step that re-inserts the first element at index 4, and ask
     the class to finish up the complete method, so your final method looks like this:
-    ```
+
+    ``` Java
     public static void firstToLast (int[] metroCardRides) {
         int first = metroCardRides[0];
         for (int j = 0; j < metroCardRides.length – 1; j++) {
@@ -129,7 +131,8 @@ physical space, so make sure that all groups are working along with their array 
   the elements on the whiteboard. All members should be engaged in error checking.
 
 8. The correct final code looks like this:
-  ```
+
+  ``` Java
   public static void firstToLastRight (int[] metroCardRides) {
       int last = metroCardRides[metroCardRides.length – 1];
       for (int j = metroCardRides.length – 1; j >= 1; j++) {

@@ -129,8 +129,8 @@ customized classes that they’ve built themselves.
   - This object digits is a (very simple, and somewhat boring) model of a collection of integers.
     This model contains state (data) and actions (methods):
 
-    ```
-    int[] digits = {1,2,3,4,5,6,7,8,9,10};    // The data is stored in the array.
+    ``` Java
+    int[] digits = {1,2,3,4,5,6,7,8,9,10};          // The data is stored in the array.
 
     System.out.println(Arrays.toString(digits));    // The method dictates actions
                                                     // to be done with the data.
@@ -155,14 +155,14 @@ customized classes that they’ve built themselves.
 
   - By contrast, this is a program that is not an object/model:
 
-      ```
-      while (guess != number) {
-          System.out.println("Incorrect.");
-          System.out.println("Your guess? ");
-          guess = console.nextInt();
-          numGuesses++;
-      }
-      ```
+    ``` Java
+    while (guess != number) {
+        System.out.println("Incorrect.");
+        System.out.println("Your guess? ");
+        guess = console.nextInt();
+        numGuesses++;
+    }
+    ```
 
     Ask students why this isn’t an object/model of something. (This program only contains actions,
     no behavior.)

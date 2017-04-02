@@ -75,10 +75,10 @@ method.
   String a = z + z;
   String b = "zz";
 
-  a == b;    // Evaluates to false because a and b refer to different Strings
+  a == b;         // Evaluates to false because a and b refer to different Strings
 
   String c = b;
-  c == b;    // Evaluates to true because c and b refer to the same String
+  c == b;         // Evaluates to true because c and b refer to the same String
   ```
 
 4. The default *equals* method (that comes with your *Object* superclass) does the same thing as the

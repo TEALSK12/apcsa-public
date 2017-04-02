@@ -7,10 +7,10 @@ Overview
 - **Identify** weaknesses in their Unit 1 knowledge.
 
 ### Assessments — _Students will…_
-- **Create** a personalized list of review topics to guide tonight's study session.
+- **Create** a personalized list of review topics to guide tonight’s study session.
 
 ### Homework — _Students will…_
-- **Study** for tomorrow's test!
+- **Study** for tomorrow’s test!
 
 
 Materials & Prep
@@ -68,13 +68,13 @@ subject matter.
 2. Use a combination of group-solving questions on the whiteboard, think-pair-share, and
   timed-response as review strategies.
 
-3. After you've completed reviewing an idea, remind the class that they should write down that topic
+3. After you’ve completed reviewing an idea, remind the class that they should write down that topic
   if they feel they still have to review it tonight. (Yes, this will be a reminder every few
   minutes, but it will pay off later when students start creating review lists without prompting
   later in the year!)
 
 ### Check student study lists \[5 minutes\]
-Spend the last 5 minutes of class checking each student's review topic list.
+Spend the last 5 minutes of class checking each student’s review topic list.
 
 
 Accommodation and Differentiation
@@ -82,7 +82,7 @@ Accommodation and Differentiation
 In ELL classes, you may want to change code-writing questions to Parsons Problems. Educational
 research shows a high correlation between Parsons scores and code writing scores, and a low
 correlation between code writing and tracing and between Parsons and tracing. (In other words,
-Parsons Problems accurately assess a students' ability to create code.) For more information on
+Parsons Problems accurately assess a students’ ability to create code.) For more information on
 Parsons Problems, check out this paper (<https://cseweb.ucsd.edu/classes/fa08/cse599/denny.pdf>).
 
 Even in a non-ELL class, you may want to change some Section II questions to Parsons problems

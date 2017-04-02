@@ -23,7 +23,7 @@ Materials & Prep
 - **Rosters** for class teams
 - **Ball** (preferably a large inflatable ball or kickball)
 
-The teams for today's competition should be your best guess at tiered grouping (these groups will
+The teams for today’s competition should be your best guess at tiered grouping (these groups will
 probably change as the year goes on and you learn more about your students). Depending on the size
 of your class, you should aim for 4 teams or teams of 4 people.
 
@@ -42,9 +42,9 @@ Pacing Guide
 Procedure
 ---------
 
-Today's class re-teaches the many concepts introduced during yesterday's lesson on decomposition,
+Today’s class re-teaches the many concepts introduced during yesterday’s lesson on decomposition,
 static methods, and methods that call other methods and goes over control flow. Since different
-students will progress at different rates, we'll begin this lesson with an assessment (in the form
+students will progress at different rates, we’ll begin this lesson with an assessment (in the form
 of a competition) to determine how much re-teaching you need to do. The competition is really group
 work in disguise, and will encourage students to teach and help each other while writing the sample
 program.
@@ -109,7 +109,7 @@ with them (bonus: this activity can be built on later in the year when discussin
 1. Write or project the following code as an example (have students help you with the headers if you
   are writing):
 
-    ```
+    ``` Java
     public class SquarePants {
 
         public static void spongebob() {
@@ -134,7 +134,7 @@ with them (bonus: this activity can be built on later in the year when discussin
 
 2. Assign a student to each of the methods: `main`, `spongebob`, `patrick`, and `squidward`, and
   have them come to the front of the classroom. Have another student act as Java; tell them they are
-  to write the output on the board (or type it if you're using a computer/projector system). From
+  to write the output on the board (or type it if you’re using a computer/projector system). From
   here on out you should address students by their component names (so always call student acting as
   method `patrick` as Patrick, and so on).
 
@@ -165,6 +165,7 @@ Pika? Pika pika pika chu peeeee ka chu!
  (o^.^)
 z(_(")(")
 ```
+
 - You can reuse the code that you wrote earlier this week.
 - Your program should use static methods and method calls.
 - You should include a comment at the start of the program that explains what the code does (you
@@ -172,7 +173,7 @@ z(_(")(")
 
 ### Students trade work, check, and turn in \[5 minutes\]
 
-At the end of class, have students review one another's Pikachu challenge codes before submitting.
+At the end of class, have students review one another’s Pikachu challenge codes before submitting.
 
 
 Accommodation and Differentiation

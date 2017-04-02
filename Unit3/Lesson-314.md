@@ -56,25 +56,29 @@ forward).
 
   - Construct a random object (see if anyone can tell you how to do this from their reading last
     night):
-    ```
-    Random r = new Random();     // [??????????? Shouldn't this be `double`? — Steve Hollasch]
+
+    ``` Java
+    Random r = new Random();
     ```
 
   - Call the nextInt method, passing the upper limit of the range of your random number (in the case
     of a 6 sided dice, this would be 6).
-    ```
+
+    ``` Java
     result = r.nextInt(6);     // Gives you a random number between 0 - 5.
     ```
 
   - Does this code accurately simulate a six sided dice? (Have students with the six-sided dice
     answer your question.) To shift that result between 1 and 6, you need to add 1 to your code:
-    ```
+
+    ``` Java
     result = r.nextInt(6) + 1;     // Gives a random number between 1 - 6.
     ```
 
   - Output the result:
-    ```
-    System.out.println(“You rolled a “ + result);
+
+    ``` Java
+    System.out.println("You rolled a " + result);
     ```
 
 2. Give students a few minutes to do a Think-Pair-Share for the following questions:

@@ -75,14 +75,14 @@ tested during the game.
   like this:
 
   ``` Java
-  public static void writeStars(int x) {
+  public static void writeStars (int x) {
       if (x == 0) {
-          // This is the base case: “write 0 stars” needs no additional method.
+          // This is the base case: "write 0 stars" needs no additional method.
           System.out.println();
       } else {
           // This is the recursive case: write one star, then write however many
           // stars are left.
-          System.out.println(“\*”);
+          System.out.println("*");
           writeStars(x – 1);
       }
   }

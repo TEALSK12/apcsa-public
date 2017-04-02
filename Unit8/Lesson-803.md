@@ -198,8 +198,8 @@ Their explanation should describe the recursive case in pseudocode.
 3. Discuss what needed to change between the recursive and iterative calls.
 
 4. Now, ask your class to do the inverse; take an iterative function and turn it into a recursive
-one. Based off your discussion and the previous change between recursion and iteration, this task
-should be easier.
+  one. Based off your discussion and the previous change between recursion and iteration, this task
+  should be easier.
 
 ### Activity 4: Creating Fractals with Recursion \[Optional\]
 

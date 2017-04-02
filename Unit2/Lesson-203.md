@@ -64,8 +64,8 @@ game.
   - When you see a + between strings (look for those quotation marks!), that means that you “add”
     the strings together:
 
-    ```
-    System.out.println(“Spongebob thinks ” + “the best time to wear” + “ a sweater” + “is all the time!”);
+    ``` Java
+    System.out.println("Spongebob thinks " + "the best time to wear" + " a sweater" + "is all the time!");
     ```
 
     Carefully write out (or point out, if using a Powerpoint) the spaces within the Strings. Write
@@ -75,13 +75,13 @@ game.
   - Offer up a second example, asking the students to predict how the expression will evaluate,
     discussing the placement of quotation marks first:
 
-    ```
-    System.out.println(“Here we combine “ + 1 + “ integer” + “with the strings!”);
+    ``` Java
+    System.out.println("Here we combine " + 1 + " integer" + "with the strings!");
     ```
 
   - Give the students a little extra guided practice by walking them through this tricky example:
-    ```
-    42 + “ is the answer to “ + “everything!” + 1 + 1
+    ``` Java
+    42 + " is the answer to " + "everything!" + 1 + 1
     ```
 
     - Stepwise, show students how this evaluates to “42 is the answer to everything!11”
@@ -96,17 +96,15 @@ game.
   - Briefly explain that in Java, the equations below mean “add 7 to the current value of x,”
     “divide the current value of y by 3,” instead of the traditional mathematical use of “equals.”
     Immediately show students how to write the abbreviated versions of these statements:
-    ```
-    x = x + 7; OR x += 7;
-    y = y / 3; OR y /=3;
-    ```
+
+    - `x = x + 7;` OR `x += 7;`
+    - `y = y / 3;` OR `y /=3;`
 
   - Once students have wrapped their heads around this non-algebraic reading (and given you some
     correct examples), explain the special case of incrementing or decrementing by 1:
-    ```
-    x++; OR ++x;
-    x--; OR --x;
-    ```
+
+    - `x++;` OR `++x;`
+    - `x--;` OR `--x;`
 
 ### Grudgeball \[35 minutes\] \[Optional\]
 
@@ -131,6 +129,8 @@ Gudgeball problems & answers have been grouped assuming that you have 6 teams. I
 teams, each “round” will be shifted accordingly, so you may have rounds where different teams are
 practicing different concepts. Judge each team’s knowledge gaps, and adjust which questions you ask
 each group accordingly.
+
+----------------------------------------------------------------------------------------------------
 
 #### GRUDGEBALL PROBLEMS AND ANSWERS
 
@@ -177,7 +177,7 @@ each group accordingly.
 ##### Predict the output:
 
 13)
-```
+``` Java
 int x = 1;
 x += 3;
 System.out.println("The value of x is " + x);
@@ -188,7 +188,7 @@ System.out.println("The value of x is " + x);
   → Output: `31111`
 
 15)
-```
+``` Java
 int y = 2;
 y /= 2;
 System.out.println("1 + " + y + "is how much again?");
@@ -202,17 +202,18 @@ System.out.println("1 + " + y + "is how much again?");
   → Output: `100 – 10flip it 00+1`
 
 18)
-```
+``` Java
 int number = 5;
 number++;
 System.out.println("My new value" + "is the " + "number " + number);
 ```
   → Output: `My new valueis the number 6`
 
+----------------------------------------------------------------------------------------------------
+
 
 Accommodation and Differentiation
 ---------------------------------
-
 If your class is struggling with learning string concatenation and/or incrementing decrementing, the
 best strategy here is to repeat, repeat, repeat. Add more simple problems before you advance to the
 mixed type concatenation, and work through more of the problems as a whole group.

@@ -82,7 +82,7 @@ to convince students of the pace and commitment level required for the class.
 
 2. Have students take 3 minutes to write the DrawBoxes program the long way:
 
-    ```
+    ``` Java
     public class DrawBoxes {
         public static void main (String[] args) {
             System.out.println("+-------+");
@@ -96,7 +96,7 @@ to convince students of the pace and commitment level required for the class.
   **Static method** — a block of Java statements that is given its own name (ask students to point
   to a Java statement)
 
-  - Has the same structure we're familiar with from the main method we already wrote, but we
+  - Has the same structure we’re familiar with from the main method we already wrote, but we
     give it a different name than “main”.
 
 4. Ask students what simple unit we should build into a static method (have them refer to the
@@ -106,7 +106,7 @@ to convince students of the pace and commitment level required for the class.
   static method. Make sure that students insert the println statements between each method call. It
   should look something like this:
 
-  ```
+  ``` Java
   public class DrawBoxes3 {
 
       public static void drawbox() {
@@ -157,7 +157,7 @@ student make that algorithm into a poster for the whole class to refer to.
 
 ### Students trade work, check, and hand in \[5 minutes\]
 
-Have students trade work and check each other's responses on Practice-It before submitting.
+Have students trade work and check each other’s responses on Practice-It before submitting.
 
 
 Accommodation and Differentiation
@@ -165,7 +165,7 @@ Accommodation and Differentiation
 
 In ELL classrooms, this lesson should be delivered over the course of 2 days. Extra time should be
 spent drilling static methods, methods that call other methods, and flow of control. Try adapting
-some of the examples from the book to include students' native language so they can focus on
+some of the examples from the book to include students’ native language so they can focus on
 structuring code instead of translating language. One easy way to introduce familiar, repetitive
 content would be to have students output the lyrics to a song with a refrain. For a physical
 activity to demonstrate flow-of-control, check out lesson plan 1.6.

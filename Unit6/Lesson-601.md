@@ -135,6 +135,7 @@ popular with your class. Invoke an air of mystery and don’t offer an explanati
 
 11. The class header for a subclass that extends the functionality of the parent class looks like
   this:
+
   ``` Java
   public class Mammal extends Animal {
 
@@ -202,7 +203,7 @@ popular with your class. Invoke an air of mystery and don’t offer an explanati
   with a value for `hasSweetener` or `caffeineContent`. (_No_.)
 
 14. `SugarFreeDrink` drinks still have a name, a boolean carbonation value, sugar content, and
-  ounces, but we've added a new fields specifying whether or not the sugar free drinks have caffeine
+  ounces, but we’ve added a new fields specifying whether or not the sugar free drinks have caffeine
   and artificial sweeteners. The constructor then looks like this:
 
   ``` Java

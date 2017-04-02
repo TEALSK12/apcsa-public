@@ -60,42 +60,46 @@ Procedure
 
   - Translate the pseudocode into a loop using the following example: use a for loop with a code for
     adding using keyword sum:
-    ```
+
+    ``` Java
     int sum = 0;
     ```
 
   - We always initialize at 0, because sum needs an initial value to start with.
-    ```
-    for (all numbers to sum) {
-        obtain “next” with Scanner
-        sum += next
-    ```
+
+    _for (all numbers to sum) { <br>
+    &nbsp;&nbsp;&nbsp; obtain “next” with Scanner <br>
+    &nbsp;&nbsp;&nbsp; sum += next_
 
   - This is pseudocode! In real life, we’d begin with building a scanner in the main method. Let’s
     look at some real code here. Since we know we want user input, what is the first thing we do
     before creating our class?
-    ```
+
+    ``` Java
     import java.util.\*;
     ```
 
 3. Now we create our class and main method (have students tell you what to do):
-  ```
+
+  ``` Java
   public class ExamineNumbers1 {
 
-      public static void main (String\[\] args) {
-          System.out.println(“This program adds your numbers.”);
+      public static void main (String[] args) {
+          System.out.println("This program adds your numbers.");
           System.out.println();
   ```
 
 4. Add our Scanner (have students give you the code):
-  ```
+
+  ``` Java
           Scanner scanner = new Scanner(System.in);
-          System.out.print (“How many numbers do you want to add?”);
+          System.out.print ("How many numbers do you want to add?");
           int totalNumber = scanner.nextInt();
   ```
 
 5. And finally our loop with the sum keyword:
-  ```
+
+  ``` Java
           double sum = 0.0;                            // By using totalNumber instead
           for (int j = 1;  j <= totalNumber;  j++) {   // of an actual number, we give
               System.out.print("#" + j + "? ");        // our program flexibility.
@@ -105,13 +109,14 @@ Procedure
   ```
 
   Be sure to briefly discuss the use of `double` _vs._ `int` (where would you have to change code if
-  you wanted int?), the variable `i` _vs._ `j` (you can make it anything as long as you’re
-  consistent), and keywords `next and variable sum.
+  you wanted `int`?), the variable `i` _vs._ `j` (you can make it anything as long as you’re
+  consistent), and variables `next` and `sum`.
 
 6. Finally we have to add the code that returns the sum so that the user can see the result:
-  ```
+
+  ``` Java
           System.out.println ();
-          System.out.println (“Your numbers add to “ + sum);
+          System.out.println ("Your numbers add to " + sum);
       }
   }
   ```
@@ -145,17 +150,17 @@ Procedure
     number of steps, maximum score)
 
 8. In this case we stick with the for loop control structure, but modify it to keep track of whether
-the newest value is larger than (or smaller than) the values the user has input to Java so far:
-  ```
-  // Initialize max to lowest possible value or to first value.
-  for (all numbers to compare) {
-      obtain "next" with scanner
-      if (next > max)           or         if (next < min) {
-          max = next                           min = next
-  ```
+  the newest value is larger than (or smaller than) the values the user has input to Java so far:
+
+  // Initialize max to lowest possible value or to first value.<br>
+  _for (all numbers to compare) {<br>
+  &nbsp; &nbsp; obtain "next" with scanner<br>
+  &nbsp; &nbsp; if (next > max) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; // or:   if (next < min) {<br>
+  &nbsp; &nbsp; &nbsp; &nbsp; max = next &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;//           min = next_
 
   - Let’s build a real program with this:
-    ```
+
+    ``` Java
     int min = value;
     int max = value;
 
@@ -166,6 +171,7 @@ the newest value is larger than (or smaller than) the values the user has input 
         } else if (value < min) {
             min = value;
         }
+    }
     ```
 
 9. Ask students to discuss what this program does. If a more concrete example is needed, work

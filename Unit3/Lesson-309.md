@@ -50,12 +50,14 @@ set up the grudgeball “court” and scoreboard before class begins so as to my
 
 ### Introduction & Note-Taking \[15 minutes\]
 
-1. Before you begin lecture, announce to students that they should pay close attention, since the lecture content will be tested during the game.
+1. Before you begin lecture, announce to students that they should pay close attention, since the
+  lecture content will be tested during the game.
 
   - If you want to write code that executes some of the time, but not all the time, you can write an
     **if statement** (ask students what situations might use an if statement—if they are stuck, ask
     them to think about their last few programming projects!)
-    ```
+
+    ``` Java
     if (test) {         // Boolean Expression
         <statement>;    // Control Statement
         <statement>;    // Control Statement
@@ -66,7 +68,8 @@ set up the grudgeball “court” and scoreboard before class begins so as to my
     control structure.
 
   - Put 2 alternatives together by using an if/else statement:
-    ```
+
+    ``` Java
     if (test) {
         <statement>;
         <statement>;
@@ -77,6 +80,7 @@ set up the grudgeball “court” and scoreboard before class begins so as to my
     ```
 
   - So what should students put in the “test” section to evaluate as true or false?
+
     ```
           3 * 3                ==            3 * 1 * 3
     // <expression>  <relational operator>  <expression>
@@ -148,9 +152,11 @@ appropriate if statement with your logical test.
 
 _Given the variable declarations_
 
-    int x = 4;
-    int y = -3;
-    int z = 4;
+  ``` Java
+  int x =  4;
+  int y = -3;
+  int z =  4;
+  ```
 
   _what are the results of the following relational expressions? (True or False?)_
 
@@ -172,26 +178,28 @@ _Correct the following statement syntax errors:_
 
 _Identify and correct one of the (7) errors in the following code:_
 
-    public class Oops4 {
+``` Java
+public class Oops4 {
 
-        public static void main (String[] args) {
-            int a = 7, b = 42;
-            minimum(a,b);
-            if {smaller = a} {
-                System.out.println("a is the smallest!");
-            }
-        }
-
-        // Returns the minimum of the parameters a and b.
-        public static void minimum (int a, int b) {
-            if (a < b) {
-                int smaller = a;
-            } else (a = b) {
-                int smaller = b;
-            }
-            return int smaller;
+    public static void main (String[] args) {
+        int a = 7, b = 42;
+        minimum(a,b);
+        if {smaller = a} {
+            System.out.println("a is the smallest!");
         }
     }
+
+    // Returns the minimum of the parameters a and b.
+    public static void minimum (int a, int b) {
+        if (a < b) {
+            int smaller = a;
+        } else (a = b) {
+            int smaller = b;
+        }
+        return int smaller;
+    }
+}
+```
 
 
 Accommodation and Differentiation

@@ -71,7 +71,7 @@ the lesson covers the splitting of the list.
 
 2. Let your class work for 10 minutes to try and create the merge function. Using the responses they
   come up with, lead them to the correct merge function. (Shown on slides, using
-  ArrayList&lt;Integer&gt;)
+  `ArrayList<Integer>`)
 
 MergeSort \[30 minutes\]
 ------------------------

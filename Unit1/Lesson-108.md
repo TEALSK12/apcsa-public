@@ -31,7 +31,7 @@ example, then having them look for similar errors with that example.
 The homework tonight asks students to submit 5 questions for review. Create an **electronic survey**
 for students to complete with 6 text fields, one for name, and 5 for questions they have about Ch. 1
 content. Set a time-deadline (_e.g._ 10pm) by which time students must have submitted 5 questions
-from Ch.1 that they would like to see reviewed in tomorrow's class. If students do not have
+from Ch.1 that they would like to see reviewed in tomorrow’s class. If students do not have
 questions, stipulate that they still have to submit something to receive credit, even if it is only
 questions they think other students may have.
 
@@ -67,7 +67,7 @@ pre-selected group of Pandora stations (or the like).
   their desk.
 
 2. Explain to students that they have the opportunity to get full credit on their homework grades by
-  correcting them now, in class. Ask students for suggestions/ideas on how to make sure they don't
+  correcting them now, in class. Ask students for suggestions/ideas on how to make sure they don’t
   miss any errors. (By now students should be used to relying on their error checklist/algorithm.)
 
 ### Lecture on style \[10 minutes\]
@@ -84,11 +84,11 @@ necessary to improve readability and that you lose points for having poor style.
 ### Student Work \[25 minutes\]
 Have students work individually to correct their homework grades.
   - Offer time checks for students so they stay on task.
-  - If students have not finished their programming project from yesterday's class, allow them to do
+  - If students have not finished their programming project from yesterday’s class, allow them to do
     so today.
 
 ### Students trade work, check, and turn in \[10 minutes\]
-At the end of class, have students trade their homework assignments to evaluate each other's
+At the end of class, have students trade their homework assignments to evaluate each other’s
 corrections before submission.
 
 

@@ -67,24 +67,26 @@ the sample will appear.
 
   - Building on our *Drink* example from the last lesson, we can write our own *chug* method for
     subclass *SugarFreeDrink*:
-      ``` Java
-      public void chug(double gulp) {
-          System.out.println(“Yuck, this tastes terrible!”);
-      }
-      ```
+
+    ``` Java
+    public void chug(double gulp) {
+        System.out.println(“Yuck, this tastes terrible!”);
+    }
+    ```
 
   - Compare this to the Drink superclass method chug, which is reproduced here for convenience:
-      ``` Java
-      public void chug (double gulp) {    // Superclass Drink method
-          if (ounces < gulp) {
-              throw new IllegalArgumentException();
-          } else {
-              System.out.println("Glug, glug, glug!");
-              ounces -=gulp;
-              System.out.println("You have " + ounces + "oz. of drink left.");
-          }
-      }
-      ```
+
+    ``` Java
+    public void chug (double gulp) {    // Superclass Drink method
+        if (ounces < gulp) {
+            throw new IllegalArgumentException();
+        } else {
+            System.out.println("Glug, glug, glug!");
+            ounces -=gulp;
+            System.out.println("You have " + ounces + "oz. of drink left.");
+        }
+    }
+    ```
 
 3. Have students point out the differences between the two methods, predict the new output, and
   offer additional or alternative changes to the overridden *SugarFreeDrink* *chug* method.
@@ -96,12 +98,12 @@ the sample will appear.
   do was add an extra println statement that we put in the overridden method. Fortunately, there is a
   way to access that method to put it back into our new, overridden method (highlighted below):
 
-    ``` Java
-    public void chug (double gulp) {
-        System.out.println("Yuck, this tastes terrible!");
-        super.chug(gulp);
-    }
-    ```
+  ``` Java
+  public void chug (double gulp) {
+      System.out.println("Yuck, this tastes terrible!");
+      super.chug(gulp);
+  }
+  ```
 
   - This method now outputs “Yuck, this tastes terrible!”, updates the number of ounces to reflect
     the amount you drank, throws an exception if you don’t have any ounces, and outputs the number

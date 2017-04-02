@@ -25,7 +25,7 @@ Materials & Prep
 Truth tables are an important tool, especially for some AP test questions. If you are not familiar
 with truth tables, watch this 5 minute tutorial online (<http://tinyurl.com/mw8ohof>). We recommend
 instructors draw out the &&, ||, and ! truth tables, and maybe do an intermediate example of a
-two-operator expression, before getting into the De Morgan's law example later in class.
+two-operator expression, before getting into the De Morgan’s law example later in class.
 
 
 Pacing Guide: Day 1

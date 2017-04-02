@@ -65,7 +65,8 @@ Procedure
 
   - Call 2 students up to the board; one to trace the flow of control and the other write the
     output.
-    ```
+
+    ``` Java
     // while loop:                      // for loop:
     int i = 0;                          for (int i = 0; i < 10; i++) {
     while (int i < 10) {                    System.out.println (i);
@@ -75,7 +76,8 @@ Procedure
     ```
 
 4. Invite students to Think-pair-share on the following example:
-  ```
+
+  ``` Java
   int n = 91;
   int factor = 2;
   while (n % factor != 0) {
@@ -91,10 +93,10 @@ Procedure
 ### Student Practice-It Activity \[35 minutes\]
 1. Have students complete the following Practice-It problems:
 
-  a. whileLoops<br>
-  b. forToWhile<br>
-  c. whileLoopMystery1<br>
-  d. whileLoopMystery2
+  1. whileLoops<br>
+  2. forToWhile<br>
+  3. whileLoopMystery1<br>
+  4. whileLoopMystery2
 
 2. If students complete these problems with time to spare, have them complete Practice-It exercise
 “gcd.”

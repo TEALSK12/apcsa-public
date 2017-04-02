@@ -49,11 +49,11 @@ of your classroom).
 
   - Start building your for loop, narrating the parts as you go. Ask students for help with the
     different components of the program (starting with the public class):
-    ```
+
+    ``` Java
     public class Count1000 {
 
-        public static void main(String[] args) {
-
+        public static void main (String[] args) {
             for …
     ```
 
@@ -86,7 +86,8 @@ of your classroom).
 
 5. Return to the program that will output the first 1,000 positive integers in fewer than 10 lines
   of code. Encourage students to guess how many lines it will take to write the whole program:
-  ```
+
+  ``` Java
   public class Count1000 {
 
       public static void main (String[] args) {

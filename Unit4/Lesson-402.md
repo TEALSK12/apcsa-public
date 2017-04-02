@@ -53,7 +53,7 @@ understanding, but let students help and challenge each other.
   If you want to access each element in the array without changing the values (to summarize or count
   them), you can access them using a for-each loop:
 
-  ```
+  ``` Java
   for (<type> <name> : <array>){
       <statement>;
       <statement>;
@@ -63,8 +63,9 @@ understanding, but let students help and challenge each other.
 
 2. Place an array on the board, demonstrating the quick way to declare an array, and then illustrate
   how a for-each loop could be used to access the array:
-  ```
-  int\[\] fallTemperatures = {55, 50, 59, 69, 48, 30, 48};
+
+  ``` Java
+  int[] fallTemperatures = {55, 50, 59, 69, 48, 30, 48};
   ```
 
   - This initializes an array called fallTemperatures with 7 integer values. Ask students when they
@@ -72,9 +73,9 @@ understanding, but let students help and challenge each other.
     during another season or in a different location. It may make sense in your region to change the
     array name to winterTemperatures or nightTimeTemperatures, etc.
 
-    ```
+    ``` Java
     for (int i = 0; i < fallTemperatures.length; i++) {
-        if (fallTemperatures\[i\] > 32) {
+        if (fallTemperatures[i] > 32) {
             above++;
         }
     }
@@ -84,7 +85,7 @@ understanding, but let students help and challenge each other.
     are above freezing (we assume there is a method called “above” that keeps a running count of how
     many days were above 32 degrees). We can express this same process with a for-each loop:
 
-    ```
+    ``` Java
     for (int i : fallTemperatures) {
         if (i > 32) {
             above++;
@@ -94,7 +95,7 @@ understanding, but let students help and challenge each other.
 
     with the general form of:
 
-    ```
+    ``` Java
     for (<type> <name> : <array>) {
         <statement>;
         <statement>;

@@ -134,7 +134,7 @@ lesson finishes early.
   - As a whole group, or in individual groups (depending on familiarity with the material),
     construct the final code:
 
-    ```
+    ``` Java
     for (int i = 0; i < data.length - 1; i++) {
         for (int j = i + 1; j < data.length; j++) {
             if (data[i] > data[j]) {
@@ -236,7 +236,7 @@ lesson finishes early.
 6. Multidimensional arrays can also be passed as parameters. Have students trace the flow of control
   and predict the output of the code below:
 
-  ```
+  ``` Java
   public static void print (double[][] grid) {
       for (int i = 0; i < grid.length; i++) {
           for (int j = 0; j < grid[i].length; j++) {

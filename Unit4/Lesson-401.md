@@ -63,29 +63,37 @@ other.
     string/array.
 
   - Since an array is an object, you have to construct it (you can’t just declare it as a variable).
-    ```
+
+    ``` Java
     int[] numbers = new int[10];
     ```
+
     _Nothing is in the highlighted brackets because you’re describing what type is going to be
     contained in the array._
-    ```
+
+    ``` Java
     int[] numbers = new int[10];
     ```
+
     _Here’s the name of your array—in this case we’re making an array of numbers._
-    ```
+
+    ``` Java
     int[] numbers = new int[10];
     ```
+
     _We use the* new *keyword since we’re constructing an object, then we tell Java how many
     elements we want to store in our array. In this case we want to store 10 numbers in the array._
 
     - Check for student understanding by asking students to tell you how to construct an array that
       holds 9 integers.
-      ```
+
+      ``` Java
       int[] numbers = new int[9];
       ```
 
     - Alternatively, you can initialize an array by writing out the full array.
-      ```
+
+      ``` Java
       int[] numbers = {0, 1, 2, 3, 4, 5};
       ```
 
@@ -99,7 +107,8 @@ other.
   |     index        | 0 | 1 | 2 | 3 |
 
   - To fill in this array, we need to fill in the values for each location:
-    ```
+
+    ``` Java
     numbers[0] = 27;
     numbers[3] = -6;
     ```
@@ -123,7 +132,8 @@ other.
 
 4. If you have a really big array, you can use a Scanner to grab values from user input, or you can
   autofill them with a loop:
-  ```
+
+  ``` Java
   for (int i = 0; i < age.length; i++){
       age[i] = input.nextInt();
   }
@@ -133,7 +143,7 @@ other.
   call this “array traversal.” You’ll need to do this a lot in the future, so you should put a
   general formula in your Tricky Code Cheat Sheet:
 
-  ```
+  ``` Java
   for (int i = 0; i < age.length; i++){
       // do something with age[i];
   }

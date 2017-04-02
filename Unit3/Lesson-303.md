@@ -107,11 +107,13 @@ class); students will create more code to be used in their larger Pokemon progra
 
   - This method only makes sense if we have a main method that can pick up the value that we’re
     asking Java to return, so have students write a main method:
-    ```
+
+    ``` Java
     public static void main (string[] args) {    // a. Why is the main method void?
         int answer = sum (100);                  // b. What is this line doing?
         System.out.println ("The sum of 1 to 100 is" + " " + answer);
     ```
+
     1. The method main is void because it returns no value.
     2. This line is declaring & assigning a value to the variable `answer`.
 
@@ -126,9 +128,10 @@ book.
 
   - If you wanted to generate a random number to use in a formula for your Pokemon game (to add a
     little chance to a battle, lets say), you would create a method:
-    ```
+
+    ``` Java
     public static double pokemonRandom() {
-        return Math.random()\*100;
+        return Math.random() * 100;
     }
     ```
 
@@ -145,19 +148,19 @@ Have students work individually or in pairs to complete the following Practice-I
 questions:
 
   1. parameterMysteryReturn
-
   2. mathExpressions2
-
   3. min
 
-Pokémon Challenge \[15 minutes\]
---------------------------------
+
+### Pokémon Challenge \[15 minutes\]
 Once students have completed these exercises, invite them to complete the following Pokémon
 challenge:
 
+----------------------------------------------------------------------------------------------------
+
 ### POKEMON CHALLENGE:
-A Pokémon's base stat values will most often have the greatest influence over their specific stats
-at any level. If we leave out individual values, effort values, and nature, a level 100 Pokémon's
+A Pokémon’s base stat values will most often have the greatest influence over their specific stats
+at any level. If we leave out individual values, effort values, and nature, a level 100 Pokémon’s
 stats in Attack, Defense, Speed, Special Attack, and Special Defense will be exactly 5 more than
 double its base stat values in each, while the Hit Points (HP) stat will be 110 plus double the base
 stat value (except in the case of Shedinja, whose HP is always 1).
@@ -166,14 +169,16 @@ Write a program that returns a Pokémon’s stats for Attack and HP at level 100
 parameters and methods that return values for this program. You may choose to use the base stats for
 Blastoise OR Raichu given here:
 
-| Blastoise              | Raichu              |
-|:-----------------------|:--------------------|
+| Blastoise              | Raichu                |
+|:-----------------------|:----------------------|
 | _HP:_ 79               | _HP:_ 60              |
 | _Attack:_ 83           | _Attack:_ 90          |
 | _Defense:_ 100         | _Defense:_ 55         |
 | _Special Attack:_ 85   | _Special Attack:_ 90  |
 | _Special Defense:_ 105 | _Special Defense:_ 80 |
 | _Speed:_ 78            | _Speed:_ 110          |
+
+----------------------------------------------------------------------------------------------------
 
 
 Accommodation and Differentiation

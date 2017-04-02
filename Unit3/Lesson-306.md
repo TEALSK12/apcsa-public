@@ -56,12 +56,14 @@ Procedure
   sure students are keeping up with the notes.
 
   - Write a method that reads user input for known Pokemon stats to determine EV (effort value).
-    ```
+
+    ``` Java
     import java.util.*;
     ```
 
   - Anytime you’re getting user input, start with this import declaration:
-    ```
+
+    ``` Java
     public class GetEV {
         public static void main(String[] args) {
             Scanner userInput = new Scanner (System.in);
@@ -72,30 +74,33 @@ Procedure
     - Name the scanner something useful (scanner, console, userInput)
     - Construct with the `new` keyword, and `System.in`.
 
-    ```
+    ``` Java
             System.out.println ("This program calculates user EV.");
             System.out.println ("Input your Pokemon's stats below:");
     ```
 
   - This outputs to the console a message explaining the program to the user:
-    ```
-              System.out.print ("Hit points: ");
-              int hp = userInput.nextInt();
+
+    ``` Java
+            System.out.print ("Hit points: ");
+            int hp = userInput.nextInt();
     ```
 
   - This pairs a user prompt with a variable hp that holds the information the user inputted.
-    ```
-              System.out.print("Level: ");
-              int level = userInput.nextInt();
+
+    ``` Java
+            System.out.print("Level: ");
+            int level = userInput.nextInt();
     ```
 
   - Again, we pair the prompt for the user input with the scanner that accepts and stores that data
     as a variable for later use.
-    ```
-              System.out.print("IV: ");       // This is for initial value of the hit point stat.
-              int iv = userInput.nextInt();
-              System.out.print("Base HP: ");
-              int base = userInput.nextInt();
+
+    ``` Java
+            System.out.print("IV: ");       // This is for initial value of the hit point stat.
+            int iv = userInput.nextInt();
+            System.out.print("Base HP: ");
+            int base = userInput.nextInt();
     ```
 
   - Next we need to write the formula that will calculate EV from the user input, then return a
@@ -104,9 +109,9 @@ Procedure
 
     EV = (((HP – 10) * 100) / Level – 2*Base – IV – 100) * 4
 
-    ```
-              int ev = (((hp – 10) \* 100)/level – 2 \* base – iv – 100) \* 4;
-              System.out.println(“You have ” + ev + “ effort value points for your HP stat.”);
+    ``` Java
+            int ev = (((hp–10) * 100)/level – 2 * base – iv – 100) * 4;
+            System.out.println("You have " + ev + " effort value points for your HP stat.");
         }
     }
     ```
