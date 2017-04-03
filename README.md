@@ -8,10 +8,11 @@ file from the Sharepoint site (off the TEALS dashboard), minus duplicate PDF ver
 These documents will be converted from Word to Markdown, and from there incorporated into a GitHub
 book using [GitBook].
 
-Content can be browsed in two ways:
+Content can be browsed in the following ways:
 
 - [On GitBook] — The official source for the book
 - [On GitHub] — From the repository contents on GitHub
+- [Locally] – From a local clone of the development repository
 
 
 Versioning
@@ -89,5 +90,6 @@ Acknowledgments
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [GitBook]:    https://www.gitbook.com
 [LICENSE.md]: LICENSE.md
+[Locally]:    SUMMARY.md
 [On GitBook]: https://tealsk12.gitbooks.io/ap-cs-a-curriculum/
 [On GitHub]:  https://github.com/TEALSK12/apcsa-curriculum/blob/master/SUMMARY.md
