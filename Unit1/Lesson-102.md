@@ -56,7 +56,9 @@ of the classroom, without any explanation.
   - Computer was originally a job description, and was first used in 1613 to describe someone who
     performs mathematical calculations.
 
-  - Early computers were mostly women (see picture here:
+  - Early computers were mostly women:
+
+    <img src="media/figure-102a.jpg" /><br>
     http://www.officemuseum.com/IMagesWWW/Early_1920s_Veterans_Bureau_Calculating_WWI_Vet_Bonuses_LOC.JPG).
 
   - Human computers have many similarities to mechanical computers. See how many of these your
