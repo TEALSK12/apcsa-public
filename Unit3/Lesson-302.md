@@ -101,7 +101,21 @@ parameters**:
   draw, circle, and explain the parts of the code in their own notebooks so they have a chance to
   think this through.
 
-  <img src="media/image1.jpg" width="720" height="405" />
+  ``` Java
+  public static void main (String [] args) {
+
+      writeChars ('=', 20);  //----------------- Writes a line of 20 ='s
+      System.out.println();  //----------------- Returns to the next line
+
+      for (int i = 1; i <= 10; i++) {  //------- For 10 lines of picture (height)
+          writeChars('>', i);          //------- Increase the number of '>'s in each line
+          writeChars(' ', 20 - 2*i);   //------- Decrease the number of spaces in each line
+          writeChars('<', i);          //------- Increase the number of '<'s in each line
+
+          System.out.println();        //------- Go to the next line before starting the body
+      }                                //        of the loop again.
+  }
+  ```
 
   - Have students predict how the output will change if you change 1 or 2 things in the code, then
     allow them to start their open-ended activity.

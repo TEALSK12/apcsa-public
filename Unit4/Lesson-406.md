@@ -57,35 +57,19 @@ lesson finishes early.
 
   - Previously, we might have used an array to keep track of sandwich orders in line at a bodega:
 
-    ```
-    .--------.-----.------------.--------.
-    | turkey | ham | roast beef | turkey |
-    '--------'-----'------------'--------'
-    ```
+    <img src="media/figure-406a.png" width="50%" />
 
   - Suppose we have several workers at the bodega making sandwiches, and we want to keep track of
     the orders each one is working on. We could use multiple arrays, or an array of arrays.
 
-    ```
-    .------------.------------.------------.------------.
-    | turkey     | ham        | roast beef | turkey     |
-    |------------|------------|------------|------------|
-    | ham        | turkey     | roast beef | chicken    |
-    |------------|------------|------------|------------|
-    | roast beef | roast beef | turkey     | roast beef |
-    '------------'------------'------------'------------'
-    ```
+    <img src="media/figure-406b.png" width="50%" />
 
   - To traverse multidimensional arrays, we need a new tool to help us fill them.
 
 2. Demonstrate a basic nested loop used to switch numbers in an array. Begin by using the array
   whiteboard to demonstrate what you want the code to do:
 
-  ```
-  .---.---.---.---.
-  | 4 | 3 | 2 | 1 |
-  '---'---'---'---'
-  ```
+  <img src="media/figure-406c.png" width="25%" />
 
   - Challenge the students to come up with pseudocode (or actual code, if they’re ready for it) that
     prints out all of the inversions in this array. An inversion is a pair of numbers in which the
@@ -103,11 +87,7 @@ lesson finishes early.
 
   - An array
 
-    ```
-    .---.---.---.---.
-    | 3 | 1 | 4 | 2 |
-    '---'---'---'---'
-    ```
+    <img src="media/figure-406d.png" width="25%" />
 
     would output:
 
@@ -159,49 +139,19 @@ lesson finishes early.
 
   - `double`: one double value
 
-    ```
-    .-----.
-    | 1.5 |
-    '-----'
-    ```
+    <img src="media/figure-406e.png" width="8%" />
 
   - `double[]`: a 1 dimensional array of doubles
 
-    ```
-    .-----.-----.-----.-----.
-    | 3.7 | 1.1 | 4.2 | 2.3 |
-    '-----'-----'-----'-----'
-    ```
+    <img src="media/figure-406f.png" width="25%" />
 
   - `double[][]`: a 2 dimensional array (grid) of doubles
 
-    ```
-    .-----.-----.-----.------.
-    | 3.5 | 7.1 | 0.4 | 92.8 |
-    |-----|-----|-----|------|
-    | 6   | 8.7 | 3.3 | -0.2 |
-    '-----'-----'-----'------'
-    ```
+    <img src="media/figure-406g.png" width="25%" />
 
   - `double[][][]`: a 3 dimensional array (cube) of doubles
 
-    ```
-          +-----+-----+-----+-----+
-         /     /     /     /     /|
-        +-----+-----+-----+-----+ +
-       /     /     /     /     /|/|
-      +-----+-----+-----+-----+ + +
-     /     /     /     /     /|/|/|
-    +-----+-----+-----+-----+ + + +
-    | 3.5 | 7.1 | 0.4 | 7.8 |/|/|/|
-    +-----+-----+-----+-----+ + + +
-    | 6.1 |-8.7 | 3.3 |-0.2 |/|/|/
-    +-----+-----+-----+-----+ + +
-    | 1.6 | 2.2 |-4.7 | 1.7 |/|/
-    +-----+-----+-----+-----+ +
-    |-0.3 | 2.9 | 0.1 | 2.3 |/
-    +-----+-----+-----+-----+
-    ```
+    <img src="media/figure-406h.png" width="25%" />
 
   - An array constructed with the code below has 2 rows and 3 columns:
 
@@ -211,19 +161,12 @@ lesson finishes early.
 
     Have students index the array for you:
 
-    ```
-         0     1     2
-      .-----.-----.-----.
-    0 | 0.0 | 0.0 | 0.0 |
-      |-----|-----|-----|
-    1 | 0.0 | 0.0 | 0.0 |
-      '-----'-----'-----'
-    ```
+    <img src="media/figure-406i.png" width="25%" />
 
   - You might opt to give students this general formula for the syntax of declaring and constructing
     a multidimensional array:
 
-    <img src="media/diagram-406-1.png" />
+    <img src="media/figure-406a.png" width="50%" />
 
 5. Run through some examples with your students:
 

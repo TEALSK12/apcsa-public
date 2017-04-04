@@ -53,11 +53,7 @@ physical space, so make sure that all groups are working along with their array 
 1. Introduce your example array called metroCardRides (or dailyDrive, milesWalked, whatever
   represents your students’ commute to school), and hold up an array of ints:
 
-  ```
-  .---.---.---.---.---.
-  | 5 | 4 | 3 | 2 | 1 |
-  '---'---'---'---'---'
-  ```
+  <img src="media/figure-405a.png" />
 
 2. Briefly ask your students to direct you in constructing and initializing this array object, then
   ask students for some ideas as to how to move the 5 from the first element of the array to the
@@ -95,11 +91,7 @@ physical space, so make sure that all groups are working along with their array 
   - Model on your array whiteboard what steps have already been successfully written, and ask
     students what is left to do now that your array looks like this:
 
-    ```
-    .---.---.---.---.---.
-    | 4 | 3 | 2 | 1 | 1 |
-    '---'---'---'---'---'
-    ```
+    <img src="media/figure-405b.png" />
 
   - Select a group to give you the last step that re-inserts the first element at index 4, and ask
     the class to finish up the complete method, so your final method looks like this:
@@ -149,43 +141,18 @@ physical space, so make sure that all groups are working along with their array 
   - If students “correct” this error by starting the loop at 1, ask them to model the code execution
     with their array white boards for you. The loop overwrites the value at j – 1 with the value at
     j, so the array will start filling in with all 5s as the loop repeats itself:
-    ```
-    .---.---.---.---.---.
-    | 5 | 5 | 5 | 5 | 5 |
-    '---'---'---'---'---'
-    ```
+
+    <img src="media/figure-405c.png" />
 
   - The solution to this is tricky! It might be worth discussing/working as a class if groups are
     getting stuck on this. The loop needs to shift values right by starting at the left and running
     backwards. See if you can get students to brainstorm this solution by manipulating the values on
     their whiteboards first.
 
-    ```
-
-                  ┌───┐
-                  │   ↓
-    .---.---.---.---.---.
-    | 5 | 4 | 3 | 2 | 2 |
-    '---'---'---'---'---'
-
-              ┌───┐
-              │   ↓
-    .---.---.---.---.---.
-    | 5 | 4 | 3 | 2 | 2 |
-    '---'---'---'---'---'
-
-          ┌───┐
-          │   ↓
-    .---.---.---.---.---.
-    | 5 | 4 | 3 | 2 | 2 |
-    '---'---'---'---'---'
-
-      ┌───┐
-      │   ↓
-    .---.---.---.---.---.
-    | 5 | 4 | 3 | 2 | 2 |
-    '---'---'---'---'---'
-    ```
+    <img src="media/figure-405d.png" /><br>
+    <img src="media/figure-405e.png" /><br>
+    <img src="media/figure-405f.png" /><br>
+    <img src="media/figure-405g.png" />
 
   - Now add back in the temporarily-stored value 1 at index 0.
 
@@ -198,7 +165,7 @@ physical space, so make sure that all groups are working along with their array 
   - Arrays of objects store reference to objects instead of a primitive type value. Drawing
     something like this might help student comprehension:
 
-    <img src="media/diagram-405-8.png" />
+    <img src="media/figure-405h.png" />
 
   - Ask students leading questions, getting them to tell you that because the array and the array
     contents are both objects, both need to be constructed.

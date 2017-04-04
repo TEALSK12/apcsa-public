@@ -126,7 +126,7 @@ _Damage method returns value._
 Write a method called statsTable that accepts the user’s Pokémon stats and learned moves as
 parameters, and outputs something similar to this image:
 
-<img src="media/image1.png" width="533" height="320" />
+<img src="media/figure-307a.png" />
 
 You are not required to align the columns of the tables in any fancy way, but if you do, use escape
 sequences to align data. For your drawing, you may use code you’ve grabbed from the internet, or
