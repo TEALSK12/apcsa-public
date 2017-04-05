@@ -133,12 +133,12 @@ Picture Lab.”
 1. To help students start the lab smoothly, start Activity 1 as a whole group.
 
 2. Encourage students to use their Tricky Code Cheat Sheets, 4 Commandments of Scope, notebooks,
-  textbooks, classroom posters, and homework assignments.
+   textbooks, classroom posters, and homework assignments.
 
 3. Offer occasional time-checks to help keep students on pace.
 
 4. Grade notebooks and review books in between helping students so students can keep notebooks for
-  homework and studying in the evenings.
+   homework and studying in the evenings.
 
 
 Accommodation and Differentiation

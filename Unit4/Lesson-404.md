@@ -54,7 +54,7 @@ After 25–30 minutes give students a few minutes to check each others’ work.
 
 ### Whole Group Review & Paper Submission
 1. As a whole group, ask students for questions they had on the worksheet. Use the answer key
-  included on this to guide instruction.
+   included on this to guide instruction.
 
 2. Collect worksheets at the end of class.
 
@@ -72,23 +72,23 @@ Student success in this lesson relies heavily on students’ having been able to
 the prior nights’ reading. In ELL classrooms, encourage students to open their books and work with
 the text in front of them, and pair students of differing language abilities.
 
-  - If you know your students’ reading abilities will not allow for a lesson like this, conduct the
-    lesson as a whole-group, teaching a segment of the chapter and pausing to let students work on a
-    question before moving forward.
+- If you know your students’ reading abilities will not allow for a lesson like this, conduct the
+  lesson as a whole-group, teaching a segment of the chapter and pausing to let students work on a
+  question before moving forward.
 
-  - The worksheet matches up sequentially with section 7.3, so you can have students read along with
-    your in the book as you work through the sheet, and/or you can allow advanced students to work
-    on their own as you help the rest of class.
+- The worksheet matches up sequentially with section 7.3, so you can have students read along with
+  your in the book as you work through the sheet, and/or you can allow advanced students to work on
+  their own as you help the rest of class.
 
 There will probably be a lot of variation in how long it takes students to complete today’s
 assignment.
 
-  - Ask students who finish early to design a hands-on demonstration that uses the array whiteboards
-    (and any other materials around the room) to explain the proper answers to the questions on the
-    worksheet. If they come up with any cool demos, use them during student review at the end of the
-    class.
+- Ask students who finish early to design a hands-on demonstration that uses the array whiteboards
+  (and any other materials around the room) to explain the proper answers to the questions on the
+  worksheet. If they come up with any cool demos, use them during student review at the end of the
+  class.
 
-  - Be ready with a Pokemon Challenge for the students that speed through the assignment:
+- Be ready with a Pokemon Challenge for the students that speed through the assignment:
 
 ### POKEMON CHALLENGE
 

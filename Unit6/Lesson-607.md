@@ -94,28 +94,28 @@ On the overhead or shared electronically, provide students with the following pr
 
 Write an inheritance hierarchy of three-dimensional shapes:
 
-1.  Make a top-level shape interface that has methods for getting information such as the volume and
-  surface area of a three-dimensional shape.
+1. Make a top-level shape interface that has methods for getting information such as the volume and
+   surface area of a three-dimensional shape.
 
-2.  Then make classes and subclasses that implement various shapes such as cubes, rectangular
-  prisms, spheres, triangular prisms, cones, and cylinders.
+2. Then make classes and subclasses that implement various shapes such as cubes, rectangular
+   prisms, spheres, triangular prisms, cones, and cylinders.
 
-3.  Place common behavior in superclasses whenever possible, and use abstract classes as appropriate.
+3. Place common behavior in superclasses whenever possible, and use abstract classes as appropriate.
 
-4.  Add methods to the subclasses to represent the unique behavior of each three-dimensional shape,
-  such as a method to get a sphere’s radius.
+4. Add methods to the subclasses to represent the unique behavior of each three-dimensional shape,
+   such as a method to get a sphere’s radius.
 
 #### Programming Project II
 
 Write an inheritance hierarchy that stores data about sports players.
 
 1. Create a common superclass or interface to store information common to any player regardless of
-  sport, such as name, number, and salary.
+   sport, such as name, number, and salary.
 
 2. Then create subclasses for players of your favorite sports, such as basketball, soccer or tennis.
 
 3. Place sport-specific information and behavior (such as kicking, vertical jump height, or speed)
-  into subclasses whenever possible.
+   into subclasses whenever possible.
 
 #### Programming Project III
 

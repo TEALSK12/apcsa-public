@@ -57,21 +57,21 @@ allow them time to work on that today.
 ### Introduction and Homework Distribution \[5 minutes\]
 
 1. Return student homework packets, or have students place their returned homework in a pile on
-  their desk.
+   their desk.
 
 2. Explain to students that they have the opportunity to get full credit on their homework grades by
-  correcting them now, in class. Ask students for suggestions/ideas on how to make sure they don’t
-  miss any errors.
+   correcting them now, in class. Ask students for suggestions/ideas on how to make sure they don’t
+   miss any errors.
 
-  a. By now students should be used to relying on their error checklist/algorithm.
+   a. By now students should be used to relying on their error checklist/algorithm.
 
 ### Student Work \[35 minutes\]
 Have students work individually to correct their homework grades.
 
-  - Offer time checks for students so they stay on task.
+- Offer time checks for students so they stay on task.
 
-  - If students have not finished homework assignments, allow them time today to complete these
-    assignments to turn in for partial credit.
+- If students have not finished homework assignments, allow them time today to complete these
+  assignments to turn in for partial credit.
 
 ### Students trade work, check, and turn in \[10 minutes\]
 At the end of class, have students trade their homework assignments to evaluate each other’s

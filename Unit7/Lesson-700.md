@@ -61,37 +61,37 @@ attention to the entire review, taking supplemental notes the entire time.
 ### Class Discussion (if needed) \[10 minutes\]
 
 1. If grades are low, invite the class to a discussion of what can be improved. Begin with student
-  complaints and suggestions to build student buy-in. Ask students:
+   complaints and suggestions to build student buy-in. Ask students:
 
-  - how they felt they were going to do before the test
-  - what surprised them once they were taking the test
-  - what they felt worked in the first unit (lessons, review strategies, assignments)
-  - what do they think they want to change for the second unit
+   - how they felt they were going to do before the test
+   - what surprised them once they were taking the test
+   - what they felt worked in the first unit (lessons, review strategies, assignments)
+   - what do they think they want to change for the second unit
 
 2. Once you feel that a dialogue has been established, validate students’ feelings, then challenge
-them (_e.g._ AP courses are stressful, but this is good practice for college, where the pace is
-faster and professors don’t give personalized instruction).
+   them (_e.g._ AP courses are stressful, but this is good practice for college, where the pace is
+   faster and professors don’t give personalized instruction).
 
 ### Test Review and Reteach \[30 minutes\]
 
 1. Walk the students through each question on the test, glossing over questions that everyone
-  answered correctly.
+   answered correctly.
 
-  1. You can ask for students to volunteer answers, or call on students randomly. Make sure that
-    students explain their logic when they answer. If a student gives an incorrect answer, the
-    explanation will tell you what you need to re-teach or clarify.
+   1. You can ask for students to volunteer answers, or call on students randomly. Make sure that
+      students explain their logic when they answer. If a student gives an incorrect answer, the
+      explanation will tell you what you need to re-teach or clarify.
 
-  2. Do not skip questions that everyone answered correctly, but do not spend more than the time it
-    takes to read the question, and congratulate students’ correct answers.
+   2. Do not skip questions that everyone answered correctly, but do not spend more than the time it
+      takes to read the question, and congratulate students’ correct answers.
 
 2. Project a copy of each question as you review—this will help students recall the question/process
-  the information.
+   the information.
 
 3. Make sure that students are taking notes during the re-teach, reminding students that for
-  homework, they will have an opportunity to win back some of the points on their exam.
+   homework, they will have an opportunity to win back some of the points on their exam.
 
 4. For Section II questions, select a sample of student work (with any identifying information
-  obscured), and work through the answer together as a class.
+   obscured), and work through the answer together as a class.
 
 ### Check student notes and return tests \[5 minutes\]
 At the end of class, check student notes, and return the tests in hard copy form if applicable.

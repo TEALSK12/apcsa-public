@@ -54,28 +54,29 @@ work.
 
 1. Introduce the program assignment, taking a moment to talk strategy with your class.
 
-  **ASSIGNMENT:** Sometimes we write similar letters to different people. For example, you might
-  write to your parents to tell them about your classes and your friends and to ask for money. You
-  might write to a friend about your love life, your classes, and your hobbies, and you might write
-  to your brother about your hobbies and your friends and to ask for money.
+   **ASSIGNMENT:** Sometimes we write similar letters to different people. For example, you might
+   write to your parents to tell them about your classes and your friends and to ask for money. You
+   might write to a friend about your love life, your classes, and your hobbies, and you might write
+   to your brother about your hobbies and your friends and to ask for money.
 
-  Write a program that prints similar letters such as these to three people of your choice. Each
+   Write a program that prints similar letters such as these to three people of your choice. Each
   letter should have at least one paragraph in common with each of the other letters. Your main
-  program should have three method calls, one for each of the people to whom you are writing.
+   program should have three method calls, one for each of the people to whom you are writing.
 
-  *TIPS:* Try to isolate repeated tasks into methods. Include comments in with your code so others
-  can easily understand what the code is supposed to do.
+   *TIPS:* Try to isolate repeated tasks into methods. Include comments in with your code so others
+   can easily understand what the code is supposed to do.
 
 2. Ask your class for suggestions as to how to tackle this programming problem. Students should
-  suggest drawing a structural diagram, building the program one method at a time (iterative
-  development), and following the correction steps on their personal algorithms (debugging).
+   suggest drawing a structural diagram, building the program one method at a time (iterative
+   development), and following the correction steps on their personal algorithms (debugging).
 
 ### Programming Project \#2, Chapter 1 \[15 minutes\]
 
 Get students started on Programming Project \#2 in Chapter 1 of the textbook. Offer students help
 after they have tried to answer the questions themselves:
-  1. Have the checked the book for examples?
-  2. Have they asked a friend (or two) for help?
+
+1. Have the checked the book for examples?
+2. Have they asked a friend (or two) for help?
 
 If students seem to be getting stuck on the same segment of code, offer a hint or tip on the board
 (silently, without disrupting student flow).

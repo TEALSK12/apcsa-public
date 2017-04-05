@@ -59,27 +59,29 @@ At the beginning of class, introduce the lab and watch the sample battle video.
 ### Student Programming Practice \[40 minutes\]
 
 1. Have students complete this programming project individually. Before you break out the class for
-  lab time, read the question out loud to the class, taking time to pause between each of the
-  requirements outlined in the lab assignment.
+   lab time, read the question out loud to the class, taking time to pause between each of the
+   requirements outlined in the lab assignment.
 
 2. Ask students what their very first steps should be.
 
-  - They should outline their approach in pseudocode or with a structure diagram. Remind them that
-    this documentation should be submitted in order to get full credit for their lab, and refer them
-    to the Algorithm for Solving Problems sheet.
+   - They should outline their approach in pseudocode or with a structure diagram. Remind them that
+     this documentation should be submitted in order to get full credit for their lab, and refer
+     them to the Algorithm for Solving Problems sheet.
 
-  - Remind students to tackle one part of the problem at a time. Remind students that it is OK if
-    they leave pseudocode in while they solve a different part of the problem, and partial credit
-    should be given to correct pseudocode.
+   - Remind students to tackle one part of the problem at a time. Remind students that it is OK if
+     they leave pseudocode in while they solve a different part of the problem, and partial credit
+     should be given to correct pseudocode.
 
 3. To encourage grit, have students review the steps they should take before raising their hand for
-  a question:
-  - Refer to notes, textbooks, and posters/displayed work around the room.
-  - Work on a different part of the problem if they get stuck, then return to it later.
-  - Ask another student for a hint, tip, or for error-spotting.
+   a question:
+   - Refer to notes, textbooks, and posters/displayed work around the room.
+   - Work on a different part of the problem if they get stuck, then return to it later.
+   - Ask another student for a hint, tip, or for error-spotting.
 
 4. In an email, on the projector, or as a handout WS 3.7, give student the following questions to
-  work on individually (or, if scaffolding requires it, in pairs).
+   work on individually (or, if scaffolding requires it, in pairs).
+
+----------------------------------------------------------------------------------------------------
 
 #### PROGRAMMING PROJECT
 
@@ -96,7 +98,6 @@ Pokémon to battle, and outputs the pairing. Your output should look something l
     It’s a Pokémon battle between Arcanine and Zebstrika! Go!
 
 ##### Exercise 2
-
 Write a method called damage that prompts the user for their base stats and reports damage done to
 their Pokémon in a battle. The formula used to calculate damage is:
 
@@ -122,7 +123,6 @@ Your output should look like this:
 _Damage method returns value._
 
 ##### Exercise 3
-
 Write a method called statsTable that accepts the user’s Pokémon stats and learned moves as
 parameters, and outputs something similar to this image:
 
@@ -145,6 +145,8 @@ Sample output:
     SPEED     107
     -------------------------------
     Moves Learned: Thunder Wave, Hidden Power, Psycho Cut, Recover
+
+----------------------------------------------------------------------------------------------------
 
 
 Accommodation and Differentiation

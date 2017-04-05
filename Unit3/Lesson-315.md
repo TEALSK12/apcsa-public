@@ -54,27 +54,27 @@ outlined here:
 ### Mini-Lesson Planning & Prep \[15 minutes\]
 
 1. Assign each group a subsection of section 5.2 “Fencepost Algorithms,” and make sure that you
-  circle that assignment on each groups’ copy of WWS 3.15. Student groups should take 15 minutes to
-  review their section, re-read the example on the pages following the example, then figure out how
-  they want to explain the algorithm to the class.
+   circle that assignment on each groups’ copy of WWS 3.15. Student groups should take 15 minutes to
+   review their section, re-read the example on the pages following the example, then figure out how
+   they want to explain the algorithm to the class.
 
 2. On the board or overhead, give students a few things they should consider in planning their mini
-  lesson:
+   lesson:
 
-  a. Who is going to speak when?
+   a. Who is going to speak when?
 
-  b. How are you going to illustrate the flow of control?
+   b. How are you going to illustrate the flow of control?
 
-  c. What do you need to have up on the board to illustrate your mini-lesson, and who is in charge
-    of writing it out?
+   c. What do you need to have up on the board to illustrate your mini-lesson, and who is in charge
+      of writing it out?
 
-  d. Where and how will you feature the output produced by your code segment?
+   d. Where and how will you feature the output produced by your code segment?
 
-  e. What is your mini-activity going to look like? (You might want to assign 1–2 people to work
-    on this section while the rest of the group works on the lesson.)
+   e. What is your mini-activity going to look like? (You might want to assign 1–2 people to work
+      on this section while the rest of the group works on the lesson.)
 
 3. Have student groups sequentially teach through fencepost algorithms, sentinel loops, and
-  fenceposts with `if` statements.
+   fenceposts with `if` statements.
 
 4. Encourage students to add these strategies to their Tricky Code Cheat Sheet.
 
@@ -98,22 +98,22 @@ be ready to assist during the Q & A section of their lesson. Some student questi
 up in the past, with their answers, are listed below:
 
 1. The sentinel loop example in the book says that the sentinel value will be read and added to the
-  sum unless we do a fencepost algorithm or if statement. Why is that? Doesn’t the test evaluate to
-  false and terminate the loop?
+   sum unless we do a fencepost algorithm or if statement. Why is that? Doesn’t the test evaluate to
+   false and terminate the loop?
 
-  _Write an example on the board in pseudocode or actual code, and trace the flow of control with
-  your marker. In this case, the pseudocode in the book is a bit misleading because it looks like
-  the test will terminate in the header. The prompt for the sentinel is already in the loop body, so
-  the sentinel will be evaluated before loop termination._
+   _Write an example on the board in pseudocode or actual code, and trace the flow of control with
+   your marker. In this case, the pseudocode in the book is a bit misleading because it looks like
+   the test will terminate in the header. The prompt for the sentinel is already in the loop body, so
+   the sentinel will be evaluated before loop termination._
 
-  _If you think your class will be comfortable, instruct your teaching group to do this
-  illustration, and just help along._
+   _If you think your class will be comfortable, instruct your teaching group to do this
+   illustration, and just help along._
 
 2. What do you do if you don’t know the first value to put in your fencepost algorithm? What if
-  you’re getting all of your data from user input?
+   you’re getting all of your data from user input?
 
 3. When do we know to reverse the order of loop construction? The example from the book has us
-  switching around a lot of stuff for the sentinel loop with if statements.
+   switching around a lot of stuff for the sentinel loop with if statements.
 
-  _Put an example up on the board (or have the student instructors do so), and trace the flow of
-  control before and after rearranging the loop body._
+   _Put an example up on the board (or have the student instructors do so), and trace the flow of
+   control before and after rearranging the loop body._

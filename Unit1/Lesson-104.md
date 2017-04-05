@@ -102,46 +102,45 @@ Begin with a lecture about the history of computing with punch cards and the ori
 ### Error-Checking Algorithm \[10 minutes\]
 
 1. Have students distribute paper and markers while you explain that students are going to create a
-  personal algorithm (or specific list of steps) that they will follow each time they write code. A
-  sample algorithm might look something like this:
-  * **STEP 1:** Check all code for spelling errors.
-  * **STEP 2:** Check all code for punctuation errors (curly brackets, brackets, parentheses,
-    semicolons).
-  * **STEP 3:** Check all code for syntax errors.
-  * …
+   personal algorithm (or specific list of steps) that they will follow each time they write code. A
+   sample algorithm might look something like this:
+   * **STEP 1:** Check all code for spelling errors.
+   * **STEP 2:** Check all code for punctuation errors (curly brackets, brackets, parentheses,
+     semicolons).
+   * **STEP 3:** Check all code for syntax errors.
+   * …
 
 2. Encourage students to write the algorithm as a **checklist**, **decision tree**, or **mindmap**.
-  Explicitly contrast the flexibility of the human brain when compared to computers.
+   Explicitly contrast the flexibility of the human brain when compared to computers.
 
-  Encourage creativity here—some students may color code their list, or take the assignment home to
-  work on lettering, illustration etc. What may feel like wasted time is actually a spatial and
-  tactile activity that helps students reinforce and memorize the steps needed to check code. The
-  more ownership students take of this list, the more likely they are to use it over the next few
-  months, which will make error-checking habitual.
+   Encourage creativity here—some students may color code their list, or take the assignment home to
+   work on lettering, illustration etc. What may feel like wasted time is actually a spatial and
+   tactile activity that helps students reinforce and memorize the steps needed to check code. The
+   more ownership students take of this list, the more likely they are to use it over the next few
+   months, which will make error-checking habitual.
 
 3. If you do not have classroom copies of the textbook, list the following errors on the board as
-  required steps for students to have on their code-checking “algorithm.” If you feel that you have
-  enough time, have students put these on the board.
-  - File name matches class name
-  - All code is spelled correctly
-  - All code is capitalized correctly
-  - All statements end in a semicolon
-  - Keywords are included
-  - Strings are enclosed in “quotation marks”
-  - There are no extra punctuation marks
-  - All header open-braces are paired with closed-braces
+   required steps for students to have on their code-checking “algorithm.” If you feel that you have
+   enough time, have students put these on the board.
+   - File name matches class name
+   - All code is spelled correctly
+   - All code is capitalized correctly
+   - All statements end in a semicolon
+   - Keywords are included
+   - Strings are enclosed in “quotation marks”
+   - There are no extra punctuation marks
+   - All header open-braces are paired with closed-braces
 
 ### Worksheet \[20 minutes\]
 
 1. For 5 minutes go over documentation and proper commenting. Also go over identifiers, camelCase,
    and do a short introduction to style. Style will be covered in 1.08, but it’s important that
-     they are introduced to it here.
+   they are introduced to it here.
 
 2. Students have 15 minutes to complete WS 1.4. As they solve each problem, students should apply
    their personal proofreading algorithm to help check their solution for correctness.
 
 ### Students trade work, check, and turn in \[5 minutes\]
-
 At the end of class, have students trade their worksheets to check each other’s answers before
 turning in the worksheet.
 

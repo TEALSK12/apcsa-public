@@ -47,48 +47,48 @@ attention to the entire review, taking supplemental notes the entire time.
 ### Class Discussion (if needed) \[10 minutes\]
 
 1. If grades are low, invite the class to a discussion of what can be improved. Begin with student
-complaints and suggestions to build student buy-in. Ask students:
-  - How they felt they were going to do before the test
-  - What surprised them once they were taking the test
-  - What they felt worked in the first unit (lessons, review strategies, assignments)
-  - What do they think they want to change for the second unit
+   complaints and suggestions to build student buy-in. Ask students:
+   - How they felt they were going to do before the test
+   - What surprised them once they were taking the test
+   - What they felt worked in the first unit (lessons, review strategies, assignments)
+   - What do they think they want to change for the second unit
 
 2. Once you feel that a dialogue has been established, validate students’ feelings, then challenge
-them (_e.g._ AP courses are stressful, but this is good practice for college, where the pace is
-faster and professors don’t give personalized instruction). In a non-judgmental, supportive tone,
-remind students that to be successful in the course:
-  - Reading is mandatory
+   them (_e.g._ AP courses are stressful, but this is good practice for college, where the pace is
+   faster and professors don’t give personalized instruction). In a non-judgmental, supportive tone,
+   remind students that to be successful in the course:
+   - Reading is mandatory
 
-  - Homework is mandatory (And valuable! You will never assign “busy” work.)
+   - Homework is mandatory (And valuable! You will never assign “busy” work.)
 
-  - To better manage their time, students should plan for 1 hour of homework a weeknight, with up to
-    2 hours of homework each weekend. If this seems impossible, they should meet with you or their
-    guidance counselor to assess whether they can fit in an AP class at this time.
+   - To better manage their time, students should plan for 1 hour of homework a weeknight, with up to
+     2 hours of homework each weekend. If this seems impossible, they should meet with you or their
+     guidance counselor to assess whether they can fit in an AP class at this time.
 
-  - It is VERY important to keep your tone sympathetic at this point—an overworked, overstressed,
-    underperforming student will slow your entire class down, and color that student against CS for
-    the future!
+   - It is VERY important to keep your tone sympathetic at this point—an overworked, overstressed,
+     underperforming student will slow your entire class down, and color that student against CS for
+     the future!
 
 ### Test Review and Reteach \[30 minutes\]
 
 1. Walk the students through each question on the test, glossing over questions that everyone
-  answered correctly.
+   answered correctly.
 
-  a. You can ask for students to volunteer answers, or call on students randomly. Make sure that
-  students explain their logic when they answer. If a student gives an incorrect answer, the
-  explanation will tell you what you need to re-teach or clarify.
+   a. You can ask for students to volunteer answers, or call on students randomly. Make sure that
+   students explain their logic when they answer. If a student gives an incorrect answer, the
+   explanation will tell you what you need to re-teach or clarify.
 
-  b. Do not skip questions that everyone answered correctly, but do not spend more than the time it
-  takes to read the question, and congratulate students’ correct answers.
+   b. Do not skip questions that everyone answered correctly, but do not spend more than the time it
+   takes to read the question, and congratulate students’ correct answers.
 
 2. Project a copy of each question as you review—this will help students recall the question/process
-  the information.
+   the information.
 
 3. Make sure that students are taking notes during the re-teach, reminding students that for
-  homework, they will have an opportunity to win back some of the points on their exam.
+   homework, they will have an opportunity to win back some of the points on their exam.
 
 4. For Section II questions, select a sample of student work (with any identifying information
-  obscured), and work through the answer together as a class.
+   obscured), and work through the answer together as a class.
 
 ### Check student notes and return tests \[5 minutes\]
 At the end of class, check student notes, and return the tests in hard copy form if applicable.

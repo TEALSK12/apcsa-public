@@ -53,170 +53,172 @@ class, for example Pikachu, Bulbasaur.)
 ### Introduction \[15-30 minutes\]
 
 1. Ask students to review their notes from the day before, reminding you what the main components of
-  a class are. (Fields, methods, constructors, and encapsulation.)
+   a class are. (Fields, methods, constructors, and encapsulation.)
 
-  - The syntax for declaring a field is the same as the syntax for declaring normal variables (type
-    followed by semicolon). If your students are feeling confident, invite a volunteer up to declare a
-    field on the whiteboard for your Pokémon class.
+   - The syntax for declaring a field is the same as the syntax for declaring normal variables (type
+     followed by semicolon). If your students are feeling confident, invite a volunteer up to
+     declare a field on the whiteboard for your Pokémon class.
 
-  - Remind students that fields signify that EVERY instance object of the class should have that
-    variable inside it, so as their example, they should declare a trait that every instance of
-    Pokémon will have.
+   - Remind students that fields signify that EVERY instance object of the class should have that
+     variable inside it, so as their example, they should declare a trait that every instance of
+     Pokémon will have.
 
-  - Your example should look something like this:
+   - Your example should look something like this:
 
-    ``` Java
-    public class Pokemon {
-        private int hp;       // Pokémon stats include hit points, or "HP"
-        private int attack;
-    ```
+     ``` Java
+     public class Pokemon {
+         private int hp;       // Pokémon stats include hit points, or "HP"
+         private int attack;
+     ```
 
-  - Students will probably start volunteering additional examples once they realize that stats make
-    for good fields. Some other fields include:
+   - Students will probably start volunteering additional examples once they realize that stats make
+     for good fields. Some other fields include:
 
-    ``` Java
-        private int defense;
-        private int specialAttack;
-        private int specialDefense;
-        private int speed;
-    ```
+     ``` Java
+         private int defense;
+         private int specialAttack;
+         private int specialDefense;
+         private int speed;
+     ```
 
-  - For the sake of simplicity, try to keep students to 2 or 3 fields for now. Don’t just
-    arbitrarily declare this; encourage students to think about how we use classes and objects as
-    models. Ask them to criticize your current model.
+   - For the sake of simplicity, try to keep students to 2 or 3 fields for now. Don’t just
+     arbitrarily declare this; encourage students to think about how we use classes and objects as
+     models. Ask them to criticize your current model.
 
-    - Does it need to be complex yet?
+     - Does it need to be complex yet?
 
-    - If we opt for simplicity, what are we yielding in sufficiency/robustness?
+     - If we opt for simplicity, what are we yielding in sufficiency/robustness?
 
-    - If students agree to keep it simple for now, remind them that they can make a design choice to
-      increase complexity later. Most programmers start with a simpler model and build up as they
-      flesh out their program.
+     - If students agree to keep it simple for now, remind them that they can make a design choice
+       to increase complexity later. Most programmers start with a simpler model and build up as
+       they flesh out their program.
 
-    If students need additional examples for appropriate fields, lead students through the following
-    examples (having them add as much of the code as possible). Make sure that students can justify
-    their choices in fields and explain why they would include some data and not others. At every
-    opportunity, repeat the fact that they are **using data to model the real world**:
+     If students need additional examples for appropriate fields, lead students through the
+     following examples (having them add as much of the code as possible). Make sure that students
+     can justify their choices in fields and explain why they would include some data and not
+     others. At every opportunity, repeat the fact that they are **using data to model the real
+     world**:
 
-    ``` Java
-    public class Student {
-        private String name;
-        private int    gradeLevel;
-        private double gpa;
+     ``` Java
+     public class Student {
+         private String name;
+         private int    gradeLevel;
+         private double gpa;
 
-    public class Dog {
-        private String breed;
-        private double weightInKg;
+     public class Dog {
+         private String breed;
+         private double weightInKg;
 
-    public class Forecast {
-        private double  windSpeed;
-        private String  windDirection;
-        private boolean tornadoWarning;
-    ```
+     public class Forecast {
+         private double  windSpeed;
+         private String  windDirection;
+         private boolean tornadoWarning;
+     ```
 
 2. Remind students that in the previous class they learned that objects combine both state (data)
-  and behavior (methods). So far we’ve created fields in our classes that state what data will be
-  stored in all instance objects.
+   and behavior (methods). So far we’ve created fields in our classes that state what data will be
+   stored in all instance objects.
 
-  - What would be a good method to include in all instances of the Student class?
-  - What would be a good method for all instances of the Dog class to have?
-  - What method should all forecasts have, no matter what area you’re forecasting for?
+   - What would be a good method to include in all instances of the Student class?
+   - What would be a good method for all instances of the Dog class to have?
+   - What method should all forecasts have, no matter what area you’re forecasting for?
 
 3. Let’s add a method inside the object that will report information about the data stored in our
-  Pokémon objects. Because this method is being written within the object, we refer to it as an
-  instance method (it is not in client code).
+   Pokémon objects. Because this method is being written within the object, we refer to it as an
+   instance method (it is not in client code).
 
-  - Pokémon get an effort ribbon if their combined stats exceed a certain value. What would the
-    method sumStats look like?
+   - Pokémon get an effort ribbon if their combined stats exceed a certain value. What would the
+     method sumStats look like?
 
-    ``` Java
-    public int sumStats() {
-        return HP + attack + defense + specialAttack + specialDefense + speed;
-    }
-    ```
+     ``` Java
+     public int sumStats() {
+         return HP + attack + defense + specialAttack + specialDefense + speed;
+     }
+     ```
 
-  - Since this method gets information about your Pokémon instance, but doesn’t change any of the
-    values, what do you call this type of method? (_Accessor_)
+   - Since this method gets information about your Pokémon instance, but doesn’t change any of the
+     values, what do you call this type of method? (_Accessor_)
 
-  - Is this client code? (_No, it is part of the Pokémon class, which is why we call it an instance
-    method._)
+   - Is this client code? (_No, it is part of the Pokémon class, which is why we call it an instance
+     method._)
 
 4. Let’s write another instance method that will let us change the state (data values) stored in our
-  Pokémon instance objects. In the game, what can you do to cause your stats to change? (Win
-  battles, consume vitamins)
+   Pokémon instance objects. In the game, what can you do to cause your stats to change? (Win
+   battles, consume vitamins)
 
-  - Pokémon can use vitamins to boost their stats. Here are some examples for you to use at the board:
+   - Pokémon can use vitamins to boost their stats. Here are some examples for you to use at the
+     board:
 
-    | Vitamin | Function
-    |---------|----------------------------
-    | hpUp    | + points to HP
-    | protein | + points to attack
-    | iron    | + points to defense
-    | zinc    | + points to specialDefense
+     | Vitamin | Function
+     |---------|----------------------------
+     | hpUp    | + points to HP
+     | protein | + points to attack
+     | iron    | + points to defense
+     | zinc    | + points to specialDefense
 
-  - In keeping with our earlier example, a method to update stats with vitamins would look something
-    like this:
+   - In keeping with our earlier example, a method to update stats with vitamins would look
+     something like this:
 
-    ``` Java
-    public void consumeVitamin (int hpUp, int protein) {
-        hp += hpUp;
-        attack += protein;
-    }
-    ```
-    _Students may want to add other vitamins._
+     ``` Java
+     public void consumeVitamin (int hpUp, int protein) {
+         hp += hpUp;
+         attack += protein;
+     }
+     ```
+     _Students may want to add other vitamins._
 
 5. Ask students if they can deduce the syntax rules for instance methods based on the two methods
-  we’ve written so far:
+   we’ve written so far:
 
-  ``` Java
-  public <type> <name> (<type <name>, <type> <name> …) {
-      <statement>
-      <statement>
-      …
-  }
-  ```
+   ``` Java
+   public <type> <name> (<type <name>, <type> <name> …) {
+       <statement>
+       <statement>
+       …
+   }
+   ```
 
 6. Since we know that all instances of our Pokémon class will have initial values to their stats, we
-  could create a constructor to initialize all of our values.
+   could create a constructor to initialize all of our values.
 
-  - It often doesn’t make sense to have Java auto initialize our stats to 0, so we build our own
-    constructor that requires us to pass initial parameters.
+   - It often doesn’t make sense to have Java auto initialize our stats to 0, so we build our own
+     constructor that requires us to pass initial parameters.
 
-  - Have students point out to you the class, fields, and constructor:
+   - Have students point out to you the class, fields, and constructor:
 
-    ``` Java
-    public class Pokemon {
-        int hp;
-        int attack;
+     ``` Java
+     public class Pokemon {
+         int hp;
+         int attack;
 
-        public Pokemon (int hitpoints, int a) {           // In a complete version you
-            hp = hitpoints;                               // would include all stats.
-            attack = a;
-        }
-    }
-    ```
+         public Pokemon (int hitpoints, int a) {           // In a complete version you
+             hp = hitpoints;                               // would include all stats.
+             attack = a;
+         }
+     }
+     ```
 
 7. Now that you used the constructor, it’s very easy to create objects! What would an instance of
-  the class Pokémon be? (Any Pokémon type; Pikachu, Bulbasaur, Squirtle, etc.)
+   the class Pokémon be? (Any Pokémon type; Pikachu, Bulbasaur, Squirtle, etc.)
 
-  ``` Java
-  Pokemon pikachu = new Pokemon(70, 120);
-  ```
+   ``` Java
+   Pokemon pikachu = new Pokemon(70, 120);
+   ```
 
-  If students are getting excited about this example, ask them to look up types and their typical
-  initial values (IVs) for hit points and attack. Let them practice constructing new instances of
-  the Pokémon class.
+   If students are getting excited about this example, ask them to look up types and their typical
+   initial values (IVs) for hit points and attack. Let them practice constructing new instances of
+   the Pokémon class.
 
-  - Ask students how you would add the Pokémon type (electric, ground, rock, etc.) to the
-    constructor.
+   - Ask students how you would add the Pokémon type (electric, ground, rock, etc.) to the
+     constructor.
 
-  - Point out that it is incorrect to construct a Pokémon object without passing initial hitPoints
-    and attack parameters. Since you wrote a custom-made constructor for your class, Java won’t let
-    you call new Pokémon() anymore. Instead, your code just won’t compile.
+   - Point out that it is incorrect to construct a Pokémon object without passing initial hitPoints
+     and attack parameters. Since you wrote a custom-made constructor for your class, Java won’t let
+     you call new Pokémon() anymore. Instead, your code just won’t compile.
 
 ### Student Practice: WS 5.2 \[25 minutes\]
 1. Remind students to use their textbooks, notes, classroom resources, and online aids to help them
-  answer the questions on WS 5.2.
+   answer the questions on WS 5.2.
 
 2. Encourage students to work independently until the last 10 minutes of class.
 

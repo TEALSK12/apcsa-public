@@ -54,21 +54,21 @@ class.
 ### Introduction to Class Constants \[10 minutes\]
 
 1. Present on a board or projector a complete Java class that solves the programming project.
-  Ideally, this would be a student solution. Walk the class through the solution, having students
-  help you trace the flow of control and predicting output to confirm that the program works.
+   Ideally, this would be a student solution. Walk the class through the solution, having students
+   help you trace the flow of control and predicting output to confirm that the program works.
 
-  - Ask students what they would need to change in order to make the hour glass X units larger. Only
-    change the values that students specify in order to drive home the idea that many values in the
-    for loop termination must be updated.
+   - Ask students what they would need to change in order to make the hour glass X units larger.
+     Only change the values that students specify in order to drive home the idea that many values
+     in the for loop termination must be updated.
 
-  - Suggest that there might be an easier way to update all of these values at once, and introduce
-    **class constants**.
+   - Suggest that there might be an easier way to update all of these values at once, and introduce
+     **class constants**.
 
 2. Trace or run the program with the updated class constants to demonstrate that this does indeed
-  work.
+   work.
 
 3. If you are running the program in Eclipse, show that you can easily change the constants. Change
-  the values several times, running the program each time to drive this home.
+   the values several times, running the program each time to drive this home.
 
 ### Students Update Their Code \[10 minutes\]
 Give students time to update their project code, now including class constants.

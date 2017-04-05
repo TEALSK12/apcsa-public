@@ -47,42 +47,42 @@ pay attention to the entire review, taking supplemental notes the entire time.
 ### Quiz Review & Reteach \[30 minutes\]
 
 1. If grades are low, invite the class to a discussion of what can be improved. With your
-  co-teachers and/or TAs you should decide how to shift focus as the AP test is right around the
-  corner. With your students, you should follow the same post-mortem format as in other review
-  units, but with the AP exam in mind.
+   co-teachers and/or TAs you should decide how to shift focus as the AP test is right around the
+   corner. With your students, you should follow the same post-mortem format as in other review
+   units, but with the AP exam in mind.
 
-  - Do your students want to focus on Section II test taking strategies?
+   - Do your students want to focus on Section II test taking strategies?
 
-  - Perhaps they feel they need to drill quick-response Section I questions?
+   - Perhaps they feel they need to drill quick-response Section I questions?
 
-  - As a sanity-check, students should be reminded that they only have 1.5 minutes to solve each
-    Section I question on the AP. If they are note near this pace, or if this is an unrealistic goal
-    (due to language and/or reading barriers), decide as a class to focus on test-taking strategies
-    (skipping, guessing, process of elimination) to reduce anxiety and recoup some potentially lost
-    points.
+   - As a sanity-check, students should be reminded that they only have 1.5 minutes to solve each
+     Section I question on the AP. If they are note near this pace, or if this is an unrealistic
+     goal (due to language and/or reading barriers), decide as a class to focus on test-taking
+     strategies (skipping, guessing, process of elimination) to reduce anxiety and recoup some
+     potentially lost points.
 
-  Students can get very discouraged during this time of year. Inspire and amuse your class by
-  pointing out old word walls or assignments (if you still have them up), showing students how far
-  they have come since the beginning of the school year.
+   Students can get very discouraged during this time of year. Inspire and amuse your class by
+   pointing out old word walls or assignments (if you still have them up), showing students how far
+   they have come since the beginning of the school year.
 
 2. Walk the students through each question on the test, glossing over questions that everyone
-  answered correctly.
+   answered correctly.
 
-  - You can ask for students to volunteer answers, or call on students randomly. Make sure that
-  students explain their logic when they answer. If a student gives an incorrect answer, the
-  explanation will tell you what you need to re-teach or clarify.
+   - You can ask for students to volunteer answers, or call on students randomly. Make sure that
+     students explain their logic when they answer. If a student gives an incorrect answer, the
+     explanation will tell you what you need to re-teach or clarify.
 
-  - Do not skip questions that everyone answered correctly, but do not spend more than the time it
-    takes to read the question, and congratulate students’ correct answers.
+   - Do not skip questions that everyone answered correctly, but do not spend more than the time it
+     takes to read the question, and congratulate students’ correct answers.
 
 3. Project a copy of each question as you review—this will help students recall the question/process
-  the information.
+   the information.
 
 4. Make sure that students are taking notes during the re-teach, reminding students that for
-  homework, they will have an opportunity to win back some of the points on their exam.
+   homework, they will have an opportunity to win back some of the points on their exam.
 
 5. For Section II-type questions, select a sample of student work (with any identifying information
-  obscured), and work through the answer together as a class.
+   obscured), and work through the answer together as a class.
 
 ### Return Quizzes/Start Homework Assignment \[15 minutes\]
 At the end of class, if time allows, return the quizzes and allow students some time to begin their

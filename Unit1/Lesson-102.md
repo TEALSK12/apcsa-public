@@ -1,4 +1,4 @@
-# Lesson 1.02 — Algorithms & Computational Thinking
+Lesson 1.02 — Algorithms & Computational Thinking
 ====================================================================================================
 
 Overview
@@ -49,35 +49,35 @@ CS. As a hook, you should leave all of the food prep materials conspicuously lai
 of the classroom, without any explanation.
 
 1. You should begin your lesson with an informal, whole-group conversation about humans being the
-  first “computers.” This is a great opportunity to use history, women’s accomplishments in CS, and
-  humor to offer up and drill vocabulary without onerous repetition. Some suggestions for your
-  opening discussion:
+   first “computers.” This is a great opportunity to use history, women’s accomplishments in CS, and
+   humor to offer up and drill vocabulary without onerous repetition. Some suggestions for your
+   opening discussion:
 
-  - Computer was originally a job description, and was first used in 1613 to describe someone who
-    performs mathematical calculations.
+   - Computer was originally a job description, and was first used in 1613 to describe someone who
+     performs mathematical calculations.
 
-  - Early computers were mostly women:
+   - Early computers were mostly women:
 
-    <img src="media/figure-102a.jpg" /><br>
-    http://www.officemuseum.com/IMagesWWW/Early_1920s_Veterans_Bureau_Calculating_WWI_Vet_Bonuses_LOC.JPG).
+     <img src="media/figure-102a.jpg" /><br>
+     http://www.officemuseum.com/IMagesWWW/Early_1920s_Veterans_Bureau_Calculating_WWI_Vet_Bonuses_LOC.JPG).
 
-  - Human computers have many similarities to mechanical computers. See how many of these your
-    students can predict with minimal prompting:
-    - Brain = CPU and processing
-    - Input = information (data) from sensing the environment
-    - Sensors = eyes, ears, nose, mouth, fingers/skin
-    - Output = behavior, action
+   - Human computers have many similarities to mechanical computers. See how many of these your
+     students can predict with minimal prompting:
+     - Brain = CPU and processing
+     - Input = information (data) from sensing the environment
+     - Sensors = eyes, ears, nose, mouth, fingers/skin
+     - Output = behavior, action
 
-  - You can model errors and exceptions by dramatically narrating and acting out a confusing set of
-    directions and the resultant mistake. Depending on your personal style, this can be a pratfall,
-    embarrassing social blunder (real or imagined), or simple spelling mistake (input: sounding out
-    a word with silent letters, error/output: the misspelled word)
+   - You can model errors and exceptions by dramatically narrating and acting out a confusing set of
+     directions and the resultant mistake. Depending on your personal style, this can be a pratfall,
+     embarrassing social blunder (real or imagined), or simple spelling mistake (input: sounding out
+     a word with silent letters, error/output: the misspelled word)
 
 2. Introduce the definition of an **algorithm**, and invite the students to write an algorithm for
-  you, the computer, to make a peanut butter and jelly sandwich.
+   you, the computer, to make a peanut butter and jelly sandwich.
 
-  - An algorithm may be defined as “a process or set of rules to be followed in calculations or
-    other problem-solving operations”
+   - An algorithm may be defined as “a process or set of rules to be followed in calculations or
+     other problem-solving operations”
 
 
 ### Explaining Activity and Assigning Pairs (2 minutes)
@@ -89,18 +89,18 @@ write a **complete set of directions** to describe the process of making the san
 1. Ask for a student volunteer to come to the front of the classroom to “be Java.”
 
 2. Randomly choose a student’s algorithm for your first try, and narrate as “Java” picks up the
-  “program” to read to you (the computer). Point out that when Java reads code, its compiler
-  translates the code you type in so the computer can read it in binary. Bonus points if you can get
-  the volunteer to read directions in a robotic voice.
+   “program” to read to you (the computer). Point out that when Java reads code, its compiler
+   translates the code you type in so the computer can read it in binary. Bonus points if you can get
+   the volunteer to read directions in a robotic voice.
 
 3. Ask your student volunteer reads the directions aloud, following instructions literally. Repeat
-  the instruction out loud as you model the action. Usually students forget to tell you to open the
-  bag of bread, etc. Ham up the errors, and stop “executing the program” when it becomes clear that
-  the algorithm won’t result in a functional PB&J. Point out that this is an error or exception—your
-  program does the same thing when it gets instructions that don’t make sense.
+   the instruction out loud as you model the action. Usually students forget to tell you to open the
+   bag of bread, etc. Ham up the errors, and stop “executing the program” when it becomes clear that
+   the algorithm won’t result in a functional PB&J. Point out that this is an error or exception—your
+   program does the same thing when it gets instructions that don’t make sense.
 
 4. Repeat this with 1 or 2 other algorithms, then graciously agree to let the class try again. Make
-  sure to use the phrase “debugging” and have the students use it as well.
+   sure to use the phrase “debugging” and have the students use it as well.
 
 ### Activity Round 2 (10–15 minutes)
 

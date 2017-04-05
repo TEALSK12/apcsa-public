@@ -45,87 +45,85 @@ of your classroom).
 ### Introduction to for Loops \[15 minutes\]
 
 1. If you haven’t already, distribute the handout with loop diagrams to your students. Following
-  along with the handout:
+   along with the handout:
 
-  - Start building your for loop, narrating the parts as you go. Ask students for help with the
-    different components of the program (starting with the public class):
+   - Start building your for loop, narrating the parts as you go. Ask students for help with the
+     different components of the program (starting with the public class):
 
-    ``` Java
-    public class Count1000 {
+     ``` Java
+     public class Count1000 {
 
-        public static void main (String[] args) {
-            for …
-    ```
+         public static void main (String[] args) {
+             for …
+     ```
 
-    (Break to work through the first page of the handout.)
+     (Break to work through the first page of the handout.)
 
 2. Call on students to read the parts 1–4. Have students place their fingers on the part of the
-  diagram that corresponds to the explanatory text.
+   diagram that corresponds to the explanatory text.
 
 3. Point out that even though Java is reading across the for loop at the top, Java jumps down to
-  check out the body of the loop to check if the test is true. If it’s true, it updates the loop and
-  executes what was in the body.
+   check out the body of the loop to check if the test is true. If it’s true, it updates the loop
+   and executes what was in the body.
 
-  - Trace this flow of control on the board, and have students physically trace it on their sheets
-    as you narrate the steps again.
+   - Trace this flow of control on the board, and have students physically trace it on their sheets
+     as you narrate the steps again.
 
-  - This last step is very, very important: don’t skip it! (humans have had communication by touch
-    and sight long before we evolved language—the learning centers of our brain are better able to
-    pick up new information if we involve movement, touch, or physical manipulation).
+   - This last step is very, very important: don’t skip it! (humans have had communication by touch
+     and sight long before we evolved language—the learning centers of our brain are better able to
+     pick up new information if we involve movement, touch, or physical manipulation).
 
 4. Ask students to do a quick Think-Pair-Share as to what the output will be for the sample code on
-  the handout. Get them started by writing out the first and second line of output while you trace
-  the loop as a whole class.
+   the handout. Get them started by writing out the first and second line of output while you trace
+   the loop as a whole class.
 
-  If this goes well, move on the final example and the activity for the day. If it doesn’t, re-teach
-  the concepts using the flow chart on the back of the handout.
+   If this goes well, move on the final example and the activity for the day. If it doesn’t,
+   re-teach the concepts using the flow chart on the back of the handout.
 
-  Again, have students trace the diagram with their hands. Have them turn the sheet back over to the
-  code diagram, and narrate the flow of control as they move their hands to where Java is reading
-  the program.
+   Again, have students trace the diagram with their hands. Have them turn the sheet back over to
+   the code diagram, and narrate the flow of control as they move their hands to where Java is
+   reading the program.
 
 5. Return to the program that will output the first 1,000 positive integers in fewer than 10 lines
-  of code. Encourage students to guess how many lines it will take to write the whole program:
+   of code. Encourage students to guess how many lines it will take to write the whole program:
 
-  ``` Java
-  public class Count1000 {
+   ``` Java
+   public class Count1000 {
 
-      public static void main (String[] args) {
-          for (int i = 1; i < 1000; i++) {
-              System.out.println(i);
-          }
-      }
-  }
-  ```
+       public static void main (String[] args) {
+           for (int i = 1; i < 1000; i++) {
+               System.out.println(i);
+           }
+       }
+   }
+   ```
 
-  Tweak different parts of the code and ask students to predict how it will change your output.
+   Tweak different parts of the code and ask students to predict how it will change your output.
 
-  - Change the continuation test to `i <= 1000`.
-  - Change the variable `i` to `x`.
-  - Change the update to `i += 2` (or `x += 2`, depending on which code you have up there).
-  - If any of these examples stump your class (and they will), take them through the loop, one
-    step at a time, writing down sample output to find the new pattern.
+   - Change the continuation test to `i <= 1000`.
+   - Change the variable `i` to `x`.
+   - Change the update to `i += 2` (or `x += 2`, depending on which code you have up there).
+   - If any of these examples stump your class (and they will), take them through the loop, one
+     step at a time, writing down sample output to find the new pattern.
 
 ### Practice-It Activity \[35 minutes\]
 
 1. Depending on the mood and frustration levels in the class, you may choose to have students work
-  in pairs.
+   in pairs.
 
-  a. If students are really having a rough time, work through the first Practice-It question
-    together as a whole group.
+   a. If students are really having a rough time, work through the first Practice-It question
+      together as a whole group.
 
-  b. Put soft, soothing (but upbeat) music on in the background to ease tension!
+   b. Put soft, soothing (but upbeat) music on in the background to ease tension!
 
 2. Have students log in to Practice-It to complete the following Practice-It self-check questions:
 
-  a. Count2
-
-  b. fingerTrap
-
-  c. howManyLines
+   a. Count2
+   b. fingerTrap
+   c. howManyLines
 
 3. If more 25% or more of the class is struggling, return to whole group with the stipulation that
-students who get it may continue working independently.
+   students who get it may continue working independently.
 
 
 Accommodation and Differentiation

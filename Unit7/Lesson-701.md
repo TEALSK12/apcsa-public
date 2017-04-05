@@ -51,39 +51,39 @@ computer algorithms by playing Battleship.
 1. Begin with a lecture/discussion about search algorithms.
 
 2. Computers are useful because they can manage large collections of data quickly and easily. Ask
-  students to give some examples about how large collections of information are managed by
-  computers.
+   students to give some examples about how large collections of information are managed by
+   computers.
 
-  _Examples:_ Data about items for sale are accessed as bar codes, schools store data about
-  students, which can be accessed by student name, ID number, or grade level, weathermen store
-  historical and current data about atmospheric conditions, etc.
+   _Examples:_ Data about items for sale are accessed as bar codes, schools store data about
+   students, which can be accessed by student name, ID number, or grade level, weathermen store
+   historical and current data about atmospheric conditions, etc.
 
 3. These data aren’t manageable unless we are able to search for a particular data point (datum).
 
-  _Example:_ When you search the internet, you’re searching for a single keyword (or phrase) called
-  a “search key” within a particular webpage (or set of webpages).
+   _Example:_ When you search the internet, you’re searching for a single keyword (or phrase) called
+   a “search key” within a particular webpage (or set of webpages).
 
 4. Even though computers work very quickly, when we deal with searching large datasets, we need to
-use algorithms that are quick to use. A difference of a second or two is actually quite a lot when
-you think about how many times a day we use searches.
+   use algorithms that are quick to use. A difference of a second or two is actually quite a lot when
+   you think about how many times a day we use searches.
 
-  - Using your phone, the class clock, a watch, stopwatch, or your computer, demonstrate for the class
-    what 3 seconds feels like. Ask students to imagine each websearch taking that long.
+   - Using your phone, the class clock, a watch, stopwatch, or your computer, demonstrate for the
+     class what 3 seconds feels like. Ask students to imagine each websearch taking that long.
 
-  - Demonstrate 10 seconds, and ask students to imagine what would happen in a grocery store if each
-    item scanned took 10 seconds for the price look-up. Ask for estimates on how long it would take
-    a single family to check out groceries for the week, and have students offer predictions as to
-    how this would affect business and consumer experience in the store.
+   - Demonstrate 10 seconds, and ask students to imagine what would happen in a grocery store if
+     each item scanned took 10 seconds for the price look-up. Ask for estimates on how long it would
+     take a single family to check out groceries for the week, and have students offer predictions
+     as to how this would affect business and consumer experience in the store.
 
 5. When we decide as program designers which searching or sorting algorithms to use, we factor in:
 
-  1. The size of the data array
-  2. The space efficiency of the algorithm (how much memory it uses)
-  3. Run-time efficiency (how fast it executes)
+   1. The size of the data array
+   2. The space efficiency of the algorithm (how much memory it uses)
+   3. Run-time efficiency (how fast it executes)
 
 6. _DEMONSTRATION:_ Using the CS Unplugged guide “Introductory Activity,” get your students thinking
-  about the process of and relationship between searching and sorting data. Use the introductory
-  activity to introduce the Battleship games.
+   about the process of and relationship between searching and sorting data. Use the introductory
+   activity to introduce the Battleship games.
 
 ### Student Activity 1: Battleship Linear Searching \[15 minutes\]
 

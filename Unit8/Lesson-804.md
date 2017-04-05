@@ -50,58 +50,59 @@ the lesson covers the splitting of the list.
 ### Introduction to MergeSort \[5 minutes\]
 
 1. Begin your lecture by bringing the class back to selection and insertion sort. Make the case that
-  selection and insertion sort both work, but take more time for your computer to process (graph in
-  slides).
+   selection and insertion sort both work, but take more time for your computer to process (graph in
+   slides).
 
 2. Show your class an example diagram of mergeSort; they should realize (with your help) that the
-  worst case performance for mergeSort is faster than either selection or insertion sort.
+   worst case performance for mergeSort is faster than either selection or insertion sort.
 
 ### Merge \[15 minutes\]
 
 1. Invite your class to try and merge two sorted lists of numbers. How would we compute a single
-  sorted list containing all the numbers in list 1 and list 2? Have your class set up the
-  pseudocode.
+   sorted list containing all the numbers in list 1 and list 2? Have your class set up the
+   pseudocode.
 
-  - We must maintain an index for each list starting at 0.
+   - We must maintain an index for each list starting at 0.
 
-  - We must create and empty list to hold the result.
+   - We must create and empty list to hold the result.
 
-  - When we haven’t exhausted our two lists, insert the smallest element at the point in the new
-    list and advance the index.
+   - When we haven’t exhausted our two lists, insert the smallest element at the point in the new
+     list and advance the index.
 
 2. Let your class work for 10 minutes to try and create the merge function. Using the responses they
-  come up with, lead them to the correct merge function. (Shown on slides, using
-  `ArrayList<Integer>`)
+   come up with, lead them to the correct merge function. (Shown on slides, using
+   `ArrayList<Integer>`)
 
 MergeSort \[30 minutes\]
 ------------------------
 
 1. Challenge your class to try and implement merge into a sorting algorithm. Those who have done the
-  reading should have an idea about where to get started, but may get stuck on the recursive portion.
+   reading should have an idea about where to get started, but may get stuck on the recursive
+   portion.
 
-  You can give them these instructions to get started:
+   You can give them these instructions to get started:
 
-    1. If the list’s size is 0 or 1, just return the original list (as it is already sorted)
+   1. If the list’s size is 0 or 1, just return the original list (as it is already sorted)
 
-    2. Split the list parameter into two lists, of (roughly) equal size: list 1 and 2.
+   2. Split the list parameter into two lists, of (roughly) equal size: list 1 and 2.
 
-    3. Sort both list 1 and 2.
+   3. Sort both list 1 and 2.
 
-    4. Merge the two sorted lists, and return the result.
+   4. Merge the two sorted lists, and return the result.
 
 2. For lab today, your class will be tasked with making this mergeSort algorithm. At the end of
-  class post the solution up on the board.
+   class post the solution up on the board.
 
-  Provide hints throughout the process, namely:
+   Provide hints throughout the process, namely:
 
-    1. When the list’s size is 0 or 1 and you return the original, that is your base case.
+   1. When the list’s size is 0 or 1 and you return the original, that is your base case.
 
-    2. Split your lists based off ArrayList.size().
+   2. Split your lists based off ArrayList.size().
 
-    3. The merge function does merging.
+   3. The merge function does merging.
 
 3. If the class is struggling, walk through the entire mergeSort algorithm with them, mergeSort is
-  covered by the AP so a base level of understanding is important.
+   covered by the AP so a base level of understanding is important.
 
 
 Accommodation and Differentiation

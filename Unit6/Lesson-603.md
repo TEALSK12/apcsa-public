@@ -53,76 +53,76 @@ method.
 
 ### Review of the Project \[10 minutes\]
 1. All classes are subclasses of the *Object* class. Whether you write extends in the header or not,
-  all classes inherit the *Object* class. It is built into Java this way, so you never have to
-  explicitly write *extends Object* in a class header.
+   all classes inherit the *Object* class. It is built into Java this way, so you never have to
+   explicitly write *extends Object* in a class header.
 
-  - This means that all code inherits some generalized methods that come automatically with the
-    *Object* class.
+   - This means that all code inherits some generalized methods that come automatically with the
+     *Object* class.
 
 2. The AP exam covers *toString* and *equals* methods only.
 
-  - Ask students if they remember what *toString* method does. (It gives the class name followed
-    by a location in memory, which isn’t very helpful, so we always create our own *toString*
-    methods when we create a class.)
+   - Ask students if they remember what *toString* method does. (It gives the class name followed
+     by a location in memory, which isn’t very helpful, so we always create our own *toString*
+     methods when we create a class.)
 
-  - Ask students if they remember why we can’t just use == to test for equality between objects.
+   - Ask students if they remember why we can’t just use == to test for equality between objects.
 
 3. The == operator tests whether two objects have the same identity, if they refer to the same
-  object, not whether the two objects are in the same state.
+   object, not whether the two objects are in the same state.
 
-  ``` Java
-  String z = "z";
-  String a = z + z;
-  String b = "zz";
+   ``` Java
+   String z = "z";
+   String a = z + z;
+   String b = "zz";
 
-  a == b;         // Evaluates to false because a and b refer to different Strings
+   a == b;         // Evaluates to false because a and b refer to different Strings
 
-  String c = b;
-  c == b;         // Evaluates to true because c and b refer to the same String
-  ```
+   String c = b;
+   c == b;         // Evaluates to true because c and b refer to the same String
+   ```
 
 4. The default *equals* method (that comes with your *Object* superclass) does the same thing as the
-  `==` operator. (Since the *equals* method comes from the *Object* superclass, it interprets its
-  input parameter as an object.) But for Strings, the equals method does something smarter:
+   `==` operator. (Since the *equals* method comes from the *Object* superclass, it interprets its
+   input parameter as an object.) But for Strings, the equals method does something smarter:
 
-  ``` Java
-  a.equals(b);    // Evaluates to true because the content of a and b are the same "zz"
-  c.equals(b);    // Evaluates to true because c and b refer to the same String
-  ```
+   ``` Java
+   a.equals(b);    // Evaluates to true because the content of a and b are the same "zz"
+   c.equals(b);    // Evaluates to true because c and b refer to the same String
+   ```
 
-  - To rewrite an *equals* method that compares object state (to override the *Object* version of
-    the equals method), you need to cast the object in order to let Java know that the objects
-    really can be compared.
+   - To rewrite an *equals* method that compares object state (to override the *Object* version of
+     the equals method), you need to cast the object in order to let Java know that the objects
+     really can be compared.
 
-  - To test if two *Drink* objects have the same name and serving size, you would write an *equals*
-    method that looks like this:
+   - To test if two *Drink* objects have the same name and serving size, you would write an *equals*
+     method that looks like this:
 
-    ``` Java
-    public boolean equals(Object o) {
-        Drink other = (Drink) o;
-        return name.equals(other.name) && (ounces == other.ounces);
-    }
-    ```
+     ``` Java
+     public boolean equals(Object o) {
+         Drink other = (Drink) o;
+         return name.equals(other.name) && (ounces == other.ounces);
+     }
+     ```
 
 ### Student Practice: Practice-It \[15 minutes\]
 1. Have students work individually or in pairs to complete the following Practice-It questions:
 
-  a. subclassSyntax<br>
-  b. inheritanceVariableSyntax<br>
-  c. CarTruck<br>
-  d. CarTruck2<br>
-  e. MonsterTruck
+   a. subclassSyntax<br>
+   b. inheritanceVariableSyntax<br>
+   c. CarTruck<br>
+   d. CarTruck2<br>
+   e. MonsterTruck
 
 ### Student Practice: WS 6.3 \[25 minutes\]
 Once students have completed these exercises, distribute worksheet 6.3.
 
-  - Read through the questions aloud, if needed.
+- Read through the questions aloud, if needed.
 
-  - If you are having the students work in Eclipse, be sure to review your procedure for submitting
-    work electronically before students begin.
+- If you are having the students work in Eclipse, be sure to review your procedure for submitting
+  work electronically before students begin.
 
-  - Encourage students to explore the drink bottles to get ideas for fields they can use in their
-    *Drink* subclasses.
+- Encourage students to explore the drink bottles to get ideas for fields they can use in their
+  *Drink* subclasses.
 
 
 Accommodation and Differentiation

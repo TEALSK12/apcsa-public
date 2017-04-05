@@ -64,10 +64,10 @@ Procedure
 ### Classroom Introduction \[20 minutes\]
 
 1. Using the slide deck as a base (edit the deck to fit your needs):
-  - Poll your class to learn their names, experience, and rationale behind taking the course.
-  - Go over background information of the computer science field.
-  - Go over class expectations and information.
-  - Touch on school requirements (varies) _e.g._ syllabus.
+   - Poll your class to learn their names, experience, and rationale behind taking the course.
+   - Go over background information of the computer science field.
+   - Go over class expectations and information.
+   - Touch on school requirements (varies) _e.g._ syllabus.
 
 2. Class icebreakers (varies school to school).
 
@@ -99,9 +99,9 @@ Expect this exercise to take 10 minutes or longer.
 Wait until all students have completed a step before moving on to another step.
 
 If you have extra time in class, introduce a “Scavenger Hunt” on Practice-It, and have students find:
-  - Where their account information is located
-  - Where a record of their completed problems are located
-  - Where the 3rd Self-Check problem for Chapter 7 is located
+   - Where their account information is located
+   - Where a record of their completed problems are located
+   - Where the 3rd Self-Check problem for Chapter 7 is located
 
 ### File Submission Procedure \[10 minutes\]
 

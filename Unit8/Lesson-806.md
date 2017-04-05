@@ -49,22 +49,23 @@ At the beginning of class today:
 
 1. Work through the various review topics, prioritizing questions that popped up the most.
 
-  - Some questions you may address while working through the sample test.
+   - Some questions you may address while working through the sample test.
 
-  - Be ready for additional questions to pop up as you go. Save yourself the work and use old
-    homework questions and student-generated test questions as examples to work through.
+   - Be ready for additional questions to pop up as you go. Save yourself the work and use old
+     homework questions and student-generated test questions as examples to work through.
 
 2. Use a combination of group-solving questions on the whiteboard, think-pair-share, and
-  timed-response as review strategies.
+   timed-response as review strategies.
 
 3. After you’ve completed reviewing an idea, remind the class that they should write down that topic
-  if they feel they still have to review it tonight.
+   if they feel they still have to review it tonight.
 
 ### Check Student Study Lists \[5 minutes\]
 Spend the last 5 minutes of class checking each student’s review topic list.
 
+
 Accommodation & Differentiation
-===============================
+-------------------------------
 
 The quiz features a recursive method to produce the Fibonacci sequence. If your students need extra
 help/scaffolding, you might want to show students this YouTube video

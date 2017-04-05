@@ -62,25 +62,25 @@ music, and avoid the pitfall of allowing students to select the station!
 ### Introduction and Homework Distribution \[5 minutes\]
 
 1. Return student homework packets, or have students place their returned homeworks in a pile on
-  their desk.
+   their desk.
 
 2. Explain to students that they have the opportunity to get full credit on their homework grades by
-  correcting them now, in class. Ask students for suggestions/ideas on how to make sure they don’t
-  miss any errors.
+   correcting them now, in class. Ask students for suggestions/ideas on how to make sure they don’t
+   miss any errors.
 
-  a. By now students should be used to relying on their error checklist/algorithm.
+   a. By now students should be used to relying on their error checklist/algorithm.
 
-  b. Hopefully, students suggest using the 4 Commandments of Scope, creating pseudocode and/or
-    structure diagrams to clarify thinking on program structure, and checking their notes and the
-    text book.
+   b. Hopefully, students suggest using the 4 Commandments of Scope, creating pseudocode and/or
+      structure diagrams to clarify thinking on program structure, and checking their notes and the
+      text book.
 
 ### Student Work \[35 minutes\]
 Have students work individually to correct their homework grades.
 
-  - Offer time checks for students so they stay on task.
+- Offer time checks for students so they stay on task.
 
-  - If students have not finished their programming project from yesterday’s class, allow them to do
-    so today.
+- If students have not finished their programming project from yesterday’s class, allow them to do
+  so today.
 
 ### Students trade work, check, and turn in \[10 minutes\]
 At the end of class, have students trade their homework assignments to evaluate each other’s
@@ -89,9 +89,8 @@ corrections before submission.
 
 Accommodation and Differentiation
 ---------------------------------
-If you have students who are speeding through this lesson, you should encourage them to:
-
-  - Tackle programming project 2 & 3 in the text book.
+If you have students who are speeding through this lesson, you should encourage them to tackle
+programming project 2 & 3 in the text book.
 
 If you were unable to finish grading student notebooks yesterday, finish them today while students
 are working. Return notebooks by the end of class so students may use them to study for the exam.

@@ -45,34 +45,34 @@ subject matter.
 ### Introduction and Test Format Orientation \[15 minutes\]
 
 1. Clearly indicate that you expect all students to have a list of review topics to study this
-  evening. Periodically remind students that this list will be checked at the end of class.
+   evening. Periodically remind students that this list will be checked at the end of class.
 
 2. Students should already be familiar with the sections of the test, but it doesn’t hurt to have
-  students re-read the directions.
+   students re-read the directions.
 
 3. Work through the sample problems on the test as a way of reviewing topics, and answer any
-  questions that students bring up as you go.
+   questions that students bring up as you go.
 
 ### Test Review \[30 minutes\]
 
 1. Using the results from the electronic survey, address the various review topics, prioritizing
-  questions that popped up the most.
+   questions that popped up the most.
 
-  a. Some questions you may already have addressed while working through the sample test.
+   a. Some questions you may already have addressed while working through the sample test.
 
-  b. Be ready for additional questions to pop up as you go. Save yourself the work and use old
-    homework questions and student-generated test questions as examples to work through.
+   b. Be ready for additional questions to pop up as you go. Save yourself the work and use old
+      homework questions and student-generated test questions as examples to work through.
 
-  c. Jot down notes about which topics you covered in review so you can adjust the exam to reflect
-    the topics your students have learned.
+   c. Jot down notes about which topics you covered in review so you can adjust the exam to reflect
+      the topics your students have learned.
 
 2. Use a combination of group-solving questions on the whiteboard, think-pair-share, and
-  timed-response as review strategies.
+   timed-response as review strategies.
 
 3. After you’ve completed reviewing an idea, remind the class that they should write down that topic
-  if they feel they still have to review it tonight. (Yes, this will be a reminder every few
-  minutes, but it will pay off later when students start creating review lists without prompting
-  later in the year!)
+   if they feel they still have to review it tonight. (Yes, this will be a reminder every few minutes,
+   but it will pay off later when students start creating review lists without prompting later in the
+   year!)
 
 ### Check student study lists \[5 minutes\]
 Spend the last 5 minutes of class checking each student’s review topic list.
@@ -80,7 +80,6 @@ Spend the last 5 minutes of class checking each student’s review topic list.
 
 Accommodation and Differentiation
 ---------------------------------
-
 In ELL classes, you may want to change code-writing questions to Parsons Problems. Educational
 research shows a high correlation between Parsons scores and code writing scores, and a low
 correlation between code writing and tracing and between Parsons and tracing. (In other words,

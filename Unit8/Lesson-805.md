@@ -54,31 +54,31 @@ code execution quietly.
 ### Introduction and Homework Distribution \[5 minutes\]
 
 1. Return student homework packets, or have students place their returned homeworks in a pile on
-  their desk.
+   their desk.
 
 2. Collect the homework assignments from last night, and quickly grade them while students are
-  working on their other assignments. Return those works back immediately so students can correct
-  any errors.
+   working on their other assignments. Return those works back immediately so students can correct
+   any errors.
 
-  Some of the assignments from the night before may take a while to grade (especially exercise
-  12.3). You may want to have students help you with the grading, or extend the classwork to
-  homework. If you cannot grade 12.3 before the end of class, you might want to integrate this
-  exercise into your test review session.
+   Some of the assignments from the night before may take a while to grade (especially exercise
+   12.3). You may want to have students help you with the grading, or extend the classwork to
+   homework. If you cannot grade 12.3 before the end of class, you might want to integrate this
+   exercise into your test review session.
 
 3. Explain to students that they have the opportunity to get full credit on their homework grades by
-  correcting them now, in class. Ask students for suggestions/ideas on how to make sure they don’t
-  miss any errors.
+   correcting them now, in class. Ask students for suggestions/ideas on how to make sure they don’t
+   miss any errors.
 
-  By now students should be used to relying on their error checklist/algorithm.
+   By now students should be used to relying on their error checklist/algorithm.
 
 ### Student Work \[35 minutes\]
 
 Have students work individually to correct their homework grades.
 
-  - Offer time checks for students so they stay on task.
+- Offer time checks for students so they stay on task.
 
-  - If students have not finished homework assignments, allow them time today to complete these
-    assignments to turn in for partial credit.
+- If students have not finished homework assignments, allow them time today to complete these
+  assignments to turn in for partial credit.
 
 ### Students trade work, check, and turn in \[10 minutes\]
 At the end of class, have students trade their homework assignments to evaluate each other’s

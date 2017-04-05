@@ -54,18 +54,18 @@ much time is left in class so students can pace themselves.
 1. Give students 5 minutes per team to present their topic.
 
 2. Encourage students to ask questions, and be sure to ask a question or two of each team (depending
-  on how many teams you have).
+   on how many teams you have).
 
 ### Worksheet \[15 minutes\]
 Leave about 10–15 minutes at the end of class for students to individually complete Practice-It
 questions:
 
-  1. ifElseMystery1<br>
-  2. ifElseMystery2<br>
-  3. season
+1. ifElseMystery1<br>
+2. ifElseMystery2<br>
+3. season
 
 Accommodation and Differentiation
-=================================
+---------------------------------
 Circle around the room to help students through reading the text in the textbook. Make sure that
 each of your working teams are properly stratified (rather than using tiered grouping).
 

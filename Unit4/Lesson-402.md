@@ -48,82 +48,82 @@ understanding, but let students help and challenge each other.
 ### Introduction to Arrays \[10 minutes\]
 
 1. Briefly introduce the **for-each loop**, **array initialization**, and the **Arrays class**
-  before dismissing the class to work on their group activity:
+   before dismissing the class to work on their group activity:
 
-  If you want to access each element in the array without changing the values (to summarize or count
-  them), you can access them using a for-each loop:
+   If you want to access each element in the array without changing the values (to summarize or
+   count them), you can access them using a for-each loop:
 
-  ``` Java
-  for (<type> <name> : <array>){
-      <statement>;
-      <statement>;
-      …
-  }
-  ```
+   ``` Java
+   for (<type> <name> : <array>){
+       <statement>;
+       <statement>;
+       …
+   }
+   ```
 
 2. Place an array on the board, demonstrating the quick way to declare an array, and then illustrate
-  how a for-each loop could be used to access the array:
+   how a for-each loop could be used to access the array:
 
-  ``` Java
-  int[] fallTemperatures = {55, 50, 59, 69, 48, 30, 48};
-  ```
+   ``` Java
+   int[] fallTemperatures = {55, 50, 59, 69, 48, 30, 48};
+   ```
 
-  - This initializes an array called fallTemperatures with 7 integer values. Ask students when they
-    might see these temperatures in their region, and how the values in the array would differ
-    during another season or in a different location. It may make sense in your region to change the
-    array name to winterTemperatures or nightTimeTemperatures, etc.
+   - This initializes an array called fallTemperatures with 7 integer values. Ask students when they
+     might see these temperatures in their region, and how the values in the array would differ
+     during another season or in a different location. It may make sense in your region to change
+     the array name to winterTemperatures or nightTimeTemperatures, etc.
 
-    ``` Java
-    for (int i = 0; i < fallTemperatures.length; i++) {
-        if (fallTemperatures[i] > 32) {
-            above++;
-        }
-    }
-    ```
+     ``` Java
+     for (int i = 0; i < fallTemperatures.length; i++) {
+         if (fallTemperatures[i] > 32) {
+             above++;
+         }
+     }
+     ```
 
-  - This is our traditional loop, which traverses the array and sums up all the temperatures that
-    are above freezing (we assume there is a method called “above” that keeps a running count of how
-    many days were above 32 degrees). We can express this same process with a for-each loop:
+   - This is our traditional loop, which traverses the array and sums up all the temperatures that
+     are above freezing (we assume there is a method called “above” that keeps a running count of
+     how many days were above 32 degrees). We can express this same process with a for-each loop:
 
-    ``` Java
-    for (int i : fallTemperatures) {
-        if (i > 32) {
-            above++;
-        }
-    }
-    ```
+     ``` Java
+     for (int i : fallTemperatures) {
+         if (i > 32) {
+             above++;
+         }
+     }
+     ```
 
-    with the general form of:
+     with the general form of:
 
-    ``` Java
-    for (<type> <name> : <array>) {
-        <statement>;
-        <statement>;
-        …
-    }
-    ```
+     ``` Java
+     for (<type> <name> : <array>) {
+         <statement>;
+         <statement>;
+         …
+     }
+     ```
 
-  - Make a point of having your students write a note to remind themselves that for-each loops
-    cannot modify values within an array, only examine each value in sequence.
+   - Make a point of having your students write a note to remind themselves that for-each loops
+     cannot modify values within an array, only examine each value in sequence.
 
 ### Student Array Activity \[35 minutes\]
 
 1. Distribute white boards and markers or paper printouts to group workstations before students get
-  seated.
+   seated.
 
 2. If you feel that your students need the additional structure, assign groups to work together.
 
 3. If you think students will need the extra guidance, help students together in a whole-group
-  setting. To help students without giving them the answer outright, point out that:
+   setting. To help students without giving them the answer outright, point out that:
 
-  a. `numbers[7]` evaluates to `0`.
+   a. `numbers[7]` evaluates to `0`.
 
-  b. `numbers[numbers[7]]` → `numbers[0]` does NOT evaluate to 0.
+   b. `numbers[numbers[7]]` → `numbers[0]` does NOT evaluate to 0.
 
-  c. Instead, the memory location `numbers[0]` (the index 0 of the numbers array) receives a value.
+   c. Instead, the memory location `numbers[0]` (the index 0 of the numbers array) receives a value.
 
 4. Walk around the room, spot-checking for student understanding and answering any student
-  questions.
+   questions.
 
 ### Paper Selection & Grade Announcement \[5 minutes\]
 At the end of class, consider choosing one group’s whiteboard to evaluate as a demonstration for the

@@ -53,16 +53,16 @@ Encourage students to take supplemental notes in their notebook and on the hando
 
 1. Using WS 2.7, walk students through the sample illustration of **scope** and scope-related error.
 
-  Before you explain that brackets define scope, ask students to tell you why they think the error
-  in the example. They may be able to spot the scope from their reading last night.
+   Before you explain that brackets define scope, ask students to tell you why they think the error
+   in the example. They may be able to spot the scope from their reading last night.
 
 2. Have students copy the rules for scope off the worksheet and into their notebooks. Students
-  should head the page “The 4 Commandments of Scope,” and illustrate, circle, highlight, star, or
-  otherwise emphasize these rules so they are easy to find in the notebook throughout the year.
+   should head the page “The 4 Commandments of Scope,” and illustrate, circle, highlight, star, or
+   otherwise emphasize these rules so they are easy to find in the notebook throughout the year.
 
-  - Transcribing these notes is not busywork—in the ELL classroom, this slows down the pace and
-    allows students additional time to process the language and study the concepts conveyed. This is
-    a good strategy for all classes (ELL or not)!
+   - Transcribing these notes is not busywork—in the ELL classroom, this slows down the pace and
+     allows students additional time to process the language and study the concepts conveyed. This
+     is a good strategy for all classes (ELL or not)!
 
 At this point, your class may be raring to get started on the rest of the assignment without your
 help. If they are, great!
@@ -74,25 +74,24 @@ ask the class to explain to you how/why you know that scope a begins and ends wh
 
 1. Have students work independently or in pairs on WS 2.7.
 
-  a. Remind students to refer to their 4 Commandments when searching for errors.
+   a. Remind students to refer to their 4 Commandments when searching for errors.
 
-  b. Play music quietly in the background to encourage focus and discourage chatting.
+   b. Play music quietly in the background to encourage focus and discourage chatting.
 
-  c. If students are struggling with the exercise, allow them to pair up. Encourage students to
-  trade papers and look for errors.
+   c. If students are struggling with the exercise, allow them to pair up. Encourage students to
+      trade papers and look for errors.
 
 2. If more 25% or more of the class is struggling, return to whole group with the stipulation that
-  students who get it may continue working independently.
+   students who get it may continue working independently.
 
 3. Review answers as a whole group. Make sure to call the variables boxed in Exercise 1 “local
-  variables,” and ask students to explain what makes them localized.
+   variables,” and ask students to explain what makes them localized.
 
 ### Introduction to pseudocode \[5 minutes\]
 Using an example that was popular during the last week of class, show students how to plan a program
 using **pseudocode**.
 
 ### Programming Project 1 \[20 minutes\]
-
 As a class, begin planning a program to answer Programming Project 1.
 
 The challenging task of writing the pseudocode and/or structure diagram (you should always require

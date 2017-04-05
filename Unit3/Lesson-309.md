@@ -50,69 +50,69 @@ set up the grudgeball “court” and scoreboard before class begins so as to my
 
 ### Introduction & Note-Taking \[15 minutes\]
 
-1. Before you begin lecture, announce to students that they should pay close attention, since the
-  lecture content will be tested during the game.
+Before you begin lecture, announce to students that they should pay close attention, since the
+lecture content will be tested during the game.
 
-  - If you want to write code that executes some of the time, but not all the time, you can write an
-    **if statement** (ask students what situations might use an if statement—if they are stuck, ask
-    them to think about their last few programming projects!)
+- If you want to write code that executes some of the time, but not all the time, you can write an
+  **if statement** (ask students what situations might use an if statement—if they are stuck, ask
+  them to think about their last few programming projects!)
 
-    ``` Java
-    if (test) {         // Boolean Expression
-        <statement>;    // Control Statement
-        <statement>;    // Control Statement
-    }
-    ```
+  ``` Java
+  if (test) {         // Boolean Expression
+      <statement>;    // Control Statement
+      <statement>;    // Control Statement
+  }
+  ```
 
-  - Have students come up to the front of the room to demonstrate the flow of control of the if
-    control structure.
+- Have students come up to the front of the room to demonstrate the flow of control of the if
+  control structure.
 
-  - Put 2 alternatives together by using an if/else statement:
+- Put 2 alternatives together by using an if/else statement:
 
-    ``` Java
-    if (test) {
-        <statement>;
-        <statement>;
-    } else {
-        <statement>;
-        <statement>;
-    }
-    ```
+  ``` Java
+  if (test) {
+      <statement>;
+      <statement>;
+  } else {
+      <statement>;
+      <statement>;
+  }
+  ```
 
-  - So what should students put in the “test” section to evaluate as true or false?
+- So what should students put in the “test” section to evaluate as true or false?
 
-    ```
-          3 * 3                ==            3 * 1 * 3
-    // <expression>  <relational operator>  <expression>
-    ```
-    Evaluate both expressions, then see if the relational operator holds true or not.
+  ```
+        3 * 3                ==            3 * 1 * 3
+  // <expression>  <relational operator>  <expression>
+  ```
+  Evaluate both expressions, then see if the relational operator holds true or not.
 
-  - Operators students need to know:
+- Operators students need to know:
 
-    | Token  | Meaning                  |
-    |:------:|:-------------------------|
-    |  `==`  | equal to                 |
-    |  `!=`  | not equal to             |
-    |  `<`   | less than                |
-    |  `>`   | greater than             |
-    |  `<=`  | less than or equal to    |
-    |  `>=`  | greater than or equal to |
+  | Token  | Meaning                  |
+  |:------:|:-------------------------|
+  |  `==`  | equal to                 |
+  |  `!=`  | not equal to             |
+  |  `<`   | less than                |
+  |  `>`   | greater than             |
+  |  `<=`  | less than or equal to    |
+  |  `>=`  | greater than or equal to |
 
-  - As far as precedence goes:
-    - relational operators have a lower precedence than arithmetic operators
-    - relational operators have higher than equality operators
-    - inequality operators (`<`, `>`, `<=`, `>=`) have higher precedence than the equality
-      operators (`==`, `!=`)
+- As far as precedence goes:
+  - relational operators have a lower precedence than arithmetic operators
+  - relational operators have higher than equality operators
+  - inequality operators (`<`, `>`, `<=`, `>=`) have higher precedence than the equality
+    operators (`==`, `!=`)
 
-    `3 + 2 * 2 == 9` evaluates to: `false`, since `7` is not equal to `9`.
+  `3 + 2 * 2 == 9` evaluates to: `false`, since `7` is not equal to `9`.
 
-    Have students direct you how to solve this.
+  Have students direct you how to solve this.
 
-    If you’d like to refer to a visual aid for this segment of the introduction, poster 3.16.2
-    illustrates Java rules of precedence for all operators.
+  If you’d like to refer to a visual aid for this segment of the introduction, poster 3.16.2
+  illustrates Java rules of precedence for all operators.
 
-  - You can only use a relational operator on primitive data types! (Ask students which types are
-    included, which ones are excluded.)
+- You can only use a relational operator on primitive data types! (Ask students which types are
+  included, which ones are excluded.)
 
 ### Activity: Grudgeball \[35 minutes\] \[Optional\]
 
@@ -125,18 +125,21 @@ moving on to 3.10.
 2. Review the rules for grudgeball, and have the students repeat the rules back to you.
 
 3. Using the problems listed below (and any you may add, depending on your class’ needs), play
-  grudgeball until a team wins, or until the class period ends.
+   grudgeball until a team wins, or until the class period ends.
 
-  1. If a class gets the answer wrong, BRIEFLY pause the game to have students offer corrections
-    before moving to the next team’s question.
+   1. If a class gets the answer wrong, BRIEFLY pause the game to have students offer corrections
+      before moving to the next team’s question.
 
-  2. If correction seems to be dragging on, jump in and quickly re-teach using the incorrect answer
-    as your example. It is important to keep the pace going to maintain student interest in the game!
+   2. If correction seems to be dragging on, jump in and quickly re-teach using the incorrect answer
+      as your example. It is important to keep the pace going to maintain student interest in the
+      game!
 
 4. Grudgeball problems & answers have been grouped assuming that you have 6 teams. If you have fewer
-  teams, each “round” will be shifted accordingly, so you may have rounds where different teams are
-  practicing different concepts. Judge each team’s knowledge gaps, and adjust which questions you
-  ask each group accordingly.
+   teams, each “round” will be shifted accordingly, so you may have rounds where different teams are
+   practicing different concepts. Judge each team’s knowledge gaps, and adjust which questions you
+   ask each group accordingly.
+
+----------------------------------------------------------------------------------------------------
 
 #### GRUDGEBALL PROBLEMS
 
@@ -200,6 +203,8 @@ public class Oops4 {
     }
 }
 ```
+
+----------------------------------------------------------------------------------------------------
 
 
 Accommodation and Differentiation

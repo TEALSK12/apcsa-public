@@ -49,92 +49,92 @@ tested during the game.
 ### Introduction and note-taking \[10 minutes\]
 
 1. Ask students to name some limitations of arrays: shifting values is an ordeal, adding elements
-  requires forming a new, larger array and copying values over, deleting elements leaves empty,
-  unused indexes.
+   requires forming a new, larger array and copying values over, deleting elements leaves empty,
+   unused indexes.
 
 2. Introduce the more flexible ArrayList (be sure to remind students that they need to `import
-  java.util.ArrayList`):
+   java.util.ArrayList`):
 
-  - Uses arrays to store values (fast random access)
+   - Uses arrays to store values (fast random access)
 
-  - The ArrayList class contains methods to make add, remove, and shift values easily.
+   - The ArrayList class contains methods to make add, remove, and shift values easily.
 
-  - ArrayList takes a type parameter to determine what kind of values it will use as elements:
+   - ArrayList takes a type parameter to determine what kind of values it will use as elements:
 
-    * `ArrayList<String>` stores a list of Strings.
-    * `ArrayList<Point>` stores a list of Points.
+     * `ArrayList<String>` stores a list of Strings.
+     * `ArrayList<Point>` stores a list of Points.
 
-  - If you forget to pass a parameter with the type you want the array to contain, the code won’t
-    execute.
+   - If you forget to pass a parameter with the type you want the array to contain, the code won’t
+     execute.
 
 3. Construct an ArrayList of Strings to demonstrate syntax:
 
-  **`ArrayList<String>`**` spongebob = new `**`ArrayList<String>`**`();`
+   **`ArrayList<String>`**` spongebob = new `**`ArrayList<String>`**`();`
 
-  - Even though the notation looks a bit different, the syntax is fairly similar to what we’ve used
-    in the past. `ArrayList<type>` is how we indicate the type—just like you’d use int when
-    declaring a one dimensional or two dimensional array.
+   - Even though the notation looks a bit different, the syntax is fairly similar to what we’ve used
+     in the past. `ArrayList<type>` is how we indicate the type—just like you’d use int when
+     declaring a one dimensional or two dimensional array.
 
-    `ArrayList<String> `**`spongebob`**` = new ArrayList<String>();`
+     `ArrayList<String> `**`spongebob`**` = new ArrayList<String>();`
 
-  - This is the name of your ArrayList. It can be any non-keyword that you want to use.
+   - This is the name of your ArrayList. It can be any non-keyword that you want to use.
 
-    `ArrayList<String> spongebob = `**`new`**` ArrayList<String>();`
+     `ArrayList<String> spongebob = `**`new`**` ArrayList<String>();`
 
-  - Ask students if they can tell you what the new keyword is for (we use the new keyword when
-    constructing an object).
+   - Ask students if they can tell you what the new keyword is for (we use the new keyword when
+     constructing an object).
 
-    `ArrayList<String> spongebob = new ArrayList<String>`**`()`**`;`
+     `ArrayList<String> spongebob = new ArrayList<String>`**`()`**`;`
 
-  - Whenever you see empty parentheses, it means that you’re not using parameters.
+   - Whenever you see empty parentheses, it means that you’re not using parameters.
 
 4. Using Poster 4.7, review some of the methods you can use to manipulate ArrayLists. Add some
-  `spongebob` elements to your `ArrayList`:
+   `spongebob` elements to your `ArrayList`:
 
-  ``` Java
-  spongebob.add ("Patrick Star");
-  spongebob.add ("Squidward Tentacles");
-  spongebob.add ("Mr. Krabs");
-  spongebob.add ("Pikachu");
-  spongebob.add ("Sandy Cheeks");
-  ```
+   ``` Java
+   spongebob.add ("Patrick Star");
+   spongebob.add ("Squidward Tentacles");
+   spongebob.add ("Mr. Krabs");
+   spongebob.add ("Pikachu");
+   spongebob.add ("Sandy Cheeks");
+   ```
 
-  - Ask students for suggestions on how to print out this ArrayList, and ask them to predict the
-    output:
+   - Ask students for suggestions on how to print out this ArrayList, and ask them to predict the
+     output:
 
-    ``` Java
-    System.out.println("Some of the characters on Spongebob are " + spongebob);
-    ```
+     ``` Java
+     System.out.println("Some of the characters on Spongebob are " + spongebob);
+     ```
 
-  - Students will probably notice that Pikachu is not a character in the Spongebob cartoon; ask them
-    to refer to Poster 4.7 to suggest some code to remove Pikachu from the list:
+   - Students will probably notice that Pikachu is not a character in the Spongebob cartoon; ask them
+     to refer to Poster 4.7 to suggest some code to remove Pikachu from the list:
 
-    ``` Java
-    spongebob.remove(3);    // Pikachu is stored at index 3
-    ```
+     ``` Java
+     spongebob.remove(3);    // Pikachu is stored at index 3
+     ```
 
-  - Now ask students to add another character from the show to the middle of the list, at index 3:
+   - Now ask students to add another character from the show to the middle of the list, at index 3:
 
-    ``` Java
-    spongebob.add(3, "Plankton");
-    ```
+     ``` Java
+     spongebob.add(3, "Plankton");
+     ```
 
-  - The first parameter 3 indicates the target location, and the second parameter `"Plankton"`
-    indicates the String to be stored there.
+   - The first parameter 3 indicates the target location, and the second parameter `"Plankton"`
+     indicates the String to be stored there.
 
-    ```
-    ["Patrick Star", "Squidward Tentacles", "Mr. Krabs", "Sandy Cheeks"]
-    ```
+     ```
+     ["Patrick Star", "Squidward Tentacles", "Mr. Krabs", "Sandy Cheeks"]
+     ```
 
-    becomes
+     becomes
 
-    ```
-    ["Patrick Star", "Squidward Tentacles", "Mr. Krabs", "Plankton"]
-    ```
+     ```
+     ["Patrick Star", "Squidward Tentacles", "Mr. Krabs", "Plankton"]
+     ```
 
 4. Briefly review a few other useful `ArrayList` methods. Students will have an opportunity to
-  practice (and you will have an opportunity to reteach if needed) during Grudgeball, so this can be
-  a quick overview:
+   practice (and you will have an opportunity to reteach if needed) during Grudgeball, so this can
+   be a quick overview:
 
 ----------------------------------------------------------------------------------------------------
 
@@ -188,14 +188,14 @@ now).
 2. Review the rules for grudgeball, and have the students repeat the rules back to you.
 
 3. Using the problems listed below (and any you may add, depending on your class’ needs), play
-  grudgeball until a team wins, or until the class period ends.
+   grudgeball until a team wins, or until the class period ends.
 
-  a. If a class gets the answer wrong, BRIEFLY pause the game to have students offer corrections
-    before moving to the next team’s question.
+   a. If a class gets the answer wrong, BRIEFLY pause the game to have students offer corrections
+      before moving to the next team’s question.
 
-  b. If correction seems to be dragging on, jump in and quickly re-teach using the incorrect answer
-    as your example. It is important to keep the pace going to maintain student interest in the
-    game!
+   b. If correction seems to be dragging on, jump in and quickly re-teach using the incorrect answer
+      as your example. It is important to keep the pace going to maintain student interest in the
+      game!
 
 Gudgeball problems & answers have been grouped assuming that you have 6 teams. If you have fewer
 teams, each “round” will be shifted accordingly, so you may have rounds where different teams are
@@ -208,26 +208,26 @@ each group accordingly.
 
 _Use a type parameter to declare an ArrayList that:_
 
-  a. Stores a list of Strings → `ArrayList<String>`<br>
-  b. Stores a list of integers → `ArrayList<Integer>` (Wrapper class)<br>
-  c. Stores a list of Points → `ArrayList<Point>`<br>
-  d. Stores a list of doubles → `ArrayList<Double>` (Wrapper class)<br>
-  e. Stores a list of soccer teams → `ArrayList<String>`<br>
-  f. Stores a list of temperatures → `ArrayList<Double>` (Wrapper class)
+a. Stores a list of Strings → `ArrayList<String>`<br>
+b. Stores a list of integers → `ArrayList<Integer>` (Wrapper class)<br>
+c. Stores a list of Points → `ArrayList<Point>`<br>
+d. Stores a list of doubles → `ArrayList<Double>` (Wrapper class)<br>
+e. Stores a list of soccer teams → `ArrayList<String>`<br>
+f. Stores a list of temperatures → `ArrayList<Double>` (Wrapper class)
 
 _Construct an ArrayList:_
 
-  g. Called z that stores a list of ints → `ArrayList<int> z = new ArrayList<Integer>();`
+g. Called z that stores a list of ints → `ArrayList<int> z = new ArrayList<Integer>();`
 
-  h. Called list that stores a list of Strings → `ArrayList<String> list = new ArrayList<String>();`
+h. Called list that stores a list of Strings → `ArrayList<String> list = new ArrayList<String>();`
 
-  i. Called jose that stores a list of Points → `ArrayList<Point> jose = new ArrayList<Point>();`
+i. Called jose that stores a list of Points → `ArrayList<Point> jose = new ArrayList<Point>();`
 
-  j. Called pokemon that stores a list of Pokémon → `ArrayList<String> pokemon = new
-    ArrayList<String>();`
+j. Called pokemon that stores a list of Pokémon → `ArrayList<String> pokemon = new
+   ArrayList<String>();`
 
-  k. Called metroCard that stores the number of metrocard rides each student has left on their card
-    today → `ArrayList<Integer> metroCard = new ArrayList<Integer>();`
+k. Called metroCard that stores the number of metrocard rides each student has left on their card
+   today → `ArrayList<Integer> metroCard = new ArrayList<Integer>();`
 
 ----------------------------------------------------------------------------------------------------
 

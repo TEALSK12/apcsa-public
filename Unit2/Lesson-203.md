@@ -58,53 +58,53 @@ game.
 
 1. Begin with a lecture about the topics to be covered.
 
-  - **String concatenation**: lets you put together several strings into one string, the way we
-    combine numbers in an expression!
+   - **String concatenation**: lets you put together several strings into one string, the way we
+     combine numbers in an expression!
 
-  - When you see a + between strings (look for those quotation marks!), that means that you “add”
-    the strings together:
+   - When you see a + between strings (look for those quotation marks!), that means that you “add”
+     the strings together:
 
-    ``` Java
-    System.out.println("Spongebob thinks " + "the best time to wear" + " a sweater" + "is all the time!");
-    ```
+     ``` Java
+     System.out.println("Spongebob thinks " + "the best time to wear" + " a sweater" + "is all the time!");
+     ```
 
-    Carefully write out (or point out, if using a Powerpoint) the spaces within the Strings. Write
-    out how the string concatenates, asking students to predict the latter portion of the string
-    combo.
+     Carefully write out (or point out, if using a Powerpoint) the spaces within the Strings. Write
+     out how the string concatenates, asking students to predict the latter portion of the string
+     combo.
 
-  - Offer up a second example, asking the students to predict how the expression will evaluate,
-    discussing the placement of quotation marks first:
+   - Offer up a second example, asking the students to predict how the expression will evaluate,
+     discussing the placement of quotation marks first:
 
-    ``` Java
-    System.out.println("Here we combine " + 1 + " integer" + "with the strings!");
-    ```
+     ``` Java
+     System.out.println("Here we combine " + 1 + " integer" + "with the strings!");
+     ```
 
-  - Give the students a little extra guided practice by walking them through this tricky example:
-    ``` Java
-    42 + " is the answer to " + "everything!" + 1 + 1
-    ```
+   - Give the students a little extra guided practice by walking them through this tricky example:
+     ``` Java
+     42 + " is the answer to " + "everything!" + 1 + 1
+     ```
 
-    - Stepwise, show students how this evaluates to “42 is the answer to everything!11”
+     - Stepwise, show students how this evaluates to “42 is the answer to everything!11”
 
-    - Ask students if they can come up with a way to make the answer evaluate to “42 is the answer
-      to everything!2”
+     - Ask students if they can come up with a way to make the answer evaluate to “42 is the answer
+       to everything!2”
 
 2. Switch gears and tell students the second useful tool you’re going to teach them today is how to
-  **increase (or decrease) a variable by a particular amount** without writing a whole separate
-  equation.
+   **increase (or decrease) a variable by a particular amount** without writing a whole separate
+   equation.
 
-  - Briefly explain that in Java, the equations below mean “add 7 to the current value of x,”
-    “divide the current value of y by 3,” instead of the traditional mathematical use of “equals.”
-    Immediately show students how to write the abbreviated versions of these statements:
+   - Briefly explain that in Java, the equations below mean “add 7 to the current value of x,”
+     “divide the current value of y by 3,” instead of the traditional mathematical use of “equals.”
+     Immediately show students how to write the abbreviated versions of these statements:
 
-    - `x = x + 7;` OR `x += 7;`
-    - `y = y / 3;` OR `y /=3;`
+     - `x = x + 7;` OR `x += 7;`
+     - `y = y / 3;` OR `y /=3;`
 
-  - Once students have wrapped their heads around this non-algebraic reading (and given you some
-    correct examples), explain the special case of incrementing or decrementing by 1:
+   - Once students have wrapped their heads around this non-algebraic reading (and given you some
+     correct examples), explain the special case of incrementing or decrementing by 1:
 
-    - `x++;` OR `++x;`
-    - `x--;` OR `--x;`
+     - `x++;` OR `++x;`
+     - `x--;` OR `--x;`
 
 ### Grudgeball \[35 minutes\] \[Optional\]
 
@@ -117,13 +117,13 @@ moving on to 2.4.
 2. Review the rules for grudgeball, and have the students repeat the rules back to you.
 
 3. Using the problems listed below (and any you may add, depending on your class’ needs), play
-grudgeball until a team wins, or until the class period ends.
+   grudgeball until a team wins, or until the class period ends.
 
-  a. If a class gets the answer wrong, BRIEFLY pause the game to have students offer corrections
-    before moving to the next team’s question.
+   a. If a class gets the answer wrong, BRIEFLY pause the game to have students offer corrections
+      before moving to the next team’s question.
 
-  b. If correction seems to be dragging on, jump in and quickly re-teach using the incorrect answer
-    as your example. It is important to keep the pace going to maintain student interest in the game!
+   b. If correction seems to be dragging on, jump in and quickly re-teach using the incorrect answer
+      as your example. It is important to keep the pace going to maintain student interest in the game!
 
 Gudgeball problems & answers have been grouped assuming that you have 6 teams. If you have fewer
 teams, each “round” will be shifted accordingly, so you may have rounds where different teams are
@@ -137,77 +137,77 @@ each group accordingly.
 ##### What do these evaluate to?
 
 1) `"Patrick" + " why" + "are you" + "here?"`
-  → `Patrick whyare youhere?`
+   → `Patrick whyare youhere?`
 
 2) `2 + "words: " + "Na. Chos."`
-  → `2words: Na. Chos.`
+   → `2words: Na. Chos.`
 
 3) `"Friendship " + 1 + "$" + " magic!"`
-  → `Friendship 1$ magic!`
+   → `Friendship 1$ magic!`
 
 4) `"Watch out" + " for " + "\"\"" + "" + "escape sequences!"`
-  → `Watch out for ""escape sequences!`
+   → `Watch out for ""escape sequences!`
 
 5) `"Pikachu, pika pika" + "peeeeeeeeka" + " ch" + 0 + 0 +"!"`
-  → `Pikachu, pika pikapeeeeka ch00!`
+   → `Pikachu, pika pikapeeeeka ch00!`
 
 6) `"PEMDAS" + "doesn't " + (2 + 3) * 4 + "matter " + "right?" + 1`
-  → `PEMDASdoesn’t 20matter right?1`
+   → `PEMDASdoesn’t 20matter right?1`
 
 ##### Write a statement that:
 
 7) Increases the current value of x by 150.
-  → `x = x + 150;` or `x += 150;`
+   → `x = x + 150;` or `x += 150;`
 
 8) Decreases the current value of y by 9.
-  → `y = y - 9;` or `y -= 9;`
+   → `y = y - 9;` or `y -= 9;`
 
 9) Multiplies the current value of z by 5.
-  → `z = z * 5;` or `z *= 5;`
+   → `z = z * 5;` or `z *= 5;`
 
 10) Divides the current value of q by 14.
-  → `q = q / 14;` or `q /= 14;`
+   → `q = q / 14;` or `q /= 14;`
 
 11) Increments x by 1.
-  → `x++;`, `++x;`, `x = x + 1;`, or `x += 1;`
+   → `x++;`, `++x;`, `x = x + 1;`, or `x += 1;`
 
 12) Decrements x by 1.
-  → `x--;`, `--x;`, `x = x – 1;`, or `x -= 1;`
+   → `x--;`, `--x;`, `x = x – 1;`, or `x -= 1;`
 
 ##### Predict the output:
 
 13)
-``` Java
-int x = 1;
-x += 3;
-System.out.println("The value of x is " + x);
-```
-  → Output: `The value of x is 4`
+   ``` Java
+   int x = 1;
+   x += 3;
+   System.out.println("The value of x is " + x);
+   ```
+   → Output: `The value of x is 4`
 
 14) `1 + 1 + 1 + "1" + 1 + 1 + 1`
-  → Output: `31111`
+    → Output: `31111`
 
 15)
-``` Java
-int y = 2;
-y /= 2;
-System.out.println("1 + " + y + "is how much again?");
-```
-  → Output: `1 + 1is how much again?`
+   ``` Java
+   int y = 2;
+   y /= 2;
+   System.out.println("1 + " + y + "is how much again?");
+   ```
+   → Output: `1 + 1is how much again?`
 
 16) `110 – 10 + "flip it " + 0 + 0 + 1`
-  → Output: `100flip it 001`
+    → Output: `100flip it 001`
 
 17) `"100 – 10" + "flip it " + 0 + "0 + 1"`
-  → Output: `100 – 10flip it 00+1`
+   → Output: `100 – 10flip it 00+1`
 
 18)
-``` Java
-int number = 5;
-number++;
-System.out.println("My new value" + "is the " + "number " + number);
-```
-  → Output: `My new valueis the number 6`
+   ``` Java
+   int number = 5;
+   number++;
+   System.out.println("My new value" + "is the " + "number " + number);
+   ```
+   → Output: `My new valueis the number 6`
 
 ----------------------------------------------------------------------------------------------------
 

@@ -75,10 +75,11 @@ Student Programming Time \[45 minutes\]
 In an email, on the projector, or as a handout (WS 3.4), give students the following questions to
 work on individually, or in pairs.
 
+----------------------------------------------------------------------------------------------------
+
 #### PROGRAMMING PROJECT
 
 ##### Exercise 1
-
 Princess Luna and Celestia are going on a tour of the kingdom to greet the other citizens of
 Equestria. Their tour takes them on a circular path (shown on map). Write a method called roadTrip
 that (1) accepts as a parameter the diameter of the circular path, and (2) returns the length of the
@@ -89,7 +90,6 @@ The equation for circumference is: C = dπ
 Java has a math constant called `Math.PI`.
 
 ##### Exercise 2
-
 Write a method called distance that (1) accepts four integer coordinates: x1, y1, x2, y2 as
 parameters, (2) computes the distance between points (x1, y1) and (x2, y2) on the map, and (3)
 returns that distance.
@@ -99,14 +99,13 @@ The equation for the distance is: sqrt ((x2 - x1)<sup>2</sup> + (y2 - y1)<sup>2<
 Test out your program by writing a main method that calls the distance method for each of the
 following pairs of cities. Your main method should output the value returned by the distance method.
 
-  1. Distance from Baltimare to Manehattan =
+1. Distance from Baltimare to Manehattan =
 
-  2. Distance from Los Pegasus to Neighagra Falls =
+2. Distance from Los Pegasus to Neighagra Falls =
 
-  3. Distance from the Badlands to Ponyville =
+3. Distance from the Badlands to Ponyville =
 
 ##### Exercise 3
-
 Write a program that helps Princess Luna plan a 3-stop tour of Equestria. Your program should prompt
 the user (in this case Princess Luna) for three destinations in Equestria, as defined by their x and
 y coordinates on the map. You program should output the distance between the three destinations.
@@ -114,7 +113,6 @@ y coordinates on the map. You program should output the distance between the thr
 You should use the distance methods you wrote for Exercise 2.
 
 ##### Exercise 4
-
 Write a method called `totalTrip` that accepts parameters for 3 locations (each containing
 coordinates) and returns the total distance traveled by visiting all 3 locations and returning to
 the starting location. You should use the distance methods you wrote in Exercise 2 and you can
@@ -122,8 +120,11 @@ choose any 3 locations in Equestria.
 
 Extra credit: make this program compute 4 locations instead!
 
+----------------------------------------------------------------------------------------------------
+
+
 Accommodation and Differentiation
-=================================
+---------------------------------
 For students who complete the lab early, ask them to flesh out their program by adding a method that
 will calculate the sum of the distances travelled between three cities in Exercise 2.
 

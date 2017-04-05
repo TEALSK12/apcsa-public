@@ -57,15 +57,15 @@ Begin with a brief lecture about data types.
 
 - **Type** (or data type): a name for a category of data values that are all related
 
-    - **Type int** describes all whole numbers, or integers (have students name some examples)
+  - **Type int** describes all whole numbers, or integers (have students name some examples)
 
-    - **Type double** describes all numbers with decimal points (have students give some examples)
+  - **Type double** describes all numbers with decimal points (have students give some examples)
 
-      - You can remember if something is a double because there are numbers on both sides of a
-        decimal point (like 2 numbers, double numbers)
+    - You can remember if something is a double because there are numbers on both sides of a
+      decimal point (like 2 numbers, double numbers)
 
-    - **Type boolean** describes logical values—this means true or false. There are no other
-      values in type boolean.
+  - **Type boolean** describes logical values—this means true or false. There are no other
+    values in type boolean.
 
 - An **expression** is a simple value, or a set of operations (an equation) that produces a
   value.
@@ -83,51 +83,51 @@ Begin with a brief lecture about data types.
 ### Think-Pair-Share Activity \[5 minutes\]
 
 1. While students are finishing writing down definitions in their notes, write an assortment of data
-  type examples on the board.
+   type examples on the board.
 
 2. Have students categorize all of the primitive types on the board during a Think-Pair-Share
-  exercise. Remind students to do scratch work in their notebooks, since it will count towards their
-  classwork grade (this encourages everyone to work during the “think” stage of the activity).
+   exercise. Remind students to do scratch work in their notebooks, since it will count towards their
+   classwork grade (this encourages everyone to work during the “think” stage of the activity).
 
 3. Bring the class back to whole group, and call on students to share a category for each data type.
 
 ### Introduction to Operators and Precedence \[10 minutes\]
 
 1. Do a quick review of arithmetic operators. Students should be able to volunteer most of these,
-  but you may have to spend some review on mod, especially if your class is not on grade level for
-  mathematics.
+   but you may have to spend some review on mod, especially if your class is not on grade level for
+   mathematics.
 
 2. Ask students for the operators that represent addition and subtraction.
 
 3. Introduce the special symbols we use for the operators multiplication and division.
 
-  - Division has slightly different rules if you’re working in type int:
+   - Division has slightly different rules if you’re working in type int:
 
-    - 12 / 5 evaluates to 2, because even though the calculator shows us 2.4, int doesn’t let us
-      have a decimal point (what type does?)
+     - 12 / 5 evaluates to 2, because even though the calculator shows us 2.4, int doesn’t let us
+       have a decimal point (what type does?)
 
-    - It’s very important to remember that int always drops the part after the decimal point. So
-      even if you evaluated 39 / 10, your answer would be 3, not 4.
+     - It’s very important to remember that int always drops the part after the decimal point. So
+       even if you evaluated 39 / 10, your answer would be 3, not 4.
 
 4. Introduce the **mod % operator**, and have students work through a few examples with you to
-  practice.
+   practice.
 
-  - In elementary school we called it a “remainder”
+   - In elementary school we called it a “remainder”
 
-  - 1079 % 34 evaluates to 25, because you get 31 R 25 (34 goes into 1079 34 times, with 25 left
-    over)
+   - 1079 % 34 evaluates to 25, because you get 31 R 25 (34 goes into 1079 34 times, with 25 left
+     over)
 
-  - If you try to get the answer with your calculator, you won’t get 25—you’ll need to do long
-    division to get the right answer (or, you can get Java to do it!)
+   - If you try to get the answer with your calculator, you won’t get 25—you’ll need to do long
+     division to get the right answer (or, you can get Java to do it!)
 
 5. If we don’t use parentheses in our expressions, Java uses **precedence** to decide which
-  operations go first (students will probably mention PEMDAS), and evaluates left-to-right:
+   operations go first (students will probably mention PEMDAS), and evaluates left-to-right:
 
-  - 13 \* 2 + 239 / 10 % 5 – 2 \* 2
-      - Start left to right, 13 \* 2 evaluates to 26
-      - 239 / 10 evaluates to 23 (have students do this one to see if they catch the int)
-      - Still moving left-to-right, now 23 \* 5 evaluates to 3, and 2 \* 2 evaluates to 4
-      - 26 + 3 – 4 evaluates to 25
+   - 13 \* 2 + 239 / 10 % 5 – 2 \* 2
+     - Start left to right, 13 \* 2 evaluates to 26
+     - 239 / 10 evaluates to 23 (have students do this one to see if they catch the int)
+     - Still moving left-to-right, now 23 \* 5 evaluates to 3, and 2 \* 2 evaluates to 4
+     - 26 + 3 – 4 evaluates to 25
 
 ### Evaluating Expressions Activity \[20 minutes\]
 
@@ -136,15 +136,14 @@ Begin with a brief lecture about data types.
 2. Give each pair or small group a Ziploc bag with a set of operand/operator cards.
 
 3. Students should write out the expressions they create, along with the value they evaluate to, in
-  their notebooks.
+   their notebooks.
 
 4. Once students have finished a set, have them repackage the set and trade with another group (or
-  trade in their set with you).
+   trade in their set with you).
 
 5. Encourage groups to check each others’ answers and help each other if they get stuck.
 
 ### Check Student Study Lists \[5 minutes\]
-
 At the end of class, go over student notebooks.
 
 

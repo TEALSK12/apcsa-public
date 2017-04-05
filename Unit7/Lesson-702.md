@@ -67,12 +67,12 @@ Hook your students by placing the materials for the lesson out around the room.
 
 1. Lead a class discussion about why it would be important to sort data:
 
-  - Ask students which searching method went faster yesterday (binary search), and what a
-    prerequisite for this type of search was (array needs to be ordered/sorted).
+   - Ask students which searching method went faster yesterday (binary search), and what a
+     prerequisite for this type of search was (array needs to be ordered/sorted).
 
-  - Ask for additional examples of when it might be important to sort data. (Sorting songs in
-    iTunes, sorting homework assignment files on your home computer, sorting goods in a store by
-    location, price, or type, etc.)
+   - Ask for additional examples of when it might be important to sort data. (Sorting songs in
+     iTunes, sorting homework assignment files on your home computer, sorting goods in a store by
+     location, price, or type, etc.)
 
 ### Student Activity 1: Sorting Weights \[35 minutes\]
 
@@ -80,15 +80,15 @@ Hook your students by placing the materials for the lesson out around the room.
 
 2. Review the directions with the class, and distribute materials.
 
-  - If your class is not familiar with how to use the scales, take a few minutes to demonstrate the
-    proper way to read the scales and record the weight data.
+   - If your class is not familiar with how to use the scales, take a few minutes to demonstrate the
+     proper way to read the scales and record the weight data.
 
-  - Be sure to remind students to count how many comparisons they make during the activity!
+   - Be sure to remind students to count how many comparisons they make during the activity!
 
-  - Make the “extra for experts” question mandatory.
+   - Make the “extra for experts” question mandatory.
 
 3. Give students ≈35 minutes to complete this activity—they will need to make 28 comparisons for
-  this exercise.
+   this exercise.
 
 
 DAY 2
@@ -98,31 +98,31 @@ DAY 2
 
 1. Briefly review the next activity for the “Divide and Conquer” activity.
 
-  - Point out to students that they must try out the additional sorting methods on the last page
-    (insertion sort or bubble sort).
+   - Point out to students that they must try out the additional sorting methods on the last page
+     (insertion sort or bubble sort).
 
-  - Remind students to keep track of how many comparisons they make for each type of sort.
+   - Remind students to keep track of how many comparisons they make for each type of sort.
 
 2. Give students ~30 minutes to complete this activity, then call the class together for a whole
-  group discussion of their answers.
+   group discussion of their answers.
 
 ### Whole Group Discussion & Code Demonstration \[10 minutes\]
 
 1. Discuss the worksheet questions as a class; ask students:
 
-  - what sorting algorithms were the quickest
+   - what sorting algorithms were the quickest
 
-  - which sorting algorithms should use more memory
+   - which sorting algorithms should use more memory
 
-  - which sorting algorithms they’ve used in their lives, and what those situations were. (Some
-    examples to get them started include sorting notes or homework into date order, organizing
-    shuffled cards, etc.)
+   - which sorting algorithms they’ve used in their lives, and what those situations were. (Some
+     examples to get them started include sorting notes or homework into date order, organizing
+     shuffled cards, etc.)
 
 2. The AP subset does not include specific sorting code, but students are required to conceptually
-understand the mechanisms used in each of the sorting algorithms. Students should be familiar with
-the best- and worst-case scenarios for each of the sorting algorithms. Give the students a summary
-of this information by having students copy the notes below, or by offering this information as a
-handout.
+   understand the mechanisms used in each of the sorting algorithms. Students should be familiar
+   with the best- and worst-case scenarios for each of the sorting algorithms. Give the students a
+   summary of this information by having students copy the notes below, or by offering this
+   information as a handout.
 
 ### SORTING ALGORITHMS
 
@@ -134,14 +134,14 @@ elements are in their sorted position.
 The steps are:
 
 1. The algorithm divides the input list into two parts: the sublist of items already sorted, which
-  is built up from left to right at the front (left) of the list, and the sublist of items remaining
-  to be sorted that occupy the rest of the list.
+   is built up from left to right at the front (left) of the list, and the sublist of items
+   remaining to be sorted that occupy the rest of the list.
 
 2. Initially, the sorted sublist is empty and the unsorted sublist is the entire input list.
 
 3. The algorithm proceeds by finding the smallest (or largest, depending on sorting order) element
-  in the unsorted sublist, exchanging it with the leftmost unsorted element (putting it in sorted
-  order), and moving the sublist boundaries one element to the right.
+   in the unsorted sublist, exchanging it with the leftmost unsorted element (putting it in sorted
+   order), and moving the sublist boundaries one element to the right.
 
 A useful animation of selection sort can be found on Wikipedia here: (<http://tinyurl.com/muo8ycd>).
 
@@ -156,10 +156,10 @@ initially sorted in increasing order (because no elements will have to be moved)
 The steps are:
 
 1. Insertion sort iterates, consuming one input element each repetition, and growing a sorted output
-  list.
+   list.
 
 2. Each iteration, insertion sort removes one element from the input data, finds the location it
-  belongs within the sorted list, and inserts it there.
+   belongs within the sorted list, and inserts it there.
 
 3. It repeats until no input elements remain.
 
@@ -191,57 +191,57 @@ way (though the activities are cleverly disguised as fun)!
 
 1. Introduce these activities in lieu of the ones mentioned in the lesson plan above.
 
-  - Bring 8 students to front of classroom, give each a piece of paper with a unique simple number
-    on it, which they hold so class can see.
+   - Bring 8 students to front of classroom, give each a piece of paper with a unique simple number
+     on it, which they hold so class can see.
 
-  - Pick “SortMasters” from the remainder of the class to give the 8 students instructions about how
-    to get into smallest-to-biggest order.
+   - Pick “SortMasters” from the remainder of the class to give the 8 students instructions about
+     how to get into smallest-to-biggest order.
 
-  - Allow the first two SortMasters to give instructions without commentary, unless it looks like
-    they are explicitly using selection sort (move lowest/biggest number to one end) or insertion
-    sort (move a number to correct position) or bubble sort (A and B are in wrong order, so swap),
-    in which case name what they are doing and encourage them to be explicit in describing their
-    instructions.
+   - Allow the first two SortMasters to give instructions without commentary, unless it looks like
+     they are explicitly using selection sort (move lowest/biggest number to one end) or insertion
+     sort (move a number to correct position) or bubble sort (A and B are in wrong order, so swap),
+     in which case name what they are doing and encourage them to be explicit in describing their
+     instructions.
 
-  - In this first activity, do not worry about explicit comparisons of two numbers at a time,
-    SortMasters can pick smallest/largest directly.
+   - In this first activity, do not worry about explicit comparisons of two numbers at a time,
+     SortMasters can pick smallest/largest directly.
 
-  - If the first two SortMasters have not shown insertion or selection sort, tell the class that
-    they’re going to look at this more systematically/algorithmically now.
+   - If the first two SortMasters have not shown insertion or selection sort, tell the class that
+     they’re going to look at this more systematically/algorithmically now.
 
-    - If selection sort not covered– ask a new SortMaster who should go first? Who should go
-      second (selection sort)?
+     - If selection sort not covered– ask a new SortMaster who should go first? Who should go
+       second (selection sort)?
 
-    - If insertion sort not covered – ask a new SortMaster to start with asking whether second
-      person should go before or after first? Where third person should go relative to first and
-      second?
+     - If insertion sort not covered – ask a new SortMaster to start with asking whether second
+       person should go before or after first? Where third person should go relative to first and
+       second?
 
-  - Students back to seats; ask for a comparison of selection vs. insertion sort:
+   - Students back to seats; ask for a comparison of selection vs. insertion sort:
 
-    - Selection: Who goes in the next position?
+     - Selection: Who goes in the next position?
 
-    - Insertion: Into which position does the next person go?
+     - Insertion: Into which position does the next person go?
 
 2. **Activity 1A:** Introduce idea that while SortMasters could eyeball everyone to see who goes
-  next, computers can only compare two things at a time.
+   next, computers can only compare two things at a time.
 
-  - Distribute balances and weights. Instruct each team to start with weights 1-8 in order. Activity
-    1A is essentially same as Activity 1, except you explicitly tell students to use the idea of
-    Selection Sort when ordering their weights.
+   - Distribute balances and weights. Instruct each team to start with weights 1-8 in order.
+     Activity 1A is essentially same as Activity 1, except you explicitly tell students to use the
+     idea of Selection Sort when ordering their weights.
 
-  - Students discuss questions in their groups, answering questions including number of comparisons.
+   - Students discuss questions in their groups, answering questions including number of
+     comparisons.
 
 3. **Activity 1B:** Students then move on to Activity 1B, same as 1A, except examining insertion
-  sort. Students should be explicitly told to reset their weights in initial order.
+   sort. Students should be explicitly told to reset their weights in initial order.
 
-  - As a trick, set up initial weights for most groups in random order, but at least one group
-    should have initial positions in ascending weight order, and another with weights in descending
-    weight order.
+   - As a trick, set up initial weights for most groups in random order, but at least one group
+     should have initial positions in ascending weight order, and another with weights in descending
+     weight order.
 
-  - Come back to class discussion. Expect groups to have similar numbers of compares for selection
-    sort, but widely different numbers for insertion sort.
+   - Come back to class discussion. Expect groups to have similar numbers of compares for selection
+     sort, but widely different numbers for insertion sort.
 
-  - As a “grand reveal,” announce the different start conditions, so students will discover this
-    significant behavior difference between selection and insertion.
-
+   - As a “grand reveal,” announce the different start conditions, so students will discover this
+     significant behavior difference between selection and insertion.
 

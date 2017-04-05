@@ -52,16 +52,16 @@ Announce class teams and rearrange students as needed.
 
 Give students 5 minutes to complete the challenge, and take note of which team finishes first.
 
-  - If students are struggling, you may extend the time, or offer universally helpful tips (e.g. “If
-    you see parentheses that aren’t being used to establish precedence, or to cast, it means you’re
-    calling another method.”)
+- If students are struggling, you may extend the time, or offer universally helpful tips (e.g. “If
+  you see parentheses that aren’t being used to establish precedence, or to cast, it means you’re
+  calling another method.”)
 
-    The team that has the correct answer first wins the prize.
+  The team that has the correct answer first wins the prize.
 
-  - Review student answers together as a whole group, revisiting concepts taught earlier in the week
-    as mistakes come up. Whenever possible, have students volunteer the correct procedure, approach,
-    or code. Encourage students to take notes during this process so they can review topics outside
-    of class.
+- Review student answers together as a whole group, revisiting concepts taught earlier in the week
+  as mistakes come up. Whenever possible, have students volunteer the correct procedure, approach,
+  or code. Encourage students to take notes during this process so they can review topics outside of
+  class.
 
 ----------------------------------------------------------------------------------------------------
 

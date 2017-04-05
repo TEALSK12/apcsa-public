@@ -51,62 +51,62 @@ Hook your class by talking about randomized tasks that arise in games they may p
 ### Introduction and Think-Pair-Share \[15 minutes\]
 
 1. Once students have all had a chance to explore the dice, show them how to generate random numbers
-that they can use in their game program, computer simulations, or security programs (moving
-forward).
+   that they can use in their game program, computer simulations, or security programs (moving
+   forward).
 
-  - Construct a random object (see if anyone can tell you how to do this from their reading last
-    night):
+   - Construct a random object (see if anyone can tell you how to do this from their reading last
+     night):
 
-    ``` Java
-    Random r = new Random();
-    ```
+     ``` Java
+     Random r = new Random();
+     ```
 
-  - Call the nextInt method, passing the upper limit of the range of your random number (in the case
-    of a 6 sided dice, this would be 6).
+   - Call the nextInt method, passing the upper limit of the range of your random number (in the
+     case of a 6 sided dice, this would be 6).
 
-    ``` Java
-    result = r.nextInt(6);     // Gives you a random number between 0 - 5.
-    ```
+     ``` Java
+     result = r.nextInt(6);     // Gives you a random number between 0 - 5.
+     ```
 
-  - Does this code accurately simulate a six sided dice? (Have students with the six-sided dice
-    answer your question.) To shift that result between 1 and 6, you need to add 1 to your code:
+   - Does this code accurately simulate a six sided dice? (Have students with the six-sided dice
+     answer your question.) To shift that result between 1 and 6, you need to add 1 to your code:
 
-    ``` Java
-    result = r.nextInt(6) + 1;     // Gives a random number between 1 - 6.
-    ```
+     ``` Java
+     result = r.nextInt(6) + 1;     // Gives a random number between 1 - 6.
+     ```
 
-  - Output the result:
+   - Output the result:
 
-    ``` Java
-    System.out.println("You rolled a " + result);
-    ```
+     ``` Java
+     System.out.println("You rolled a " + result);
+     ```
 
 2. Give students a few minutes to do a Think-Pair-Share for the following questions:
 
-  - _Write an expression that simulates a roll of a 20 – sided dice._
-  - _Write an expression that yields a random number between 0.0 and 1.0._
+   - _Write an expression that simulates a roll of a 20 – sided dice._
+   - _Write an expression that yields a random number between 0.0 and 1.0._
 
 3. Review Table 5.2 from the book as you discuss the answers in a whole group.
 
-  - `nextInt()` = random integer between -2^31 and (2^31 – 1)
-  - `nextInt(max)` = random integer between 0 and (max – 1)
-  - `nextDouble()` = random real number between 0.0 and 1.0
-  - `nextBoolean()` = random logical value of true or false
-  - Priming the loop: remind students that they must initialize variables before the loop (this
-    makes sure that Java knows how to enter/start the loop).
+   - `nextInt()` = random integer between -2^31 and (2^31 – 1)
+   - `nextInt(max)` = random integer between 0 and (max – 1)
+   - `nextDouble()` = random real number between 0.0 and 1.0
+   - `nextBoolean()` = random logical value of true or false
+   - Priming the loop: remind students that they must initialize variables before the loop (this
+     makes sure that Java knows how to enter/start the loop).
 
 ### Student Practice-It Activity \[35 minutes\]
 
 1. Have students complete the following Practice-It self-check problems:
 
-  a. randomRangeABCDE<br>
-  b. randomInteger0to1<br>
-  c. randomOddInteger50to99
+   a. randomRangeABCDE<br>
+   b. randomInteger0to1<br>
+   c. randomOddInteger50to99
 
 2. If students complete these problems with time to spare, have them complete Practice-It exercises:
 
-  a. randomX<br>
-  b. randomLines
+   a. randomX<br>
+   b. randomLines
 
 
 Accommodation and Differentiation

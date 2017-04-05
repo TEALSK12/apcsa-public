@@ -17,14 +17,14 @@ International Mastery Tests (included as a file within the Unit 9 materials). Th
 and graciously shared by Arthur Watson, provide an easy way to retest your students. Should you
 decide to use these resources, keep the following in mind:
 
-  1. The tests do not include recursion, searching, or sorting since these were the most recently
-    covered units before whole-year review.
+1. The tests do not include recursion, searching, or sorting since these were the most recently
+   covered units before whole-year review.
 
-  2. There are 3 versions of each test (A, B, and C). Versions are similar, so students can re-take
-    each exam after working on material to earn a higher score.
+2. There are 3 versions of each test (A, B, and C). Versions are similar, so students can re-take
+   each exam after working on material to earn a higher score.
 
-  3. As it gets closer to AP test time, Arthur lets his class use the *A* version test/answer keys
-    to study for the *B* and *C* versions.
+3. As it gets closer to AP test time, Arthur lets his class use the *A* version test/answer keys to
+   study for the *B* and *C* versions.
 
 
 Practice Questions
@@ -72,13 +72,13 @@ than reviewing additional topics.
 
 Some fun vocabulary review strategies include:
 
-  - Pictionary: encourage students to write some code (or find, or circle it in a sample of code on
-    the board or projector) to illustrate a concept or term.
+- Pictionary: encourage students to write some code (or find, or circle it in a sample of code on
+  the board or projector) to illustrate a concept or term.
 
-  - Vocabulary bingo: Print out word wall words (or challenging concepts) on bingo cards (you can
-    make them online here: <http://osric.com/bingo-card-generator/>). Rather than just calling out
-    words, call the definition of the term or project an example of the concept in sample code,
-    having students come up with the word they need to find on the bingo sheet.
+- Vocabulary bingo: Print out word wall words (or challenging concepts) on bingo cards (you can make
+  them online here: <http://osric.com/bingo-card-generator/>). Rather than just calling out words,
+  call the definition of the term or project an example of the concept in sample code, having
+  students come up with the word they need to find on the bingo sheet.
 
 If your students are speeding through the review sessions, add additional challenges by sticking to
 Section II questions. Students can access Section II questions from 2009 – 2014 on the AP CS website

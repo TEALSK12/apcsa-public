@@ -58,115 +58,114 @@ and 3 55-minute class periods to complete
 ### Introduction to Boolean Logic \[10 minutes\]
 
 1. Students should have already reviewed this material as part of last nights’ homework assignment.
-  Before moving on to purely mathematical examples, start with a real-life example of how we apply
-  logic. Be sure to change P and Q to statements that are relevant to your students.
+   Before moving on to purely mathematical examples, start with a real-life example of how we apply
+   logic. Be sure to change P and Q to statements that are relevant to your students.
 
-    - P: It is a holiday.<br>
-      Q: My family is having dinner together.
+     - P: It is a holiday.<br>
+       Q: My family is having dinner together.
 
-      !(p || q) ⇒ It is not the case that (it is a holiday OR my family is having dinner together)
+       !(p || q) ⇒ It is not the case that (it is a holiday OR my family is having dinner together)
 
-      !p && !q ⇒ It is not a holiday AND my family is not having dinner together.
+       !p && !q ⇒ It is not a holiday AND my family is not having dinner together.
 
-    - Review `&&`, `||`, and `!`, including non-examples:
+     - Review `&&`, `||`, and `!`, including non-examples:
 
-      | Operator |        Expression        | Result             |
-      |:--------:|:------------------------:|:-------------------|
-      |   AND    | `(4 == 4) && (2 > 1)`    | Evaluates to: True |
-      |   OR     | `(1 < 2) || (2 < 1)`     | Evaluates to: True |
-      |   NOT    | `!(2 < 1)`               | Evaluates to: True |
+       | Operator |        Expression        | Result             |
+       |:--------:|:------------------------:|:-------------------|
+       |   AND    | `(4 == 4) && (2 > 1)`    | Evaluates to: True |
+       |   OR     | `(1 < 2) || (2 < 1)`     | Evaluates to: True |
+       |   NOT    | `!(2 < 1)`               | Evaluates to: True |
 
-      ```
-      if (q == 1 || 2 || 4) {      // This doesn’t work, you have to use && or ||
-          statement;               // to combine full Boolean expressions.
-          statement;
-      }
-      ```
+       ```
+       if (q == 1 || 2 || 4) {      // This doesn’t work, you have to use && or ||
+           statement;               // to combine full Boolean expressions.
+           statement;
+       }
+       ```
 
-      ```
-      if (q == 1 || q == 2 || q == 4) {      // This works.
-          statement;
-          statement;
-      }
+       ```
+       if (q == 1 || q == 2 || q == 4) {      // This works.
+           statement;
+           statement;
+       }
 
 2. As a special note on negating Boolean expressions, review De Morgan’s law (poster 3.16.1). Have
-  students write De Morgan’s law on their Tricky Code Cheat Sheet.
+   students write De Morgan’s law on their Tricky Code Cheat Sheet.
 
-  - If you feel confident working with truth tables, work through the following illustration of De
-    Morgan’s laws. On the board or projector, only write table headers as you go (putting them all
-    up at once may lead to panic/distraction for some students).
+   - If you feel confident working with truth tables, work through the following illustration of De
+     Morgan’s laws. On the board or projector, only write table headers as you go (putting them all
+     up at once may lead to panic/distraction for some students).
 
-    |  p  |  q  | p ││ q | !(p ││ q) | !p  | !q  | !p && !q |
-    |:---:|:---:|:------:|:---------:|:---:|:---:|:--------:|
-    |  F  |  F  |        |           |     |     |          |
-    |  F  |  T  |        |           |     |     |          |
-    |  T  |  F  |        |           |     |     |          |
-    |  T  |  T  |        |           |     |     |          |
+     |  p  |  q  | p ││ q | !(p ││ q) | !p  | !q  | !p && !q |
+     |:---:|:---:|:------:|:---------:|:---:|:---:|:--------:|
+     |  F  |  F  |        |           |     |     |          |
+     |  F  |  T  |        |           |     |     |          |
+     |  T  |  F  |        |           |     |     |          |
+     |  T  |  T  |        |           |     |     |          |
 
-    Have students help you fill out every possible combination of Boolean values for p and q.
+     Have students help you fill out every possible combination of Boolean values for p and q.
 
-  - Ask students to evaluate the logical expression for each value of p and q.
+   - Ask students to evaluate the logical expression for each value of p and q.
 
-    |  p  |  q  | p ││ q | !(p ││ q) | !p  | !q  | !p && !q |
-    |:---:|:---:|:------:|:---------:|:---:|:---:|:--------:|
-    |  F  |  F  |   F    |           |     |     |          |
-    |  F  |  T  |   T    |           |     |     |          |
-    |  T  |  F  |   T    |           |     |     |          |
-    |  T  |  T  |   T    |           |     |     |          |
+     |  p  |  q  | p ││ q | !(p ││ q) | !p  | !q  | !p && !q |
+     |:---:|:---:|:------:|:---------:|:---:|:---:|:--------:|
+     |  F  |  F  |   F    |           |     |     |          |
+     |  F  |  T  |   T    |           |     |     |          |
+     |  T  |  F  |   T    |           |     |     |          |
+     |  T  |  T  |   T    |           |     |     |          |
 
-  - Now have students negate all of the values from the previous column.
+   - Now have students negate all of the values from the previous column.
 
-    |  p  |  q  | p ││ q | !(p ││ q) | !p  | !q  | !p && !q |
-    |:---:|:---:|:------:|:---------:|:---:|:---:|:--------:|
-    |     |     |   F    |     T     |     |     |          |
-    |     |     |   T    |     F     |     |     |          |
-    |     |     |   T    |     F     |     |     |          |
-    |     |     |   T    |     F     |     |     |          |
+     |  p  |  q  | p ││ q | !(p ││ q) | !p  | !q  | !p && !q |
+     |:---:|:---:|:------:|:---------:|:---:|:---:|:--------:|
+     |     |     |   F    |     T     |     |     |          |
+     |     |     |   T    |     F     |     |     |          |
+     |     |     |   T    |     F     |     |     |          |
+     |     |     |   T    |     F     |     |     |          |
 
-  - Ask students to complete the values for !p and !q, referring to the values from the first
-    column.
+   - Ask students to complete the values for !p and !q, referring to the values from the first
+     column.
 
-    |  p  |  q  | p ││ q | !(p ││ q) | !p  | !q  | !p && !q |
-    |:---:|:---:|:------:|:---------:|:---:|:---:|:--------:|
-    |  F  |  F  |        |           |  T  |  T  |          |
-    |  F  |  T  |        |           |  T  |  F  |          |
-    |  T  |  F  |        |           |  F  |  T  |          |
-    |  T  |  T  |        |           |  F  |  F  |          |
+     |  p  |  q  | p ││ q | !(p ││ q) | !p  | !q  | !p && !q |
+     |:---:|:---:|:------:|:---------:|:---:|:---:|:--------:|
+     |  F  |  F  |        |           |  T  |  T  |          |
+     |  F  |  T  |        |           |  T  |  F  |          |
+     |  T  |  F  |        |           |  F  |  T  |          |
+     |  T  |  T  |        |           |  F  |  F  |          |
 
-  - Now have students apply the && operator to !p and !q.
+   - Now have students apply the && operator to !p and !q.
 
-    |  p  |  q  | p ││ q | !(p ││ q) | !p  | !q  | !p && !q |
-    |:---:|:---:|:------:|:---------:|:---:|:---:|:--------:|
-    |     |     |        |           |  T  |  T  |     T    |
-    |     |     |        |           |  T  |  F  |     F    |
-    |     |     |        |           |  F  |  T  |     F    |
-    |     |     |        |           |  F  |  F  |     F    |
+     |  p  |  q  | p ││ q | !(p ││ q) | !p  | !q  | !p && !q |
+     |:---:|:---:|:------:|:---------:|:---:|:---:|:--------:|
+     |     |     |        |           |  T  |  T  |     T    |
+     |     |     |        |           |  T  |  F  |     F    |
+     |     |     |        |           |  F  |  T  |     F    |
+     |     |     |        |           |  F  |  F  |     F    |
 
-  - Point out to your students that these two columns are the same. Whenever two columns of a truth
-    table are the same, we say that the expressions (column headings) are equivalent, or
-    interchangeable.
+   - Point out to your students that these two columns are the same. Whenever two columns of a truth
+     table are the same, we say that the expressions (column headings) are equivalent, or
+     interchangeable.
 
-    |  p  |  q  | p ││ q | !(p ││ q) | !p  | !q  | !p && !q |
-    |:---:|:---:|:------:|:---------:|:---:|:---:|:--------:|
-    |     |     |        |     T     |     |     |     T    |
-    |     |     |        |     F     |     |     |     F    |
-    |     |     |        |     F     |     |     |     F    |
-    |     |     |        |     F     |     |     |     F    |
+     |  p  |  q  | p ││ q | !(p ││ q) | !p  | !q  | !p && !q |
+     |:---:|:---:|:------:|:---------:|:---:|:---:|:--------:|
+     |     |     |        |     T     |     |     |     T    |
+     |     |     |        |     F     |     |     |     F    |
+     |     |     |        |     F     |     |     |     F    |
+     |     |     |        |     F     |     |     |     F    |
 
-    In the illustration above, we showed that `!(p && q)` is equivalent to `!p && !q`. Invite
-    students to show the equivalence of `!(p && q)` and `!p || !q`.
+     In the illustration above, we showed that `!(p && q)` is equivalent to `!p && !q`. Invite
+     students to show the equivalence of `!(p && q)` and `!p || !q`.
 
 3. Review operator precedence on your classroom poster 3.16.2 (or projected overhead, if you’re
-  having a student make the poster for you during class).
+   having a student make the poster for you during class).
 
 4. Check for student understanding by having students complete Practice-It self-check questions
-  assertions1 and assertions3.
+   assertions1 and assertions3.
 
 ### Student Programming Activity \[40 minutes\]
-
-On the projector, board or as a handout (WS 3.16), give students the following programming
-prompt. A link to the NY Times article about rock paper scissors is included in the Materials
-section of this lesson plan.
+On the projector, board or as a handout (WS 3.16), give students the following programming prompt. A
+link to the NY Times article about rock paper scissors is included in the Materials section of this
+lesson plan.
 
 ----------------------------------------------------------------------------------------------------
 #### PROGRAMMING ACTIVITY

@@ -53,11 +53,11 @@ exploring different syntax will confuse your students.
 ### Introduction and Homework Distribution \[5 minutes\]
 
 1. Return student homework packets, or have students place their returned homework in a pile on
-  their desk.
+   their desk.
 
 2. Explain to students that they have the opportunity to get full credit on their homework grades by
-  correcting them now, in class. Ask students for suggestions/ideas on how to make sure they don’t
-  miss any errors. (By now students should be used to relying on their error checklist/algorithm.)
+   correcting them now, in class. Ask students for suggestions/ideas on how to make sure they don’t
+   miss any errors. (By now students should be used to relying on their error checklist/algorithm.)
 
 ### Student Work \[35 minutes\]
 Have students work individually to correct their homework grades.

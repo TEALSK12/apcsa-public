@@ -40,22 +40,22 @@ Procedure
 ### Review of Student Questions \[30 minutes\]
 
 1. Clearly indicate that you expect all students to have a list of review topics to study this
-  evening. Periodically remind students that this list will be checked at the end of class.
+   evening. Periodically remind students that this list will be checked at the end of class.
 
 2. Begin with a review of student-submitted questions before reviewing the practice questions.
 
 3. Finally, work through the various review topics, prioritizing questions that popped up the most.
 
-  - Some questions you may address while working through the sample test.
+   - Some questions you may address while working through the sample test.
 
-  - Be ready for additional questions to pop up as you go. Save yourself the work and use old
-    homework questions and student-generated test questions as examples to work through.
+   - Be ready for additional questions to pop up as you go. Save yourself the work and use old
+     homework questions and student-generated test questions as examples to work through.
 
 4. Use a combination of group-solving questions on the whiteboard, think-pair-share, and
-  timed-response as review strategies.
+   timed-response as review strategies.
 
 5. After you’ve completed reviewing an idea, remind the class that they should write down that topic
-  if they feel they still have to review it tonight.
+   if they feel they still have to review it tonight.
 
 ### Check Student Study Lists \[5 minutes\]
 Spend the last 5 minutes of class checking each student’s review topic list.

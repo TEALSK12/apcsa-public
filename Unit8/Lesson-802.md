@@ -51,60 +51,60 @@ tested during the game.
 ### Introduction and note-taking \[10 minutes\]
 
 1. Begin by asking students what makes a method recursive (it calls itself). Ask students to offer
-  suggestions as to how to write a recursive method. Using pseudocode (or actual code, if they offer
-  it), outline their suggestion on the board. It should look something like this:
+   suggestions as to how to write a recursive method. Using pseudocode (or actual code, if they
+   offer it), outline their suggestion on the board. It should look something like this:
 
-  ``` Java
-  public static void writeStars (int x) {
-      writeStars(x - 1);    // Prints a star.
-  }
-  ```
+   ``` Java
+   public static void writeStars (int x) {
+       writeStars(x - 1);    // Prints a star.
+   }
+   ```
 
 2. Don’t worry if students don’t include a base case! Congratulate your students on remembering that
-  the method calls itself, then ask students how this method is supposed to stop. (It won’t! This is
-  called infinite recursion.) To make sure that you write recursive methods that work, you need to
-  remember 2 key ingredients:
+   the method calls itself, then ask students how this method is supposed to stop. (It won’t! This
+   is called infinite recursion.) To make sure that you write recursive methods that work, you need
+   to remember 2 key ingredients:
 
-  - **Base case**: a case within a recursive solution that is so simple, it can be solved without
-    needing to call the method again (a recursive call).
+   - **Base case**: a case within a recursive solution that is so simple, it can be solved without
+     needing to call the method again (a recursive call).
 
-  - **Recursive case**: A case within a recursive solution that involves reducing the overall
-    problem to a simpler problem of the same kind that can be solved by a recursive call.
+   - **Recursive case**: A case within a recursive solution that involves reducing the overall
+     problem to a simpler problem of the same kind that can be solved by a recursive call.
 
 3. Add these 2 ingredients to the example you currently have on the board. It should look something
-  like this:
+   like this:
 
-  ``` Java
-  public static void writeStars (int x) {
-      if (x == 0) {
-          // This is the base case: "write 0 stars" needs no additional method.
-          System.out.println();
-      } else {
-          // This is the recursive case: write one star, then write however many
-          // stars are left.
-          System.out.println("*");
-          writeStars(x – 1);
-      }
-  }
-  ```
+   ``` Java
+   public static void writeStars (int x) {
+       if (x == 0) {
+           // This is the base case: "write 0 stars" needs no additional method.
+           System.out.println();
+       } else {
+           // This is the recursive case: write one star, then write however many
+           // stars are left.
+           System.out.println("*");
+           writeStars(x – 1);
+       }
+   }
+   ```
 
 4. Emphasize to students that you can write more than one recursive case, but you must always have
-  at least 1 base case and 1 recursive case, or the code won’t work. (Because you need both types of
-  cases, recursive solutions are often written as if/else or nested statements.)
+   at least 1 base case and 1 recursive case, or the code won’t work. (Because you need both types
+   of cases, recursive solutions are often written as if/else or nested statements.)
 
 5. Ask students to explain what doesn’t work about this code, and ask them to correct the recursive
-  code here:
+   code here:
 
-  ``` Java
-  public static void writeStars (int x) {
-      System.out.print("*");
-      writeStars(n-1);
-  }
-  ```
+   ``` Java
+   public static void writeStars (int x) {
+       System.out.print("*");
+       writeStars(n-1);
+   }
+   ```
 
-  There’s a recursive case, which is good, but there is no base case! This causes infinite recursion
-  since it has no way of stopping. Instead of stopping at 0 stars (which is what the base case would
-  be), the code will try to write -1, -2, -3… stars forever!
+   There’s a recursive case, which is good, but there is no base case! This causes infinite
+   recursion since it has no way of stopping. Instead of stopping at 0 stars (which is what the base
+   case would be), the code will try to write -1, -2, -3… stars forever!
 
 ### Activity: Grudgeball \[35 minutes\]
 
@@ -113,19 +113,19 @@ tested during the game.
 2. Review the rules for grudgeball, and have the students repeat the rules back to you.
 
 3. Using the problems listed below (and any you may add, depending on your class’ needs), play
-  grudgeball until a team wins, or until the class period ends.
+   grudgeball until a team wins, or until the class period ends.
 
-  - If a class gets the answer wrong, BRIEFLY pause the game to have students offer corrections
-    before moving to the next team’s question.
+   - If a class gets the answer wrong, BRIEFLY pause the game to have students offer corrections
+     before moving to the next team’s question.
 
-  - If correction seems to be dragging on, jump in and quickly re-teach using the incorrect answer
-    as your example. It is important to keep the pace going to maintain student interest in the
-    game!
+   - If correction seems to be dragging on, jump in and quickly re-teach using the incorrect answer
+     as your example. It is important to keep the pace going to maintain student interest in the
+     game!
 
-  Gudgeball problems & answers have been grouped assuming that you have 6 teams. If you have fewer
-  teams, each “round” will be shifted accordingly, so you may have rounds where different teams are
-  practicing different concepts. Judge each team’s knowledge gaps, and adjust which questions you ask
-  each group accordingly.
+   Gudgeball problems & answers have been grouped assuming that you have 6 teams. If you have fewer
+   teams, each “round” will be shifted accordingly, so you may have rounds where different teams are
+   practicing different concepts. Judge each team’s knowledge gaps, and adjust which questions you
+   ask each group accordingly.
 
 4. Questions for your Grudgeball game are listed below:
 
@@ -190,11 +190,11 @@ public static void mystery2 (int n) {
 
 What output is produced by the method call indicated?
 
-t. `mystery2(113);`<br>
-u. `mystery2(70);`<br>
-v. `mystery2(42);`<br>
-w. `mystery2(30);`<br>
-x. `mystery2(10);`
+t) `mystery2(113);`<br>
+u) `mystery2(70);`<br>
+v) `mystery2(42);`<br>
+w) `mystery2(30);`<br>
+x) `mystery2(10);`
 
 ----------------------------------------------------------------------------------------------------
 

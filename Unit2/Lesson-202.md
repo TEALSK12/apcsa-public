@@ -58,27 +58,27 @@ going to learn how this program is built today.
 
 1. Using WS 2.2, walk students through the proper way to declare a variable.
 
-  - Be sure to spot-check for understanding by having students give you the definitions of **type**,
-    **syntax**, **declaration**, and **variable** (all bolded in the text).
+   - Be sure to spot-check for understanding by having students give you the definitions of **type**,
+     **syntax**, **declaration**, and **variable** (all bolded in the text).
 
-  - Encourage students to use their notes if needed.
+   - Encourage students to use their notes if needed.
 
 2. Guide students through the syntax rules for variable declarations by working through the first
-  few examples of Exercise 1 in pairs.
+   few examples of Exercise 1 in pairs.
 
 3. Give students a few minutes to complete Exercise 1 on their own; encourage students to tackle
-  Exercise 2 as well, then check all answers together as a whole group.
+   Exercise 2 as well, then check all answers together as a whole group.
 
 4. Using the figure on Exercise 3 of WS 2.2, walk students through the proper syntax to assign a
-  variable.
+   variable.
 
-  - Spot-check for understanding by asking students to define the italicized words.
+   - Spot-check for understanding by asking students to define the italicized words.
 
-  - Ask students for a few sample answers, correct them if needed, then give students a few minutes
-    to complete Exercise 3 in pairs.
+   - Ask students for a few sample answers, correct them if needed, then give students a few minutes
+     to complete Exercise 3 in pairs.
 
 5. As a whole group, walk students through Exercise 4 and 5. Complete 5a together as a group, then
-  let students work on 5b in pairs.
+   let students work on 5b in pairs.
 
 At this point, your class may be raring to get started on the rest of the assignment without your
 help. If they are, great! Post the Practice-it questions on the board so they can continue to that
@@ -89,18 +89,17 @@ string concatenation, go through the examples as above.
 
 1. Have students log in to Practice-It to complete the following Practice-It self-check questions:
 
-  a. studentVariables
+   a. studentVariables
 
-  b. values of A,B,C
+   b. values of A,B,C
 
 2. Have students complete Practice-It exercise “displacement.”
 
 3. Students should work on their own, but if the exercise is too challenging, you might opt to have
-  students collaborate on answers. Be sure to remind students that each student should turn in their
-  own set of work.
+   students collaborate on answers. Be sure to remind students that each student should turn in their
+   own set of work.
 
 ### Students turn in worksheets, wrap up \[5 minutes\]
-
 At the end of class, collect WS 2.2 and Practice-It submissions.
 
 
@@ -109,13 +108,13 @@ Accommodation and Differentiation
 
 If you have students who are speeding through this lesson, you should encourage them to:
 
-  - Complete Practice-It self-check problem “timesOperator.”
+- Complete Practice-It self-check problem “timesOperator.”
 
-  - Challenge them to build their own program that converts Farenheit to Celsius (this version won’t
-    take user input—yet!)
+- Challenge them to build their own program that converts Farenheit to Celsius (this version won’t
+  take user input—yet!)
 
-  - Have the student create a classroom poster diagraming the parts of variable declaration &
-    assignment.
+- Have the student create a classroom poster diagraming the parts of variable declaration &
+  assignment.
 
 If your class is struggling with learning syntax, you can split the lesson into 2 lessons, and/or
 take off some of the homework questions. If splitting the lesson in two, we recommend stopping

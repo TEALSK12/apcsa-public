@@ -167,12 +167,12 @@ Elevens Lab.”
 1. To help students start the lab smoothly, start Activity 1 as a whole group.
 
 2. Encourage students to use their Tricky Code Cheat Sheets, 4 Commandments of Scope, notebooks,
-  textbooks, classroom posters, and homework assignments.
+   textbooks, classroom posters, and homework assignments.
 
 3. Offer occasional time-checks to help keep students on pace.
 
 4. Grade notebooks and review books in between helping students so students can keep notebooks for
-  homework and studying in the evenings.
+   homework and studying in the evenings.
 
 ### About Barron’s
 Barron’s is an AP CS A review book that some schools provide students. If your school doesn’t
@@ -184,21 +184,21 @@ Alternatively, you can save time spent on the lab by checking activities as home
 ### Notes for Introduction Lecture for Activity 3
 
 1. The teacher’s guide recommends leading the activity with a discussion on what makes a good
-  shuffling algorithm.
+   shuffling algorithm.
 
-  - The Collections class has a method called shuffle that accepts a list as its parameter, and
-    rearranges its elements randomly:
+   - The Collections class has a method called shuffle that accepts a list as its parameter, and
+     rearranges its elements randomly:
 
-    ``` Java
-    Collections.shuffle(list);    // Where list is the name of the array you want to shuffle.
-    ```
+     ``` Java
+     Collections.shuffle(list);    // Where list is the name of the array you want to shuffle.
+     ```
 
-  - Ask students what `System.out.println` method they could call to get the top card (or first
-    element) of the array.
+   - Ask students what `System.out.println` method they could call to get the top card (or first
+     element) of the array.
 
-    ``` Java
-    System.out.println("Top card = " + list.get(0));
-    ```
+     ``` Java
+     System.out.println("Top card = " + list.get(0));
+     ```
 
 
 Accommodation and Differentiation
