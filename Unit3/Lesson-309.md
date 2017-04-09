@@ -88,7 +88,7 @@ lecture content will be tested during the game.
   Evaluate both expressions, then see if the relational operator holds true or not.
 
 - Operators students need to know:
-
+  
   | Token  | Meaning                  |
   |:------:|:-------------------------|
   |  `==`  | equal to                 |
