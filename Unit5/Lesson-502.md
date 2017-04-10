@@ -188,8 +188,8 @@ class, for example Pikachu, Bulbasaur.)
 
      ``` Java
      public class Pokemon {
-         int hp;
-         int attack;
+         private int hp;
+         private int attack;
 
          public Pokemon (int hitpoints, int a) {           // In a complete version you
              hp = hitpoints;                               // would include all stats.
