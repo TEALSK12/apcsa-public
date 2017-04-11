@@ -99,7 +99,7 @@ class); students will create more code to be used in their larger Pokemon progra
 5. If students are adjusting these parts of the method header with ease, move onto the method body:
 
    `public static int sum (int n) {`<br>
-   `    `**`return`**` (n + 1) * n / 2;`
+   `   ` **`return`** `(n + 1) * n / 2;`
 
    - Without the special return statement, this wouldn’t return a value to the main method! It would
      basically be a void method, like the ones we wrote before. It is an error in Java for flow of
