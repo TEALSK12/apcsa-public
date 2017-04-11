@@ -63,7 +63,7 @@
   * [Lesson 4.06: Nested Loop Algorithms & Rectangular Arrays](Unit4/Lesson-406.md)
   * [Lesson 4.07: ArrayList](Unit4/Lesson-407.md)
   * [Lesson 4.08: Finding & Fixing Errors](Unit4/Lesson-408.md)
-  * [Lesson 4.09: Magpie Lab (5 Days)](Unit4/Lesson-409.md)
+  * [Lesson 4.09: Magpie Lab (5 Days)](Unit4/Lesson-409.md)
   * [Lesson 4.10: Review](Unit4/Lesson-410.md)
   * Lesson 4.99: (Unit 4 test)
 
@@ -76,7 +76,7 @@
   * [Lesson 5.05: Finding & Fixing Errors](Unit5/Lesson-505.md)
   * [Lesson 5.06: Picture Lab (9 Days)](Unit5/Lesson-506.md)
   * [Lesson 5.07: Review](Unit5/Lesson-507.md)
-  * Lesson 5.99: (Unit 5 test)
+  * Lesson 5.99: (Unit 5 test)
 
 ## Unit 6
   * [Lesson 6.00: Test Review & Reteach](Unit6/Lesson-600.md)
@@ -86,7 +86,7 @@
   * [Lesson 6.04: Polymorphism](Unit6/Lesson-604.md)
   * [Lesson 6.05: Has-a Relationships](Unit6/Lesson-605.md)
   * [Lesson 6.06: Interfaces](Unit6/Lesson-606.md)
-  * [Lesson 6.07: Programming Project (5 Days)](Unit6/Lesson-607.md)
+  * [Lesson 6.07: Programming Project (5 Days)](Unit6/Lesson-607.md)
   * [Lesson 6.08: Finding & Fixing Errors](Unit6/Lesson-608.md)
   * [Lesson 6.09: Review](Unit6/Lesson-609.md)
   * Lesson 6.99: (Unit 6 test)
@@ -96,7 +96,7 @@
   * [Lesson 7.00: Test Review & Reteach](Unit7/Lesson-700.md)
   * [Lesson 7.01: Searching Algorithms](Unit7/Lesson-701.md)
   * [Lesson 7.02: Sorting Algorithms](Unit7/Lesson-702.md)
-  * [Lesson 7.03: Elevens Lab (16 Days)](Unit7/Lesson-703.md)
+  * [Lesson 7.03: Elevens Lab (16 Days)](Unit7/Lesson-703.md)
   * [Lesson 7.04: Review](Unit7/Lesson-704.md)
   * Lesson 7.99: (Unit 7 test)
 
@@ -111,4 +111,4 @@
   * [Lesson 8.07: Quiz Review & Reteach](Unit8/Lesson-807.md)
 
 ## Unit 9
-  * [Lesson 9.01: Reviewing for the AP Exam  ](Unit9 /Lesson-901.md)
+  * [Lesson 9.01: Reviewing for the AP Exam](Unit9/Lesson-901.md)
