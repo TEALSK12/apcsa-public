@@ -88,15 +88,13 @@ lecture content will be tested during the game.
   Evaluate both expressions, then see if the relational operator holds true or not.
 
 - Operators students need to know:
-  
-  | Token  | Meaning                  |
-  |:------:|:-------------------------|
-  |  `==`  | equal to                 |
-  |  `!=`  | not equal to             |
-  |  `<`   | less than                |
-  |  `>`   | greater than             |
-  |  `<=`  | less than or equal to    |
-  |  `>=`  | greater than or equal to |
+
+  - `==`: equal to
+  - `!=`: not equal to
+  - `<` : less than
+  - `>` : greater than
+  - `<=`: less than or equal to
+  - `>=`: greater than or equal to |
 
 - As far as precedence goes:
   - relational operators have a lower precedence than arithmetic operators

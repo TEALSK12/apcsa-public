@@ -146,15 +146,13 @@ class, for example Pikachu, Bulbasaur.)
    Pokémon instance objects. In the game, what can you do to cause your stats to change? (Win
    battles, consume vitamins)
 
-   - Pokémon can use vitamins to boost their stats. Here are some examples for you to use at the
-     board:
+   - Pokémon can use vitamins to boost their stats. Here are some example vitamins for you to use at
+     the board:
 
-     | Vitamin | Function
-     |---------|----------------------------
-     | hpUp    | + points to HP
-     | protein | + points to attack
-     | iron    | + points to defense
-     | zinc    | + points to specialDefense
+     - **hpUp:** + points to HP
+     - **protein:** + points to attack
+     - **iron:** + points to defense
+     - **zinc:** + points to specialDefense
 
    - In keeping with our earlier example, a method to update stats with vitamins would look
      something like this:

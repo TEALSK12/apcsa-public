@@ -102,10 +102,13 @@ other.
    auto-initializes arrays to a default value of 0 (for `char`, `double`, and `int`) or `false` (for
    boolean). So our *number* array looks something like this:
 
-   |                  |   |   |   |   |
-   |------------------|:-:|:-:|:-:|:-:|
+   ```
+   .------------------.---.---.---.---.
    | array `numbers`: | 0 | 0 | 0 | 0 |
+   +------------------+---+---+---+---+
    |     index        | 0 | 1 | 2 | 3 |
+   `------------------'---'---'---'---'
+   ```
 
    - To fill in this array, we need to fill in the values for each location:
 
@@ -116,10 +119,13 @@ other.
 
    - Now the array looks like this:
 
-     |                  |   |   |   |   |
-     |------------------|:-:|:-:|:-:|:-:|
-     | array `numbers`: | 27| 0 | 0 |-6 |
-     |     index        | 0 | 1 | 2 | 3 |
+   ```
+   .------------------.---.---.---.---.
+   | array `numbers`: | 27| 0 | 0 |-6 |
+   +------------------+---+---+---+---+
+   |     index        | 0 | 1 | 2 | 3 |
+   `------------------'---'---'---'---'
+   ```
 
 3. Briefly touch on other types of arrays and common errors.
 

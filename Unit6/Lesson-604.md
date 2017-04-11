@@ -60,12 +60,11 @@ allow a little time for debate.
    - Why does this work? It is legal for a superclass variable to refer to an object of its subclass.
      Reference variables do not have to exactly match the type of object they refer to!
 
-     | _If_   | public class Lion extends Animal{ … }
-     |:-------|:-------------------------------------
-     | _Then_ | `Animal simba = new Animal();`
-     | _Or_   | `Animal simba = new Lion();`
-     | _Or_   | `Lion simba = new Lion();`
-     | _Not_  | `Lion simba = new Animal();`
+     If public class `Lion` extends `Animal { … }`,
+     - _then_         `Animal simba = new Animal();`
+     - _or_           `Animal simba = new Lion();`
+     - _or_           `Lion simba = new Lion();`
+     - **_but not_**  `Lion simba = new Animal();`
 
    - The object referred to by *simba* refers to a *Lion* object, not an *Animal* object. Methods
      called on *simba* will behave like a *Lion* object (e.g. the Lion roars). It may be beneficial

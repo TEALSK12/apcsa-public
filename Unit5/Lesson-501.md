@@ -206,10 +206,11 @@ customized classes that they’ve built themselves.
    - Finally, ask for students to provide examples of their own classes and instances. Some
      examples:
 
-     | Class          | Instances
-     |----------------|-------------------------------------------
-     | ClassroomChair | Student 1’s Seat, Student 2’s seat, _etc._
-     | Pens           | My pen, your pen, the pen on the desk
+     - _Class_: `ClassroomChair`<br>
+       _Instances_: Student 1’s Seat, Student 2’s seat, _etc._
+
+     - _Class:_ `Pens`<br>
+       _Instances_: My pen, your pen, the pen on the desk
 
    - If you use these examples, walk around the classroom, physically touching or picking up the
      instances of each class.
@@ -252,11 +253,11 @@ customized classes that they’ve built themselves.
 
 3. Have students log in to Practice It to complete the following self-check questions:
 
-  a. whatIsOOP<br>
-  b. whatIsAnObject<br>
-  c. StringObject<br>
-  d. ReferenceMystery3<br>
-  e. CalculatorObject
+   a. whatIsOOP<br>
+   b. whatIsAnObject<br>
+   c. StringObject<br>
+   d. ReferenceMystery3<br>
+   e. CalculatorObject
 
 4. If more 25% or more of the class is struggling, return to whole group with the stipulation that
    students who get it may continue working independently.
