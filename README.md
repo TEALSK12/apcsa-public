@@ -60,8 +60,8 @@ This work is licensed under a
 for the full license.
 
 
-Acknowledgments
----------------
+Acknowledgements
+----------------
 ### TEALS Summer Fellows
 - Ben Watsky
 - Julian Boss
