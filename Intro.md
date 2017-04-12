@@ -31,6 +31,8 @@ We have provided classroom management tips and engagement tips for TEALS volunte
 the classroom setting. Experienced teachers and volunteers will likely choose to skip such details
 and focus on the step-by-step lecture notes.
 
+You may browse the [Curriculum Map] for an overview of the pacing, objectives, and assessments.
+
 ### Year Round Pacing
 
 The table-of-contents (included with Introduction materials) contains course-grained time estimates
@@ -161,6 +163,16 @@ on their own later. Finally, students that have answered all or most of their wo
 a day off to do silent work/play on their own, which positively reinforces students to put in the
 initial effort to win a day off.
 
+Video Tutorials
+---------------
+- [Timing and Pacing] — Adjusting lessons and the curriculum map for the speed of your learners
+- [Projects and Labs] — Choosingn whether your class completes the AP labs or the projects
+  (FracCalc/TextExcel)
+- [Supporting Visual-Spatial Learners] — Using the physical space in your classroom to enhance
+  learning
+- [Parson's Problems] — Assessing high-level programming skills quickly with Parson's Problems
+- [Grudgeball] — Reviewing material by playing a class game of Grudgeball
+
 
 Digital Tools Associated with This Curriculum
 ---------------------------------------------
@@ -224,7 +236,7 @@ Additional Resources
 - Emerging EdTech has collected a sample of 20 digital tools to increase collaboration in the
   classroom. One of them might be perfect for your classroom:
 
-- See [_20 Fun Free Tools for Interactive Classroom Collaboration_]. Other tools for collaboration
+- See _[20 Fun Free Tools for Interactive Classroom Collaboration]_. Other tools for collaboration
   that have been successfully used in TEALS classrooms include [Twiddla], [Vyew], [Skype], and
   [Google Hangouts].
 
@@ -269,11 +281,17 @@ on the TEALS dashboard, or to [APSquad@tealsk12.org](mailto:APSquad@tealsk12.org
 
 
 
-[_20 Fun Free Tools for Interactive Classroom Collaboration_]: http://tinyurl.com/k62tstg
+[20 Fun Free Tools for Interactive Classroom Collaboration]: http://tinyurl.com/k62tstg
 [AP Java Quick Reference]: http://apcentral.collegeboard.com/apc/public/repository/ap_comp_sci_a_quick_reference.pdf
+[Curriculum Map]: Curriculum-map.md
 [Google Hangouts]: http://hangouts.google.com
+[Grudgeball]: https://mix.office.com/watch/1nfwrdlos27tc
+[Parson's Problems]: https://mix.office.com/watch/1urvviz6o57ol
 [Practice-It]: https://practiceit.cs.washington.edu/
+[Projects and Labs]: https://mix.office.com/watch/17a11c41ynk5j
 [Skype]: http://www.skype.com
+[Supporting Visual-Spatial Learners]: https://mix.office.com/watch/f7y2ddrd3kp2
 [TEALS Program]: https://www.tealsk12.org/
+[Timing and Pacing]: https://mix.office.com/watch/s7tl0g80olbx
 [Twiddla]: http://www.twiddla.com
 [Vyew]: http://www.vyew.com
