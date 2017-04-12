@@ -43,6 +43,12 @@ Authors
 - Nathaniel Granor (TEALS Coordinator)
 
 
+Tools
+-----
+Several tools were/are used in the development of this content. See the [Tools Notes] for more
+information.
+
+
 License
 -------
 This work is licensed under a
@@ -88,8 +94,9 @@ Acknowledgments
 
 
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International]: https://creativecommons.org/licenses/by-nc-sa/4.0/
-[GitBook]:    https://www.gitbook.com
-[LICENSE.md]: LICENSE.md
-[Locally]:    SUMMARY.md
-[On GitBook]: https://tealsk12.gitbooks.io/ap-cs-a-curriculum/
-[On GitHub]:  https://github.com/TEALSK12/apcsa-curriculum/blob/master/SUMMARY.md
+[GitBook]:     https://www.gitbook.com
+[LICENSE.md]:  LICENSE.md
+[Locally]:     SUMMARY.md
+[On GitBook]:  https://tealsk12.gitbooks.io/ap-cs-a-curriculum/
+[On GitHub]:   https://github.com/TEALSK12/apcsa-curriculum/blob/master/SUMMARY.md
+[Tools Notes]: tools/README.md
