@@ -1,14 +1,12 @@
 AP Computer Science A Curriculum
 ====================================================================================================
 
-This project contains the curriculum source for the TEALS AP Computer Science A curriculum, as it
-existed at 2017 March 12. At this point, it contains all of the content of the original zip archive
-file from the Sharepoint site (off the TEALS dashboard), minus duplicate PDF versions of files.
+(If you are reading this from the online AP CS A GitBook, this README covers the internal development
+of the curriculum, hosted on GitHub. The repo URL is https://github.com/TEALSK12/apcsa-curriculum,
+which you may or may not have access to (it's currently a private repository).)
 
-These documents will be converted from Word to Markdown, and from there incorporated into a GitHub
-book using [GitBook].
-
-Content can be browsed in the following ways:
+This project contains the source for the TEALS AP Computer Science A Curriculum. Content can be
+browsed in the following ways:
 
 - [On GitBook] — The official source for the book
 - [On GitHub] — From the repository contents on GitHub
@@ -49,6 +47,12 @@ Several tools were/are used in the development of this content. See the [Tools N
 information.
 
 
+Wiki
+----
+Make sure to [check out the wiki](https://github.com/TEALSK12/apcsa-curriculum/wiki) for notes on
+various aspects of project development.
+
+
 License
 -------
 This work is licensed under a
@@ -61,6 +65,10 @@ Acknowledgments
 ### TEALS Summer Fellows
 - Ben Watsky
 - Julian Boss
+
+### Markdown Conversion & Repo Setup
+- [Steve Hollasch](https://github.com/hollasch)
+- Kenney Chan
 
 ### Special Thanks
 - Glenn Durfee
