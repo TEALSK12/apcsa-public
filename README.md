@@ -97,6 +97,6 @@ Acknowledgments
 [GitBook]:     https://www.gitbook.com
 [LICENSE.md]:  LICENSE.md
 [Locally]:     SUMMARY.md
-[On GitBook]:  https://tealsk12.gitbooks.io/ap-cs-a-curriculum/
+[On GitBook]:  https://tealsk12.gitbooks.io/ap-computer-science-a/content/
 [On GitHub]:   https://github.com/TEALSK12/apcsa-curriculum/blob/master/SUMMARY.md
 [Tools Notes]: tools/README.md
