@@ -174,7 +174,7 @@ of some Eclipse: https://mix.office.com/watch/pje5izaj92jz/.
 
 ### Practice-It!
 
-Professors Marty Stepp and Jessica Miller created the Practice-It online tool that allows students
+Professors Marty Stepp and Jessica Miller created the [Practice-It] online tool that allows students
 to complete Java exercises from the BJP textbook and get immediate feedback on their results.
 Detailed instructions for teacher and student registration on the site are included in Unit 1
 lessons.
@@ -200,7 +200,8 @@ inspect code flagged by MOSS, but the program does catch common tactics includin
 and reordering methods.
 
 Occasionally, teachers have difficulty registering for an account. If this occurs, you are
-encouraged to email the program's creator Alex Aiken directly, at aiken@cs.stanford.edu.
+encouraged to email the program's creator Alex Aiken directly, at
+[aiken@cs.stanford.edu](mailto:aiken@cs.stanford.edu).
 
 
 Additional Resources
@@ -264,13 +265,14 @@ TEALS intends for this curriculum to be a starting point; it's our first attempt
 A curriculum. We'll continue evolving and adapting the curriculum and associated materials as we
 learn more about teaching AP CS A. To participate in this process, we invite TEALS team members and
 independent teachers using this curriculum to submit edits and suggestions via the discussion forum
-on the TEALS dashboard, or to APSquad@tealsk12.org.
+on the TEALS dashboard, or to [APSquad@tealsk12.org](mailto:APSquad@tealsk12.org).
 
 
 
 [_20 Fun Free Tools for Interactive Classroom Collaboration_]: http://tinyurl.com/k62tstg
 [AP Java Quick Reference]: http://apcentral.collegeboard.com/apc/public/repository/ap_comp_sci_a_quick_reference.pdf
 [Google Hangouts]: http://hangouts.google.com
+[Practice-It]: https://practiceit.cs.washington.edu/
 [Skype]: http://www.skype.com
 [TEALS Program]: https://www.tealsk12.org/
 [Twiddla]: http://www.twiddla.com
