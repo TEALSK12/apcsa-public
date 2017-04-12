@@ -2,8 +2,9 @@
 
 ## Introduction
 * [About the Curriculum](Intro.md)
+* [Curriculum Map](Curriculum-Map.md)
 
-## Unit 1
+## Unit 1: Programming & Java (2 weeks)
 * [Lesson 1.01: Using Eclipse & Practice It](Unit1/Lesson-101.md)
 * [Lesson 1.02: Algorithms & Computational Thinking](Unit1/Lesson-102.md)
 * [Lesson 1.03: String & Console Output](Unit1/Lesson-103.md)
@@ -15,7 +16,7 @@
 * [Lesson 1.09: Review](Unit1/Lesson-109.md)
 * Lesson 1.99: (Unit 1 Test)
 
-## Unit 2
+## Unit 2: Working with Data & Basic Control Flow (3 weeks)
 * [Lesson 2.00: Test Review & Reteach](Unit2/Lesson-200.md)
 * [Lesson 2.01: Basic Data Concepts](Unit2/Lesson-201.md)
 * [Lesson 2.02: Declaring & Assigning Variables](Unit2/Lesson-202.md)
@@ -30,7 +31,7 @@
 * [Lesson 2.11: Review](Unit2/Lesson-211.md)
 * Lesson 2.99: (Unit 2 Test)
 
-## Unit 3
+## Unit 3: Advanced Data & Control Flow (4 weeks)
 * [Lesson 3.00: Test Review & Reteach](Unit3/Lesson-300.md)
 * [Lesson 3.01: Parameters](Unit3/Lesson-301.md)
 * [Lesson 3.02: Limitations of Parameters & Multiple Parameters](Unit3/Lesson-302.md)
@@ -53,7 +54,7 @@
 * Lesson 3.99: (Unit 3 test)
 * Lesson 3.XX: Frac Calc
 
-## Unit 4
+## Unit 4: Arrays, Lists, & Files (4 weeks)
 * [Lesson 4.00: Test Review & Reteach](Unit4/Lesson-400.md)
 * [Lesson 4.01: Array Basics](Unit4/Lesson-401.md)
 * [Lesson 4.02: For-Each Loop & Arrays Class](Unit4/Lesson-402.md)
@@ -67,7 +68,7 @@
 * [Lesson 4.10: Review](Unit4/Lesson-410.md)
 * Lesson 4.99: (Unit 4 test)
 
-## Unit 5
+## Unit 5: Object-Oriented Programming (4 weeks)
 * [Lesson 5.00: Test Review & Reteach](Unit5/Lesson-500.md)
 * [Lesson 5.01: Object Oriented Programming](Unit5/Lesson-501.md)
 * [Lesson 5.02: Object State & Behavior](Unit5/Lesson-502.md)
@@ -78,7 +79,7 @@
 * [Lesson 5.07: Review](Unit5/Lesson-507.md)
 * Lesson 5.99: (Unit 5 test)
 
-## Unit 6
+## Unit 6: Inheritance & Polymorphism (4 weeks)
 * [Lesson 6.00: Test Review & Reteach](Unit6/Lesson-600.md)
 * [Lesson 6.01: Inheritance Basics (2 Days)](Unit6/Lesson-601.md)
 * [Lesson 6.02: Overriding Methods & Accessing Inherited Code](Unit6/Lesson-602.md)
@@ -92,7 +93,7 @@
 * Lesson 6.99: (Unit 6 test)
 * Lesson 6.XX: Text Excel
 
-## Unit 7
+## Unit 7: Searching & Sorting (3 weeks)
 * [Lesson 7.00: Test Review & Reteach](Unit7/Lesson-700.md)
 * [Lesson 7.01: Searching Algorithms](Unit7/Lesson-701.md)
 * [Lesson 7.02: Sorting Algorithms](Unit7/Lesson-702.md)
@@ -100,7 +101,7 @@
 * [Lesson 7.04: Review](Unit7/Lesson-704.md)
 * Lesson 7.99: (Unit 7 test)
 
-## Unit 8
+## Unit 8: Recursion (2 weeks)
 * [Lesson 8.00: Test Review & Reteach](Unit8/Lesson-800.md)
 * [Lesson 8.01: Thinking Recursively](Unit8/Lesson-801.md)
 * [Lesson 8.02: Writing Recursive Solutions](Unit8/Lesson-802.md)
@@ -110,8 +111,12 @@
 * [Lesson 8.06: Review & Quiz](Unit8/Lesson-806.md)
 * [Lesson 8.07: Quiz Review & Reteach](Unit8/Lesson-807.md)
 
-## Unit 9
+## Unit 9: AP Test Review (3 weeks)
 * [Lesson 9.01: Reviewing for the AP Exam](Unit9/Lesson-901.md)
 
-## Curriculum Development
+## Unit 10: Post-AP Exam Projects (4–5 weeks)
+
+## Appendix
+* [Changelog](CHANGELOG.md)
 * [Development README](README.md)
+* [Acknowledegments](README.md#acknowledgements)
