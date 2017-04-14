@@ -1,5 +1,6 @@
 # AP CS A
 
+
 ## Introduction
 * [About the Curriculum](Intro.md)
 * [Curriculum Map](Curriculum-Map.md)
@@ -115,6 +116,8 @@
 * [Lesson 9.01: Reviewing for the AP Exam](Unit9/Lesson-901.md)
 
 ## Unit 10: Post-AP Exam Projects (4–5 weeks)
+* [SpaceBattleArena](http://mikeware.github.io/SpaceBattleArena/)
+* [TEALS Minecraft Modding](https://tealsk12.github.io/teals-minecraft/)
 
 ## Appendix
 * [Changelog](CHANGELOG.md)
