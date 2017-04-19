@@ -42,6 +42,15 @@ Tools
 Several tools were/are used in the development of this content. See the [Tools Notes] for more
 information.
 
+In addition to the standalone tools, there's a simple `make.cmd` file in the root of the project
+used to run common tasks. Right now, all it does is build all PDFs from source Word .docx files.
+This uses the `tools\docto.exe` utility. The command `make pdfs` will create new PDF files from any
+changed `.docx` files listed in the `docx.manifest` file. Note that for some reason, `docto` does
+not properly handle the three files `Unit6\Text Excel [ABC] Student Guide.docx`. These have been
+removed from the `docx.manifest` file, and must be saved as PDF manually.
+
+Run `make help` for any other usage information.
+
 
 Wiki
 ----
