@@ -1,8 +1,4 @@
 # AP CS A
-
-
-## Introduction
-* [About the Curriculum](Intro.md)
 * [Curriculum Map](Curriculum-Map.md)
 
 ## Unit 1: Programming & Java (2 weeks)
@@ -121,5 +117,5 @@
 
 ## Appendix
 * [Changelog](CHANGELOG.md)
-* [Development README](README.md)
-* [Acknowledegments](README.md#acknowledgements)
+* [Curriculum Development](DEVELOPMENT.md)
+* [Acknowledegments](DEVELOPMENT.md#acknowledgements)
