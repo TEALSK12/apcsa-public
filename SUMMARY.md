@@ -1,4 +1,5 @@
 # AP CS A
+* [Video Tutorials](Video-Tutorials.md) 
 * [Curriculum Map](Curriculum-Map.md)
 
 ## Unit 1: Programming & Java (2 weeks)
