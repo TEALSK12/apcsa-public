@@ -241,3 +241,15 @@ Due to the brisk pace of the round-robin rotation, there shouldn’t be too much
 student. If your students are finishing faster than the time intervals indicated, reduce the amount
 of time allotted to maintain a sense of urgency/keep students on task. If finished early, offer a
 Programming Challenge while you grade the sample worksheet.
+
+
+Common Mistakes
+---------------
+Two dimensional arrays common mistakes:
+<http://interactivepython.org/runestone/static/JavaReview/ListBasics/listMistakes.html>
+
+
+Videos
+------
+- BJP 7-3-2, _Tallying with an Array_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c7-3-2>

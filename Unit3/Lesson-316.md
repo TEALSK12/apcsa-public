@@ -251,3 +251,35 @@ work through the 2 Practice-It questions as a whole class.
 For your more advanced students, you might encourage them to create more complex algorithms, or more
 advanced interaction with the user. If they are interested in AI and machine learning, invite them
 to research the topic and experiment with different techniques on their Rock Paper Scissor program.
+
+
+Misconceptions
+--------------
+- Students often have the misconception that logical OR (`||`) is exclusive OR. In a student’s daily
+  life, they can have either brownie or the cupcake. This implies they can have one or the other,
+  not both. However, in boolean logic, “a or b” is also true if _both_ are true.
+
+- Students ask why the symbol `&&` for AND an `||` for OR? And why double `&&` vs single `&`.
+
+  Java was derived from the C programming language. The designers Kernighan and Richie made design
+  decisions based on prior programming languages of their time. The history of C can be found here:
+  <https://www.bell-labs.com/usr/dmr/www/chist.html>. Java’s use of `&` and `|` is historically
+  based on C.
+
+- A common syntax error by beginner and experienced programmers alike is typing a single ampersand
+  `&` or vertical bar `|`. Single `&` and `|` are _bitwise_ operators, and are not the same as
+  double `&&` and `||` which are logical AND and OR, respectively.
+
+- Logical operators AND and OR do not follow English language syntax. For example, testing whether a
+  dice roll is either 7 or 11 could be translated incorrectly to:
+
+  ``` Java
+  if (roll == 7 || 11)           // INCORRECT: Logical operator misconception
+  if (roll == 7 || roll == 11)   // CORRECT
+  ```
+
+
+Video
+-----
+- BJP 5-4, _The Boolean Type_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c5-4>

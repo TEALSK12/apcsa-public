@@ -117,3 +117,15 @@ up in the past, with their answers, are listed below:
 
    _Put an example up on the board (or have the student instructors do so), and trace the flow of
    control before and after rearranging the loop body._
+
+
+Video
+-----
+- BJP 5-3, _Sentinel Loops_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c5-3>
+
+- CSE 142, _Fencepost_ (0:28-11:20)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9874ea5-8d4d-4bf1-8924-ded454847a58&start=28>
+
+- CSE 142, _Sentinel Loops_ (15:56)<br>
+  https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9874ea5-8d4d-4bf1-8924-ded454847a58&start=681

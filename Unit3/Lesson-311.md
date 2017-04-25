@@ -125,3 +125,12 @@ but shuffled out of order (as a Parsons-type Problem).
 
 If students are speeding along, encourage students to write down questions to pose to other groups
 during mini-lessons.
+
+
+Video
+-----
+- BJP 4-3: _Factoring if/else_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c4-3>
+
+- CSE 142: _Factoring if/else Statements and Reasoning about Paths_ (18:40-34:05)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fc356a4a-92a2-4038-9b89-90ea0ffa4533&start=248>

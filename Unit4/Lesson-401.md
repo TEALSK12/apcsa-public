@@ -206,3 +206,41 @@ some mathematical concept by manipulating it, hence its name. The use of manipul
 way for children to learn concepts in a developmentally appropriate, hands-on and experiential way.
 
 \[TEST: hello world\]
+
+
+Teacher Prior CS Knowledge 
+---------------------------
+Arrays in Java (and other object oriented programming languages) are classes. This brings the whole
+object oriented paradigm into play. When declaring an array variable, the variable is now a
+reference to an array object. In order to create an object from a class the programmer uses the
+`new` keyword. There is a distinction between the array reference and the array object. This
+programming construct allows for multiple reference to point to the same object.
+
+
+Common Mistakes
+---------------
+Arrays common mistakes:
+<http://interactivepython.org/runestone/static/JavaReview/ArrayBasics/aMistakes.html>
+
+
+Misconceptions
+--------------
+- Students understanding of the difference between the index `i` and the content of the
+  i<sup>th</sup> element stored in `a[i]`.
+
+- Loop bounds:
+  + 0-based index arrays,
+  + where arrays end, versus array length, and
+  + what are the range of indices to express a particular array range.
+
+
+Video
+-----
+- BJP 7–1, _Array Simulation_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c7-1>
+
+- CSE 142, _Arrays_ (1:35–26:06)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=14058dec-efd5-4db3-b841-9d836e92bfb4&start=95>
+
+- CS Homework Bytes, _Arrays, with Ariel_<br>
+  <https://www.youtube.com/watch?v=PFohS2HvCgs>

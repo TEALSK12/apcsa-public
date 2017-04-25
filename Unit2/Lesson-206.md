@@ -183,3 +183,40 @@ If you have students who are speeding through this lesson, you should encourage 
   Have the student turn these ideas into a mnemonic, poster, or checklist to share with the class.
 
 
+Misconceptions
+--------------
+- Determining the purpose of the two variables counters in nested loops is confusing to students.
+  Most introductions to nested loops use “i" and “j” as the loop variables. Starting with “i" is a
+  carryover from the Fortran programming language where variables starting with the letters I to N
+  were integers and loop variables are integers. However, Java does not have this restriction,
+  integer variables can start with any letter.
+
+  In order to help students grasp the two loop variables, use loop variables in context where
+  students may be more familiar with: row/column, x/y. This affords using a graphical representation
+  that students can plot while tracing through the nested loops.
+
+- Confusion of the order of execution of the 3 parts of the for loop from a single for loop gets
+  compounded with nested for loops. The order of execution for the nested loop is:
+
+  + outer loop initialize variable
+  + outer loop test condition
+  + inner loop initialize variable
+  + inner loop test condition
+  + body of inner loop
+  + inner loop update variable
+  + repeat inner loop
+  + outer loop update variable
+  + repeat outer loop
+
+- Attempting to use the inner loop variable in the outside loop block. It is not obvious to
+  beginners that even though the inner block variable is declared inside the outer block, the inner
+  block’s scope is restricted to the inner block.
+
+
+Video
+-----
+- BJP 2–4, _Nested for Loops_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c2-4>
+
+- CSE 142, _Nested for Loops_ (16:18–37:50)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca84c6fe-878e-4bcf-92d4-a18edd3fef21&start=2524>

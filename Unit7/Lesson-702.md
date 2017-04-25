@@ -245,3 +245,41 @@ way (though the activities are cleverly disguised as fun)!
    - As a “grand reveal,” announce the different start conditions, so students will discover this
      significant behavior difference between selection and insertion.
 
+
+Teacher Prior CS Knowledge
+--------------------------
+- Many students learn bubble sort as one of the first sorting algorithms. Given bubble sorts large
+  amount of swapping in the worst case, it is a terrible sorting algorithm. However, if you ask
+  students to form a line creating a random list and then to get in size place order, the algorithm
+  they usually use is some sort of bubble sort where each student is compared to the student next to
+  them.
+
+- When given a deck of random cards and asked to sort them, students usually come up with either
+  selection sort or insertion sort. However, the selectin sort used to sort the random cards is
+  different from the actual algorithm used. Selection sort swaps the next smallest (or largest) item
+  in the list. However, when students select the next smallest item, they insert it in the cards
+  already sorted and shift the remaining cards down. You can implement a selection sort in this
+  manner, it takes a much larger number of swaps.
+
+
+Misconceptions
+--------------
+Selection sort requires the use of indexes in an array in order to keep track of the next lowest (or
+highest) item. This requires students to think in one more level of abstraction. Often times
+students will start with saving the number and then realize they need the index. What they end up
+with is two variables, one for the saved number and one for the index.
+
+
+Video
+-----
+- BJP 13-2, _Sorting_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c13-2>
+
+- CSE 143, _Bubble Sort_ (optional) (8:34–13:38)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1fdd364a-4d01-49cf-96b3-ce2f67b77dcf&start=514>
+
+- CSE 143, _Insertion Sort_ (13:39–16:13)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1fdd364a-4d01-49cf-96b3-ce2f67b77dcf&start=819>
+
+- CSE 143, _Selection Sort_ (16:14–17:21)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1fdd364a-4d01-49cf-96b3-ce2f67b77dcf&start=974>

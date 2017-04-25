@@ -137,3 +137,12 @@ Accommodation and Differentiation
 In ELL classrooms, you should distribute a handout diagramming the parts of a program with all
 vocabulary words included on the sample code or screenshot. Turning the pictures on the worksheet
 into classroom posters will be helpful in helping students remember syntax.
+
+
+Video
+-----
+- BJP 3–4, _Programming with Parameters_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c3-4>
+
+- CSE 142, _Scanner_ (0:21-23:06)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c247411-e890-4835-8a79-bee6e74066c2&start=21>

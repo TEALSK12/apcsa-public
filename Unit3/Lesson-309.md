@@ -212,3 +212,121 @@ projector.
 
 If this review session is too easy, give students time to start on the homework once you have
 finished Grudgeball.
+
+
+Teacher Prior CS Knowledge
+--------------------------
+- The unary not operator `!` (commonly read as “bang”) is commonly used in logical expressions to
+  negate a boolean value. The use of not is unique among the logical operators as it takes only one
+  operand. Not is analogous to the negative sign (`-`) where a minus before a numeric value or
+  expression represents the negative of the value whereas a not (`!`) before a boolean value
+  represents the opposite truth value: `true` becomes `false` and `false` becomes `true`.
+
+- Programming languages have a default order of evaluating expressions commonly referred to as
+  operator precedence. We usually teach students to be explicit in their logical expressions for
+  clarity and to avoid mistakes. However, a knowledge of the languages precedence rules is valuable
+  when both reading and debugging code. See the following for Java’s precedence rules:
+  <https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html>. In order to grade
+  correctly, it is essential to know Java’s order of operations.
+
+
+Common Mistakes
+---------------
+Conditionals common mistakes:
+<http://interactivepython.org/runestone/static/JavaReview/Conditionals/cMistakes.html>
+
+
+Misconceptions
+--------------
+- Confusing the assignment operator (`=`) with the comparison operator (`==`) is one of the most
+  common mistakes done by beginning programmers. Unfortunately, semantically a single equal sign is
+  used to denote equality in mathematics and for most students they have been doing math much longer
+  than computer science.
+
+  It is important for the teacher when reading code aloud to differentiate single equals as
+  assignment and double equals as comparison. The following would be read as:
+
+  ``` Java
+  x = 5;      // “x is assigned 5”
+
+  if (y == 4) // “if y is equal to 4”
+  ```
+
+- Many students think all statements in Java end in a semi-colon (`;`). However, this is not always
+  the case as the if-block ends in curly braces when used with a block of code. Students in the
+  habit of adding semi-colons to the end of each statement inevitably add semi-colons at the end of
+  the conditional, like so:
+
+  ``` Java
+  if (a > 1); // all statements end in semi-colon misconception
+  ```
+
+  When teach students about Java statements, it is important to distinguish between statements that
+  end in a semi-colon and those that signify scope with the curly-braces. Single Java statements
+  such ad declare variables, assignment, etc. end in semi-colons while Java statements that denote
+  scope like class definitions and methods have curly braces. If-statements can do both.
+
+- Logical operators AND and OR are covered in a future lesson. However, students will combine
+  logical operators similar to math syntax:
+
+  ``` Java
+  if (9 <= grade <= 12) // relational operator misconception
+  ```
+
+  For students that ask about compound conditionals, you will need to defer and state they will be
+  covered shortly in a future lesson. For students with prior programming experience inevitably
+  searching for the correct syntax since the English words “and” and “or” do not work in Java.
+
+- One common error is mismatched the parentheses:
+
+  ``` Java
+  if (a == 10 // mismatched parentheses
+  ```
+
+  or mismatched curly braces:
+
+  ``` Java
+  if (b == 12)
+      dozen = true;
+  }
+  ```
+
+  Even though many IDEs will help students by providing matching parentheses, a good habit for
+  students to learn when writing code by hand is to add the closing parentheses right after they
+  write the open parentheses. The same is true for open and close curly braces. Students will need
+  to learn to write code by hand for the AP exam, so practice hand written Java is important to
+  students’ success.
+
+  In addition, good coding style with proper indenting helps with student recognition of mismatched
+  closing parentheses and curly braces because of the visual pattern. Good programming style makes
+  it easier to identify errors in the pattern. This can be used during lab for students with
+  mismatched parentheses and/or curly braces. Instead of find the error, asking the student to clean
+  up their indenting will help them find errors on their own.
+
+- When constructing if-statements, students insert the condition of the if-statement within the
+  brackets instead of the parentheses:
+
+  ``` Java
+  if {a > 1} // conditional vs block misconception
+  ```
+
+  See above “mismatched the parentheses” for good programming practice.
+
+
+Video
+-----
+- BJP 4–2, _Nested if/else Statements_
+  (note: title of video is mislabeled, should be “if/else Statements”)<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c4-2>
+
+- CSE 142, _if/else Statements_ (38:41-50:15)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c247411-e890-4835-8a79-bee6e74066c2&start=2321>
+
+- CSE 142, _Methods with Conditional Execution_ (4:08-18:39)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fc356a4a-92a2-4038-9b89-90ea0ffa4533&start=248>
+
+- CS Homework Bytes, _Relational and Conditional Operators, with Elizabeth_<br>
+  <https://www.youtube.com/watch?v=M-mYpnPygY0>
+
+- CS Homework Bytes, _If-Statements, with Jim_<br>
+  <https://www.youtube.com/watch?v=SxWFYfA4i0M>

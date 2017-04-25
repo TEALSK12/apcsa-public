@@ -118,3 +118,18 @@ process to the rest of the class.
 
 If you have students that finished the classwork ahead of time, encourage them to complete
 Practice-It Exercise _threeHeads_.
+
+
+Video
+-----
+- BJP 5–1, _Random Numbers_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c5-1>
+
+- CS Homework Bytes, _Random Numbers, with Elizabeth_<br>
+  <https://www.youtube.com/watch?v=R0MqnEofFvs>
+
+- CSE 142, _Random Numbers_ (11:12–17:17)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fe3ea547-6068-4e56-ab0b-e8f8605dd836&start=672>
+
+- CSE 142, _Guessing Game_ (17:18–37:13)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fe3ea547-6068-4e56-ab0b-e8f8605dd836&start=1038>

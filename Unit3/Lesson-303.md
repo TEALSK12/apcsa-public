@@ -195,3 +195,21 @@ For students who complete the Pokemon challenge early, ask them to flesh out the
 If students are struggling with the Pokemon Challenge, urge them to begin with their structure
 diagram of pseudocode. Once they have this code, help them write the method to calculate stats by
 assisting with the algebra, if needed.
+
+
+Misconceptions
+--------------
+- Output to the console is somehow synonymous with the return value of a method: overloading the use
+  of the word output.
+
+
+Video
+-----
+- BJP 3-2, _Parameters and Return Values_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c3-2>
+
+- CSE 142, _Methods that Return Values_ (1:25-8:45)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dc713b99-c294-403f-82ee-52fc3323a19b&start=85>
+
+- CSE 142: _Return value worked example_ (8:46-38:32)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dc713b99-c294-403f-82ee-52fc3323a19b&start=85>

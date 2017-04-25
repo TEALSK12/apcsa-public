@@ -111,3 +111,15 @@ process to the rest of the class.
 
 If you have students that finished the classwork ahead of time, encourage them to explore do/while
 loops (which are NOT part of the AP subset).
+
+
+Common Mistakes
+---------------
+Loops common mistakes:
+<http://interactivepython.org/runestone/static/JavaReview/LoopBasics/lMistakes.html>
+
+
+Video
+-----
+- CSE 142, _While Loop_ (11:21-15:55)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9874ea5-8d4d-4bf1-8924-ded454847a58&start=681>

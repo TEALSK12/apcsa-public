@@ -185,3 +185,22 @@ If you have a few students that are struggling with the assignment, allow them t
 complete the worksheet as a series of think-pair-shares, where you return to whole group to share
 and discuss answers before moving on to the next step. **Teaching the class this way will roughly
 double the time required to complete the exercise.**
+
+
+Misconceptions
+--------------
+When first learning polymorphism, students learn method override before method overload. However, in
+order to successfully override a method, the subclass method must have the same method signature as
+the superclass, otherwise the method will be overloaded. The code must match the method parameters
+and return type and the methods public, they cannot be private or static. When helping students
+debug their code where the overridden method is not behaving as anticipated, asking the student if
+the method signatures match can help find the error on their own.
+
+
+Video
+-----
+- BJP 9-2, _Polymorphism_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c9-2>
+
+- CSE 142, _Polymorphism_ (35:07–49:57)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8a0a0287-877b-42df-99fc-e9f551929bef&start=2107>

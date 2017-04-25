@@ -173,3 +173,59 @@ If you have students who are speeding through this lesson, you should encourage 
     questions
   - Have the student write a sample test question with output that can be written using method
     calls. Be sure they include the answer key with the sample question!
+
+
+Teacher Prior CS Knowledge
+--------------------------
+Java has both static and non-static methods. Static methods allow the programmer to call the method
+without creating an object from the class. Non-static methods covered in the 2<sup>nd</sup> half of
+the course requires an object be created from the class before calling the method. Because “Building
+Java Programs” introduces functions before objects, methods in early lesson plans are static. For a
+description of the difference between static and non-static methods see
+http://beginnersbook.com/2013/05/static-vs-non-static-methods/.
+
+
+Teaching Tips
+-------------
+- One of the big fundamental concepts of problem solving in computer science is the concept
+  abstraction. This lesson has a number of new syntax constructs for students to create methods and
+  it is important to give students the big picture idea of factoring code and reducing redundancy.
+
+- The practice-it problems have students tracing code where methods call other methods. Giving
+  students a way of tracing code like using a table to keep track of the method calls. If you are
+  using a black/white board, we recommend crossing out the method call when it completes instead of
+  erasing the name so the student can review the entire flow of control from beginning to end after
+  the exercise is complete. Another technique that can be introduced now that can be used later when
+  the flow of control gets more complex is memory diagrams:
+  https://www.youtube.com/watch?v=t-_TeH0dSZs&feature=youtu.be&list=PL0g5FWk3FEqjmrq4ystAvlRyenEF7lUwa
+
+
+Misconceptions
+--------------
+- When declaring a method, students will sometimes incorrectly add a semicolon to the method header,
+  as in `public void foo();`. Students have a misconception that all statements in Java end in a
+  semicolon. They need to know the distinction between statements that do end in semicolon and
+  statements that begin blocks with curly brackets. The addition of the semicolon to the message
+  header could also be students incorrectly pattern matching the method declaration with the method
+  call where there is a semicolon: `foo();` This overgeneralization could lead to semi-colon being
+  incorrectly placed.
+
+- For methods without parameters, students will sometimes omit the parenthesis `()`. To clarify the
+  difference between variables and methods, always use parenthesis when referring to methods. This
+  will reinforce the notion that methods in Java require parenthesis, even for methods with zero
+  parameters.
+
+
+Videos
+------
+- BJP 1-3, _Programming with Methods_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c1-3>
+
+- CSE 142, _Static Methods_ (44:12-49:21)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dd78a77d-cd7a-4ff8-b853-5446801946fb&start=2652>
+
+- CSE 142, _Procedural Decomposition_ (20:10–29:35)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5df64f2-e42f-4943-bab6-29eca0ab8f00&start=1211>
+
+- CSE 142, _Eliminating Redundancy_ (29:36–35:49)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5df64f2-e42f-4943-bab6-29eca0ab8f00&start=1775>

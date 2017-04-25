@@ -88,3 +88,8 @@ Parsons Problems, check out this paper (<https://cseweb.ucsd.edu/classes/fa08/cs
 Even in a non-ELL class, you may want to change some Section II questions to Parsons problems
 because (1) grading the questions is easier, since logic and syntax errors are easy to discern, and
 (2) students challenged by language processing are able to more quickly complete the problem.
+
+
+Teaching Tips
+-------------
+Tips for Assessment: <http://csteachingtips.org/tips-for-assessing-programming>

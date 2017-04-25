@@ -179,3 +179,25 @@ projects (depending on how much time is available):
 
 - Tackle Ch.3 Programming Project \#1 for extra credit. (This might be completed over the course of
   several days.)
+
+
+Misconceptions
+--------------
+- When passing parameters to methods, students may include the type when the parameter is a
+  variable: `whiteSpace (int x);`. The student may be pattern matching method declaration with
+  method invocation.
+
+
+Video
+-----
+- BJP 3–1, _Mechanics of Parameters_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c3-1>
+
+- CSE 142, _Single Parameters_ (21:05-33:05)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=26cacdb4-6e47-405f-a788-912a9a158b41&start=1265>
+
+- CSE 142, _Multiple Parameters_ (33:06-50:0)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=26cacdb4-6e47-405f-a788-912a9a158b41&start=1985>
+
+- CS Homework Bytes, _Functions and Parameters, with Komal_<br>
+  <https://www.youtube.com/watch?v=UuZCQWErV-A>

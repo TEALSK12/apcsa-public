@@ -231,3 +231,12 @@ Tips from today’s class would include:
     highest/lowest number, put data range in for loop header).
 
 Ask students what a tip for Scanner would look like, or a tip for when to `import java.util.*`
+
+
+Video
+-----
+- BJP 4-4, _Programming with if/else and Cumulative Sums_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c4-4>
+
+- CSE 142, _Cumulative Sum_ (23:07-38:40)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c247411-e890-4835-8a79-bee6e74066c2&start=1387>

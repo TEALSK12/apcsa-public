@@ -153,3 +153,23 @@ with solving their assigned problem.
 
 ELL classrooms may need to allow 2 class periods to complete the round-robin exercise. There are
 many topics covered during the lesson, and it may be best to introduce vocabulary at a slower rate.
+
+
+Misconceptions
+--------------
+- Up to this point, students have been using quoted strings as a primitive type, but `String` is a
+  class in Java. Worksheet 3.5 introduces the String `.equals()` method. Students will need to start
+  thinking of strings as an object and when comparing two strings, use the `.equals()` method. Java
+  is inconsistent in its treatment of strings.
+
+
+Videos
+------
+- BJP 3-3, _Working with Strings Values_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c3-3>
+
+- CSE 142, _Strings_ (18:40–33:05)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ca465e0-abac-4b46-b488-d4ba5c6c5aa6&start=1322>
+
+- UW AP CS Prep, _Java String Processing_<br>
+  <https://www.youtube.com/playlist?list=PL_bszZLe8OFfnueQ6fn7wNqu87k3X2Nin>

@@ -325,3 +325,29 @@ where you:
   anything used in the .dot notation, such as `s.length()`.)
 
 If you need additional discussion, ask students to discuss the behavior and state of array objects.
+
+
+Teacher Prior CS Knowledge
+--------------------------
+Up to this point, students have been consumers of objects. They have used the `String`, `Scanner`,
+and `ArrayList` classes. As we move into object oriented programming concepts, students will be able
+to create classes and objects. This is like being able to read a language to being able to write a
+language. Both require some knowledge and skill in addition to lots of practice. The knowledge and
+skill are related for reading and writing, but not necessarily the same.
+
+
+Misconceptions
+--------------
+Students think `class` is a collection of objects, rather than a template for creating objects.
+
+
+Videos
+------
+- BJP 8-1, _Defining a Class_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c8-1>
+
+- CSE 142, _Intro Object Oriented Programming_ (11:26–19:53)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2071ef1c-2912-4b41-8052-d327180ea215&start=686>
+
+- CSE 142, _Class_ vs _Object_ (26:36–31:43)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2071ef1c-2912-4b41-8052-d327180ea215&start=686>

@@ -66,7 +66,6 @@ Spend the last 5 minutes of class checking each student’s review topic list.
 
 Accommodation & Differentiation
 -------------------------------
-
 The quiz features a recursive method to produce the Fibonacci sequence. If your students need extra
 help/scaffolding, you might want to show students this YouTube video
 (<https://youtu.be/dsmBRUCzS7k>) and lead a class discussion to ensure students are familiar with

@@ -185,3 +185,29 @@ each of your working teams is properly stratified (rather than using tiered grou
 
 If students are speeding along, encourage students to write down questions to pose to other groups
 during mini-lessons. If a group finishes early, encourage them to rehearse lesson delivery.
+
+
+Teacher Prior CS Knowledge
+--------------------------
+Java is inconsistent with its use of encapsulation which could cause confusion with beginning
+students. When getting the length of a String a, the access method `.length()` is used. However,
+when getting the length of an array, the public, though final, instance variable `.length` is used.
+
+
+Misconceptions
+--------------
+Students get the notion that because of data encapsulation, classes cannot be fields of another
+class. Even though the data in the class is protected from being modified directly by other classes,
+the class itself can be used as fields in other classes.
+
+
+Videos
+------
+- BJP 8-4, _Encapsulation_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c8-4>
+
+- CSE 142, _Encapsulation_ (35:38–45:58)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ef2111f-c799-4da9-b64a-2d876da98fb0&start=2138>
+
+- CSE 142, _“this” notation_ (optional) (45:59–49:46)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ef2111f-c799-4da9-b64a-2d876da98fb0&start=2759>

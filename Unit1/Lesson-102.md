@@ -121,6 +121,7 @@ write a **complete set of directions** to describe the process of making the san
 ### Homework Distribution and Exit Tickets (2 minutes)
 Distribute homework and have students complete exit tickets.
 
+
 Accommodation and Differentiation
 ---------------------------------
 Before delivering this lesson, you should check with the classroom teacher to make sure none of the
@@ -141,3 +142,54 @@ bread) might require additional planning. For maximum engagement, try to select 
 In ELL classrooms, you should pair students to ease the writing/composition burden of this activity.
 For advanced students, invite them to write algorithms for other activities, such as getting to
 school on time.
+
+
+Teacher Prior CS Knowledge 
+---------------------------
+- Algorithms are one of the fundamental concepts in computer science. Algorithms are fundamental to
+  solving problems in computer science.
+
+- The lesson plan uses analogy of the student as the compiler. When writing a Java program the
+  following is the sequence of files and translations that are carried out:
+
+  1. Programmer uses an editor to create Java program and saves in .java file
+
+  2. Java compiler (javac program) takes .java file and complies code to bytecode and saves in .class file.
+
+  3. Java virtual machine (java program) runs .class file by interpreting the bytecode for a
+     specific machine based on the operating system and hardware.
+
+- The lesson plan assumes the teacher has prior knowledge of the components of a physical computer
+  and can relate them to a person. If you are not familiar with the components of a computer system:
+
+  + CPU central processing unit – brains of the computer
+  + Disk drive/SSD – long term storage
+  + RAM random access memory – short term storage
+  + Keyboard, mouse, touch screen – input devices
+  + Display, sound, vibration – output devices
+
+
+Teaching Tips
+-------------
+- Tips for Lecturing: <http://csteachingtips.org/tips-for-lecturing>
+
+- Tips for Introducing Computer Science: <http://csteachingtips.org/Tips-for-introducing-computing>
+
+- The lesson plan has the teacher be the “computer” that follows the instructions read aloud by the
+  student. You may be inclined to have a student to be the computers. However, students are
+  unpredictable and you may or may not get the outcomes you desired. Even though this activity is
+  meant to be playful, student silliness can get out of hand when building their P&J sandwich. If
+  you do choose to have students be the computer, setup norms like no throwing food and they must
+  clean up after themselves.
+
+Other algorithms you can have students write include tying shoe laces, brushing teeth, opening a
+locker.
+
+
+Misconceptions
+--------------
+Sometimes students think algorithms and computer programs are synonymous. While they are related,
+they are not synonymous. Humans have been using algorithms to solve problems way before computer
+ever existed. The invention of the computer created a platform for algorithms created that could be
+carried out by a machine. So a computer program is a tool used by people to expresses algorithms
+that can be executed by a computer.

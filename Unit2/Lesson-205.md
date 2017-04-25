@@ -130,3 +130,54 @@ Accommodation and Differentiation
 ---------------------------------
 If you have students who are speeding through this lesson, you should encourage them to complete
 Practice-It self-check problems “numberTotal” and “blastoff”.
+
+
+Teacher Prior CS Knowledge
+--------------------------
+The textbook BJP introduces reducing redundancy and generalization early in the curriculum. Because
+of the early introduction, student have not been exposed to the logical operators and have only been
+introduced to the notion of boolean types. You can let students know that the class will go over the
+middle part of the for statement, the “continuation test”, will be covered in detail in a future
+lesson.
+
+
+Misconceptions
+--------------
+### Common Syntax Errors
+- Using commas as the delimiter in the for statement is a common error. This could stem from the
+  difference in pattern between method calls that use comma and for statements that use the
+  semi-colon.
+
+  Specifying that each of the 3 parts of the for statement is a Java statement that ends in a
+  semi-colon may help students remember the delimiter is a semi-colon.
+
+- Unbalanced parentheses and/or curly brackets starts.
+
+  Many classes use IDEs in the classroom. When parentheses or curly brackets are off, the editor
+  starts indenting the code in non-standard ways. This is the first indication to the student that
+  there is something wrong with the syntax. Letting students know that the IDE helps format, but if
+  there is a syntax error in their code while typing, the editor will not format correctly. The
+  student may want to take a closer look at their code, specifically matching parentheses and curly
+  brackets.
+
+- Incorrect ending for statement with semi-colon.
+
+### Conceptual Errors
+- Variable scope for the counting variable is restricted to the for block.
+
+- Order of execution of the initialization, continuation test, conditional statements, and update
+  statement.
+
+  When walking through examples of a for loop, it is tempting to use boxes to represent the loop
+  variable. However, as the loop variable changes, the value is repeated erased to indicate the new
+  value. If a table is used and the value of the loop variable crossed out, the students can see the
+  progression of the variable through the iterations.
+
+
+Video
+-----
+- BJP 2–3, _for Loops_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c2-3>
+
+- CSE 142, _The for Loop_ (31:30–42:03)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca84c6fe-878e-4bcf-92d4-a18edd3fef21&start=1890>

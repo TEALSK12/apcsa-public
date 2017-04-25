@@ -144,6 +144,7 @@ happening on the video.
 ### Turn in Worksheets, Wrap Up \[5\]
 At the end of class, collect the completed worksheets.
 
+
 Accommodation and Differentiation
 ---------------------------------
 If you have students who are speeding through this lesson, you should encourage them to draw or
@@ -153,3 +154,12 @@ around the room.
 
 Even if you do not have a student do this for you, we HIGHLY recommend making a poster of this sort.
 Students do not forget it! If all else fails, you can use the image saved as Poster 2.4.
+
+
+Video
+-----
+- CSE 142, Casting (18:39–31:29)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca84c6fe-878e-4bcf-92d4-a18edd3fef21&start=1119>
+
+- CS Homework Bytes, _Type Conversations, with Kristin_<br>
+  <https://www.youtube.com/watch?v=y-4vMMeBcAc>

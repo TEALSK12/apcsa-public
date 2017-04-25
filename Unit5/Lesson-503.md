@@ -179,3 +179,55 @@ classroom, encourage students to:
   objects, classes, and client code might link together in a larger program
 
 - reserve some time to complete today’s homework and move on to Lesson 5.4.
+
+
+Teacher Prior CS Knowledge
+--------------------------
+- Constructor syntax. Here is the statement for creating an object from class Phone:
+  ``` Java
+  Phone myPhone = new Phone();
+  ```
+
+  Here’s the constructor for class Phone:
+  ``` Java
+  public class Phone {
+      public Phone () {
+          // Phone constructor code goes here
+      }
+  }
+  ```
+
+  If you break down the creation of a Phone object: `new Phone ()` the right hand side `Phone ()` is
+  simply a method call. The method that is called is the constructor. If we now look at the
+  constructor definition `public Phone ()`, it matches the right hand side of the creation of a
+  Phone object. The only difference between calling a constructor when creating an object and a
+  static or non-static method is the return type is implied. A constructor by definition returns a
+  reference to an object in this example, a reference to a Phone. Since the constructor by
+  definition can only return one type, it was removed from the syntax when defining a constructor.
+
+
+Misconceptions
+--------------
+Students adding void return type to constructor definition. Students are in the habit of specifying
+a return type for methods. The one case where the return type is not need is when defining the
+class’ constructor. If a return type is specified, the method is treated as a method of the class
+and not as a constructor. The code will compile but the constructor will never be called.
+
+
+Videos
+------
+
+- BJP 8-3, _Defining a Class_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c8-3>
+
+- CSE 142, _Using vs building objects_ (1:41–7:36)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ef2111f-c799-4da9-b64a-2d876da98fb0&start=101>
+
+- CSE 142, _toString()_ (optional) (7:37–23:33)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ef2111f-c799-4da9-b64a-2d876da98fb0&start=457>
+
+- CSE 142, _Constructors_ (23:34–30:13)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ef2111f-c799-4da9-b64a-2d876da98fb0&start=1414>
+
+- CSE 142, _Multiple Constructors_ (optional) (30:14–35:37)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ef2111f-c799-4da9-b64a-2d876da98fb0&start=1814>

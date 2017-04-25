@@ -175,3 +175,33 @@ reference.
 
 If your students require an extra challenge, change rule *c* (in step 2 of *Activity*) to include
 additional methods and/or fields.
+
+
+Teacher Prior CS Knowledge
+---------------------------
+A student may ask about the _Is-A_ and _Has-A_ relationships introduced in the previous lesson,
+which are great for describing inheritance vs composition. But what about interfaces? The
+relationship that can be used is _Can-Do_. A class that implements an interface can do the behaviors
+specified in the class it implements.
+
+
+Misconceptions
+--------------
+Students often have confusion on the difference between extends vs implements. Syntactically is
+fairly straightforward to extend from a super class and implement from an interface. Conceptually,
+inheritance (extends) is used to define a class hierarchy where common functionally is factored out
+into the superclass. In contract, interfaces (implements) is used to separate out the methods
+definition from the method implementation. No class hierarchy is implied when implementing an
+interface.
+
+
+Video
+-----
+- BJP 9-3, _Implement Comparable Interface_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c10-3>
+
+- CS Homework Bytes, _Interface and Abstract Classes, with Elizabeth_<br>
+  <https://www.youtube.com/watch?v=iiZ_TIZsE6Q>
+
+- CSE 143, _Interfaces_ (note: uses ArrayIntList written in class as an example) (3:43–26:35)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=696d623a-dca4-4b64-bdfd-71d49fc9b47d&start=223>

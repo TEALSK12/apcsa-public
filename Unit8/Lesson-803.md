@@ -259,3 +259,9 @@ For less-advanced classrooms, you may want to pre-populate the group worksheets 
 methods. This will allow students to focus on processing the execution of the method rather than
 struggling with syntax. This is not recommended unless you are very pressed for time. In most cases,
 students should be practicing properly writing recursive code.
+
+
+Video
+-----
+- BJP 12-3, _Implementing a Recursive Method_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c12-3>

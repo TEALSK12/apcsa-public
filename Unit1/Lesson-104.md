@@ -168,3 +168,49 @@ copy and paste between Eclipse and Practice-It. On some systems, this may transl
 character into a Unicode space character. This will cause code that worked in Eclipse to produce
 errors in Practice-It or vice versa. To avoid student frustration, be sure to demonstrate how to
 correct copied/pasted code before submitting to Practice-It.
+
+
+Teacher Prior CS Knowledge
+--------------------------
+Finding errors in both your own code and in students’ code takes practice. It easy for students to
+get frustrated because their code does not compile or produce the correct output. They will
+inevitable come to you for help. As you become more experienced, you will see the same types of
+errors being repeated by multiple students. You will begin to recognize what type of student
+mistakes correspond to the Java error message.
+
+
+Teaching Tips
+-------------
+- Tips for Encouraging Help Seeking: <http://csteachingtips.org/tips-for-encouraging-help-seeking>
+
+- Part of the accommodations is to “encourage students to work in pairs or small groups”. While it
+  is convenient to group students by proximity, this does not always lead to groups where students
+  are helping other students. As you get to your students’ abilities and personalities, you can
+  deliberately create groups to help foster collaboration. Here’s a few ways you can create groups:
+
+  - By strength with the stronger students with other stronger students, weaker students with weaker
+    students
+
+  - Mixed groups with different levels in each group, ideally not all the strong or weak students in
+    the same group.
+
+  - Random where you have a program that generates random groups where you keep generating so the
+    two students that need to be separated are not in the same group.
+
+
+Misconceptions
+--------------
+When troubleshooting student errors, it’s important to distinguish between syntax errors which is
+procedural in nature and errors in the algorithm which requires correction in the logic of the
+solution. In the beginning where the problems are relatively easily to solve, students will have
+mostly syntax errors like misplaced/missing semi-colons. It is important to not always jump to
+finding the syntax for the student but to have students practice good coding style with proper
+indenting. Students need to know from the beginning that it is common if not expected that syntax
+errors are just part of the process of writing code and it does not have to be prefect the first
+time.
+
+
+Video
+-----
+- CSE 142, _Common Errors_ (36:10–44:11)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dd78a77d-cd7a-4ff8-b853-5446801946fb&start=2170>

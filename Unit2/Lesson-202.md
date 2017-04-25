@@ -119,3 +119,60 @@ If you have students who are speeding through this lesson, you should encourage 
 If your class is struggling with learning syntax, you can split the lesson into 2 lessons, and/or
 take off some of the homework questions. If splitting the lesson in two, we recommend stopping
 today’s lesson before string concatenation.
+
+
+Common Mistakes
+---------------
+Variables common mistakes:
+<http://interactivepython.org/runestone/static/JavaReview/VariableBasics/commonMistakes.html>
+
+
+Misconceptions
+--------------
+- Students will draw on their math knowledge when learning variables. This leads to confusion on the
+  differences in a programming language.
+
+- The equal sign `=` is assignment in Java, not equality. When reading out code, explicitly saying
+  “assignment” will help reinforce the concept that `=` is not equality: `x = 1` is read as “x is
+  assigned the value 1”.
+
+- A variable is a container for value that can change, it does not denote a fixed value. From WS2.2,
+  consider the following statements:
+  ``` Java
+  int age = 17;
+  age = age + 1;
+  ```
+  Students may view the second line of code as a math equation and miss the point that age is a
+  variable and contains a value. The age = age + 1 changes the value of age. When learning Java
+  there is the code which is static, the running of the code, and the state of the variable during
+  runtime which is fundamentally different from an equation in math that can be substituted and
+  manipulated to solve for some unknown.
+
+- Students read `y = x + 2;` and think the _equation_ is stored in y, not a _value_.
+  ``` Java
+  x = 1;
+  y = x + 2;
+  x = 3;
+  System.out.println (y); // what is displayed for y?
+  ```
+  For students with the misconception that the _equation_ is stored, they will incorrectly compute 6
+  as what is displayed for y.
+
+  Java is not a spreadsheet that stores the equation. Explicitly teaching that x and y are
+  independent variables in a programming language and hold values is an important distinction. This
+  differs in math where `y = x + 2` is a relationship. Showing the state of the variables can be
+  achieved using the whiteboard, the debugger by stepping through one line of code at a time, and
+  examining variables, or using a visualization tool like
+  <http://cscircles.cemc.uwaterloo.ca/java_visualize/>.
+
+
+Video
+-----
+- BJP 2–2, _Variables and Assignment_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c2-2>
+
+- CSE 142, _Variables_ (5:12–12:48)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca84c6fe-878e-4bcf-92d4-a18edd3fef21&start=310>
+
+- CS Homework Bytes, _Variable and Assignment, with Elizabeth_<br>
+  <https://www.youtube.com/watch?v=fPqGiexXi_Y>

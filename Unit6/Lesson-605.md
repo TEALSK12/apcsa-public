@@ -168,3 +168,16 @@ complete the lesson. Read the prompt aloud for the class, and do the steps toget
 classes with ELLs, you can distribute saved Eclipse files that contain an entire functional program,
 with shuffled components. Students will need to organize the code fragments into the proper order (a
 Parsons problem).
+
+
+Teacher Prior CS Knowledge
+--------------------------
+_Is-a_ relationships define class hierarchy through inheritance, while _has-a_ relationships define
+classes through the incorporation of component classes.
+
+
+Misconceptions
+--------------
+_Has-a_ implies a one-to-one relationship, while in many cases, classes have a one-to-many
+relationship. Use examples where the _has-a_ (composition) relationship is more than just a
+1&ratio;1 relationship. For example, a deck of cards has 52 cards.

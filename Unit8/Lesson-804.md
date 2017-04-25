@@ -113,3 +113,9 @@ help students work through it.
 
 For those students who have nothing to correct (or finish very early), reward them with silent free
 time, or allow them to work on a free-choice programming project.
+
+
+Video
+-----
+- CSE 143, _Selection Sort_ (17:22–28:11)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1fdd364a-4d01-49cf-96b3-ce2f67b77dcf&start=1042>

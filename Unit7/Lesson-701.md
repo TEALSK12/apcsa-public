@@ -129,3 +129,27 @@ If your students are advancing through the course quickly and easily, you can au
 having students write code to implement sequential or binary search. Assign further reading in the
 textbook (the latter ½ of Chapter 13), and discuss with students how they can implement code that
 operate like the processes explored during class.
+
+
+Teacher Prior CS Knowledge
+--------------------------
+- A binary search can be written using iteration, but binary search lends itself to well to
+  recursion. At this point in the curriculum, students have not learned recursion. You can revisit
+  the binary search algorithm after introducing recursion.
+
+- Big-O notation is not part of the AP CS A exam. However, some method of denoting relative size,
+  whether it be time or memory usage, needs to be introduced. You can use big-O notation or invent
+  one your own.
+
+- The execution time of a linear search is _n_&sup2; while the execution time of binary search is
+  _n_&middot;log<sub>2</sub>(_n_). It is not necessary for students to fully understand logarithms
+  in order to understand that binary search is faster than linear search for large values of _n_.
+
+
+Video
+-----
+- BJP 13-1, _Binary Search_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c13-1>
+
+- CSE 143, _Binary Search_ (1:57–12:41)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=67aa1877-adc1-41d9-9bb6-1621cfa8a99e&start=107>

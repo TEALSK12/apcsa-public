@@ -149,7 +149,6 @@ with them (bonus: this activity can be built on later in the year when discussin
       you.
 
 ### Pikachu Challenge \[10-15 minutes\]
-
 On the board or projector, have the students finish the class with the Pikachu challenge:
 
 _Write a program called PikachuChatter that outputs the following:_
@@ -172,13 +171,11 @@ z(_(")(")
   might want to use this code later in the year when we build a larger Pokémon program).
 
 ### Students trade work, check, and turn in \[5 minutes\]
-
 At the end of class, have students review one another’s Pikachu challenge codes before submitting.
 
 
 Accommodation and Differentiation
 ---------------------------------
-
 If you have students who are speeding through this lesson, you should encourage them to:
 
 - Complete the remaining Strange 2, Strange 3, Complicated 2 and Complicated 3 Practice-It
@@ -191,3 +188,9 @@ If you have the good fortune of not needing to re-teach any concepts, you can ma
 students extra time to start on the homework programming project \#1. If you are doing a lot of
 re-teaching during this class, and you feel that students need the emotional reward, you may drop
 programming project \#1.
+
+
+Video
+-----
+- BJP 1–4, _Drawing Complex Figures with Static Methods_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c1-4>

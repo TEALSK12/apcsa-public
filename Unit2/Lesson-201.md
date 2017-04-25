@@ -155,3 +155,24 @@ examples, worksheets, and tests.
 
 In ELL classrooms, you should give more examples for each type, and spend more time drilling during
 the introduction and note-taking segments.
+
+
+Teacher Prior CS Knowledge
+--------------------------
+- The AP CS A exam covers a subset of the Java primitive data types. For a more though understanding
+  of the Java data types (byte, short, int, long, float, double, char, and boolean) see
+  <http://www.learnjavaonline.org/en/Hello%2C_World%21>.
+
+- String is not a primitive data type in Java but is a class. Strings in many behaves like a
+  primitive data type, for example you can add two Strings together with the `+` sign. This is a
+  source of confusion for many beginner Java programmers as the language is inconsistent with its
+  treatment of String.
+
+
+Video
+-----
+- BJP 2–1, _Expressions_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c2-1>
+
+- CSE 142, _Basic Data Concepts_ (40:42–49:59)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5df64f2-e42f-4943-bab6-29eca0ab8f00&start=2442>

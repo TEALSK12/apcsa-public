@@ -235,3 +235,52 @@ If you have students who are speeding through this lesson, invite them to create
 the different parts of a class and instance object that we introduced today. If the diagram is
 correct and thorough, give the student materials to turn the diagram into a large-format poster for
 the classroom.
+
+
+Teacher Prior CS Knowledge
+--------------------------
+- In _Novice Java Programmers’ Conceptions of `Object` and `Class`, and Variation Theory_ by
+  Eckerdal and Thuné, novice students view objects at three levels:
+
+  Objects:
+  + Object is experienced as a piece of code
+  + As above, and in addition object is experienced as something that is active in the program
+  + As above, and in addition object is experienced as a model of some real world phenomenon
+
+  Class:
+  + Class is experienced as an entity in the program, contributing to the structure of the code
+  + As above, and in addition class is experienced as a description of properties and behavior of
+    the object
+  + As above, and in addition class is experienced as a description of properties and behavior of
+    the object, as a model of some real world phenomenon
+
+  Software developers are adept at seeing objects and classes as models for both real and abstract
+  constructs.
+
+- For the purposes of the AP test, all fields are private. This ensures good programming practice
+  for beginning students because it forces the use of accessors methods: accessors and mutators. The
+  default access for fields when no access modifier is specified is package private. This means all
+  classes in the same package where the variable is defined can access the field.
+
+
+Misconceptions
+--------------
+Students add static to class method definitions. Now that Classes have been introduced, static
+methods that are tied to the class are often confused with non static methods. Students can call
+static methods without creating an object, however, an object must be created first and the
+non-static method can be called.
+
+
+Videos
+------
+- BJP 8-2: _Defining a Class_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c8-2>
+
+- CSE 142, _Object Oriented Programming State_ (19:54–26:25)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2071ef1c-2912-4b41-8052-d327180ea215&start=686>
+
+- CSE 142, _Object Oriented Programming Behavior_ (31:44–42:44)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2071ef1c-2912-4b41-8052-d327180ea215&start=1905>
+
+- CSE 142, _Object methods_ (45:32–49:41)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2071ef1c-2912-4b41-8052-d327180ea215&start=2732>

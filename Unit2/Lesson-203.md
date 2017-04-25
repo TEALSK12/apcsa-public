@@ -220,3 +220,18 @@ mixed type concatenation, and work through more of the problems as a whole group
 
 In ELL classrooms, you should read each question aloud in addition to showing it on the board or
 projector.
+
+
+Common Mistakes
+---------------
+Common mistakes with strings:
+<http://interactivepython.org/runestone/static/JavaReview/Strings/sMistakes.html>
+
+
+Videos
+------
+- CSE 142 (12:48–18:29)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca84c6fe-878e-4bcf-92d4-a18edd3fef21&start=769>
+
+- CS Homework Bytes, _Mathematical Operators and Precedence, with Vinnie_<br>
+  <https://www.youtube.com/watch?v=RTmRwEy-yFA>

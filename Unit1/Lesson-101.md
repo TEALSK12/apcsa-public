@@ -115,3 +115,46 @@ Accommodation and Differentiation
 Allow students to work in pairs if they are having trouble understanding the directions. Encourage
 pairs to model the correct procedure for each other. Student helpers should point to areas on the
 screen rather than typing or using the mouse to complete the action.
+
+
+Teacher Prior CS Knowledge
+--------------------------
+IDEs (Integrated Development Environments) are widely used in industry to develop software. Prior to
+IDEs, software engineers used simple text editors to write programs. While teachers are welcome to
+choose from a wide variety of IDEs (see <https://jaxenter.com/the-top-java-ides-114599.html> for a
+comparison) or even use text editors, TEALS supports Eclipse in the AP CS A curriculum. Whichever
+IDE/editor you choose, it’s a good idea to run through a few IDE tutorials to familiarize yourself
+with the workflow before demonstrating to the class.
+
+
+Teaching Tips
+-------------
+- Tips for Volunteers: <http://csteachingtips.org/Tips-for-classroom-volunteers>
+
+- Tips for Reducing Bias: <http://csteachingtips.org/tips-for-reducing-bias>
+
+- Class Introduction: Students will end up in your computer science class for a variety of reasons,
+  here a few that are common:
+
+  + My math teacher recommended I take computer science
+  + My friend is in the class
+  + I like computers
+  + It fit in my schedule
+  + It showed up in my schedule
+  + It’s an AP class and would look good on my transcript
+  + I build apps in my spare time
+
+- By knowing the student’s motivation, you can better understand where the student is coming from. I
+  use this information to inform the pace and depth of the initial lessons. I also try to determine
+  the level of programming experience of each student. This helps with group formation in the
+  beginning lessons where you try to pair experienced students with less experienced students to the
+  students can learn from their peers.
+
+
+Misconceptions
+--------------
+When introducing the Java programming language, many students will think Java is synonymous with
+JavaScript. Although both are programing languages and many of the constructs are transferable
+between the two languages, Java and JavaScript are two different languages. JavaScript is used today
+for both client side web browser scripting to web servers. Java is used to create platform
+independent apps meaning a program written in Java will run across a variety of operating systems.

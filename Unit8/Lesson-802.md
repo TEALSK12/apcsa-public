@@ -208,3 +208,9 @@ answers during the game.
 If students are having difficulty with the “predict the output” questions, a step-by-step
 explanation of how a recursive method executes can be found here (<http://tinyurl.com/lablr3h>). You
 can pattern your explanations/re-teaching to students using the same method.
+
+
+Video
+-----
+- BJP 12-2, _Implementing a Recursive Function_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c12-2>

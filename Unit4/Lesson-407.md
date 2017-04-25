@@ -237,3 +237,35 @@ Accommodation and Differentiation
 In ELL classrooms, read the questions aloud in addition to showing the question on the board or
 projector. Consider distributing a worksheet with the questions on it so students can write down
 answers during the game.
+
+
+Common Mistakes
+---------------
+ArraysList common mistakes:
+<http://interactivepython.org/runestone/static/JavaReview/ListBasics/listMistakes.html>
+
+
+Misconceptions
+--------------
+Java uses 3 different syntax for getting lengths which is a source of student confusion:
+
+``` Java
+String.length()
+array.length
+ArrayList.size()
+```
+
+
+Videos
+------
+- BJP 10–1, _Removing from an ArrayLiast_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c10-1>
+
+- BJP 10–2, _Adding to an ArrayList of Integers_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c10-2>
+
+- CSE 142, _ArrayList_ (6:40–25:29)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=efa0eeba-81bc-497c-a1ae-46cda247c563&start=400>
+
+- CSE 142, _Wrapper Class_ (41:53–44:54)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=efa0eeba-81bc-497c-a1ae-46cda247c563&start=2510>

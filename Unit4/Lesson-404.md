@@ -104,3 +104,21 @@ and that the numbers in the array are between 0 and 99, inclusive. For example, 
 9, 4, 10, 11]` is 9, and the median of `[0, 8, 1, 89, 48, 27, 30]` is 27.
 
 _Hint: Check out the Tally program in chapter 7 for some ideas on what code to use._
+
+
+Video
+-----
+- CSE 142, _Array Initializer_ (3:26–5:43)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=206>
+
+- CSE 142, _Passing array as parameter_ (5:44–9:05)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=344>
+
+- CSE 142, _Arrays.toString()_ (21:19–25:27)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=1278>
+
+- CSE 142, _Values vs reference_ (25:28–39:18)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=1528>
+
+- CSE 142, _modifying array when passed as parameter_ (39:19–43:41)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=2359>

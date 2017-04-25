@@ -172,3 +172,42 @@ students explain if a recursive method is faster.
 For a broader discussion of self-reference in other contexts (language, art, and literature) get
 students thinking about terms like “never again” or play Carli Simon’s “You’re So Vain”
 (<https://youtu.be/b6UAYGxiRwU>).
+
+
+Teacher Prior CS Knowledge
+--------------------------
+Many problems can be solved with either integration or recursion. In general, iterative solutions
+run faster than recursive solutions because the recursive call has the added overhead of making a
+function call. In addition, there is a memory cost to each function call. Many compilers can
+optimize certain types of recursive algorithms like tail recursion to minimize the difference in
+execution time and memory usage.
+
+
+Misconceptions
+--------------
+- When the base case is met execution of the recursive call ends and execution continues from the
+  initial recursive call. This may be conceptually true for tail recursion but although desirable,
+  not all recursive calls conform to this pattern.
+
+- When the recursive call is made, mistakenly thinking the same parameter is being used instead of a
+  distinct copy for the recursive call.
+
+- The only time the base case is called is if the initially call is the base case.
+
+
+Common Mistakes
+---------------
+Recursion common mistakes:
+<http://interactivepython.org/runestone/static/JavaReview/Recursion/rMistakes.html>
+
+
+Video
+-----
+- BJP 12-1, _Recursive Tracing_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c12-1>
+
+- CS Homework Bytes, _Recursion, with Maxine_<br>
+  <https://www.youtube.com/watch?v=a2Op-yPcm-A>
+
+- CSE 143, _Recursion_ (6:32–32:28)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c698c41a-6872-46d3-9c55-87ce2ba78276&start=392>

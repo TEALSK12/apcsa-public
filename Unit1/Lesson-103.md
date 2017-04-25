@@ -178,3 +178,39 @@ and math anxiety.
 
 To learn more about the Pokemon storyline, game rules, underlying formulae, and characters, visit
 <http://bulbapedia.bulbagarden.net>.
+
+
+Teacher Prior CS Knowledge
+--------------------------
+- The “Hello world!” program is the classic first program taught for many beginner programming
+  classes. It demonstrates the simplest way to get output from the program to the user. The Java
+  “Hello world!” program is chock full of syntax heavy constructs that would not be particularly
+  useful and unduly complicated to a first-time learner to Java. However, knowing these constructs
+  are informative to the teacher: <http://www.learnjavaonline.org/en/Hello%2C_World%21>.
+
+
+Teaching Tips
+-------------
+- Tips For Pair Programming: <http://csteachingtips.org/tips-for-pair-programming>
+- Tips For Lab Rules: <http://csteachingtips.org/tips-for-lab-rules>
+- Explaining “public static void main (String\[\] args)” would be overwhelming for most beginning
+  Java students. It’s important to let the students know that by the end of the course they will
+  know what the line means but for now all they need to know is to start a Java program, it needs
+  this one line of code.
+
+
+Misconceptions
+--------------
+Students learn by making connections to something they already know. Unfortunately, this may
+backfire as in the case of the keyword class. When computer scientists use the word _class_, it is
+automatically assumed that one is referring to class in the context of object oriented programming.
+However, for a typical high school student, class means something totally different: what class am I
+in now, what homework do I have for math class, or who is the teacher of the class. Even if the
+student has prior programming knowledge, they may not be familiar with the notion of a class with
+respect to OOP.
+
+
+Video
+-----
+- CSE 142, _Hello World_ (29:24–36:09)<br>
+  https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dd78a77d-cd7a-4ff8-b853-5446801946fb&start=1765

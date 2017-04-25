@@ -142,3 +142,25 @@ If you have a few students that are struggling with the assignment, allow them t
 complete the worksheet as a series of think-pair-shares, where you return to whole group to share
 and discuss answers before moving on to the next step. **Teaching the class this way will roughly
 double the time required to complete the exercise. **
+
+
+Misconceptions
+--------------
+Students often have confusion on the difference between overriding vs overloading methods. The
+following is a chart of the differences:
+
+|   | Overriding<br>Method with same name, parameters, and return type | Overload<br>Methods with same name but parameters and/or return type
+|---|---|---
+| **Method Signature** | Same                                 | Different
+| **Class hierarchy**  | Subclass overrides superclass        | Overloaded method can exist anywhere in class hierarchy
+| **Behavior**         | Change behavior of superclass method | Multiple behavior
+| **Execution**        | Run Time                             | Compile Time
+
+
+Video
+-----
+- CSE 143, _Interacting with Objects_ (2:46–30:39)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed2ec8fa-511a-43fe-9c51-7929dc4f10d8&start=166>
+
+- CSE 143, _Interacting walkthrough_ (30:40–40:10)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed2ec8fa-511a-43fe-9c51-7929dc4f10d8&start=1840>

@@ -299,3 +299,43 @@ public class SugarDrink extends Drink {
         isJuice = iJ;
     }
 ```
+
+
+Teacher Prior CS Knowledge
+--------------------------
+- The Object Oriented Programming (OOP) paradigm could be thought of as mimicking the real world
+  where objects consists of data that define them and actions that can be performed on the data. As
+  you will see, the process of learning OOP is infinitely more complex.
+
+- The pillars of Object Oriented Programming (OOP): inheritance, encapsulation, and polymorphism. In
+  a nutshell inheritance allows for code reuse by defining methods once in a superclass,
+  encapsulation provides data security by hiding data implementation from the user and only allowing
+  methods in the class to modify the data, and polymorphism offers flexibility to the designer by
+  way of methods defined in many forms.
+
+
+Misconceptions
+--------------
+Students’ use of “inheritance” prior to computer science are in the context of inheritance from an
+ancestor and genetic inheritance of traits. However, in computer science, inheritance is used for
+classification where the class that inherits (extends) from a more general class (super class).
+Neither of the students’ prior knowledge and use of inheritance is an accurate representation of
+Java’s class structure.
+
+
+Common Mistakes
+---------------
+Object oriented concepts common mistakes:
+<http://interactivepython.org/runestone/static/JavaReview/OOBasics/ooMistakes.html>
+
+
+Video
+-----
+- BJP 9-1, _Inheritance: Interacting with the Superclass_<br>
+  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c9-1>
+
+- CS Homework Bytes, _Inheritance, with Zach_<br>
+  <https://www.youtube.com/watch?v=Alv2ApK_jdo>
+
+- CSE 142, _Inheritance_ (23:28–35:06)<br>
+  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8a0a0287-877b-42df-99fc-e9f551929bef&start=1408>

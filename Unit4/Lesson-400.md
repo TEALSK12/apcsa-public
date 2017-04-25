@@ -66,9 +66,9 @@ attention to the entire review, taking supplemental notes the entire time.
 
    - Homework is mandatory (And valuable! You will never assign “busy” work.)
 
-   - To better manage their time, students should plan for 1 hour of homework a weeknight, with up to
-     2 hours of homework each weekend. If this seems impossible, they should meet with you or their
-     guidance counselor to assess whether they can fit in an AP class at this time.
+   - To better manage their time, students should plan for 1 hour of homework a weeknight, with up
+     to 2 hours of homework each weekend. If this seems impossible, they should meet with you or
+     their guidance counselor to assess whether they can fit in an AP class at this time.
 
    - It is VERY important to keep your tone sympathetic at this point—an overworked, overstressed,
      underperforming student will slow your entire class down, and color that student against CS for
@@ -122,5 +122,3 @@ a few options (some more drastic than others):
   introduces the Magpie lab, a long form programming lab with plenty of enrichment opportunities;
   encourage students to work on this project if they are ever left with a few minutes after
   completing a class assignment.
-
-
