@@ -189,11 +189,6 @@ Misconceptions
   initial recursive call. This may be conceptually true for tail recursion but although desirable,
   not all recursive calls conform to this pattern.
 
-- When the recursive call is made, mistakenly thinking the same parameter is being used instead of a
-  distinct copy for the recursive call.
-
-- The only time the base case is called is if the initially call is the base case.
-
 
 Common Mistakes
 ---------------
