@@ -176,7 +176,7 @@ students thinking about terms like “never again” or play Carli Simon’s “
 
 Teacher Prior CS Knowledge
 --------------------------
-Many problems can be solved with either integration or recursion. In general, iterative solutions
+Many problems can be solved with either iteration or recursion. In general, iterative solutions
 run faster than recursive solutions because the recursive call has the added overhead of making a
 function call. In addition, there is a memory cost to each function call. Many compilers can
 optimize certain types of recursive algorithms like tail recursion to minimize the difference in
