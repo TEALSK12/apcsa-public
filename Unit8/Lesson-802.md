@@ -210,6 +210,14 @@ explanation of how a recursive method executes can be found here (<http://tinyur
 can pattern your explanations/re-teaching to students using the same method.
 
 
+Misconceptions
+--------------
+- When the recursive call is made, mistakenly thinking the same parameter is being used instead of a
+  distinct copy for the recursive call.
+
+- The only time the base case is called is if the initially call is the base case.
+
+
 Video
 -----
 - BJP 12-2, _Implementing a Recursive Function_<br>
