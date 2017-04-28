@@ -433,6 +433,7 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 ### 3.99
 | Unit 3 Test     | _Advanced Data & Control Flow_
 |:----------------|:------------------------------
+| **Guide**       | [Test 2 Guide]
 | **In Class**    | [Test 2 Section I]<br>[Test 2 Section II]
 
 ### 3.XX
@@ -906,6 +907,7 @@ Unit 6: Inheritance & Polymorphism (4 weeks)
 ### 6.99
 | Unit 6 Test     | _Inheritance and Polymorphism_
 |:----------------|:------------------------------
+| **Guide**       | [Test 5 Guide]
 | **In Class**    | [Test 5 Section I]<br>[Test 5 Section II]
 
 ### 6.XX
@@ -1106,6 +1108,7 @@ Unit 7: Searching & Sorting (3 weeks)
 ### 7.99
 | Unit 7 Test     | _Searching & Sorting_
 |:----------------|:---------------------
+| **Guide**       | [Test 6 Guide]
 | **In Class**    | [Test 6 Section I]<br>[Test 6 Section II]
 
 
@@ -1333,14 +1336,17 @@ self-contained website with lessons, labs and other supporting resources:
 [Test 0 Section II]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bE617EA03-A599-442C-8FE5-2C4EDB4F2489%7d&file=AP%20CS%20Test%200%20Section%20II.docx&action=default
 [Test 1 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bCA5899B7-C1B7-49AC-8E67-C7FBF9771E3B%7d&file=AP%20CS%20Test%201%20Section%20I.docx&action=default
 [Test 1 Section II]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b4BFA4783-DD0D-45E6-9C9F-7EABBC6DEF03%7d&file=AP%20CS%20Test%201%20Section%20II.docx&action=default
+[Test 2 Guide]: Unit3/Test-2-Guide.md
 [Test 2 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bEF5A5AAC-4337-47D5-9274-DE8EFA269903%7d&file=AP%20CS%20Test%202%20Section%20I.docx&action=default
 [Test 2 Section II]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bD20B2474-96B9-47AC-8353-0EBF6DB561B8%7d&file=AP%20CS%20Test%202%20Section%20II.docx&action=default
 [Test 3 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b1A02C4F7-7A51-46C1-8DBB-4DA5226D0BAE%7d&file=AP%20CS%20Test%203%20Section%20I.docx&action=default
 [Test 3 Section II]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bB5649A60-7321-4D61-A65D-37DA8925856F%7d&file=AP%20CS%20Test%203%20Section%20II.docx&action=default
 [Test 4 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bEE153CCB-800A-4B47-A518-C0C164F61C31%7d&file=AP%20CS%20Test%204%20Section%20I.docx&action=default
 [Test 4 Section II]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bFCD2F052-748C-4F1E-A33B-2B50EE36A8BA%7d&file=AP%20CS%20Test%204%20Section%20II.docx&action=default
+[Test 5 Guide]: Unit6/Test-5-Guide.md
 [Test 5 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bC9BB20A4-E49E-4DE3-8833-8EE6BA0E1A5A%7d&file=AP%20CS%20Test%205%20Section%20I.docx&action=default
 [Test 5 Section II]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%206/AP%20CS%20Test%205%20Section%20II.docx
+[Test 6 Guide]: Unit7/Test-6-Guide.md
 [Test 6 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b4A734B63-4C9C-45CC-8985-D4BE41FFC245%7d&file=AP%20CS%20Test%206%20Section%20I.docx&action=default
 [Test 6 Section II]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b354B9E26-6A94-4B32-9275-FE660D9647FA%7d&file=AP%20CS%20Test%206%20-%20Section%20II.docx&action=default
 [Text Excel Student Guide A]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%206/Text%20Excel%20A%20Student%20Guide.docx

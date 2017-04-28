@@ -12,7 +12,7 @@
 * [Lesson 1.07: Programming Project](Unit1/Lesson-107.md)
 * [Lesson 1.08: Finding & Fixing Errors](Unit1/Lesson-108.md)
 * [Lesson 1.09: Review](Unit1/Lesson-109.md)
-* Lesson 1.99: (Unit 1 Test)
+* [Lesson 1.99: (Unit 1 Test)](Curriculum-Map.md#199)
 
 ## Unit 2: Working with Data & Basic Control Flow (3 weeks)
 * [Lesson 2.00: Test Review & Reteach](Unit2/Lesson-200.md)
@@ -27,7 +27,7 @@
 * [Lesson 2.09: Programming Project](Unit2/Lesson-209.md)
 * [Lesson 2.10: Finding & Fixing Errors](Unit2/Lesson-210.md)
 * [Lesson 2.11: Review](Unit2/Lesson-211.md)
-* Lesson 2.99: (Unit 2 Test)
+* [Lesson 2.99: (Unit 2 Test)](Curriculum-Map.md#299)
 
 ## Unit 3: Advanced Data & Control Flow (4 weeks)
 * [Lesson 3.00: Test Review & Reteach](Unit3/Lesson-300.md)
@@ -49,8 +49,8 @@
 * [Lesson 3.16: Boolean Logic (2 Days)](Unit3/Lesson-316.md)
 * [Lesson 3.17: Finding & Fixing Errors](Unit3/Lesson-317.md)
 * [Lesson 3.18: Review](Unit3/Lesson-318.md)
-* Lesson 3.99: (Unit 3 test)
-* Lesson 3.XX: Frac Calc
+* [Lesson 3.99: (Unit 3 test)](Curriculum-Map.md#399)
+* [Lesson 3.XX: Frac Calc](Curriculum-Map.md#3xx)
 
 ## Unit 4: Arrays, Lists, & Files (4 weeks)
 * [Lesson 4.00: Test Review & Reteach](Unit4/Lesson-400.md)
@@ -64,7 +64,7 @@
 * [Lesson 4.08: Finding & Fixing Errors](Unit4/Lesson-408.md)
 * [Lesson 4.09: Magpie Lab (5 Days)](Unit4/Lesson-409.md)
 * [Lesson 4.10: Review](Unit4/Lesson-410.md)
-* Lesson 4.99: (Unit 4 test)
+* [Lesson 4.99: (Unit 4 test)](Curriculum-Map.md#499)
 
 ## Unit 5: Object-Oriented Programming (4 weeks)
 * [Lesson 5.00: Test Review & Reteach](Unit5/Lesson-500.md)
@@ -75,7 +75,7 @@
 * [Lesson 5.05: Finding & Fixing Errors](Unit5/Lesson-505.md)
 * [Lesson 5.06: Picture Lab (9 Days)](Unit5/Lesson-506.md)
 * [Lesson 5.07: Review](Unit5/Lesson-507.md)
-* Lesson 5.99: (Unit 5 test)
+* [Lesson 5.99: (Unit 5 test)](Curriculum-Map.md#599)
 
 ## Unit 6: Inheritance & Polymorphism (4 weeks)
 * [Lesson 6.00: Test Review & Reteach](Unit6/Lesson-600.md)
@@ -88,8 +88,8 @@
 * [Lesson 6.07: Programming Project (5 Days)](Unit6/Lesson-607.md)
 * [Lesson 6.08: Finding & Fixing Errors](Unit6/Lesson-608.md)
 * [Lesson 6.09: Review](Unit6/Lesson-609.md)
-* Lesson 6.99: (Unit 6 test)
-* Lesson 6.XX: Text Excel
+* [Lesson 6.99: (Unit 6 test)](Curriculum-Map.md#699)
+* [Lesson 6.XX: Text Excel](Curriculum-Map.md#6xx)
 
 ## Unit 7: Searching & Sorting (3 weeks)
 * [Lesson 7.00: Test Review & Reteach](Unit7/Lesson-700.md)
@@ -97,7 +97,7 @@
 * [Lesson 7.02: Sorting Algorithms](Unit7/Lesson-702.md)
 * [Lesson 7.03: Elevens Lab (16 Days)](Unit7/Lesson-703.md)
 * [Lesson 7.04: Review](Unit7/Lesson-704.md)
-* Lesson 7.99: (Unit 7 test)
+* [Lesson 7.99: (Unit 7 test)](Curriculum-Map.md#799)
 
 ## Unit 8: Recursion (2 weeks)
 * [Lesson 8.00: Test Review & Reteach](Unit8/Lesson-800.md)
