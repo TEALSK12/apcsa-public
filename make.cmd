@@ -1,7 +1,6 @@
 @echo off & setlocal enabledelayedexpansion
 
 @REM ===============================================================================================
-@REM
 @REM    AP CS A Curriculum Build Tool
 @REM
 @REM    This is just a simple script to perform automated tasks for the AP CS A curriculum project.
