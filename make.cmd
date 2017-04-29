@@ -1,5 +1,4 @@
 @echo off & setlocal enabledelayedexpansion
-
 @REM ===============================================================================================
 @REM    AP CS A Curriculum Build Tool
 @REM
