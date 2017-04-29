@@ -1,8 +1,6 @@
 Markdown Style Guidelines
 ====================================================================================================
 
-General Goals
--------------
 For this documentation, there are two primary goals:
 
 1. Maintain a simple consistency across the entire docset, and 
