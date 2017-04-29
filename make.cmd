@@ -46,11 +46,13 @@ path tools;%path%
 exit /b 0
 
 
+@REM _______________________________________________________________________________________________
 :clean
     rmdir 2>nul /s /q PDF
     goto :eof
 
 
+@REM _______________________________________________________________________________________________
 :pdfs
     mkdir 2>nul PDF\Unit1 PDF\Unit2 PDF\Unit3 PDF\Unit4 PDF\Unit5
     mkdir 2>nul PDF\Unit6 PDF\Unit7 PDF\Unit8 PDF\Unit9
@@ -70,6 +72,7 @@ exit /b 0
     goto :eof
 
 
+@REM _______________________________________________________________________________________________
 :help
     @echo.
     @echo.This script runs the various tasks of the AP CS A curriculum project. Supply any
