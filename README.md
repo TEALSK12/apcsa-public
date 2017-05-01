@@ -283,7 +283,7 @@ on the TEALS dashboard, or to [APSquad@tealsk12.org](mailto:APSquad@tealsk12.org
 
 [20 Fun Free Tools for Interactive Classroom Collaboration]: http://tinyurl.com/k62tstg
 [AP Java Quick Reference]: http://apcentral.collegeboard.com/apc/public/repository/ap_comp_sci_a_quick_reference.pdf
-[Curriculum Map]: Curriculum-map.md
+[Curriculum Map]: Curriculum-Map.md
 [Google Hangouts]: http://hangouts.google.com
 [Grudgeball]: https://mix.office.com/watch/1nfwrdlos27tc
 [Parson's Problems]: https://mix.office.com/watch/1urvviz6o57ol
