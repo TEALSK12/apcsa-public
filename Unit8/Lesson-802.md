@@ -215,7 +215,7 @@ Misconceptions
 - When the recursive call is made, mistakenly thinking the same parameter is being used instead of a
   distinct copy for the recursive call.
 
-- The only time the base case is called is if the initially call is the base case.
+- The only time the base case is called is if the initial call is the base case.
 
 
 Video
