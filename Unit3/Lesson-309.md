@@ -261,9 +261,9 @@ Misconceptions
   if (a > 1); // all statements end in semi-colon misconception
   ```
 
-  When teach students about Java statements, it is important to distinguish between statements that
+  When teaching students about Java statements, it is important to distinguish between statements that
   end in a semi-colon and those that signify scope with the curly-braces. Single Java statements
-  such ad declare variables, assignment, etc. end in semi-colons while Java statements that denote
+  such as declaring variables, assignment, etc. end in semi-colons while Java statements that denote
   scope like class definitions and methods have curly braces. If-statements can do both.
 
 - Logical operators AND and OR are covered in a future lesson. However, students will combine
