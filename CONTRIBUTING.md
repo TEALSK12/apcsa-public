@@ -1,6 +1,9 @@
 TEALS AP CS A Curriculum — How to Contribute
 ====================================================================================================
 
+## Repository Location
+The curriculum's source code is hosted on Github at: [https://github.com/TEALSK12/apcsa-curriculum]
+
 Did you catch an error in the TEALS AP CS A curriculum, or perhaps have an idea for an addition that
 would make it better? If so, we'd love to see what you've got!
 
@@ -94,3 +97,4 @@ Hopefully, all went well, and you've helped to make our curriculum even better -
 [Steve Hollasch]:   mailto:steve@hollasch.net
 [style guidelines]: STYLE.md
 [submit an issue]:  https://github.com/TEALSK12/apcsa-curriculum/issues
+[https://github.com/TEALSK12/apcsa-curriculum]: https://github.com/TEALSK12/apcsa-curriculum
