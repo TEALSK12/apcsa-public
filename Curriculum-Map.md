@@ -34,18 +34,18 @@ Unit 1: Programming & Java (2 weeks)
 - [Unit 1 Slides]
 - [Unit 1 Word Bank]
 
-| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
-|:-------|:--------------------------------------|:---------------|:----------------|:----------------|
-| [1.01] | _Using Eclipse & Practice-It_         | [WS 1.1.1]<br>[WS 1.1.2] | | Explore Pokémon (pokemon.com, console, web site) |
-| [1.02] | _Algorithms & Computational Thinking_ | PB&J | 1.2 | Reflect on PB&J assignment<br>Continue exploring Pokémon |
-| [1.03] | _String & Console Output_             | Practice-It<br>SC 1.6–9, 1.11–14<br>LP Welcome | 1.3 | EX 1.1–5 |
-| [1.04] | _Common Errors & Comments_            | [WS 1.4] | 1.4 | EX 1.6–9|
-| [1.05] | _Static Methods & Method Calls_       | Practice-It<br>SC 1.22, 1.23, 1.26, 1.29 | 1.5 | EX 1.11, 1.12, 1.14, 1.16 |
-| [1.06] | _Static Methods & Method Calls_       | LP StarFigures<br>LP PikachuChatter | | Outline ch 1<br>PP 1.1, 1.3 |
-| [1.07] | _Programming Project_                 | PP 1.2, 1.5 | | Note check (add summaries if needed) |
-| [1.08] | _Finding & Fixing Errors_             | **In Class**    | Fix homework | Review ch 1 | Submit questions for review |
-| [1.09] | _Review_                              | Review questions<br>[WS 1.9]<br>Practice test | | Study |
-| [1.09] | Unit 1 Test                           | [Test 0 Section I]<br>[Test 0 Section II] | | |
+| **LP** | **Title**                               | **In Class**   | **Reading**     | **Homework**    |
+|:-------|:----------------------------------------|:---------------|:----------------|:----------------|
+| [1.01] | _Using Eclipse & Practice-It_           | [WS 1.1.1]<br>[WS 1.1.2] | | Explore Pokémon (pokemon.com, console, web site) |
+| [1.02] | _Algorithms & Computational Thinking_   | PB&J | 1.2 | Reflect on PB&J assignment<br>Continue exploring Pokémon |
+| [1.03] | _String & Console Output_               | Practice-It<br>SC 1.6–9, 1.11–14<br>LP Welcome | 1.3 | EX 1.1–5 |
+| [1.04] | _Common Errors & Comments_              | [WS 1.4] | 1.4 | EX 1.6–9|
+| [1.05] | _Static Methods & Method Calls_         | Practice-It<br>SC 1.22, 1.23, 1.26, 1.29 | 1.5 | EX 1.11, 1.12, 1.14, 1.16 |
+| [1.06] | _Static Methods & Method Calls_         | LP StarFigures<br>LP PikachuChatter | | Outline ch 1<br>PP 1.1, 1.3 |
+| [1.07] | _Programming Project_                   | PP 1.2, 1.5 | | Note check (add summaries if needed) |
+| [1.08] | _Finding & Fixing Errors_               | Fix homework | Review ch 1 | Submit questions for review |
+| [1.09] | _Review_                                | Review questions<br>[WS 1.9]<br>Practice test | | Study |
+| [1.09] | _Unit 1 Test_                           | [Test 0 Section I]<br>[Test 0 Section II] | | |
 
 ### 1.01
 | [Lesson 1.01]   | _Using Eclipse & Practice-It_
@@ -1248,14 +1248,23 @@ self-contained website with lessons, labs and other supporting resources:
 [Frac Calc Student Guide]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bEF7CBBCD-634A-495F-ACCE-616FDF407E9A%7d&file=Frac%20Calc%20Student%20Guide.docx&action=default
 [Frac Calc Teacher Guide]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b30D8F9EA-8F5D-47D5-B845-3E6D8E0E7F21%7d&file=Frac%20Calc%20Teacher%20Guide.docx&action=default
 [Lesson 1.01]: Unit1/Lesson-101.md
+[1.01]: Unit1/Lesson-101.md
 [Lesson 1.02]: Unit1/Lesson-102.md
+[1.02]: Unit1/Lesson-102.md
 [Lesson 1.03]: Unit1/Lesson-103.md
+[1.03]: Unit1/Lesson-103.md
 [Lesson 1.04]: Unit1/Lesson-104.md
+[1.04]: Unit1/Lesson-104.md
 [Lesson 1.05]: Unit1/Lesson-105.md
+[1.05]: Unit1/Lesson-105.md
 [Lesson 1.06]: Unit1/Lesson-106.md
+[1.06]: Unit1/Lesson-106.md
 [Lesson 1.07]: Unit1/Lesson-107.md
+[1.07]: Unit1/Lesson-107.md
 [Lesson 1.08]: Unit1/Lesson-108.md
+[1.08]: Unit1/Lesson-108.md
 [Lesson 1.09]: Unit1/Lesson-109.md
+[1.09]: Unit1/Lesson-109.md
 [Lesson 2.00]: Unit2/Lesson-200.md
 [Lesson 2.01]: Unit2/Lesson-201.md
 [Lesson 2.02]: Unit2/Lesson-202.md
