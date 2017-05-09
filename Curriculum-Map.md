@@ -26,8 +26,6 @@ Contents
 - **EX** — Exercise (in the textbook)
 - **PP** — Programming Project (in the textbook)
 
-
-
 <br><br><br>
 
 ----------------------------------------------------------------------------------------------------
@@ -35,6 +33,19 @@ Unit 1: Programming & Java (2 weeks)
 ----------------------------------------------------------------------------------------------------
 - [Unit 1 Slides]
 - [Unit 1 Word Bank]
+
+| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
+|:-------|:--------------------------------------|:---------------|:----------------|:----------------|
+| [1.01] | _Using Eclipse & Practice-It_         | [WS 1.1.1]<br>[WS 1.1.2] | | Explore Pokémon (pokemon.com, console, web site) |
+| [1.02] | _Algorithms & Computational Thinking_ | PB&J | 1.2 | Reflect on PB&J assignment<br>Continue exploring Pokémon |
+| [1.03] | _String & Console Output_             | Practice-It<br>SC 1.6–9, 1.11–14<br>LP Welcome | 1.3 | EX 1.1–5 |
+| [1.04] | _Common Errors & Comments_            | [WS 1.4] | 1.4 | EX 1.6–9|
+| [1.05] | _Static Methods & Method Calls_       | Practice-It<br>SC 1.22, 1.23, 1.26, 1.29 | 1.5 | EX 1.11, 1.12, 1.14, 1.16 |
+| [1.06] | _Static Methods & Method Calls_       | LP StarFigures<br>LP PikachuChatter | | Outline ch 1<br>PP 1.1, 1.3 |
+| [1.07] | _Programming Project_                 | PP 1.2, 1.5 | | Note check (add summaries if needed) |
+| [1.08] | _Finding & Fixing Errors_             | **In Class**    | Fix homework | Review ch 1 | Submit questions for review |
+| [1.09] | _Review_                              | Review questions<br>[WS 1.9]<br>Practice test | | Study |
+| [1.09] | Unit 1 Test                           | [Test 0 Section I]<br>[Test 0 Section II] | | |
 
 ### 1.01
 | [Lesson 1.01]   | _Using Eclipse & Practice-It_
