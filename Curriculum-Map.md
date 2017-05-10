@@ -304,8 +304,8 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 | [3.1602] |Boolean Logic (Day 2)||| |
 | [3.17] |Finding & Fixing Errors|(Fix HW)|Review ch 3-5|Submit questions for review |
 | [3.18] |Review|(Review questions), [WS 3.18] practice test||Study |
-​| [3.99] |Unit 3 test|[Test 2 Guide]<br>[Test Part 1]<BR>[Test Part 2]|​| |​
-| [3.XX] |Project: Frac Calc​|[Student Guide]<BR>[Teacher Guide]|| |
+| [3.99] |Unit 3 test|[Test 2 Guide]<br>[Test 2 Section I]<br>[Test 2 Section II]|​| |​
+| [3.XX] |Project: Frac Calc​|[Frac Calc Student Guide]<br>[Frac Calc Teacher Guide]|| |
 
 ### 3.00
 | [Lesson 3.00]   | _Test Review & Reteach_
@@ -1331,24 +1331,43 @@ self-contained website with lessons, labs and other supporting resources:
 [Lesson 2.11]: Unit2/Lesson-211.md
 [2.11]: Unit2/Lesson-211.md
 [Lesson 3.00]: Unit3/Lesson-300.md
+[3.00]: Unit3/Lesson-300.md
 [Lesson 3.01]: Unit3/Lesson-301.md
+[3.01]: Unit3/Lesson-301.md
 [Lesson 3.02]: Unit3/Lesson-302.md
+[3.02]: Unit3/Lesson-302.md
 [Lesson 3.03]: Unit3/Lesson-303.md
+[3.03]: Unit3/Lesson-303.md
 [Lesson 3.04]: Unit3/Lesson-304.md
+[3.04]: Unit3/Lesson-304.md
 [Lesson 3.05]: Unit3/Lesson-305.md
+[3.05]: Unit3/Lesson-305.md
 [Lesson 3.06]: Unit3/Lesson-306.md
+[3.06]: Unit3/Lesson-306.md
 [Lesson 3.07]: Unit3/Lesson-307.md
+[3.07]: Unit3/Lesson-307.md
 [Lesson 3.08]: Unit3/Lesson-308.md
+[3.08]: Unit3/Lesson-308.md
 [Lesson 3.09]: Unit3/Lesson-309.md
+[3.09]: Unit3/Lesson-309.md
 [Lesson 3.10]: Unit3/Lesson-310.md
+[3.10]: Unit3/Lesson-310.md
 [Lesson 3.11]: Unit3/Lesson-311.md
+[3.11]: Unit3/Lesson-311.md
 [Lesson 3.12]: Unit3/Lesson-312.md
+[3.12]: Unit3/Lesson-312.md
 [Lesson 3.13]: Unit3/Lesson-313.md
+[3.13]: Unit3/Lesson-313.md
 [Lesson 3.14]: Unit3/Lesson-314.md
+[3.14]: Unit3/Lesson-314.md
 [Lesson 3.15]: Unit3/Lesson-315.md
+[3.15]: Unit3/Lesson-315.md
 [Lesson 3.16]: Unit3/Lesson-316.md
+[3.16]: Unit3/Lesson-316.md
 [Lesson 3.17]: Unit3/Lesson-317.md
+[3.17]: Unit3/Lesson-317.md
 [Lesson 3.18]: Unit3/Lesson-318.md
+[3.18]: Unit3/Lesson-318.md
 [Lesson 4.00]: Unit4/Lesson-400.md
 [Lesson 4.01]: Unit4/Lesson-401.md
 [Lesson 4.02]: Unit4/Lesson-402.md
