@@ -143,6 +143,22 @@ Unit 2: Working with Data & Basic Control Flow (3 weeks)
 - [Unit 2 Slides]
 - [Unit 2 Word Bank]
 
+| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
+|:-------|:--------------------------------------|:---------------|:----------------|:----------------|
+| [2.00] | Test Review & Reteach	               | (Review test)	| 2.1 except for “Mixing types and Casting”	Test corrections" |
+| [2.01] | Basic Data Concepts	                 | [WS 2.1]	      | 2.2 up to “String Concatenation” | SC 2.1-2.3<br> (4th: 2.1",2.3," 2.4)|
+| [2.02] | Declaring & Assigning Variables	     | [WS 2.2]<br>Practice-It SC 2.7, 2.11<br>(4th: 2.8," 2.13) E 2.1 | Rest of 2.2 | SC 2.5",2.6,2.9, 2.12-2.15<br>(4th: 2.6,2.7,2.1,2.14-2.17) |
+| [2.03] | String Concatenation & Increment<br>Decrement Operators | (Grudgeball)<br>Rest of 2.2 | SC 2.4<br>(4th: 2.5)" |
+| [2.04] | Mixing Types & Casting	               | [WS 2.4]<br>Poster | 2.4	2.3 up to “Nested for Loops | finish WS 2.4" |
+| [2.05] | for Loops	                           | [WS 2.5]<br>Practice-It SC 2.18,2.23, 2.24<br>(4th: 2.21,2.26," 2.27) |	2.3 “Nested for Loops” | SC 2.19-2.21<br>(4th: 2.22-2.24) |
+| [2.06] | nested for Loops	                     | Practice-It SC 2.28-2.30<br>(4th: 2.31-2.33), E 2.5 | 2.4 “Scope” and “Pseudocode" | SC 2.26", 2.27<br>(4th: 2.29, 2.30),E 2.4 |
+| [2.07] | Scope & Pseudocode	                   | [WS 2.7]<br>Discuss PP 2.1 |	Read 2.4 “Class Constants” |SC 2.31-2.33<br>(4th 2.34-2.36)|
+| [2.08] | Programming Project	                 | Start PP 2.4	   | | Outline ch 2 (omit 2.5) |
+| [2.09] | Programming Project	                 | Complete PP 2.4 | | [TBD practice question] |
+| [2.10] | Finding & Fixing Errors	             | (Fix HW)	       | Review ch 2 (omit 2.5)	| Submit questions for review |
+| [2.11] | Review	(Review questions)             | [WS 2.11]       | practice test	| Study |
+| [2.99] | (Unit 2 Test)	Test Part 1<br>Test Part 2 | | | |
+
 ### 2.00
 | [Lesson 2.00]   | _Test Review & Reteach_
 |:----------------|:-----------------------
