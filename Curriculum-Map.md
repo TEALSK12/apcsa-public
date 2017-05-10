@@ -503,6 +503,26 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 - [Unit 4 Slides]
 - [Unit 4 Word Bank]
 
+| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
+|:-------|:--------------------------------------|:---------------|:----------------|:----------------|
+| [4.00] |Test Review & Reteach|Review test|"7.1 up to ""Arrays and Methods"""|Test corrections
+| [4.01] |Array Basics|[WS 4.1]<br>[Poster 4.1?]|7.1 For-Each Loop and The Arrays Class|SC 7.1, 7.7, 7.9
+| [4.02] |For-Each Loop & Arrays Class|[WS 4.2]|7.2 up to Reversing an Array|SC 7.12-7.14
+| [4.03] |Printing, Searching, & Testing for Equality|[WS 4.3](Mini-lessons)||SC 7.14-7.17, E 7.3
+| [4.03] |Printing, Searching, & Testing for Equality (Day 2)||7.3|SC 7.19-7.21
+| [4.04] |Reference Semantics|[WS 4.4]<br>[WS Answers]|7.4 up to Command-Line Arguments|E 7.9, 7.10
+| [4.05] |Shifting Values & Arrays of Objects|SC 7.22, 7.23, 7.25, 7.26, 7.30; E 7.16|7.4 Nested Arrays, 7.5 Rectangular Two Dimensional Arrays|SC 7.27-7.29, E 7.14
+| [4.06] |Nested Loop Algorithms & Rectangular Arrays|[WS 4.6]|10.1 up to Adding to and Removing from an ArrayList|SC [TBD]
+| [4.07] |ArrayList|Grudgeball<br>[Poster 4.7]||Outline ch 7 and 10.1
+| [4.08] |Finding & Fixing Errors|(Fix HW)|Review ch 7, 10.1 for Magpie lab|Submit questions for review
+| [4.09] 01|Magpie Lab (day 1)|[Magpie Activity 1 & 2]<br>[Eclipse Magpie Archive]|Barrons ch 6|
+| [4.09] 02|Magpie Lab (day 2)|Magpie Activity 2|Barrons ch 6|
+| [4.09] 03|Magpie Lab (day 3)|Magpie Activity 3||Barrons ch 6 practice questions
+| [4.09] 04|Magpie Lab (day 4)|Magpie Activity 4||Check and correct Barrons ch.6 questions
+| [4.09] 05|Magpie Lab (day 5)|Magpie Activity 5||Check and correct Barrons ch.6 questions
+| [4.10] |Review|(Review questions), WS 4.10 practice test||Study
+| 4.99 |Unit 4 test|[Test Part 1]<br>[Test Part 2]||
+
 ### 4.00
 | [Lesson 4.00]   | _Test Review & Reteach_
 |:----------------|:-----------------------
