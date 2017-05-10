@@ -300,12 +300,12 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 | [3.13] |while Loops|Practice-It SC 5.1 - 5.4, E 5.2<br>[WS 3.13]|5.1 ”Random numbers”|E 5.2 |
 | [3.14] |Random Numbers|Practice-It SC 5.5-5.7; E 5.4, 5.5|5.2|PP 5.1 |
 | [3.15] |Fencepost & Sentinel Loops|[Teach mini-lessons]|5.3|E 5.6, 5.8 |
-| [3.1601] |Boolean Logic|Practice-It SC 5.27, 5.29<br>[WS 3.16] (RPS, Pig)<br>[DeMorgan’s Law]<BR>[Poster 3.16.1]<BR>[Poster 3.16.2]​||Outline ch 5 (through 5.3) |
-| [3.1602] |Boolean Logic (Day 2)||| |
+| [3.16]01 |Boolean Logic|Practice-It SC 5.27, 5.29<br>[WS 3.16] (RPS, Pig)<br>[DeMorgan’s Law]<BR>[Poster 3.16.1]<BR>[Poster 3.16.2]​||Outline ch 5 (through 5.3) |
+| [3.16]02 |Boolean Logic (Day 2)||| |
 | [3.17] |Finding & Fixing Errors|(Fix HW)|Review ch 3-5|Submit questions for review |
 | [3.18] |Review|(Review questions), [WS 3.18] practice test||Study |
-| [3.99] |Unit 3 test|[Test 2 Guide]<br>[Test 2 Section I]<br>[Test 2 Section II]|​| |​
-| [3.XX] |Project: Frac Calc​|[Frac Calc Student Guide]<br>[Frac Calc Teacher Guide]|| |
+| 3.99 |Unit 3 test|[Test 2 Guide]<br>[Test 2 Section I]<br>[Test 2 Section II]|​| |​
+| 3.XX |Project: Frac Calc​|[Frac Calc Student Guide]<br>[Frac Calc Teacher Guide]|| |
 
 ### 3.00
 | [Lesson 3.00]   | _Test Review & Reteach_
