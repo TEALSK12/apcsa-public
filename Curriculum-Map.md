@@ -149,12 +149,12 @@ Unit 2: Working with Data & Basic Control Flow (3 weeks)
 | [2.01] | Basic Data Concepts	                 | [WS 2.1]	      | 2.2 up to “String Concatenation” | SC 2.1-2.3<br> (4th: 2.1",2.3," 2.4)|
 | [2.02] | Declaring & Assigning Variables	     | [WS 2.2]<br>Practice-It SC 2.7, 2.11<br>(4th: 2.8," 2.13) E 2.1 | Rest of 2.2 | SC 2.5",2.6,2.9, 2.12-2.15<br>(4th: 2.6,2.7,2.1,2.14-2.17) |
 | [2.03] | String Concatenation & Increment<br>Decrement Operators | (Grudgeball) | Rest of 2.2 | SC 2.4<br>(4th: 2.5) |
-| [2.04] | Mixing Types & Casting	               | [WS 2.4]<br>Poster 2.4	| 2.3 up to “Nested for Loops" | finish WS 2.4 |
+| [2.04] | Mixing Types & Casting	               | [WS 2.4]<br>[Poster 2.4]	| 2.3 up to “Nested for Loops" | finish WS 2.4 |
 | [2.05] | for Loops	                           | [WS 2.5]<br>Practice-It SC 2.18,2.23, 2.24<br>(4th: 2.21,2.26," 2.27) |	2.3 “Nested for Loops” | SC 2.19-2.21<br>(4th: 2.22-2.24) |
 | [2.06] | nested for Loops	                     | Practice-It SC 2.28-2.30<br>(4th: 2.31-2.33), E 2.5 | 2.4 “Scope” and “Pseudocode" | SC 2.26", 2.27<br>(4th: 2.29, 2.30),E 2.4 |
 | [2.07] | Scope & Pseudocode	                   | [WS 2.7]<br>Discuss PP 2.1 |	Read 2.4 “Class Constants” |SC 2.31-2.33<br>(4th 2.34-2.36)|
 | [2.08] | Programming Project	                 | Start PP 2.4	   | | Outline ch 2 (omit 2.5) |
-| [2.09] | Programming Project	                 | Complete PP 2.4 | | [TBD practice question] |
+| [2.09] | Programming Project	                 | Complete PP 2.4 | | \[_TBD practice question_\] |
 | [2.10] | Finding & Fixing Errors	             | (Fix HW)	       | Review ch 2 (omit 2.5)	| Submit questions for review |
 | [2.11] | Review	(Review questions)             | [WS 2.11]<br>practice test |	| Study |
 | [2.99] | (Unit 2 Test) | [Test 1 Section I]<br>[Test 1 Section II] | | |
@@ -281,6 +281,31 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 ----------------------------------------------------------------------------------------------------
 - [Unit 3 Slides]
 - [Unit 3 Word Bank]
+
+| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
+|:-------|:--------------------------------------|:---------------|:----------------|:----------------|
+| [3.00] |Test Review & Reteach|[Unit 3 Test Review]|3.1 up to “Limitations of Parameters”|Test corrections |
+| [3.01] |Parameters|Practice-It SC 3.1 - 3.3|"3.1 “Limitations of Parameters”, “Multiple Parameters”, ""Parameters versus Constants"""|SC 3.4-3.7 |
+| [3.02] |Limitations of Parameters & Multiple Parameters|(Art project)|"3.1 “Overloading Methods”, 3.2 ""Methods That Return Values"""|Jazz up art project and program |
+| [3.03] |Return Values|Practice-It SC 3.14 - 3.16||SC 3.17, E 3.1 |
+| [3.04] |Programming Project|[WS 3.4] [Equestria]|3.3 up to “Interactive Programs and Scanner Objects”|SC 3.18, 3.19 |
+| [3.05] |Using Objects & String Processing|[WS 3.5]|3.3 “Interactive programming” and “Sample interactive program”|SC 3.19-3.21 |​​
+| [3.06] |Interactive Programs & Scanner Objects|Practice-It SC 3.24 - 3.26; E 3.12, 3.14, 3.15||Outline ch 3 (omit 3.4) |
+| [3.07] |Pokémon Battle Programming Project|[WS 3.7]<br>LP Battle||Summarize notes since last exam |
+| [3.08] |Finding & Fixing Errors|(Fix HW, webmaker.org)|4.1 up to “nested if else statements”|SC 4.1-4.4 |​
+| [3.09] |Relational Operators & if/else|[Operator Precedence]<br>(Grudgeball)|4.1 “Nested if/else” and “Flow of control”|SC 4.7-4.9; E 4.1-4.2 |
+| [3.10] |Nested if/else Statements|[Teach mini-lessons] Practice-It SC 4.5, 4.6, E 4.3|4.1, “Factoring if/else statements” and “Testing multiple conditions”|E 4.4, 4.5 | 
+| [3.11] |Reducing Redundancy|(Refactoring competition)|Read 4.2|Outline ch 4 (omit 4.4, 4.5) |
+| [3.12] |Cumulative Algorithms|Tally code on board,[Collaborative Programming Exercise]|5.1 skip “do/while loops”|PP 4.2 |
+| [3.13] |while Loops|Practice-It SC 5.1 - 5.4, E 5.2<br>[WS 3.13]|5.1 ”Random numbers”|E 5.2 |
+| [3.14] |Random Numbers|Practice-It SC 5.5-5.7; E 5.4, 5.5|5.2|PP 5.1 |
+| [3.15] |Fencepost & Sentinel Loops|[Teach mini-lessons]|5.3|E 5.6, 5.8 |
+| [3.1601] |Boolean Logic|Practice-It SC 5.27, 5.29<br>[WS 3.16] (RPS, Pig)<br>[DeMorgan's Law]<BR>[Poster 3.16.1]<BR>[Poster 3.16.2]​||Outline ch 5 (through 5.3) |
+| [3.1602] |Boolean Logic (Day 2)||| |
+| [3.17] |Finding & Fixing Errors|(Fix HW)|Review ch 3-5|Submit questions for review |
+| [3.18] |Review|(Review questions), [WS 3.18] practice test||Study |
+​| [3.99] |Unit 3 test|[Test 2 Guide]<br>[Test Part 1]<BR>[Test Part 2]|​| |​
+| [3.XX] |Project: Frac Calc​|[Student Guide]<BR>[Teacher Guide]|| |
 
 ### 3.00
 | [Lesson 3.00]   | _Test Review & Reteach_
