@@ -1262,7 +1262,7 @@ Unit 8: Recursion (2 weeks)
 | [8.00] |Test Review & Reteach|Review test|12.1 up to “Structure of recursive solutions”|Test corrections
 | [8.01] |Thinking Recursively|Tower of Hanoi game|Rest of 12.1|
 | [8.02] |Writing Recursive Solutions|Grudgeball<br>SC 12.1 - 12.4|12.2|SC 12.5, 12.7-12.9, E 12.1
-| [8.03] |Mechanics of Recursion|[WS 8.3]<br>[Demo 8.3?]?|13.4?|SC 12.6, 12.10, E 12.3
+| [8.03] |Mechanics of Recursion|[WS 8.3]<br>[Demo 8.3]|13.4?|SC 12.6, 12.10, E 12.3
 | [8.04] |MergeSort|Implement mergeSort||SC 13.27-13.30<br>Notebook Check
 | [8.05] |Finding & Fixing Errors|Fix HW|Review ch 12.1, 12.2|Submit questions for review
 | [8.06] |Review & Quiz?|[Quiz 8.5]|Barrons ch 7|
