@@ -682,6 +682,26 @@ Unit 5: Object-Oriented Programming (4 weeks)
 - [Unit 5 Slides]
 - [Unit 5 Word Bank]
 
+| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
+|:-------|:--------------------------------------|:---------------|:----------------|:----------------|
+| [5.00] |Test Review & Reteach|Review test|8.1|Test corrections
+| [5.01] |Object Oriented Programming|Practice-It SC 8.1-8.5<br>[WS 5.1.1]|8.2 up to “Mutators and Accessors.”|
+| [5.02] |Object State & Behavior|[WS 5.2]|8.3 up to “The Keyword this.”|SC 8.9-8.11, 8.13-8.16
+| [5.03] |Object Initialization: Constructors|[WS 5.3.1]<br>[WS 5.3.2]|8.4|
+| [5.04] |Encapsulation|[WS 5.4] (Mini-lessons)||SC 8.22-8.28
+| [5.05] |Finding & Fixing Errors|(Fix HW)|Review ch 8 for Picture Lab|Submit questions for review
+| [5.06] 01|Picture Lab (day 1)|[Picture Lab Activity 1 & 2]<br>[Eclipse Picture Lab Archive?]||Summarize notes since last exam
+| [5.06] 02|Picture Lab (day 2)|Picture Lab Activity 3 & 4, notebook checks||Outline ch 8
+| [5.06] 03|Picture Lab (day 3)|Picture Lab Activity 5, notebook checks|Read and highlight Barrons ch 2, skip this keyword|
+| [5.06] 04|Picture Lab (day 4)|Picture Lab Activity 5 & 6, notebook checks||Barrons ch 2 exam, skip #20
+| [5.06] 05|Picture Lab (day 5)|Picture Lab Activity 6, Barron's checks|Read and highlight Barrons ch 5|
+| [5.06] 06|Picture Lab (day 6)|Picture Lab Activity 7||SC 8.28, 8.30
+| [5.06] 07|Picture Lab (day 7)|Picture Lab Activity 8|8.5|Finish Picture Lab Activity 8
+| [5.06] 08|Picture Lab (day 8)|Picture Lab Activity 9||Cont. Picture Lab Activity 9
+| [5.06] 09|Picture Lab (day 9)|Picture Lab Activity 9, cont.||Submit questions for review
+| [5.07] |Review|Review question),[WS 5.7] practice||Study
+5.99|(Unit 5 test)|[Test 4 Section I]<br>[Test 4 Section II]||
+
 ### 5.00
 | [Lesson 5.00]   | _Test Review & Reteach_
 |:----------------|:-----------------------
@@ -1389,48 +1409,91 @@ self-contained website with lessons, labs and other supporting resources:
 [Lesson 3.18]: Unit3/Lesson-318.md
 [3.18]: Unit3/Lesson-318.md
 [Lesson 4.00]: Unit4/Lesson-400.md
+[4.00]: Unit4/Lesson-400.md
 [Lesson 4.01]: Unit4/Lesson-401.md
+[4.01]: Unit4/Lesson-401.md
 [Lesson 4.02]: Unit4/Lesson-402.md
+[4.02]: Unit4/Lesson-402.md
 [Lesson 4.03]: Unit4/Lesson-403.md
+[4.03]: Unit4/Lesson-403.md
 [Lesson 4.04]: Unit4/Lesson-404.md
+[4.04]: Unit4/Lesson-404.md
 [Lesson 4.05]: Unit4/Lesson-405.md
+[4.05]: Unit4/Lesson-405.md
 [Lesson 4.06]: Unit4/Lesson-406.md
+[4.06]: Unit4/Lesson-406.md
 [Lesson 4.07]: Unit4/Lesson-407.md
+[4.07]: Unit4/Lesson-407.md
 [Lesson 4.08]: Unit4/Lesson-408.md
+[4.08]: Unit4/Lesson-408.md
 [Lesson 4.09]: Unit4/Lesson-409.md
+[4.09]: Unit4/Lesson-409.md
 [Lesson 4.10]: Unit4/Lesson-410.md
+[4.10]: Unit4/Lesson-410.md
 [Lesson 5.00]: Unit5/Lesson-500.md
+[5.00]: Unit5/Lesson-500.md
 [Lesson 5.01]: Unit5/Lesson-501.md
+[5.01]: Unit5/Lesson-501.md
 [Lesson 5.02]: Unit5/Lesson-502.md
+[5.02]: Unit5/Lesson-502.md
 [Lesson 5.03]: Unit5/Lesson-503.md
+[5.03]: Unit5/Lesson-503.md
 [Lesson 5.04]: Unit5/Lesson-504.md
+[5.04]: Unit5/Lesson-504.md
 [Lesson 5.05]: Unit5/Lesson-505.md
+[5.05]: Unit5/Lesson-505.md
 [Lesson 5.06]: Unit5/Lesson-506.md
+[5.06]: Unit5/Lesson-506.md
 [Lesson 5.07]: Unit5/Lesson-507.md
+[5.07]: Unit5/Lesson-507.md
 [Lesson 6.00]: Unit6/Lesson-600.md
+[6.00]: Unit6/Lesson-600.md
 [Lesson 6.01]: Unit6/Lesson-601.md
+[6.01]: Unit6/Lesson-601.md
 [Lesson 6.02]: Unit6/Lesson-602.md
+[6.02]: Unit6/Lesson-602.md
 [Lesson 6.03]: Unit6/Lesson-603.md
+[6.03]: Unit6/Lesson-603.md
 [Lesson 6.04]: Unit6/Lesson-604.md
+[6.04]: Unit6/Lesson-604.md
 [Lesson 6.05]: Unit6/Lesson-605.md
+[6.05]: Unit6/Lesson-605.md
 [Lesson 6.06]: Unit6/Lesson-606.md
+[6.06]: Unit6/Lesson-606.md
 [Lesson 6.07]: Unit6/Lesson-607.md
+[6.07]: Unit6/Lesson-607.md
 [Lesson 6.08]: Unit6/Lesson-608.md
+[6.08]: Unit6/Lesson-608.md
 [Lesson 6.09]: Unit6/Lesson-609.md
+[6.09]: Unit6/Lesson-609.md
 [Lesson 7.00]: Unit7/Lesson-700.md
+[7.00]: Unit7/Lesson-700.md
 [Lesson 7.01]: Unit7/Lesson-701.md
+[7.01]: Unit7/Lesson-701.md
 [Lesson 7.02]: Unit7/Lesson-702.md
+[7.02]: Unit7/Lesson-702.md
 [Lesson 7.03]: Unit7/Lesson-703.md
+[7.03]: Unit7/Lesson-703.md
 [Lesson 7.04]: Unit7/Lesson-704.md
+[7.04]: Unit7/Lesson-704.md
 [Lesson 8.00]: Unit8/Lesson-800.md
+[8.00]: Unit8/Lesson-800.md
 [Lesson 8.01]: Unit8/Lesson-801.md
+[8.01]: Unit8/Lesson-801.md
 [Lesson 8.02]: Unit8/Lesson-802.md
+[8.02]: Unit8/Lesson-802.md
 [Lesson 8.03]: Unit8/Lesson-803.md
+[8.03]: Unit8/Lesson-803.md
 [Lesson 8.04]: Unit8/Lesson-804.md
+[8.04]: Unit8/Lesson-804.md
 [Lesson 8.05]: Unit8/Lesson-805.md
+[8.05]: Unit8/Lesson-805.md
 [Lesson 8.06]: Unit8/Lesson-806.md
+[8.06]: Unit8/Lesson-806.md
 [Lesson 8.07]: Unit8/Lesson-807.md
+[8.07]: Unit8/Lesson-807.md
 [Lesson 9.00]: Unit9/Lesson-900.md
+[9.00]: Unit9/Lesson-900.md
 [Magpie Chatbot Lab]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%204/Unit%204%20Milestone%201%20Magpie%20Lab.zip
 [Operator Precedence]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b0BABFA36-26A9-43F7-9C5D-FC10B812AB4B%7d&file=Operator%20Precedence.pptx&action=default
 [Picture Lab]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%205/Unit%205%20Milestone%202%20Picture%20Lab.zip
