@@ -294,12 +294,12 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 | [3.07] |Pokémon Battle Programming Project|[WS 3.7]<br>LP Battle||Summarize notes since last exam |
 | [3.08] |Finding & Fixing Errors|Fix HW<br>webmaker.org|4.1 up to “nested if else statements”|SC 4.1-4.4 |​
 | [3.09] |Relational Operators & if/else|[Operator Precedence]<br>Grudgeball|4.1 “Nested if/else” and “Flow of control”|SC 4.7-4.9; E 4.1-4.2 |
-| [3.10] |Nested if/else Statements|[Teach mini-lessons] Practice-It SC 4.5, 4.6, E 4.3|4.1, “Factoring if/else statements” and “Testing multiple conditions”|E 4.4, 4.5 | 
-| [3.11] |Reducing Redundancy|(Refactoring competition)|Read 4.2|Outline ch 4 (omit 4.4, 4.5) |
+| [3.10] |Nested if/else Statements|[WS 3.10] Teach mini-lessons] Practice-It SC 4.5, 4.6, E 4.3|4.1, “Factoring if/else statements” and “Testing multiple conditions”|E 4.4, 4.5 | 
+| [3.11] |Reducing Redundancy|(Refactoring com petition)|Read 4.2|Outline ch 4 (omit 4.4, 4.5) |
 | [3.12] |Cumulative Algorithms|Tally code on board,[Collaborative Programming Exercise]|5.1 skip “do/while loops”|PP 4.2 |
 | [3.13] |while Loops|Practice-It SC 5.1 - 5.4, E 5.2<br>[WS 3.13]|5.1 ”Random numbers”|E 5.2 |
 | [3.14] |Random Numbers|Practice-It SC 5.5-5.7; E 5.4, 5.5|5.2|PP 5.1 |
-| [3.15] |Fencepost & Sentinel Loops|[Teach mini-lessons]|5.3|E 5.6, 5.8 |
+| [3.15] |Fencepost & Sentinel Loops|[WS 3.15] Teach mini-lessons|5.3|E 5.6, 5.8 |
 | [3.16]01 |Boolean Logic|Practice-It SC 5.27, 5.29<br>[WS 3.16] (RPS, Pig)<br>[DeMorgan’s Law]<BR>[Poster 3.16.1]<BR>[Poster 3.16.2]​||Outline ch 5 (through 5.3) |
 | [3.16]02 |Boolean Logic (Day 2)||| |
 | [3.17] |Finding & Fixing Errors|(Fix HW)|Review ch 3-5|Submit questions for review |
@@ -402,7 +402,7 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 |:----------------|:---------------------------
 | **Objectives**  | Students will will be able to choose which if statements ot use for different problems<br>Students will use correct syntax for the different if statements.
 | **Assessments** | Students will teach a mini-lesson on sequential or nested if statements.<br>Students will submit several Practice-It questions.
-| **In Class**    | [Teach mini-lessons]<br>Practice-It<br>SC 4.5–6<br>E 4.3
+| **In Class**    | [WS 3.10] Teach mini-lessons<br>Practice-It<br>SC 4.5–6<br>E 4.3
 | **Reading**     | 4.1, “_Factoring If/Else Statements_” and “_Testing Multiple Conditions_”
 | **Homework**    | EX 4.4–5
 
@@ -447,7 +447,7 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 |:----------------|:----------------------------
 | **Objectives**  | Students will be able to describe when to use fencepost and sentinel loops.<br>Students will use proper syntax to construct these control structures.
 | **Assessments** | Students will teach a mini-lesson explaining the relationship between parameters and values stored in memory.
-| **In Class**    | [Teach mini-lessons]
+| **In Class**    | [WS 3.15] Teach mini-lessons
 | **Reading**     | 5.3
 | **Homework**    | EX 5.6,8
 
@@ -508,7 +508,7 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 | [4.00] |Test Review & Reteach|Review test|7.1 up to Arrays and Methods|Test corrections
 | [4.01] |Array Basics|[WS 4.1]<br>[Poster 4.2]|7.1 For-Each Loop and The Arrays Class|SC 7.1, 7.7, 7.9
 | [4.02] |For-Each Loop & Arrays Class|[WS 4.2]|7.2 up to Reversing an Array|SC 7.12-7.14
-| [4.03] |Printing, Searching, & Testing for Equality|[WS 4.3](Mini-lessons)||SC 7.14-7.17, E 7.3
+| [4.03] |Printing, Searching, & Testing for Equality|[WS 4.3] Mini-lessons||SC 7.14-7.17, E 7.3
 | [4.03] |Printing, Searching, & Testing for Equality (Day 2)||7.3|SC 7.19-7.21
 | [4.04] |Reference Semantics|[WS 4.4]<br>[WS 4.4 Answers]|7.4 up to Command-Line Arguments|E 7.9, 7.10
 | [4.05] |Shifting Values & Arrays of Objects|SC 7.22, 7.23, 7.25, 7.26, 7.30; E 7.16|7.4 Nested Arrays, 7.5 Rectangular Two Dimensional Arrays|SC 7.27-7.29, E 7.14
@@ -555,7 +555,7 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 |:----------------|:-----------------------------------------------------
 | **Objectives**  | Students will be able to manipulate single-dimension arrays using a variety of array transversal algorithms.
 | **Assessments** | Students will teach a mini-lesson on printing, searching/replacing, testing for equality, reversing an array, or string traversal.<br>Students will complete a quiz at the end of Day 2.
-| **In Class**    | [WS 4.3]<br>[Teach mini-lessons]
+| **In Class**    | [WS 4.3] Teach mini-lessons
 | **Reading**     |
 | **Homework**    | SC 7.14–17<br>E 7.3
 
@@ -688,9 +688,9 @@ Unit 5: Object-Oriented Programming (4 weeks)
 | [5.01] |Object Oriented Programming|Practice-It SC 8.1-8.5<br>[WS 5.1.1]|8.2 up to “Mutators and Accessors.”|
 | [5.02] |Object State & Behavior|[WS 5.2]|8.3 up to “The Keyword this.”|SC 8.9-8.11, 8.13-8.16
 | [5.03] |Object Initialization: Constructors|[WS 5.3.1]<br>[WS 5.3.2]|8.4|
-| [5.04] |Encapsulation|[WS 5.4] (Mini-lessons)||SC 8.22-8.28
-| [5.05] |Finding & Fixing Errors|(Fix HW)|Review ch 8 for Picture Lab|Submit questions for review
-| [5.06] 01|Picture Lab (day 1)|[Picture Lab Activity 1 & 2]<br>[Eclipse Picture Lab Archive?]||Summarize notes since last exam
+| [5.04] |Encapsulation|[WS 5.4] Mini-lessons||SC 8.22-8.28
+| [5.05] |Finding & Fixing Errors|Fix HW|Review ch 8 for Picture Lab|Submit questions for review
+| [5.06] 01|Picture Lab (day 1)|[Picture Lab] Activity 1 & 2<br>[Eclipse Picture Lab Archive]||Summarize notes since last exam
 | [5.06] 02|Picture Lab (day 2)|Picture Lab Activity 3 & 4, notebook checks||Outline ch 8
 | [5.06] 03|Picture Lab (day 3)|Picture Lab Activity 5, notebook checks|Read and highlight Barrons ch 2, skip this keyword|
 | [5.06] 04|Picture Lab (day 4)|Picture Lab Activity 5 & 6, notebook checks||Barrons ch 2 exam, skip #20
@@ -743,7 +743,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 |:----------------|:---------------
 | **Objectives**  | Students will be able to manipulate single-dimension arrays using a variety of array transversal algorithms.
 | **Assessments** | Students will teach a mini-lesson on printing, searching/replacing, testing for equality, reversing an array, or string traversal.<br>Students will complete a quiz at the end of Day 2.
-| **In Class**    | [WS 5.4]<br>[Teach mini-lessons]
+| **In Class**    | [WS 5.4] Teach mini-lessons
 | **Reading**     |
 | **Homework**    | SC 8.22–28
 
@@ -860,6 +860,26 @@ Unit 6: Inheritance & Polymorphism (4 weeks)
 ----------------------------------------------------------------------------------------------------
 - [Unit 6 Slides]
 - [Unit 6 Word Bank]
+
+| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
+|:-------|:--------------------------------------|:---------------|:----------------|:----------------|
+| [6.00] |Test Review & Reteach|(Review test)|9.1|Test corrections
+| [6.01] 01|Inheritance Basics (day 1)|[WS 6.1] Start class poster<br>[Example 6.1]|"9.2 up to ""Dividend Stock Behavior"""|Collect images
+| [6.01] 02|Inheritance Basics (day 2)|Finish class poster, discuss||
+| [6.02] |Overriding Methods & Accessing Inherited Code|WS 6.2|Rest of 9.2 starting from “The Object Class.”|
+| [6.03] |Interacting with the Object Superclass|Practice-It SC 9.3, 9.4, 9.9, 9.10, E 9.4;WS 6.3<br>[Poster 6.3]|9.3 up to “Interpreting Inheritance Code.” |
+| [6.04] |Polymorphism|[WS 6.4.1]<br>[WS 6.4.2 ]<br>SC 9.11-9.17|Rest of 9.4 “Is-a Versus Has-a Relationships.”|SC 9.18, 9.20
+| [6.05] |Has-a Relationships|[WS 6.5]<br>ValueMeal exercise? |9.5|
+| [6.06] |Interfaces|[Interface examples]<br>[Poster 6.6]|9.6|Generate own class hierarchy like Financial hierarchy in book
+| [6.07] 01|Programming project (day 1)|PP 9.1, notebook checks||Outline ch 9
+| [6.07] 02|Programming project (day 2)|PP 9.1, outline checks|Read and outline Barrons ch 4|
+| [6.07] 03|Programming project (day 3)|PP 9.3||Barrons ch 4 exam, self-grade 
+| [6.07] 04|Programming project (day 4)|E 9.8|Read and outline Barrons ch 3|
+| [6.07] 05|Programming project (day 5)|Barrons ch 3 exam, outline checks|Review ch 9|Submit questions for review
+| [6.08] |Finding & Fixing Errors|(Fix HW)|Review ch 9|Submit questions for review
+| [6.09] |Review|(Review questions),WS 6.5 practice||Study
+| 6.99 |(Unit 6 test)|[Test 5 Section I]<br>[Test 5 Section II]||
+| 6.XX |Project: [Text Excel]|[Student Guide A]<br>[Student Guide B]<br>[Student Guide C]<br>[Teacher Guide]||
 
 ### 6.00
 | [Lesson 6.00]   | _Test Review & Reteach_
