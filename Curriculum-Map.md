@@ -1043,21 +1043,21 @@ Unit 7: Searching & Sorting (3 weeks)
 | [7.01] |Searching Algorithms|(CS Unplugged Battleship)<br>[WS 7.1]|13.1 “Sorting”|SC 13.4-13.6, E 13.1-13.3 
 | [7.02] |Sorting Algorithms||13.1 “Shuffling”|
 | [7.03] 01|Elevens lab (day 1)| [Elevens Lab] Activity 1|"13.3 skip ""Recursive Binary Search"""|SC 13.16-13.21, 13.23, 13.24
-| [7.03] 02|Elevens lab (day 2)| [Elevens Lab] Activity 2 (begin)||
-| [7.03] 03|Elevens lab (day 3)| [Elevens Lab] Activity 2 (end)||Summarize notes since last exam
-| [7.03] 04|Elevens lab (day 4)| [Elevens Lab] Activity 3 (begin), notebook checks||Outline ch 13
-| [7.03] 05|Elevens lab (day 5)| [Elevens Lab] Activity 3 (end), notebook checks|Read and outline Barrons ch 8|
-| [7.03] 06|Elevens lab (day 6)| [Elevens Lab] Activity 4||Barrons ch 8 exam, self-grade 
-| [7.03] 07|Elevens lab (day 7)| [Elevens Lab] Activity 5 (begin), Barron's checks||
-| [7.03] 08|Elevens lab (day 8)| [Elevens Lab] Activity 5 (end)||
-| [7.03] 09|Elevens lab (day 9)| [Elevens Lab] Activity 6||(Fix HW)
-| [7.03] 10|Elevens lab (day 10)| [Elevens Lab] Activity 7||(Fix HW)
-| [7.03] 11|Elevens lab (day 11)| [Elevens Lab] Activity 8, re-grade fixed HW||
-| [7.03] 12|Elevens lab (day 12)| [Elevens Lab] Activity 9 (begin), re-grade fixed HW||
-| [7.03] 13|Elevens lab (day 13)| [Elevens Lab] Activity 9 (end), re-grade fixed HW||Submit questions for review
-| [7.03] 14|Elevens lab (day 14)| [Elevens Lab] Activity 10, re-grade fixed HW||
-| [7.03] 15|Elevens lab (day 15)| [Elevens Lab] Activity 11 (begin)||
-| [7.03] 16|Elevens lab (day 16)| [Elevens Lab] Activity 11 (end)||
+| [7.03] 02|Elevens lab (day 2)| [Elevens Lab] Activity 2 (begin)||
+| [7.03] 03|Elevens lab (day 3)| [Elevens Lab] Activity 2 (end)||Summarize notes since last exam
+| [7.03] 04|Elevens lab (day 4)| [Elevens Lab] Activity 3 (begin), notebook checks||Outline ch 13
+| [7.03] 05|Elevens lab (day 5)| [Elevens Lab] Activity 3 (end), notebook checks|Read and outline Barrons ch 8|
+| [7.03] 06|Elevens lab (day 6)| [Elevens Lab] Activity 4||Barrons ch 8 exam, self-grade 
+| [7.03] 07|Elevens lab (day 7)| [Elevens Lab] Activity 5 (begin), Barron's checks||
+| [7.03] 08|Elevens lab (day 8)| [Elevens Lab] Activity 5 (end)||
+| [7.03] 09|Elevens lab (day 9)| [Elevens Lab] Activity 6||(Fix HW)
+| [7.03] 10|Elevens lab (day 10)| [Elevens Lab] Activity 7||(Fix HW)
+| [7.03] 11|Elevens lab (day 11)| [Elevens Lab] Activity 8, re-grade fixed HW||
+| [7.03] 12|Elevens lab (day 12)| [Elevens Lab] Activity 9 (begin), re-grade fixed HW||
+| [7.03] 13|Elevens lab (day 13)| [Elevens Lab] Activity 9 (end), re-grade fixed HW||Submit questions for review
+| [7.03] 14|Elevens lab (day 14)| [Elevens Lab] Activity 10, re-grade fixed HW||
+| [7.03] 15|Elevens lab (day 15)| [Elevens Lab] Activity 11 (begin)||
+| [7.03] 16|Elevens lab (day 16)| [Elevens Lab] Activity 11 (end)||
 | [7.04|Review|Review questions||Study
 | [7.99|Unit 7 test|[Test 6 Guide]<br>[Test 6 Section I]<br>[Test 6 Section II]||
 
