@@ -516,10 +516,10 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 | [4.07] |ArrayList|Grudgeball<br>[Poster 4.7]||Outline ch 7 and 10.1
 | [4.08] |Finding & Fixing Errors|Fix HW|Review ch 7, 10.1 for Magpie lab|Submit questions for review
 | [4.09] 01|Magpie Lab (day 1)|[Magpie Chatbot Lab] Activity 1 & 2<br>[Eclipse Magpie Archive]|Barrons ch 6|
-| [4.09] 02|Magpie Lab (day 2)|Magpie Activity 2|Barrons ch 6|
-| [4.09] 03|Magpie Lab (day 3)|Magpie Activity 3||Barrons ch 6 practice questions
-| [4.09] 04|Magpie Lab (day 4)|Magpie Activity 4||Check and correct Barrons ch.6 questions
-| [4.09] 05|Magpie Lab (day 5)|Magpie Activity 5||Check and correct Barrons ch.6 questions
+| [4.09] 02|Magpie Lab (day 2)|[Magpie Chatbot Lab] Activity 2|Barrons ch 6|
+| [4.09] 03|Magpie Lab (day 3)|[Magpie Chatbot Lab] Activity 3||Barrons ch 6 practice questions
+| [4.09] 04|Magpie Lab (day 4)|[Magpie Chatbot Lab] Activity 4||Check and correct Barrons ch.6 questions
+| [4.09] 05|Magpie Lab (day 5)|[Magpie Chatbot Lab] Activity 5||Check and correct Barrons ch.6 questions
 | [4.10] |Review|Review questions [WS 4.10] practice test||Study
 | 4.99 |Unit 4 test|[Test 3 Section I]<br>[Test 3 Section II]||
 
@@ -691,15 +691,15 @@ Unit 5: Object-Oriented Programming (4 weeks)
 | [5.04] |Encapsulation|[WS 5.4] Mini-lessons||SC 8.22-8.28
 | [5.05] |Finding & Fixing Errors|Fix HW|Review ch 8 for Picture Lab|Submit questions for review
 | [5.06] 01|Picture Lab (day 1)|[Picture Lab] Activity 1 & 2<br>[Eclipse Picture Lab Archive]||Summarize notes since last exam
-| [5.06] 02|Picture Lab (day 2)|Picture Lab Activity 3 & 4, notebook checks||Outline ch 8
-| [5.06] 03|Picture Lab (day 3)|Picture Lab Activity 5, notebook checks|Read and highlight Barrons ch 2, skip this keyword|
-| [5.06] 04|Picture Lab (day 4)|Picture Lab Activity 5 & 6, notebook checks||Barrons ch 2 exam, skip #20
-| [5.06] 05|Picture Lab (day 5)|Picture Lab Activity 6, Barron's checks|Read and highlight Barrons ch 5|
-| [5.06] 06|Picture Lab (day 6)|Picture Lab Activity 7||SC 8.28, 8.30
-| [5.06] 07|Picture Lab (day 7)|Picture Lab Activity 8|8.5|Finish Picture Lab Activity 8
-| [5.06] 08|Picture Lab (day 8)|Picture Lab Activity 9||Cont. Picture Lab Activity 9
-| [5.06] 09|Picture Lab (day 9)|Picture Lab Activity 9, cont.||Submit questions for review
-| [5.07] |Review|Review question),[WS 5.7] practice||Study
+| [5.06] 02|Picture Lab (day 2)|[Picture Lab] Activity 3 & 4, notebook checks||Outline ch 8
+| [5.06] 03|Picture Lab (day 3)|[Picture Lab] Activity 5, notebook checks|Read and highlight Barrons ch 2, skip this keyword|
+| [5.06] 04|Picture Lab (day 4)|[Picture Lab] Activity 5 & 6, notebook checks||Barrons ch 2 exam, skip #20
+| [5.06] 05|Picture Lab (day 5)|[Picture Lab] Activity 6, Barron's checks|Read and highlight Barrons ch 5|
+| [5.06] 06|Picture Lab (day 6)|[Picture Lab] Activity 7||SC 8.28, 8.30
+| [5.06] 07|Picture Lab (day 7)|[Picture Lab] Activity 8|8.5|Finish Picture Lab Activity 8
+| [5.06] 08|Picture Lab (day 8)|[Picture Lab] Activity 9||Cont. Picture Lab Activity 9
+| [5.06] 09|Picture Lab (day 9)|[Picture Lab] Activity 9, cont.||Submit questions for review
+| [5.07] |Review|Review question<br>[WS 5.7] Test practice||Study
 5.99|(Unit 5 test)|[Test 4 Section I]<br>[Test 4 Section II]||
 
 ### 5.00
@@ -866,9 +866,9 @@ Unit 6: Inheritance & Polymorphism (4 weeks)
 | [6.00] |Test Review & Reteach|(Review test)|9.1|Test corrections
 | [6.01] 01|Inheritance Basics (day 1)|[WS 6.1] Start class poster<br>[Example 6.1]|"9.2 up to ""Dividend Stock Behavior"""|Collect images
 | [6.01] 02|Inheritance Basics (day 2)|Finish class poster, discuss||
-| [6.02] |Overriding Methods & Accessing Inherited Code|WS 6.2|Rest of 9.2 starting from “The Object Class.”|
-| [6.03] |Interacting with the Object Superclass|Practice-It SC 9.3, 9.4, 9.9, 9.10, E 9.4;WS 6.3<br>[Poster 6.3]|9.3 up to “Interpreting Inheritance Code.” |
-| [6.04] |Polymorphism|[WS 6.4.1]<br>[WS 6.4.2 ]<br>SC 9.11-9.17|Rest of 9.4 “Is-a Versus Has-a Relationships.”|SC 9.18, 9.20
+| [6.02] |Overriding Methods & Accessing Inherited Code|[WS 6.2]|Rest of 9.2 starting from “The Object Class.”|
+| [6.03] |Interacting with the Object Superclass|Practice-It SC 9.3, 9.4, 9.9, 9.10, E 9.4;[WS 6.3]<br>[Poster 6.3]|9.3 up to “Interpreting Inheritance Code.” |
+| [6.04] |Polymorphism|[WS 6.4.1]<br>[WS 6.4.2]<br>SC 9.11-9.17|Rest of 9.4 “Is-a Versus Has-a Relationships.”|SC 9.18, 9.20
 | [6.05] |Has-a Relationships|[WS 6.5]<br>ValueMeal exercise? |9.5|
 | [6.06] |Interfaces|[Interface examples]<br>[Poster 6.6]|9.6|Generate own class hierarchy like Financial hierarchy in book
 | [6.07] 01|Programming project (day 1)|PP 9.1, notebook checks||Outline ch 9
@@ -877,9 +877,9 @@ Unit 6: Inheritance & Polymorphism (4 weeks)
 | [6.07] 04|Programming project (day 4)|E 9.8|Read and outline Barrons ch 3|
 | [6.07] 05|Programming project (day 5)|Barrons ch 3 exam, outline checks|Review ch 9|Submit questions for review
 | [6.08] |Finding & Fixing Errors|(Fix HW)|Review ch 9|Submit questions for review
-| [6.09] |Review|(Review questions),WS 6.5 practice||Study
+| [6.09] |Review|(Review questions),[WS 6.5] Test practice||Study
 | 6.99 |(Unit 6 test)|[Test 5 Section I]<br>[Test 5 Section II]||
-| 6.XX |Project: [Text Excel]|[Student Guide A]<br>[Student Guide B]<br>[Student Guide C]<br>[Teacher Guide]||
+| 6.XX |Project: [Text Excel]|[Text Excel Student Guide A]<br>[Text Excel Student Guide B]<br>[Text Excel Student Guide C]<br>[Text Excel Teacher Guide]||
 
 ### 6.00
 | [Lesson 6.00]   | _Test Review & Reteach_
