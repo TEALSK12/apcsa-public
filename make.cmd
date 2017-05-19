@@ -47,24 +47,32 @@ exit /b 0
 
 @REM _______________________________________________________________________________________________
 :clean
-    rmdir 2>nul /s /q PDF
+    rmdir 2>nul /s /q out
     goto :eof
 
 
 @REM _______________________________________________________________________________________________
 :pdfs
-    mkdir 2>nul PDF\Unit1 PDF\Unit2 PDF\Unit3 PDF\Unit4 PDF\Unit5
-    mkdir 2>nul PDF\Unit6 PDF\Unit7 PDF\Unit8 PDF\Unit9
+    mkdir 2>nul out\PDF
     for /f "delims=" %%f in (docx.manifest) do (
         echo "%%f"
-        ftimecomp --handle-missing "%%f.docx" "PDF\%%f.pdf"
+        set filename=%%~nxf
+        echo ftimecomp --handle-missing "%%f.docx" "out\PDF\!filename!.pdf"
+             ftimecomp --handle-missing "%%f.docx" "out\PDF\!filename!.pdf"
         if !errorlevel! equ 1 (
             @REM // Unfortunately, docto.exe can't properly handle files if they're stored on
             @REM // the A: drive. To work around this, first copy the .docx file to the %TEMP%
             @REM // directory, which should be on the system drive, which is typically C:.
-            copy >nul "%%f.docx" "%temp%\x.docx"
-            docto.exe -T wdFormatPDF -F "%temp%\x.docx" -O "x.pdf"
-            move >nul x.pdf "PDF\%%f.pdf"
+
+            echo copy ^>nul "%%f.docx" "%temp%\x.docx"
+                 copy  >nul "%%f.docx" "%temp%\x.docx"
+
+            echo docto.exe -T wdFormatPDF -F "%temp%\x.docx" -O "x.pdf"
+                 docto.exe -T wdFormatPDF -F "%temp%\x.docx" -O "x.pdf"
+
+            echo move ^>nul x.pdf "out\PDF\!filename!.pdf"
+                 move  >nul x.pdf "out\PDF\!filename!.pdf"
+
             echo.
         )
     )
@@ -80,7 +88,7 @@ exit /b 0
     @echo.    clean - delete all generated files
     @echo.
     @echo.    pdfs  - Build all PDF files from Word docx sources, using `docx.manifest`.
-    @echo.            Output PDF files are saved to the PDF directory.
+    @echo.            Output PDF files are saved to the out\PDF directory.
     @echo.
     @echo.    all   = pdfs
     @echo.    fresh = clean + pdfs

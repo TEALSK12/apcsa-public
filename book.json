@@ -4,7 +4,7 @@
     "author":      "TEALSK12 - https://www.tealsk12.org",
     "language":    "en",
 
-    "root": ".",
+    "root": "curriculum",
     "structure": {
         "readme":  "README.md",
         "summary": "SUMMARY.md"
