@@ -2,7 +2,8 @@ TEALS AP CS A Curriculum — How to Contribute
 ====================================================================================================
 
 ## Repository Location
-The curriculum's source code is hosted on Github at: [https://github.com/TEALSK12/apcsa-curriculum]
+The curriculum's source code is hosted on Github at [https://github.com/TEALSK12/apcsa]. Restricted
+instructor-only content is hosted at [https://github.com/TEALSK12/apcsa-instructor].
 
 Did you catch an error in the TEALS AP CS A curriculum, or perhaps have an idea for an addition that
 would make it better? If so, we'd love to see what you've got!
@@ -40,9 +41,9 @@ How to Submit a Pull Request (Advanced)
 ---------------------------------------
 The following steps outline the easiest way to submit a PR:
 
-1. Create a local working clone of the `apcsa-curriculum` repository. If you haven't done this
-   before, just go to the [main code page] and hit the "Clone or download" button. Explaining how to
-   use Git is outside the scope of this page, so you'll need to know how to do this already.
+1. Create a local working clone of the `apcsa` repository. If you haven't done this before, just go
+   to the [main code page] and hit the "Clone or download" button. Explaining how to use Git is
+   outside the scope of this page, so you'll need to know how to do this already.
 
 2. Create and checkout a feature branch for your work. (The `master` branch is protected, and you
    won't be able to submit changes there.)
@@ -93,8 +94,9 @@ Hopefully, all went well, and you've helped to make our curriculum even better -
 
 [GitHub account]:   https://github.com/join
 [Kenney Chan]:      mailto:kencha@microsoft.com
-[main code page]:   https://github.com/TEALSK12/apcsa-curriculum
+[main code page]:   https://github.com/TEALSK12/apcsa
 [Steve Hollasch]:   mailto:steve@hollasch.net
 [style guidelines]: STYLE.md
-[submit an issue]:  https://github.com/TEALSK12/apcsa-curriculum/issues
-[https://github.com/TEALSK12/apcsa-curriculum]: https://github.com/TEALSK12/apcsa-curriculum
+[submit an issue]:  https://github.com/TEALSK12/apcsa/issues
+[https://github.com/TEALSK12/apcsa]: https://github.com/TEALSK12/apcsa
+[https://github.com/TEALSK12/apcsa-instructor]: https://github.com/TEALSK12/apcsa-instructor
