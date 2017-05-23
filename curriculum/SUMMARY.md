@@ -117,7 +117,7 @@
 * [TEALS Minecraft Modding](https://tealsk12.github.io/teals-minecraft/)
 
 ## Appendix
+* [About This Curriculum](About.md)
 * [Changelog](CHANGELOG.md)
 * [Contributing](CONTRIBUTING.md)
-* [Curriculum Development](DEVELOPMENT.md)
-* [Acknowledegments](DEVELOPMENT.md#acknowledgements)
+* [Acknowledegments](About.md#acknowledgements)
