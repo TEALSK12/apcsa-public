@@ -50,7 +50,6 @@ strategies covered in the websites referenced below:
 | Website URL                           | Features
 |---------------------------------------|---------
 | http://tinyurl.com/APCSTips           | Official tips from the College Board.
-| http://tinyurl.com/APCSadvice         | Study tips (mostly GridWorld) from students who have taken the exam.
 | http://tinyurl.com/APCSlist           | Test-taking tips and Section II tips from a teacher.
 | http://tinyurl.com/APCSquickReference | See page A1 for quick reference guide included with the exam.
 
