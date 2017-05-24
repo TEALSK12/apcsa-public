@@ -510,7 +510,7 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 | [4.02] |For-Each Loop & Arrays Class|[WS 4.2]|7.2 up to Reversing an Array|SC 7.12-7.14
 | [4.03] |Printing, Searching, & Testing for Equality|[WS 4.3] Mini-lessons||SC 7.14-7.17, E 7.3
 | [4.03] |Printing, Searching, & Testing for Equality (Day 2)||7.3|SC 7.19-7.21
-| [4.04] |Reference Semantics|[WS 4.4]<br>[WS 4.4 Answers]|7.4 up to Command-Line Arguments|E 7.9, 7.10
+| [4.04] |Reference Semantics|[WS 4.4]<br>7.4 up to Command-Line Arguments|E 7.9, 7.10
 | [4.05] |Shifting Values & Arrays of Objects|SC 7.22, 7.23, 7.25, 7.26, 7.30; E 7.16|7.4 Nested Arrays, 7.5 Rectangular Two Dimensional Arrays|SC 7.27-7.29, E 7.14
 | [4.06] |Nested Loop Algorithms & Rectangular Arrays|[WS 4.6]|10.1 up to Adding to and Removing from an ArrayList|SC [TBD]
 | [4.07] |ArrayList|Grudgeball<br>[Poster 4.7]||Outline ch 7 and 10.1
@@ -573,7 +573,7 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  | Students will be able to compare and contrast how primitives and arrays are treated when passed as parameters.
 | **Assessments** | Students will complete graphic organizers and a worksheet.<br>Some students will complete a Pokémon Challenge for extra credit.
-| **In Class**    | [WS 4.4]<br>[WS 4.4 Answers]
+| **In Class**    | [WS 4.4]
 | **Reading**     | 7.4 up to “_Command-Line Arguments_”
 | **Homework**    | EX 7.9–10
 
@@ -1600,40 +1600,40 @@ self-contained website with lessons, labs and other supporting resources:
 [Unit 7 Word Bank]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b9977701F-4BC3-4966-9832-58E6DA9E9879%7d&file=Unit%207%20Word%20Bank.docx&action=default
 [Unit 8 Slides]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b7D8761D8-D33F-449B-9796-F978A87A9798%7d&file=Unit8.pptx&action=default
 [Unit 8 Word Bank]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b9242AA6F-137E-4FF0-AB72-CD79042E876E%7d&file=Unit%208%20Word%20Bank.docx&action=default
-[WS 1.1.1]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b0511987A-218C-422B-AB1F-A3071BDBB2E8%7d&file=WS%201.1.1.docx&action=default
-[WS 1.1.2]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%201/WS%201.1.2.docx
-[WS 1.4]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%201/WS%201.4.docx
-[WS 1.9]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%201/WS%201.9.docx
-[WS 2.11]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b84404339-EB3C-4D42-8877-A0CC54A9BE53%7d&file=WS%202.11.docx&action=default
-[WS 2.1]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%202/WS%202.1.docx
-[WS 2.2]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%202/WS%202.2.docx
-[WS 2.4]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%202/WS%202.4.docx
-[WS 2.5]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%202/WS%202.5.docx
-[WS 2.7]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%202/WS%202.7.docx
-[WS 3.13]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bDF7C626D-C034-4CAA-B14A-EA20D43B0274%7d&file=WS%203.13.docx&action=default
-[WS 3.16]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%203/WS%203.16.docx
-[WS 3.18]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%203/WS%203.18.docx
-[WS 3.4]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%203/WS%203.4.docx
-[WS 3.5]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%203/WS%203.5.docx
-[WS 3.7]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bE19ADDFA-3E39-4754-8CD9-241F1FCF3607%7d&file=WS%203.7.docx&action=default
-[WS 4.10]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%204/WS%204.10.docx
-[WS 4.1]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%204/WS%204.1.docx
-[WS 4.2]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%204/WS%204.2.docx
-[WS 4.3]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%204/WS%204.3.docx
-[WS 4.4 Answers]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%204/WS%204.4%20Answers.pdf
-[WS 4.4]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%204/WS%204.4.docx
-[WS 4.6]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%204/WS%204.6.docx
-[WS 5.1.1]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%205/WS%205.1.1.pdf
-[WS 5.2]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%205/WS%205.2.docx
-[WS 5.3.1]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%205/WS%205.3.1.docx
-[WS 5.3.2]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%205/WS%205.3.2.docx
-[WS 5.4]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%205/WS%205.4.docx
-[WS 5.7]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%205/WS%205.7.docx
-[WS 6.1]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%206/WS%206.1.docx
-[WS 6.2]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%206/WS%206.2.docx
-[WS 6.3]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%206/WS%206.3.docx
-[WS 6.4.1]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b18A2F37D-64EA-41CB-80BA-1CD1CAB900DB%7d&file=WS%206.4.1.docx&action=default
-[WS 6.4.2]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bD5555ACA-2425-4675-8709-9002B54AFD3B%7d&file=WS%206.4.2.docx&action=default
-[WS 6.5]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b7DEEB7BF-9DE2-43E8-A157-A667321A7E58%7d&file=WS%206.5.docx&action=default
-[WS 7.1]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%207/WS%207.1.docx
-[WS 8.3]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%208/WS%208.3.docx
+[WS 1.1.1]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/WS%201.1.1.docx?raw=true
+[WS 1.1.2]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/WS%201.1.2.docx?raw=true
+[WS 1.4]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/WS%201.4.docx?raw=true
+[WS 1.9]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/WS%201.9.docx?raw=true
+[WS 2.11]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.11.docx?raw=true
+[WS 2.1]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.1.docx?raw=true
+[WS 2.2]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.2.docx?raw=true
+[WS 2.4]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.4.docx?raw=true
+[WS 2.5]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.5.docx?raw=true
+[WS 2.7]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.7.docx?raw=true
+[WS 3.13]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.13.docx?raw=true
+[WS 3.15]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.15.docx?raw=true
+[WS 3.16]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.16.docx?raw=true
+[WS 3.18]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.18.docx?raw=true
+[WS 3.4]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.4.docx?raw=true
+[WS 3.5]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.5.docx?raw=true
+[WS 3.7]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.7.docx?raw=true
+[WS 4.10]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.10.docx?raw=true
+[WS 4.1]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.1.docx?raw=true
+[WS 4.2]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.2.docx?raw=true
+[WS 4.3]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.3.docx?raw=true
+[WS 4.4]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.4.docx?raw=true
+[WS 4.6]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.6.docx?raw=true
+[WS 5.1.1]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/WS%205.1.1.pdf?raw=true
+[WS 5.2]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/WS%205.2.docx?raw=true
+[WS 5.3.1]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/WS%205.3.1.docx?raw=true
+[WS 5.3.2]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/WS%205.3.2.docx?raw=true
+[WS 5.4]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/WS%205.4.docx?raw=true
+[WS 5.7]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/WS%205.7.docx?raw=true
+[WS 6.1]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/WS%206.1.docx?raw=true
+[WS 6.2]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/WS%206.2.docx?raw=true
+[WS 6.3]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/WS%206.3.docx?raw=true
+[WS 6.4.1]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/WS%206.4.1.docx?raw=true
+[WS 6.4.2]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/WS%206.4.2.docx?raw=true
+[WS 6.5]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/WS%206.5.docx?raw=true
+[WS 7.1]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit7/WS%207.1.docx?raw=true
+[WS 8.3]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit8/WS%208.3.docx?raw=true
