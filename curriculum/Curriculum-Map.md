@@ -284,7 +284,7 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 
 | **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|
-| [3.00] |Test Review & Reteach|[Unit 3 Test Review]|3.1 up to “Limitations of Parameters”|Test corrections |
+| [3.00] |Test Review & Reteach|[Algorithm for Solving Problems]|3.1 up to “Limitations of Parameters”|Test corrections |
 | [3.01] |Parameters|Practice-It SC 3.1 - 3.3|"3.1 “Limitations of Parameters”, “Multiple Parameters”, ""Parameters versus Constants"""|SC 3.4-3.7 |
 | [3.02] |Limitations of Parameters & Multiple Parameters|(Art project)|"3.1 “Overloading Methods”, 3.2 ""Methods That Return Values"""|Jazz up art project and program |
 | [3.03] |Return Values|Practice-It SC 3.14 - 3.16||SC 3.17, E 3.1 |
@@ -312,7 +312,7 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 |:----------------|:-----------------------
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 2.
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
-| **In Class**    | [Unit 3 Test Review]
+| **In Class**    | [Algorithm for Solving Problems]
 | **Reading**     | 3.1 up to “_Limitations of Parameters_”
 | **Homework**    | Test corrections
 
@@ -1372,6 +1372,7 @@ self-contained website with lessons, labs and other supporting resources:
 
 
 
+[Algorithm for Solving Problems]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bCB43A17E-D554-403C-B041-FC6D9C4C1746%7d&file=Algorithm%20for%20Solving%20Problems.docx&action=default
 [AP CS 2012 Section II]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%209/AP%20CS%202012%20Section%20II.zip
 [Bellevue Mastery Tests]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%209/Bellevue%20Mastery%20Tests.zip
 [DeMorgan’s Law]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b42DF07DE-09B4-4631-93F9-672C02BF6A74%7d&file=DeMorgan%27s%20Law.pptx&action=default
@@ -1563,23 +1564,22 @@ self-contained website with lessons, labs and other supporting resources:
 [Text Excel Student Guide B]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Text%20Excel%20B%20Student%20Guide.docx
 [Text Excel Student Guide C]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Text%20Excel%20C%20Student%20Guide.docx
 [Text Excel Teacher Guide]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Text%20Excel%20Teacher%20Guide.docx
-[Unit 1 Slides]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b37E92DD6-B7B6-4ECE-9349-6A47C7EC3657%7d&file=Unit1.pptx&action=default
-[Unit 1 Word Bank]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bE5199A44-5C48-41F2-B939-8CB1297EA004%7d&file=Unit%201%20Word%20Bank.docx&action=default
-[Unit 2 Slides]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b3A8173D3-C193-4093-928E-A8DEB6147181%7d&file=Unit2.pptx&action=default
-[Unit 2 Word Bank]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b57B892A1-AFAA-47B6-BFE5-9D29C0147E02%7d&file=Unit%202%20Word%20Bank.docx&action=default
-[Unit 3 Slides]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b571AF7A6-5BA1-4573-AA96-C4103AD37621%7d&file=Unit3.pptx&action=default
-[Unit 3 Test Review]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bCB43A17E-D554-403C-B041-FC6D9C4C1746%7d&file=Algorithm%20for%20Solving%20Problems.docx&action=default
-[Unit 3 Word Bank]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bCEDEE2B5-3C9F-4E9D-B99B-1CA3DE31E652%7d&file=Unit%203%20Word%20Bank.docx&action=default
-[Unit 4 Slides]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b297C788F-FE4E-4B63-85C1-385399BAA16C%7d&file=Unit4.pptx&action=default
-[Unit 4 Word Bank]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b767B6DF3-38EE-4CD1-BB97-C091E0BF8A7C%7d&file=Unit%204%20Word%20Bank.docx&action=default
-[Unit 5 Slides]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b055BB2E6-B705-4EB7-BDD0-9DAE03E14D09%7d&file=Unit5.pptx&action=default
-[Unit 5 Word Bank]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b2218D187-D432-494A-A495-245833352BE8%7d&file=Unit%205%20Word%20Bank.docx&action=default
-[Unit 6 Slides]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b0581C80E-3C9F-4109-9436-0D36A047403D%7d&file=Unit6.pptx&action=default
-[Unit 6 Word Bank]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bBAD4C792-00AD-4B4D-A0FA-CF8A5578D9E7%7d&file=Unit%206%20Word%20Bank.docx&action=default
-[Unit 7 Slides]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bA3674FAC-140A-47F2-9DE0-97B7CEA6F8AB%7d&file=Unit7.pptx&action=default
-[Unit 7 Word Bank]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b9977701F-4BC3-4966-9832-58E6DA9E9879%7d&file=Unit%207%20Word%20Bank.docx&action=default
-[Unit 8 Slides]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b7D8761D8-D33F-449B-9796-F978A87A9798%7d&file=Unit8.pptx&action=default
-[Unit 8 Word Bank]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b9242AA6F-137E-4FF0-AB72-CD79042E876E%7d&file=Unit%208%20Word%20Bank.docx&action=default
+[Unit 1 Slides]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/Unit1.pptx?raw=true
+[Unit 1 Word Bank]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/Unit%201%20Word%20Bank.docx&raw=true
+[Unit 2 Slides]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/Unit2.pptx?raw=true
+[Unit 2 Word Bank]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/Unit%202%20Word%20Bank.docx&raw=true
+[Unit 3 Slides]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/Unit3.pptx?raw=true
+[Unit 3 Word Bank]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/Unit%302%20Word%20Bank.docx&raw=true
+[Unit 4 Slides]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/Unit4.pptx?raw=true
+[Unit 4 Word Bank]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/Unit%402%20Word%20Bank.docx&raw=true
+[Unit 5 Slides]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/Unit5.pptx?raw=true
+[Unit 5 Word Bank]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/Unit%502%20Word%20Bank.docx&raw=true
+[Unit 6 Slides]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Unit6.pptx?raw=true
+[Unit 6 Word Bank]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Unit%602%20Word%20Bank.docx&raw=true
+[Unit 7 Slides]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit7/Unit7.pptx?raw=true
+[Unit 7 Word Bank]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit7/Unit%702%20Word%20Bank.docx&raw=true
+[Unit 8 Slides]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit8/Unit8.pptx?raw=true
+[Unit 8 Word Bank]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit8/Unit%802%20Word%20Bank.docx&raw=true
 [WS 1.1.1]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/WS%201.1.1.docx?raw=true
 [WS 1.1.2]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/WS%201.1.2.docx?raw=true
 [WS 1.4]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/WS%201.4.docx?raw=true
