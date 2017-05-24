@@ -1372,7 +1372,7 @@ self-contained website with lessons, labs and other supporting resources:
 
 
 
-[Algorithm for Solving Problems]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bCB43A17E-D554-403C-B041-FC6D9C4C1746%7d&file=Algorithm%20for%20Solving%20Problems.docx&action=default
+[Algorithm for Solving Problems]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx&raw=true
 [AP CS 2012 Section II]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%209/AP%20CS%202012%20Section%20II.zip
 [Bellevue Mastery Tests]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%209/Bellevue%20Mastery%20Tests.zip
 [DeMorgan’s Law]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b42DF07DE-09B4-4631-93F9-672C02BF6A74%7d&file=DeMorgan%27s%20Law.pptx&action=default
@@ -1560,10 +1560,10 @@ self-contained website with lessons, labs and other supporting resources:
 [Test 2 Guide]: Unit3/Test-2-Guide.md
 [Test 5 Guide]: Unit6/Test-5-Guide.md
 [Test 6 Guide]: Unit7/Test-6-Guide.md
-[Text Excel Student Guide A]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Text%20Excel%20A%20Student%20Guide.docx
-[Text Excel Student Guide B]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Text%20Excel%20B%20Student%20Guide.docx
-[Text Excel Student Guide C]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Text%20Excel%20C%20Student%20Guide.docx
-[Text Excel Teacher Guide]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Text%20Excel%20Teacher%20Guide.docx
+[Text Excel Student Guide A]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Text%20Excel%20A%20Student%20Guide.docx&raw=true
+[Text Excel Student Guide B]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Text%20Excel%20B%20Student%20Guide.docx&raw=true
+[Text Excel Student Guide C]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Text%20Excel%20C%20Student%20Guide.docx&raw=true
+[Text Excel Teacher Guide]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Text%20Excel%20Teacher%20Guide.docx&raw=true
 [Unit 1 Slides]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/Unit1.pptx?raw=true
 [Unit 1 Word Bank]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/Unit%201%20Word%20Bank.docx&raw=true
 [Unit 2 Slides]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/Unit2.pptx?raw=true
