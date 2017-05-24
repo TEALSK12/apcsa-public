@@ -289,10 +289,10 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 | [3.02] |Limitations of Parameters & Multiple Parameters|(Art project)|"3.1 “Overloading Methods”, 3.2 ""Methods That Return Values"""|Jazz up art project and program |
 | [3.03] |Return Values|Practice-It SC 3.14 - 3.16||SC 3.17, E 3.1 |
 | [3.04] |Programming Project|[WS 3.4]<br>[Equestria]|3.3 up to “Interactive Programs and Scanner Objects”|SC 3.18, 3.19 |
-| [3.05] |Using Objects & String Processing|[WS 3.5]|3.3 “Interactive programming” and “Sample interactive program”|SC 3.19-3.21 |​​
+| [3.05] |Using Objects & String Processing|[WS 3.5]|3.3 “Interactive programming” and “Sample interactive program”|SC 3.19-3.21 |
 | [3.06] |Interactive Programs & Scanner Objects|Practice-It SC 3.24 - 3.26; E 3.12, 3.14, 3.15||Outline ch 3 (omit 3.4) |
 | [3.07] |Pokémon Battle Programming Project|[WS 3.7]<br>LP Battle||Summarize notes since last exam |
-| [3.08] |Finding & Fixing Errors|Fix HW<br>webmaker.org|4.1 up to “nested if else statements”|SC 4.1-4.4 |​
+| [3.08] |Finding & Fixing Errors|Fix HW<br>webmaker.org|4.1 up to “nested if else statements”|SC 4.1-4.4 |
 | [3.09] |Relational Operators & if/else|[Operator Precedence]<br>Grudgeball|4.1 “Nested if/else” and “Flow of control”|SC 4.7-4.9; E 4.1-4.2 |
 | [3.10] |Nested if/else Statements|[WS 3.10] Teach mini-lessons] Practice-It SC 4.5, 4.6, E 4.3|4.1, “Factoring if/else statements” and “Testing multiple conditions”|E 4.4, 4.5 | 
 | [3.11] |Reducing Redundancy|(Refactoring com petition)|Read 4.2|Outline ch 4 (omit 4.4, 4.5) |
@@ -300,12 +300,12 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 | [3.13] |while Loops|Practice-It SC 5.1 - 5.4, E 5.2<br>[WS 3.13]|5.1 ”Random numbers”|E 5.2 |
 | [3.14] |Random Numbers|Practice-It SC 5.5-5.7; E 5.4, 5.5|5.2|PP 5.1 |
 | [3.15] |Fencepost & Sentinel Loops|[WS 3.15] Teach mini-lessons|5.3|E 5.6, 5.8 |
-| [3.16]01 |Boolean Logic|Practice-It SC 5.27, 5.29<br>[WS 3.16] (RPS, Pig)<br>[DeMorgan’s Law]<BR>[Poster 3.16.1]<BR>[Poster 3.16.2]​||Outline ch 5 (through 5.3) |
+| [3.16]01 |Boolean Logic|Practice-It SC 5.27, 5.29<br>[WS 3.16] (RPS, Pig)<br>[DeMorgan’s Law]<BR>[Poster 3.16.1]<BR>[Poster 3.16.2]||Outline ch 5 (through 5.3) |
 | [3.16]02 |Boolean Logic (Day 2)||| |
 | [3.17] |Finding & Fixing Errors|(Fix HW)|Review ch 3-5|Submit questions for review |
 | [3.18] |Review|(Review questions), [WS 3.18] practice test||Study |
-| 3.99 |Unit 3 test|[Test 2 Guide]<br>Test 2 Section I<br>Test 2 Section II|​| |​
-| 3.XX |Project: Frac Calc​|[Frac Calc Student Guide]<br>[Frac Calc Teacher Guide]|| |
+| 3.99 |Unit 3 test|[Test 2 Guide]<br>Test 2 Section I<br>Test 2 Section II|| |
+| 3.XX |Project: Frac Calc|[Frac Calc Student Guide]<br>[Frac Calc Teacher Guide]|| |
 
 ### 3.00
 | [Lesson 3.00]   | _Test Review & Reteach_
