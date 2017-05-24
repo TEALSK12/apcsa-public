@@ -144,7 +144,7 @@ For advanced students, invite them to write algorithms for other activities, suc
 school on time.
 
 
-Teacher Prior CS Knowledge 
+Teacher Prior CS Knowledge
 ---------------------------
 - Algorithms are one of the fundamental concepts in computer science. Algorithms are fundamental to
   solving problems in computer science.
@@ -193,3 +193,7 @@ they are not synonymous. Humans have been using algorithms to solve problems way
 ever existed. The invention of the computer created a platform for algorithms created that could be
 carried out by a machine. So a computer program is a tool used by people to expresses algorithms
 that can be executed by a computer.
+
+Forum discussion
+---------------------------
+[Lesson 1.02 Forum](http://tealsk12.trydiscourse.com/c/ap-cs-a-unit-1/1-02-algorithms-computational-thinking)
