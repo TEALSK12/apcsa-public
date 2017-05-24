@@ -45,7 +45,7 @@ Unit 1: Programming & Java (2 weeks)
 | [1.07] | _Programming Project_                   | PP 1.2, 1.5 | | Note check (add summaries if needed) |
 | [1.08] | _Finding & Fixing Errors_               | Fix homework | Review ch 1 | Submit questions for review |
 | [1.09] | _Review_                                | Review questions<br>[WS 1.9]<br>Practice test | | Study |
-| [1.99] | _Unit 1 Test_                           | [Test 0 Section I]<br>[Test 0 Section II] | | |
+| [1.99] | _Unit 1 Test_                           | Test 0 Section I<br>Test 0 Section II | | |
 
 ### 1.01
 | [Lesson 1.01]   | _Using Eclipse & Practice-It_
@@ -131,7 +131,7 @@ Unit 1: Programming & Java (2 weeks)
 ### 1.99
 | Unit 1 Test     | _Programming & Java_
 |:----------------|:--------------------
-| **In Class**    | [Test 0 Section I]<br>[Test 0 Section II]
+| **In Class**    | Test 0 Section I<br>Test 0 Section II
 
 
 
@@ -157,7 +157,7 @@ Unit 2: Working with Data & Basic Control Flow (3 weeks)
 | [2.09] | Programming Project	                 | Complete PP 2.4 | | \[_TBD practice question_\] |
 | [2.10] | Finding & Fixing Errors	             | Fix HW	       | Review ch 2 (omit 2.5)	| Submit questions for review |
 | [2.11] | Review	(Review questions)             | [WS 2.11]<br>practice test |	| Study |
-| [2.99] | (Unit 2 Test) | [Test 1 Section I]<br>[Test 1 Section II] | | |
+| [2.99] | (Unit 2 Test) | Test 1 Section I<br>Test 1 Section II | | |
 
 ### 2.00
 | [Lesson 2.00]   | _Test Review & Reteach_
@@ -270,7 +270,7 @@ Unit 2: Working with Data & Basic Control Flow (3 weeks)
 ### 2.99
 | Unit 2 Test     | _Working with Data & Basic Control Flow_
 |:----------------|:----------------------------------------
-| **In Class**    | [Test 1 Section I]<br>[Test 1 Section II]
+| **In Class**    | Test 1 Section I<br>Test 1 Section II
 
 
 
@@ -304,7 +304,7 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 | [3.16]02 |Boolean Logic (Day 2)||| |
 | [3.17] |Finding & Fixing Errors|(Fix HW)|Review ch 3-5|Submit questions for review |
 | [3.18] |Review|(Review questions), [WS 3.18] practice test||Study |
-| 3.99 |Unit 3 test|[Test 2 Guide]<br>[Test 2 Section I]<br>[Test 2 Section II]|​| |​
+| 3.99 |Unit 3 test|[Test 2 Guide]<br>Test 2 Section I<br>Test 2 Section II|​| |​
 | 3.XX |Project: Frac Calc​|[Frac Calc Student Guide]<br>[Frac Calc Teacher Guide]|| |
 
 ### 3.00
@@ -486,7 +486,7 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 | Unit 3 Test     | _Advanced Data & Control Flow_
 |:----------------|:------------------------------
 | **Guide**       | [Test 2 Guide]
-| **In Class**    | [Test 2 Section I]<br>[Test 2 Section II]
+| **In Class**    | Test 2 Section I<br>Test 2 Section II
 
 ### 3.XX
 | Unit 3 Project  | _Frac Calc_
@@ -521,7 +521,7 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 | [4.09] 04|Magpie Lab (day 4)|[Magpie Chatbot Lab] Activity 4||Check and correct Barrons ch.6 questions
 | [4.09] 05|Magpie Lab (day 5)|[Magpie Chatbot Lab] Activity 5||Check and correct Barrons ch.6 questions
 | [4.10] |Review|Review questions [WS 4.10] practice test||Study
-| 4.99 |Unit 4 test|[Test 3 Section I]<br>[Test 3 Section II]||
+| 4.99 |Unit 4 test|Test 3 Section I<br>Test 3 Section II||
 
 ### 4.00
 | [Lesson 4.00]   | _Test Review & Reteach_
@@ -670,7 +670,7 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 ### 4.99
 | Unit 4 Test     | _Arrays, Lists & Files_
 |:----------------|:-----------------------
-| **In Class**    | [Test 3 Section I]<br>[Test 3 Section II]
+| **In Class**    | Test 3 Section I<br>Test 3 Section II
 
 
 
@@ -700,7 +700,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 | [5.06] 08|Picture Lab (day 8)|[Picture Lab] Activity 9||Cont. Picture Lab Activity 9
 | [5.06] 09|Picture Lab (day 9)|[Picture Lab] Activity 9, cont.||Submit questions for review
 | [5.07] |Review|Review question<br>[WS 5.7] Test practice||Study
-5.99|(Unit 5 test)|[Test 4 Section I]<br>[Test 4 Section II]||
+5.99|(Unit 5 test)|Test 4 Section I<br>Test 4 Section II||
 
 ### 5.00
 | [Lesson 5.00]   | _Test Review & Reteach_
@@ -849,7 +849,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 ### 5.99
 | Unit 5 Test     | _Object Oriented Programming_
 |:----------------|:-----------------------------
-| **In Class**    | [Test 4 Section I]<br>[Test 4 Section II]
+| **In Class**    | Test 4 Section I<br>Test 4 Section II
 
 
 
@@ -878,7 +878,7 @@ Unit 6: Inheritance & Polymorphism (4 weeks)
 | [6.07] 05|Programming project (day 5)|Barrons ch 3 exam, outline checks|Review ch 9|Submit questions for review
 | [6.08] |Finding & Fixing Errors|(Fix HW)|Review ch 9|Submit questions for review
 | [6.09] |Review|Review questions<br>[WS 6.5] Test practice||Study
-| 6.99 |Unit 6 test|[Test 5 Guide]<br>[Test 5 Section I]<br>[Test 5 Section II]||
+| 6.99 |Unit 6 test|[Test 5 Guide]<br>Test 5 Section I<br>Test 5 Section II||
 | 6.XX |Project: Text Excel|[Text Excel Student Guide A]<br>[Text Excel Student Guide B]<br>[Text Excel Student Guide C]<br>[Text Excel Teacher Guide]||
 
 ### 6.00
@@ -1020,7 +1020,7 @@ Unit 6: Inheritance & Polymorphism (4 weeks)
 | Unit 6 Test     | _Inheritance and Polymorphism_
 |:----------------|:------------------------------
 | **Guide**       | [Test 5 Guide]
-| **In Class**    | [Test 5 Section I]<br>[Test 5 Section II]
+| **In Class**    | Test 5 Section I<br>Test 5 Section II
 
 ### 6.XX
 | Unit 6 Project  | _Text Excel_
@@ -1059,7 +1059,7 @@ Unit 7: Searching & Sorting (3 weeks)
 | [7.03] 15|Elevens lab (day 15)| [Elevens Lab] Activity 11 (begin)||
 | [7.03] 16|Elevens lab (day 16)| [Elevens Lab] Activity 11 (end)||
 | [7.04|Review|Review questions||Study
-| [7.99|Unit 7 test|[Test 6 Guide]<br>[Test 6 Section I]<br>[Test 6 Section II]||
+| [7.99|Unit 7 test|[Test 6 Guide]<br>Test 6 Section I<br>Test 6 Section II||
 
 ### 7.00
 | [Lesson 7.00]   | _Test Review & Reteach_
@@ -1245,7 +1245,7 @@ Unit 7: Searching & Sorting (3 weeks)
 | Unit 7 Test     | _Searching & Sorting_
 |:----------------|:---------------------
 | **Guide**       | [Test 6 Guide]
-| **In Class**    | [Test 6 Section I]<br>[Test 6 Section II]
+| **In Class**    | Test 6 Section I<br>Test 6 Section II
 
 
 
@@ -1561,23 +1561,9 @@ self-contained website with lessons, labs and other supporting resources:
 [Quiz 8.5]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b8D2844A6-0421-4F92-9FA9-9A0EEB838DA4%7d&file=Quiz%208.5.docx&action=default
 [Teach mini-lessons]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bE3A7E8D8-492C-46C1-A221-9B4B845942D2%7d&file=WS%203.10.docx&action=default
 [Teacher Demo 8.3]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b7C3B469F-170C-479D-94CB-D0A87DB89E2A%7d&file=Teacher%20Demo%208.3.docx&action=default
-[Test 0 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b0A82C5C7-9036-4EA6-A159-7F4FB8A9552B%7d&file=AP%20CS%20Test%200%20Section%20I.docx&action=default
-[Test 0 Section II]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bE617EA03-A599-442C-8FE5-2C4EDB4F2489%7d&file=AP%20CS%20Test%200%20Section%20II.docx&action=default
-[Test 1 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bCA5899B7-C1B7-49AC-8E67-C7FBF9771E3B%7d&file=AP%20CS%20Test%201%20Section%20I.docx&action=default
-[Test 1 Section II]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b4BFA4783-DD0D-45E6-9C9F-7EABBC6DEF03%7d&file=AP%20CS%20Test%201%20Section%20II.docx&action=default
 [Test 2 Guide]: Unit3/Test-2-Guide.md
-[Test 2 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bEF5A5AAC-4337-47D5-9274-DE8EFA269903%7d&file=AP%20CS%20Test%202%20Section%20I.docx&action=default
-[Test 2 Section II]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bD20B2474-96B9-47AC-8353-0EBF6DB561B8%7d&file=AP%20CS%20Test%202%20Section%20II.docx&action=default
-[Test 3 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b1A02C4F7-7A51-46C1-8DBB-4DA5226D0BAE%7d&file=AP%20CS%20Test%203%20Section%20I.docx&action=default
-[Test 3 Section II]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bB5649A60-7321-4D61-A65D-37DA8925856F%7d&file=AP%20CS%20Test%203%20Section%20II.docx&action=default
-[Test 4 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bEE153CCB-800A-4B47-A518-C0C164F61C31%7d&file=AP%20CS%20Test%204%20Section%20I.docx&action=default
-[Test 4 Section II]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bFCD2F052-748C-4F1E-A33B-2B50EE36A8BA%7d&file=AP%20CS%20Test%204%20Section%20II.docx&action=default
 [Test 5 Guide]: Unit6/Test-5-Guide.md
-[Test 5 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bC9BB20A4-E49E-4DE3-8833-8EE6BA0E1A5A%7d&file=AP%20CS%20Test%205%20Section%20I.docx&action=default
-[Test 5 Section II]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%206/AP%20CS%20Test%205%20Section%20II.docx
 [Test 6 Guide]: Unit7/Test-6-Guide.md
-[Test 6 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b4A734B63-4C9C-45CC-8985-D4BE41FFC245%7d&file=AP%20CS%20Test%206%20Section%20I.docx&action=default
-[Test 6 Section II]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b354B9E26-6A94-4B32-9275-FE660D9647FA%7d&file=AP%20CS%20Test%206%20-%20Section%20II.docx&action=default
 [Text Excel Student Guide A]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%206/Text%20Excel%20A%20Student%20Guide.docx
 [Text Excel Student Guide B]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%206/Text%20Excel%20B%20Student%20Guide.docx
 [Text Excel Student Guide C]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%206/Text%20Excel%20C%20Student%20Guide.docx
