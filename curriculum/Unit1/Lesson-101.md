@@ -161,4 +161,4 @@ independent apps meaning a program written in Java will run across a variety of 
 
 Forum discussion
 ---------------------------
-[Lesson 1.01 Using Eclipse Practice-it](http://tealsk12.trydiscourse.com/c/ap-cs-a-unit-1/1-01-using-eclipse-practice-it)
+[Lesson 1.01 Using Eclipse & Practice-it](http://tealsk12.trydiscourse.com/c/ap-cs-a-unit-1/1-01-using-eclipse-practice-it)
