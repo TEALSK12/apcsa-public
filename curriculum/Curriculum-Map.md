@@ -296,7 +296,7 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 | [3.09] |Relational Operators & if/else|[Operator Precedence]<br>Grudgeball|4.1 “Nested if/else” and “Flow of control”|SC 4.7-4.9; E 4.1-4.2 |
 | [3.10] |Nested if/else Statements|[WS 3.10] Teach mini-lessons] Practice-It SC 4.5, 4.6, E 4.3|4.1, “Factoring if/else statements” and “Testing multiple conditions”|E 4.4, 4.5 | 
 | [3.11] |Reducing Redundancy|(Refactoring com petition)|Read 4.2|Outline ch 4 (omit 4.4, 4.5) |
-| [3.12] |Cumulative Algorithms|Tally code on board,[Collaborative Programming Exercise]|5.1 skip “do/while loops”|PP 4.2 |
+| [3.12] |Cumulative Algorithms|Tally code on board,Collaborative Programming Exercise [WS 3.12]|5.1 skip “do/while loops”|PP 4.2 |
 | [3.13] |while Loops|Practice-It SC 5.1 - 5.4, E 5.2<br>[WS 3.13]|5.1 ”Random numbers”|E 5.2 |
 | [3.14] |Random Numbers|Practice-It SC 5.5-5.7; E 5.4, 5.5|5.2|PP 5.1 |
 | [3.15] |Fencepost & Sentinel Loops|[WS 3.15] Teach mini-lessons|5.3|E 5.6, 5.8 |
@@ -420,7 +420,7 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 |:----------------|:-----------------------
 | **Objectives**  | Students will find and correct syntax errors in conditional cumulative algorithms.
 | **Assessments** | Students will write, modify, and correct programs written by others.
-| **In Class**    | Tally code on board<br>[Collaborative Programming Exercise]
+| **In Class**    | Tally code on board<br>Collaborative Programming Exercise [WS 3.12]
 | **Reading**     | 5.1 (skip “_Do/While Loops_”)
 | **Homework**    | PP 4.2
 
@@ -1374,7 +1374,6 @@ self-contained website with lessons, labs and other supporting resources:
 
 [AP CS 2012 Section II]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%209/AP%20CS%202012%20Section%20II.zip
 [Bellevue Mastery Tests]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%209/Bellevue%20Mastery%20Tests.zip
-[Collaborative Programming Exercise]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b5EB98E63-B7BF-4C57-AF18-8349E7F66E3C%7d&file=WS%203.12.docx&action=default
 [DeMorgan’s Law]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b42DF07DE-09B4-4631-93F9-672C02BF6A74%7d&file=DeMorgan%27s%20Law.pptx&action=default
 [Eclipse Magpie Archive]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%204/EclipseMagpieLab.zip
 [Eclipse Picture Lab Archive]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%205/EclipsePictureLab.zip
@@ -1604,12 +1603,14 @@ self-contained website with lessons, labs and other supporting resources:
 [WS 1.1.2]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/WS%201.1.2.docx?raw=true
 [WS 1.4]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/WS%201.4.docx?raw=true
 [WS 1.9]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/WS%201.9.docx?raw=true
-[WS 2.11]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.11.docx?raw=true
 [WS 2.1]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.1.docx?raw=true
 [WS 2.2]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.2.docx?raw=true
 [WS 2.4]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.4.docx?raw=true
 [WS 2.5]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.5.docx?raw=true
 [WS 2.7]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.7.docx?raw=true
+[WS 2.11]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.11.docx?raw=true
+[WS 3.10]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.10.docx?raw=true
+[WS 3.12]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.12.docx?raw=true
 [WS 3.13]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.13.docx?raw=true
 [WS 3.15]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.15.docx?raw=true
 [WS 3.16]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.16.docx?raw=true
@@ -1617,12 +1618,12 @@ self-contained website with lessons, labs and other supporting resources:
 [WS 3.4]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.4.docx?raw=true
 [WS 3.5]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.5.docx?raw=true
 [WS 3.7]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.7.docx?raw=true
-[WS 4.10]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.10.docx?raw=true
 [WS 4.1]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.1.docx?raw=true
 [WS 4.2]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.2.docx?raw=true
 [WS 4.3]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.3.docx?raw=true
 [WS 4.4]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.4.docx?raw=true
 [WS 4.6]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.6.docx?raw=true
+[WS 4.10]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.10.docx?raw=true
 [WS 5.1.1]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/WS%205.1.1.pdf?raw=true
 [WS 5.2]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/WS%205.2.docx?raw=true
 [WS 5.3.1]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/WS%205.3.1.docx?raw=true
