@@ -19,6 +19,13 @@ for and tested in classrooms with diverse learners; students with individualized
 English language learners, students who have received sub-optimal math or language instruction in
 the past, students who are gifted/talented, students who are otherwise “outside the average.”
 
+Accessing the Curriculum
+------------------------
+
+The AP Computer Science A Curriculum GitBook is located at [https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details](https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details)
+
+For contributions to the curriculum, the AP Computer Science A GitHub repository is located at [https://github.com/TEALSK12/apcsa](https://github.com/TEALSK12/apcsa)
+
 Using the curriculum
 --------------------
 
