@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (optional)
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 3.12
+- **Classroom copies** of [WS 3.12]
 - **Plastic binder sleeves** (1 per student)
 
 
@@ -240,3 +240,6 @@ Video
 
 - CSE 142, _Cumulative Sum_ (23:07-38:40)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c247411-e890-4835-8a79-bee6e74066c2&start=1387>
+  
+[WS 3.12]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.12.docx
+
