@@ -22,7 +22,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **White paper** **and** **markers**
-- **Poster** 6.6
+- **In Class** [Poster 6.6]
 - **Small group assignments** (≈4 people per group)
 
 
@@ -205,3 +205,6 @@ Video
 
 - CSE 143, _Interfaces_ (note: uses ArrayIntList written in class as an example) (3:43–26:35)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=696d623a-dca4-4b64-bdfd-71d49fc9b47d&start=223>
+  
+[Poster 6.6]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Poster%206.6.pptx
+
