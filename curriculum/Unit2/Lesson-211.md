@@ -18,7 +18,7 @@ Materials & Prep
 - **Projector and computer**
 - **Whiteboard and marker**
 - **Results** from electronic survey of review topics
-- **Classroom copies** of the practice test (WS 2.10)
+- **Classroom copies** of the practice test [WS 2.11]
 
 Once students have submitted their review requests, assemble those topics into categories and
 prepare to re-teach the topics as needed.
@@ -92,3 +92,5 @@ because (1) grading the questions is easier, since logic and syntax errors are e
 
 If your students are easily completing the programming projects in the week leading to the test, you
 may want to edit the test by deleting the “fill in the blanks” and leaving empty space.
+
+[WS 2.11]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.11.docx
