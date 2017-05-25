@@ -18,7 +18,7 @@ Materials & Prep
 - **Projector and computer**
 - **Whiteboard and marker**
 - **Results** from electronic survey of review topics
-- **Classroom copies** of the practice test (WS 1.9)
+- **Classroom copies** of the practice test [WS 1.9]
 
 Once students have submitted their review requests, assemble those topics into categories and
 prepare to re-teach the topics as needed.
@@ -93,3 +93,5 @@ because (1) grading the questions is easier, since logic and syntax errors are e
 Teaching Tips
 -------------
 Tips for Assessment: <http://csteachingtips.org/tips-for-assessing-programming>
+
+[WS 1.9]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.9.docx
