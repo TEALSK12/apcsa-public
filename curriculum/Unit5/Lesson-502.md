@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 5.2
+- **Classroom copies** of [WS 5.2]
 
 You should read the introduction on the Bulbepedia website so you understand the main ideas behind
 the Pokémon game. If you search YouTube, you can find recorded games to see how a Pokémon battle
@@ -284,3 +284,5 @@ Videos
 
 - CSE 142, _Object methods_ (45:32–49:41)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2071ef1c-2912-4b41-8052-d327180ea215&start=2732>
+
+[WS 5.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.2.docx
