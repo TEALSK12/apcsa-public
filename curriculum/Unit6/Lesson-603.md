@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 6.3
+- **Classroom copies** of [WS 6.3], [Poster 6.3]
 - **Poster 6.3**
 - **Empty & washed, or non-refrigerated, drink bottles**, with labels affixed (**optional**)
 
@@ -164,3 +164,7 @@ Video
 
 - CSE 143, _Interacting walkthrough_ (30:40–40:10)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed2ec8fa-511a-43fe-9c51-7929dc4f10d8&start=1840>
+
+[WS 6.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.3.docx
+[Poster 6.3]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Poster%206.3.pptx
+
