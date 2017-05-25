@@ -18,7 +18,7 @@ Overview
 
 Materials & Prep
 ----------------
-- **Group copies** of WS 4.3
+- **Group copies** of [WS 4.3]
 - **Assignments** for 5 student groups
 - **5 classroom copies** of the textbook (or have students bring their copies to class)
 - **Copies of the grading rubric** (on the overhead or printed out; **optional**)
@@ -229,3 +229,6 @@ Video
 
 - CSE 142, _Random Access to Array_ (33:26-42:00)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=14058dec-efd5-4db3-b841-9d836e92bfb4&start=2006>
+  
+[WS 4.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.3.docx
+
