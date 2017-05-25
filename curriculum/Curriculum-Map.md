@@ -1371,9 +1371,9 @@ self-contained website with lessons, labs and other supporting resources:
 
 
 
-[Algorithm for Solving Problems]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx&raw=true
-[DeMorgan’s Law]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx&raw=true
-[Equestria]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/Map%20of%20Equestria.pptx&raw=true
+[Algorithm for Solving Problems]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx
+[DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
+[Equestria]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Map%20of%20Equestria.pptx
 [Example 6.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Example%206.1.jpg
 [Frac Calc Student Guide]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Frac%20Calc%20Student%20Guide.docx
 [Frac Calc Teacher Guide]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Frac%20Calc%20Teacher%20Guide.docx
@@ -1543,76 +1543,76 @@ self-contained website with lessons, labs and other supporting resources:
 [8.07]: Unit8/Lesson-807.md
 [Lesson 9.00]: Unit9/Lesson-900.md
 [9.00]: Unit9/Lesson-900.md
-[Operator Precedence]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/Operator%20Precedence.pptx&raw=true
-[Poster 2.4]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/Poster%202.4.docx&raw=true
-[Poster 3.16.1]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/Poster%203.16.1.pdf&raw=true
-[Poster 3.16.2]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/Poster%203.16.2.pdf&raw=true
-[Poster 4.1]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/Poster%204.1.pdf&raw=true
-[Poster 4.2]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/Poster%204.2.pdf&raw=true
-[Poster 4.7]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/Poster%204.7.pptx&raw=true
-[Poster 6.3]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Poster%206.3.pptx&raw=true
-[Poster 6.6]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Poster%206.6.pptx&raw=true
+[Operator Precedence]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Operator%20Precedence.pptx
+[Poster 2.4]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/Poster%202.4.docx
+[Poster 3.16.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Poster%203.16.1.pdf
+[Poster 3.16.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Poster%203.16.2.pdf
+[Poster 4.1]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Poster%204.1.pdf
+[Poster 4.2]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Poster%204.2.pdf
+[Poster 4.7]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Poster%204.7.pptx
+[Poster 6.3]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Poster%206.3.pptx
+[Poster 6.6]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Poster%206.6.pptx
 [Quiz 8.5]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit8/Quiz%208.5.docx
 [Teacher Demo 8.3]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit8/Teacher%20Demo%208.3.docx
 [Test 2 Guide]: Unit3/Test-2-Guide.md
 [Test 5 Guide]: Unit6/Test-5-Guide.md
 [Test 6 Guide]: Unit7/Test-6-Guide.md
-[Text Excel Student Guide A]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Text%20Excel%20A%20Student%20Guide.docx&raw=true
-[Text Excel Student Guide B]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Text%20Excel%20B%20Student%20Guide.docx&raw=true
-[Text Excel Student Guide C]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Text%20Excel%20C%20Student%20Guide.docx&raw=true
-[Text Excel Teacher Guide]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Text%20Excel%20Teacher%20Guide.docx&raw=true
-[Unit 1 Slides]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/Unit1.pptx?raw=true
-[Unit 1 Word Bank]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/Unit%201%20Word%20Bank.docx&raw=true
-[Unit 2 Slides]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/Unit2.pptx?raw=true
-[Unit 2 Word Bank]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/Unit%202%20Word%20Bank.docx&raw=true
-[Unit 3 Slides]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/Unit3.pptx?raw=true
-[Unit 3 Word Bank]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/Unit%302%20Word%20Bank.docx&raw=true
-[Unit 4 Slides]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/Unit4.pptx?raw=true
-[Unit 4 Word Bank]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/Unit%402%20Word%20Bank.docx&raw=true
-[Unit 5 Slides]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/Unit5.pptx?raw=true
-[Unit 5 Word Bank]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/Unit%502%20Word%20Bank.docx&raw=true
-[Unit 6 Slides]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Unit6.pptx?raw=true
-[Unit 6 Word Bank]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Unit%602%20Word%20Bank.docx&raw=true
-[Unit 7 Slides]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit7/Unit7.pptx?raw=true
-[Unit 7 Word Bank]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit7/Unit%702%20Word%20Bank.docx&raw=true
-[Unit 8 Slides]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit8/Unit8.pptx?raw=true
-[Unit 8 Word Bank]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit8/Unit%802%20Word%20Bank.docx&raw=true
-[WS 1.1.1]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/WS%201.1.1.docx?raw=true
-[WS 1.1.2]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/WS%201.1.2.docx?raw=true
-[WS 1.4]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/WS%201.4.docx?raw=true
-[WS 1.9]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit1/WS%201.9.docx?raw=true
-[WS 2.1]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.1.docx?raw=true
-[WS 2.2]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.2.docx?raw=true
-[WS 2.4]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.4.docx?raw=true
-[WS 2.5]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.5.docx?raw=true
-[WS 2.7]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.7.docx?raw=true
-[WS 2.11]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/WS%202.11.docx?raw=true
-[WS 3.10]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.10.docx?raw=true
-[WS 3.12]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.12.docx?raw=true
-[WS 3.13]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.13.docx?raw=true
-[WS 3.15]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.15.docx?raw=true
-[WS 3.16]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.16.docx?raw=true
-[WS 3.18]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.18.docx?raw=true
-[WS 3.4]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.4.docx?raw=true
-[WS 3.5]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.5.docx?raw=true
-[WS 3.7]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/WS%203.7.docx?raw=true
-[WS 4.1]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.1.docx?raw=true
-[WS 4.2]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.2.docx?raw=true
-[WS 4.3]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.3.docx?raw=true
-[WS 4.4]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.4.docx?raw=true
-[WS 4.6]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.6.docx?raw=true
-[WS 4.10]:  https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/WS%204.10.docx?raw=true
-[WS 5.1.1]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/WS%205.1.1.pdf?raw=true
-[WS 5.2]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/WS%205.2.docx?raw=true
-[WS 5.3.1]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/WS%205.3.1.docx?raw=true
-[WS 5.3.2]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/WS%205.3.2.docx?raw=true
-[WS 5.4]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/WS%205.4.docx?raw=true
-[WS 5.7]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit5/WS%205.7.docx?raw=true
-[WS 6.1]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/WS%206.1.docx?raw=true
-[WS 6.2]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/WS%206.2.docx?raw=true
-[WS 6.3]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/WS%206.3.docx?raw=true
-[WS 6.4.1]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/WS%206.4.1.docx?raw=true
-[WS 6.4.2]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/WS%206.4.2.docx?raw=true
-[WS 6.5]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/WS%206.5.docx?raw=true
-[WS 7.1]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit7/WS%207.1.docx?raw=true
-[WS 8.3]:   https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit8/WS%208.3.docx?raw=true
+[Text Excel Student Guide A]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Text%20Excel%20A%20Student%20Guide.docx
+[Text Excel Student Guide B]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Text%20Excel%20B%20Student%20Guide.docx
+[Text Excel Student Guide C]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Text%20Excel%20C%20Student%20Guide.docx
+[Text Excel Teacher Guide]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Text%20Excel%20Teacher%20Guide.docx
+[Unit 1 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/Unit1.pptx
+[Unit 1 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/Unit%201%20Word%20Bank.docx
+[Unit 2 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/Unit2.pptx
+[Unit 2 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/Unit%202%20Word%20Bank.docx
+[Unit 3 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Unit3.pptx
+[Unit 3 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Unit%302%20Word%20Bank.docx
+[Unit 4 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Unit4.pptx
+[Unit 4 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Unit%402%20Word%20Bank.docx
+[Unit 5 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/Unit5.pptx
+[Unit 5 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/Unit%502%20Word%20Bank.docx
+[Unit 6 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Unit6.pptx
+[Unit 6 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Unit%602%20Word%20Bank.docx
+[Unit 7 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit7/Unit7.pptx
+[Unit 7 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit7/Unit%702%20Word%20Bank.docx
+[Unit 8 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit8/Unit8.pptx
+[Unit 8 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit8/Unit%802%20Word%20Bank.docx
+[WS 1.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.1.1.docx
+[WS 1.1.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.1.2.docx
+[WS 1.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.4.docx
+[WS 1.9]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.9.docx
+[WS 2.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.1.docx
+[WS 2.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.2.docx
+[WS 2.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.4.docx
+[WS 2.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.5.docx
+[WS 2.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.7.docx
+[WS 2.11]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.11.docx
+[WS 3.10]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.10.docx
+[WS 3.12]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.12.docx
+[WS 3.13]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.13.docx
+[WS 3.15]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.15.docx
+[WS 3.16]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.16.docx
+[WS 3.18]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.18.docx
+[WS 3.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.4.docx
+[WS 3.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.5.docx
+[WS 3.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.7.docx
+[WS 4.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.1.docx
+[WS 4.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.2.docx
+[WS 4.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.3.docx
+[WS 4.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.4.docx
+[WS 4.6]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.6.docx
+[WS 4.10]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.10.docx
+[WS 5.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.1.1.pdf
+[WS 5.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.2.docx
+[WS 5.3.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.3.1.docx
+[WS 5.3.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.3.2.docx
+[WS 5.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.4.docx
+[WS 5.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.7.docx
+[WS 6.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.1.docx
+[WS 6.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.2.docx
+[WS 6.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.3.docx
+[WS 6.4.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.4.1.docx
+[WS 6.4.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.4.2.docx
+[WS 6.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.5.docx
+[WS 7.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit7/WS%207.1.docx
+[WS 8.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit8/WS%208.3.docx
