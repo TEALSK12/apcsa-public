@@ -1,6 +1,5 @@
 AP CS A Curriculum Map
 ====================================================================================================
-
 The following curriculum map is a day-by-day listing of the AP Computer Science course in
 chronological order. Each row represents one day of class, based on a medium-paced class. Readings
 from the textbook and homework assignments are included on the day when they should be assigned.
@@ -294,7 +293,7 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 | [3.07] |Pokémon Battle Programming Project|[WS 3.7]<br>LP Battle||Summarize notes since last exam |
 | [3.08] |Finding & Fixing Errors|Fix HW<br>webmaker.org|4.1 up to “nested if else statements”|SC 4.1-4.4 |
 | [3.09] |Relational Operators & if/else|[Operator Precedence]<br>Grudgeball|4.1 “Nested if/else” and “Flow of control”|SC 4.7-4.9; E 4.1-4.2 |
-| [3.10] |Nested if/else Statements|[WS 3.10] Teach mini-lessons] Practice-It SC 4.5, 4.6, E 4.3|4.1, “Factoring if/else statements” and “Testing multiple conditions”|E 4.4, 4.5 | 
+| [3.10] |Nested if/else Statements|[WS 3.10] Teach mini-lessons<br>Practice-It SC 4.5, 4.6, E 4.3|4.1, “Factoring if/else statements” and “Testing multiple conditions”|E 4.4, 4.5 | 
 | [3.11] |Reducing Redundancy|(Refactoring com petition)|Read 4.2|Outline ch 4 (omit 4.4, 4.5) |
 | [3.12] |Cumulative Algorithms|Tally code on board,Collaborative Programming Exercise [WS 3.12]|5.1 skip “do/while loops”|PP 4.2 |
 | [3.13] |while Loops|Practice-It SC 5.1 - 5.4, E 5.2<br>[WS 3.13]|5.1 ”Random numbers”|E 5.2 |
@@ -1262,7 +1261,7 @@ Unit 8: Recursion (2 weeks)
 | [8.00] |Test Review & Reteach|Review test|12.1 up to “Structure of recursive solutions”|Test corrections
 | [8.01] |Thinking Recursively|Tower of Hanoi game|Rest of 12.1|
 | [8.02] |Writing Recursive Solutions|Grudgeball<br>SC 12.1 - 12.4|12.2|SC 12.5, 12.7-12.9, E 12.1
-| [8.03] |Mechanics of Recursion|[WS 8.3]<br>[Demo 8.3]|13.4?|SC 12.6, 12.10, E 12.3
+| [8.03] |Mechanics of Recursion|[WS 8.3]<br>[Teacher Demo 8.3]|13.4?|SC 12.6, 12.10, E 12.3
 | [8.04] |MergeSort|Implement mergeSort||SC 13.27-13.30<br>Notebook Check
 | [8.05] |Finding & Fixing Errors|Fix HW|Review ch 12.1, 12.2|Submit questions for review
 | [8.06] |Review & Quiz?|[Quiz 8.5]|Barrons ch 7|
@@ -1375,11 +1374,11 @@ self-contained website with lessons, labs and other supporting resources:
 [Algorithm for Solving Problems]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx&raw=true
 [AP CS 2012 Section II]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%209/AP%20CS%202012%20Section%20II.zip
 [Bellevue Mastery Tests]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%209/Bellevue%20Mastery%20Tests.zip
-[DeMorgan’s Law]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b42DF07DE-09B4-4631-93F9-672C02BF6A74%7d&file=DeMorgan%27s%20Law.pptx&action=default
-[Equestria]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b382FB1B0-6623-44FD-8EAE-21F8CD037A8D%7d&file=Map%20of%20Equestria.pptx&action=default
-[Example 6.1]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%206/Example%206.1.jpg
-[Frac Calc Student Guide]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bEF7CBBCD-634A-495F-ACCE-616FDF407E9A%7d&file=Frac%20Calc%20Student%20Guide.docx&action=default
-[Frac Calc Teacher Guide]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b30D8F9EA-8F5D-47D5-B845-3E6D8E0E7F21%7d&file=Frac%20Calc%20Teacher%20Guide.docx&action=default
+[DeMorgan’s Law]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx&raw=true
+[Equestria]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/Map%20of%20Equestria.pptx&raw=true
+[Example 6.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Example%206.1.jpg
+[Frac Calc Student Guide]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Frac%20Calc%20Student%20Guide.docx
+[Frac Calc Teacher Guide]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Frac%20Calc%20Teacher%20Guide.docx
 [Lesson 1.01]: Unit1/Lesson-101.md
 [1.01]: Unit1/Lesson-101.md
 [Lesson 1.02]: Unit1/Lesson-102.md
@@ -1546,17 +1545,17 @@ self-contained website with lessons, labs and other supporting resources:
 [8.07]: Unit8/Lesson-807.md
 [Lesson 9.00]: Unit9/Lesson-900.md
 [9.00]: Unit9/Lesson-900.md
-[Operator Precedence]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b0BABFA36-26A9-43F7-9C5D-FC10B812AB4B%7d&file=Operator%20Precedence.pptx&action=default
-[Poster 2.4]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bF0A818B4-E658-4DD2-A3BB-CF39EDC0E778%7d&file=Poster%202.4.docx&action=default
-[Poster 3.16.1]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%203/Poster%203.16.1.pdf
-[Poster 3.16.2]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%203/Poster%203.16.2.pdf
-[Poster 4.2]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%204/Poster%204.2.pdf
-[Poster 4.7]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b54D2CB87-84D1-434E-AEDC-C66D7CFE245C%7d&file=Poster%204.7.pptx&action=default
-[Poster 6.3]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b9E9DCF3B-1DBD-440E-92D2-11CEC7631A5C%7d&file=Poster%206.3.pptx&action=default
-[Poster 6.6]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b26C78C28-FCDB-4CC5-8F79-FE82EB4CE245%7d&file=Poster%206.6.pptx&action=default
-[Quiz 8.5]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b8D2844A6-0421-4F92-9FA9-9A0EEB838DA4%7d&file=Quiz%208.5.docx&action=default
-[Teach mini-lessons]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bE3A7E8D8-492C-46C1-A221-9B4B845942D2%7d&file=WS%203.10.docx&action=default
-[Teacher Demo 8.3]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b7C3B469F-170C-479D-94CB-D0A87DB89E2A%7d&file=Teacher%20Demo%208.3.docx&action=default
+[Operator Precedence]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/Operator%20Precedence.pptx&raw=true
+[Poster 2.4]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit2/Poster%202.4.docx&raw=true
+[Poster 3.16.1]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/Poster%203.16.1.pdf&raw=true
+[Poster 3.16.2]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/Poster%203.16.2.pdf&raw=true
+[Poster 4.1]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/Poster%204.1.pdf&raw=true
+[Poster 4.2]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/Poster%204.2.pdf&raw=true
+[Poster 4.7]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit4/Poster%204.7.pptx&raw=true
+[Poster 6.3]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Poster%206.3.pptx&raw=true
+[Poster 6.6]:    https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit6/Poster%206.6.pptx&raw=true
+[Quiz 8.5]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit8/Quiz%208.5.docx
+[Teacher Demo 8.3]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit8/Teacher%20Demo%208.3.docx
 [Test 2 Guide]: Unit3/Test-2-Guide.md
 [Test 5 Guide]: Unit6/Test-5-Guide.md
 [Test 6 Guide]: Unit7/Test-6-Guide.md
