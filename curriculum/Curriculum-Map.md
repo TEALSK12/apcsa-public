@@ -1,6 +1,5 @@
 AP CS A Curriculum Map
 ====================================================================================================
-
 The following curriculum map is a day-by-day listing of the AP Computer Science course in
 chronological order. Each row represents one day of class, based on a medium-paced class. Readings
 from the textbook and homework assignments are included on the day when they should be assigned.
@@ -45,7 +44,7 @@ Unit 1: Programming & Java (2 weeks)
 | [1.07] | _Programming Project_                   | PP 1.2, 1.5 | | Note check (add summaries if needed) |
 | [1.08] | _Finding & Fixing Errors_               | Fix homework | Review ch 1 | Submit questions for review |
 | [1.09] | _Review_                                | Review questions<br>[WS 1.9]<br>Practice test | | Study |
-| [1.99] | _Unit 1 Test_                           | [Test 0 Section I]<br>[Test 0 Section II] | | |
+| [1.99] | _Unit 1 Test_                           | Test 0 Section I<br>Test 0 Section II | | |
 
 ### 1.01
 | [Lesson 1.01]   | _Using Eclipse & Practice-It_
@@ -131,7 +130,7 @@ Unit 1: Programming & Java (2 weeks)
 ### 1.99
 | Unit 1 Test     | _Programming & Java_
 |:----------------|:--------------------
-| **In Class**    | [Test 0 Section I]<br>[Test 0 Section II]
+| **In Class**    | Test 0 Section I<br>Test 0 Section II
 
 
 
@@ -157,7 +156,7 @@ Unit 2: Working with Data & Basic Control Flow (3 weeks)
 | [2.09] | Programming Project	                 | Complete PP 2.4 | | \[_TBD practice question_\] |
 | [2.10] | Finding & Fixing Errors	             | Fix HW	       | Review ch 2 (omit 2.5)	| Submit questions for review |
 | [2.11] | Review	(Review questions)             | [WS 2.11]<br>practice test |	| Study |
-| [2.99] | (Unit 2 Test) | [Test 1 Section I]<br>[Test 1 Section II] | | |
+| [2.99] | (Unit 2 Test) | Test 1 Section I<br>Test 1 Section II | | |
 
 ### 2.00
 | [Lesson 2.00]   | _Test Review & Reteach_
@@ -270,7 +269,7 @@ Unit 2: Working with Data & Basic Control Flow (3 weeks)
 ### 2.99
 | Unit 2 Test     | _Working with Data & Basic Control Flow_
 |:----------------|:----------------------------------------
-| **In Class**    | [Test 1 Section I]<br>[Test 1 Section II]
+| **In Class**    | Test 1 Section I<br>Test 1 Section II
 
 
 
@@ -284,35 +283,35 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 
 | **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|
-| [3.00] |Test Review & Reteach|[Unit 3 Test Review]|3.1 up to “Limitations of Parameters”|Test corrections |
+| [3.00] |Test Review & Reteach|[Algorithm for Solving Problems]|3.1 up to “Limitations of Parameters”|Test corrections |
 | [3.01] |Parameters|Practice-It SC 3.1 - 3.3|"3.1 “Limitations of Parameters”, “Multiple Parameters”, ""Parameters versus Constants"""|SC 3.4-3.7 |
 | [3.02] |Limitations of Parameters & Multiple Parameters|(Art project)|"3.1 “Overloading Methods”, 3.2 ""Methods That Return Values"""|Jazz up art project and program |
 | [3.03] |Return Values|Practice-It SC 3.14 - 3.16||SC 3.17, E 3.1 |
 | [3.04] |Programming Project|[WS 3.4]<br>[Equestria]|3.3 up to “Interactive Programs and Scanner Objects”|SC 3.18, 3.19 |
-| [3.05] |Using Objects & String Processing|[WS 3.5]|3.3 “Interactive programming” and “Sample interactive program”|SC 3.19-3.21 |​​
+| [3.05] |Using Objects & String Processing|[WS 3.5]|3.3 “Interactive programming” and “Sample interactive program”|SC 3.19-3.21 |
 | [3.06] |Interactive Programs & Scanner Objects|Practice-It SC 3.24 - 3.26; E 3.12, 3.14, 3.15||Outline ch 3 (omit 3.4) |
 | [3.07] |Pokémon Battle Programming Project|[WS 3.7]<br>LP Battle||Summarize notes since last exam |
-| [3.08] |Finding & Fixing Errors|Fix HW<br>webmaker.org|4.1 up to “nested if else statements”|SC 4.1-4.4 |​
+| [3.08] |Finding & Fixing Errors|Fix HW<br>webmaker.org|4.1 up to “nested if else statements”|SC 4.1-4.4 |
 | [3.09] |Relational Operators & if/else|[Operator Precedence]<br>Grudgeball|4.1 “Nested if/else” and “Flow of control”|SC 4.7-4.9; E 4.1-4.2 |
-| [3.10] |Nested if/else Statements|[WS 3.10] Teach mini-lessons] Practice-It SC 4.5, 4.6, E 4.3|4.1, “Factoring if/else statements” and “Testing multiple conditions”|E 4.4, 4.5 | 
+| [3.10] |Nested if/else Statements|[WS 3.10] Teach mini-lessons<br>Practice-It SC 4.5, 4.6, E 4.3|4.1, “Factoring if/else statements” and “Testing multiple conditions”|E 4.4, 4.5 | 
 | [3.11] |Reducing Redundancy|(Refactoring com petition)|Read 4.2|Outline ch 4 (omit 4.4, 4.5) |
-| [3.12] |Cumulative Algorithms|Tally code on board,[Collaborative Programming Exercise]|5.1 skip “do/while loops”|PP 4.2 |
+| [3.12] |Cumulative Algorithms|Tally code on board,Collaborative Programming Exercise [WS 3.12]|5.1 skip “do/while loops”|PP 4.2 |
 | [3.13] |while Loops|Practice-It SC 5.1 - 5.4, E 5.2<br>[WS 3.13]|5.1 ”Random numbers”|E 5.2 |
 | [3.14] |Random Numbers|Practice-It SC 5.5-5.7; E 5.4, 5.5|5.2|PP 5.1 |
 | [3.15] |Fencepost & Sentinel Loops|[WS 3.15] Teach mini-lessons|5.3|E 5.6, 5.8 |
-| [3.16]01 |Boolean Logic|Practice-It SC 5.27, 5.29<br>[WS 3.16] (RPS, Pig)<br>[DeMorgan’s Law]<BR>[Poster 3.16.1]<BR>[Poster 3.16.2]​||Outline ch 5 (through 5.3) |
+| [3.16]01 |Boolean Logic|Practice-It SC 5.27, 5.29<br>[WS 3.16] (RPS, Pig)<br>[DeMorgan’s Law]<BR>[Poster 3.16.1]<BR>[Poster 3.16.2]||Outline ch 5 (through 5.3) |
 | [3.16]02 |Boolean Logic (Day 2)||| |
 | [3.17] |Finding & Fixing Errors|(Fix HW)|Review ch 3-5|Submit questions for review |
 | [3.18] |Review|(Review questions), [WS 3.18] practice test||Study |
-| 3.99 |Unit 3 test|[Test 2 Guide]<br>[Test 2 Section I]<br>[Test 2 Section II]|​| |​
-| 3.XX |Project: Frac Calc​|[Frac Calc Student Guide]<br>[Frac Calc Teacher Guide]|| |
+| 3.99 |Unit 3 test|[Test 2 Guide]<br>Test 2 Section I<br>Test 2 Section II|| |
+| 3.XX |Project: Frac Calc|[Frac Calc Student Guide]<br>[Frac Calc Teacher Guide]|| |
 
 ### 3.00
 | [Lesson 3.00]   | _Test Review & Reteach_
 |:----------------|:-----------------------
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 2.
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
-| **In Class**    | [Unit 3 Test Review]
+| **In Class**    | [Algorithm for Solving Problems]
 | **Reading**     | 3.1 up to “_Limitations of Parameters_”
 | **Homework**    | Test corrections
 
@@ -420,7 +419,7 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 |:----------------|:-----------------------
 | **Objectives**  | Students will find and correct syntax errors in conditional cumulative algorithms.
 | **Assessments** | Students will write, modify, and correct programs written by others.
-| **In Class**    | Tally code on board<br>[Collaborative Programming Exercise]
+| **In Class**    | Tally code on board<br>Collaborative Programming Exercise [WS 3.12]
 | **Reading**     | 5.1 (skip “_Do/While Loops_”)
 | **Homework**    | PP 4.2
 
@@ -486,7 +485,7 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 | Unit 3 Test     | _Advanced Data & Control Flow_
 |:----------------|:------------------------------
 | **Guide**       | [Test 2 Guide]
-| **In Class**    | [Test 2 Section I]<br>[Test 2 Section II]
+| **In Class**    | Test 2 Section I<br>Test 2 Section II
 
 ### 3.XX
 | Unit 3 Project  | _Frac Calc_
@@ -510,18 +509,18 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 | [4.02] |For-Each Loop & Arrays Class|[WS 4.2]|7.2 up to Reversing an Array|SC 7.12-7.14
 | [4.03] |Printing, Searching, & Testing for Equality|[WS 4.3] Mini-lessons||SC 7.14-7.17, E 7.3
 | [4.03] |Printing, Searching, & Testing for Equality (Day 2)||7.3|SC 7.19-7.21
-| [4.04] |Reference Semantics|[WS 4.4]<br>[WS 4.4 Answers]|7.4 up to Command-Line Arguments|E 7.9, 7.10
+| [4.04] |Reference Semantics|[WS 4.4]<br>7.4 up to Command-Line Arguments|E 7.9, 7.10
 | [4.05] |Shifting Values & Arrays of Objects|SC 7.22, 7.23, 7.25, 7.26, 7.30; E 7.16|7.4 Nested Arrays, 7.5 Rectangular Two Dimensional Arrays|SC 7.27-7.29, E 7.14
 | [4.06] |Nested Loop Algorithms & Rectangular Arrays|[WS 4.6]|10.1 up to Adding to and Removing from an ArrayList|SC [TBD]
 | [4.07] |ArrayList|Grudgeball<br>[Poster 4.7]||Outline ch 7 and 10.1
 | [4.08] |Finding & Fixing Errors|Fix HW|Review ch 7, 10.1 for Magpie lab|Submit questions for review
-| [4.09] 01|Magpie Lab (day 1)|[Magpie Chatbot Lab] Activity 1 & 2<br>[Eclipse Magpie Archive]|Barrons ch 6|
-| [4.09] 02|Magpie Lab (day 2)|[Magpie Chatbot Lab] Activity 2|Barrons ch 6|
-| [4.09] 03|Magpie Lab (day 3)|[Magpie Chatbot Lab] Activity 3||Barrons ch 6 practice questions
-| [4.09] 04|Magpie Lab (day 4)|[Magpie Chatbot Lab] Activity 4||Check and correct Barrons ch.6 questions
-| [4.09] 05|Magpie Lab (day 5)|[Magpie Chatbot Lab] Activity 5||Check and correct Barrons ch.6 questions
+| [4.09] 01|Magpie Lab (day 1)|Magpie Chatbot Lab Activity 1 & 2|Barrons ch 6|
+| [4.09] 02|Magpie Lab (day 2)|Magpie Chatbot Lab Activity 2|Barrons ch 6|
+| [4.09] 03|Magpie Lab (day 3)|Magpie Chatbot Lab Activity 3||Barrons ch 6 practice questions
+| [4.09] 04|Magpie Lab (day 4)|Magpie Chatbot Lab Activity 4||Check and correct Barrons ch.6 questions
+| [4.09] 05|Magpie Lab (day 5)|Magpie Chatbot Lab Activity 5||Check and correct Barrons ch.6 questions
 | [4.10] |Review|Review questions [WS 4.10] practice test||Study
-| 4.99 |Unit 4 test|[Test 3 Section I]<br>[Test 3 Section II]||
+| 4.99 |Unit 4 test|Test 3 Section I<br>Test 3 Section II||
 
 ### 4.00
 | [Lesson 4.00]   | _Test Review & Reteach_
@@ -573,7 +572,7 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  | Students will be able to compare and contrast how primitives and arrays are treated when passed as parameters.
 | **Assessments** | Students will complete graphic organizers and a worksheet.<br>Some students will complete a Pokémon Challenge for extra credit.
-| **In Class**    | [WS 4.4]<br>[WS 4.4 Answers]
+| **In Class**    | [WS 4.4]
 | **Reading**     | 7.4 up to “_Command-Line Arguments_”
 | **Homework**    | EX 7.9–10
 
@@ -617,8 +616,8 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 | [Lesson 4.09]   | _Magpie Lab (Day 1)_
 |:----------------|:--------------------
 | **Objectives**  | Students will complete a long-form lab, using if statements, algorithms, the Sting class, arrays, and ArrayLists.
-| **Assessments** | Students will complete the College Board’s AP CS A [Magpie Chatbot Lab].<br>Students will answer assessment questions on the fourth class exam.
-| **In Class**    | [Magpie Chatbot Lab] Activity 1 & 2<br>[Eclipse Magpie Archive]
+| **Assessments** | Students will complete the College Board’s AP CS A Magpie Chatbot Lab.<br>Students will answer assessment questions on the fourth class exam.
+| **In Class**    | Magpie Chatbot Lab Activity 1 & 2
 | **Reading**     | Barrons ch 6
 | **Homework**    |
 
@@ -627,7 +626,7 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 |:----------------|:--------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Magpie Chatbot Lab] Activity 2
+| **In Class**    | Magpie Chatbot Lab Activity 2
 | **Reading**     | Barrons ch 6
 | **Homework**    |
 
@@ -636,7 +635,7 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 |:----------------|:--------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Magpie Chatbot Lab] Activity 3
+| **In Class**    | Magpie Chatbot Lab Activity 3
 | **Reading**     |
 | **Homework**    | Barrons ch 6 practice questions
 
@@ -645,7 +644,7 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 |:----------------|:--------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Magpie Chatbot Lab] Activity 4
+| **In Class**    | Magpie Chatbot Lab Activity 4
 | **Reading**     |
 | **Homework**    | Check and correct Barrons ch.6 questions
 
@@ -654,7 +653,7 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 |:----------------|:--------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Magpie Chatbot Lab] Activity 5
+| **In Class**    | Magpie Chatbot Lab Activity 5
 | **Reading**     |
 | **Homework**    | Check and correct Barrons ch.6 questions
 
@@ -670,7 +669,7 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 ### 4.99
 | Unit 4 Test     | _Arrays, Lists & Files_
 |:----------------|:-----------------------
-| **In Class**    | [Test 3 Section I]<br>[Test 3 Section II]
+| **In Class**    | Test 3 Section I<br>Test 3 Section II
 
 
 
@@ -690,17 +689,17 @@ Unit 5: Object-Oriented Programming (4 weeks)
 | [5.03] |Object Initialization: Constructors|[WS 5.3.1]<br>[WS 5.3.2]|8.4|
 | [5.04] |Encapsulation|[WS 5.4] Mini-lessons||SC 8.22-8.28
 | [5.05] |Finding & Fixing Errors|Fix HW|Review ch 8 for Picture Lab|Submit questions for review
-| [5.06] 01|Picture Lab (day 1)|[Picture Lab] Activity 1 & 2<br>[Eclipse Picture Lab Archive]||Summarize notes since last exam
-| [5.06] 02|Picture Lab (day 2)|[Picture Lab] Activity 3 & 4, notebook checks||Outline ch 8
-| [5.06] 03|Picture Lab (day 3)|[Picture Lab] Activity 5, notebook checks|Read and highlight Barrons ch 2, skip this keyword|
-| [5.06] 04|Picture Lab (day 4)|[Picture Lab] Activity 5 & 6, notebook checks||Barrons ch 2 exam, skip #20
-| [5.06] 05|Picture Lab (day 5)|[Picture Lab] Activity 6, Barron's checks|Read and highlight Barrons ch 5|
-| [5.06] 06|Picture Lab (day 6)|[Picture Lab] Activity 7||SC 8.28, 8.30
-| [5.06] 07|Picture Lab (day 7)|[Picture Lab] Activity 8|8.5|Finish Picture Lab Activity 8
-| [5.06] 08|Picture Lab (day 8)|[Picture Lab] Activity 9||Cont. Picture Lab Activity 9
-| [5.06] 09|Picture Lab (day 9)|[Picture Lab] Activity 9, cont.||Submit questions for review
+| [5.06] 01|Picture Lab (day 1)|Picture Lab Activity 1 & 2<br>Picture Lab||Summarize notes since last exam
+| [5.06] 02|Picture Lab (day 2)|Picture Lab Activity 3 & 4, notebook checks||Outline ch 8
+| [5.06] 03|Picture Lab (day 3)|Picture Lab Activity 5, notebook checks|Read and highlight Barrons ch 2, skip this keyword|
+| [5.06] 04|Picture Lab (day 4)|Picture Lab Activity 5 & 6, notebook checks||Barrons ch 2 exam, skip #20
+| [5.06] 05|Picture Lab (day 5)|Picture Lab Activity 6, Barron's checks|Read and highlight Barrons ch 5|
+| [5.06] 06|Picture Lab (day 6)|Picture Lab Activity 7||SC 8.28, 8.30
+| [5.06] 07|Picture Lab (day 7)|Picture Lab Activity 8|8.5|Finish Picture Lab Activity 8
+| [5.06] 08|Picture Lab (day 8)|Picture Lab Activity 9||Cont. Picture Lab Activity 9
+| [5.06] 09|Picture Lab (day 9)|Picture Lab Activity 9, cont.||Submit questions for review
 | [5.07] |Review|Review question<br>[WS 5.7] Test practice||Study
-5.99|(Unit 5 test)|[Test 4 Section I]<br>[Test 4 Section II]||
+5.99|(Unit 5 test)|Test 4 Section I<br>Test 4 Section II||
 
 ### 5.00
 | [Lesson 5.00]   | _Test Review & Reteach_
@@ -760,8 +759,8 @@ Unit 5: Object-Oriented Programming (4 weeks)
 | [Lesson 5.06]   | _Picture Lab (Day 1)_
 |:----------------|:---------------------
 | **Objectives**  | Students will complete a long-form lab, using two dimensional arrays of objects, array traversing algorithms, program analysis, binary numbers, inheritance, and interfaces.
-| **Assessments** | [Picture Lab]
-| **In Class**    | [Picture Lab] Activity 1 & 2<br>[Eclipse Picture Lab Archive]
+| **Assessments** | Picture Lab
+| **In Class**    | Picture Lab Activity 1 & 2<br>Picture Lab
 | **Reading**     |
 | **Homework**    | Summarize notes since last exam
 
@@ -770,7 +769,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Picture Lab] Activity 3 & 4<br>Notebook checks
+| **In Class**    | Picture Lab Activity 3 & 4<br>Notebook checks
 | **Reading**     |
 | **Homework**    | Outline ch 8
 
@@ -779,7 +778,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Picture Lab] Activity 5<br>Notebook checks
+| **In Class**    | Picture Lab Activity 5<br>Notebook checks
 | **Reading**     | Read and highlight Barrons ch 2, skip `this` keyword
 | **Homework**
 
@@ -788,7 +787,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Picture Lab] Activity 5 & 6<br>Notebook checks
+| **In Class**    | Picture Lab Activity 5 & 6<br>Notebook checks
 | **Reading**     |
 | **Homework**    | Barrons ch 2 exam (skip #20)
 
@@ -797,7 +796,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Picture Lab] Activity 6<br>Barron's checks
+| **In Class**    | Picture Lab Activity 6<br>Barron's checks
 | **Reading**     | Read and highlight Barrons ch 5
 | **Homework**    |
 
@@ -806,7 +805,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Picture Lab] Activity 7
+| **In Class**    | Picture Lab Activity 7
 | **Reading**     |
 | **Homework**    | SC 8.28,30
 
@@ -815,7 +814,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Picture Lab] Activity 8
+| **In Class**    | Picture Lab Activity 8
 | **Reading**     | 8.5
 | **Homework**    | Finish Picture Lab Activity 8
 
@@ -824,7 +823,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Picture Lab] Activity 9
+| **In Class**    | Picture Lab Activity 9
 | **Reading**     |
 | **Homework**    | Cont. Picture Lab Activity 9
 
@@ -833,7 +832,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Picture Lab] Activity 9, cont.
+| **In Class**    | Picture Lab Activity 9, cont.
 | **Reading**     |
 | **Homework**    | Submit questions for review
 
@@ -849,7 +848,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 ### 5.99
 | Unit 5 Test     | _Object Oriented Programming_
 |:----------------|:-----------------------------
-| **In Class**    | [Test 4 Section I]<br>[Test 4 Section II]
+| **In Class**    | Test 4 Section I<br>Test 4 Section II
 
 
 
@@ -878,7 +877,7 @@ Unit 6: Inheritance & Polymorphism (4 weeks)
 | [6.07] 05|Programming project (day 5)|Barrons ch 3 exam, outline checks|Review ch 9|Submit questions for review
 | [6.08] |Finding & Fixing Errors|(Fix HW)|Review ch 9|Submit questions for review
 | [6.09] |Review|Review questions<br>[WS 6.5] Test practice||Study
-| 6.99 |Unit 6 test|[Test 5 Guide]<br>[Test 5 Section I]<br>[Test 5 Section II]||
+| 6.99 |Unit 6 test|[Test 5 Guide]<br>Test 5 Section I<br>Test 5 Section II||
 | 6.XX |Project: Text Excel|[Text Excel Student Guide A]<br>[Text Excel Student Guide B]<br>[Text Excel Student Guide C]<br>[Text Excel Teacher Guide]||
 
 ### 6.00
@@ -1020,7 +1019,7 @@ Unit 6: Inheritance & Polymorphism (4 weeks)
 | Unit 6 Test     | _Inheritance and Polymorphism_
 |:----------------|:------------------------------
 | **Guide**       | [Test 5 Guide]
-| **In Class**    | [Test 5 Section I]<br>[Test 5 Section II]
+| **In Class**    | Test 5 Section I<br>Test 5 Section II
 
 ### 6.XX
 | Unit 6 Project  | _Text Excel_
@@ -1042,24 +1041,24 @@ Unit 7: Searching & Sorting (3 weeks)
 | [7.00] |Test Review & Reteach|Review test|13.1 up to “Sorting”|Test corrections
 | [7.01] |Searching Algorithms|(CS Unplugged Battleship)<br>[WS 7.1]|13.1 “Sorting”|SC 13.4-13.6, E 13.1-13.3 
 | [7.02] |Sorting Algorithms||13.1 “Shuffling”|
-| [7.03] 01|Elevens lab (day 1)| [Elevens Lab] Activity 1|"13.3 skip ""Recursive Binary Search"""|SC 13.16-13.21, 13.23, 13.24
-| [7.03] 02|Elevens lab (day 2)| [Elevens Lab] Activity 2 (begin)||
-| [7.03] 03|Elevens lab (day 3)| [Elevens Lab] Activity 2 (end)||Summarize notes since last exam
-| [7.03] 04|Elevens lab (day 4)| [Elevens Lab] Activity 3 (begin), notebook checks||Outline ch 13
-| [7.03] 05|Elevens lab (day 5)| [Elevens Lab] Activity 3 (end), notebook checks|Read and outline Barrons ch 8|
-| [7.03] 06|Elevens lab (day 6)| [Elevens Lab] Activity 4||Barrons ch 8 exam, self-grade 
-| [7.03] 07|Elevens lab (day 7)| [Elevens Lab] Activity 5 (begin), Barron's checks||
-| [7.03] 08|Elevens lab (day 8)| [Elevens Lab] Activity 5 (end)||
-| [7.03] 09|Elevens lab (day 9)| [Elevens Lab] Activity 6||(Fix HW)
-| [7.03] 10|Elevens lab (day 10)| [Elevens Lab] Activity 7||(Fix HW)
-| [7.03] 11|Elevens lab (day 11)| [Elevens Lab] Activity 8, re-grade fixed HW||
-| [7.03] 12|Elevens lab (day 12)| [Elevens Lab] Activity 9 (begin), re-grade fixed HW||
-| [7.03] 13|Elevens lab (day 13)| [Elevens Lab] Activity 9 (end), re-grade fixed HW||Submit questions for review
-| [7.03] 14|Elevens lab (day 14)| [Elevens Lab] Activity 10, re-grade fixed HW||
-| [7.03] 15|Elevens lab (day 15)| [Elevens Lab] Activity 11 (begin)||
-| [7.03] 16|Elevens lab (day 16)| [Elevens Lab] Activity 11 (end)||
+| [7.03] 01|Elevens lab (day 1)| Elevens Lab Activity 1|"13.3 skip ""Recursive Binary Search"""|SC 13.16-13.21, 13.23, 13.24
+| [7.03] 02|Elevens lab (day 2)| Elevens Lab Activity 2 (begin)||
+| [7.03] 03|Elevens lab (day 3)| Elevens Lab Activity 2 (end)||Summarize notes since last exam
+| [7.03] 04|Elevens lab (day 4)| Elevens Lab Activity 3 (begin), notebook checks||Outline ch 13
+| [7.03] 05|Elevens lab (day 5)| Elevens Lab Activity 3 (end), notebook checks|Read and outline Barrons ch 8|
+| [7.03] 06|Elevens lab (day 6)| Elevens Lab Activity 4||Barrons ch 8 exam, self-grade 
+| [7.03] 07|Elevens lab (day 7)| Elevens Lab Activity 5 (begin), Barron's checks||
+| [7.03] 08|Elevens lab (day 8)| Elevens Lab Activity 5 (end)||
+| [7.03] 09|Elevens lab (day 9)| Elevens Lab Activity 6||(Fix HW)
+| [7.03] 10|Elevens lab (day 10)| Elevens Lab Activity 7||(Fix HW)
+| [7.03] 11|Elevens lab (day 11)| Elevens Lab Activity 8, re-grade fixed HW||
+| [7.03] 12|Elevens lab (day 12)| Elevens Lab Activity 9 (begin), re-grade fixed HW||
+| [7.03] 13|Elevens lab (day 13)| Elevens Lab Activity 9 (end), re-grade fixed HW||Submit questions for review
+| [7.03] 14|Elevens lab (day 14)| Elevens Lab Activity 10, re-grade fixed HW||
+| [7.03] 15|Elevens lab (day 15)| Elevens Lab Activity 11 (begin)||
+| [7.03] 16|Elevens lab (day 16)| Elevens Lab Activity 11 (end)||
 | [7.04|Review|Review questions||Study
-| [7.99|Unit 7 test|[Test 6 Guide]<br>[Test 6 Section I]<br>[Test 6 Section II]||
+| [7.99|Unit 7 test|[Test 6 Guide]<br>Test 6 Section I<br>Test 6 Section II||
 
 ### 7.00
 | [Lesson 7.00]   | _Test Review & Reteach_
@@ -1092,8 +1091,8 @@ Unit 7: Searching & Sorting (3 weeks)
 | [Lesson 7.03]   | _Elevens lab (Day 1)_
 |:----------------|:---------------------
 | **Objectives**  | Students will complete a long-form lab, demonstrating effective use of object oriented program design, program implementation and analysis, and standard data structures and algorithms.
-| **Assessments** | [Elevens Lab]
-| **In Class**    | [Elevens Lab] Activity 1
+| **Assessments** | Elevens Lab
+| **In Class**    | Elevens Lab Activity 1
 | **Reading**     | 13.3 (skip “_Recursive Binary Search_”)
 | **Homework**    | SC 13.16–21,23–24
 
@@ -1102,7 +1101,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Elevens Lab] Activity 2 (begin)
+| **In Class**    | Elevens Lab Activity 2 (begin)
 | **Reading**     |
 | **Homework**    |
 
@@ -1111,7 +1110,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Elevens Lab] Activity 2 (end)
+| **In Class**    | Elevens Lab Activity 2 (end)
 | **Reading**     |
 | **Homework**    | Summarize notes since last exam
 
@@ -1120,7 +1119,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Elevens Lab] Activity 3 (begin)<br>Notebook checks
+| **In Class**    | Elevens Lab Activity 3 (begin)<br>Notebook checks
 | **Reading**     |
 | **Homework**    | Outline ch 13
 
@@ -1129,7 +1128,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Elevens Lab] Activity 3 (end)<br>Notebook checks
+| **In Class**    | Elevens Lab Activity 3 (end)<br>Notebook checks
 | **Reading**     | Read and outline Barrons ch 8
 | **Homework**    |
 
@@ -1138,7 +1137,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Elevens Lab] Activity 4
+| **In Class**    | Elevens Lab Activity 4
 | **Reading**     |
 | **Homework**    | Barrons ch 8 exam, self-grade
 
@@ -1147,7 +1146,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Elevens Lab] Activity 5 (begin)<br>Barron's checks
+| **In Class**    | Elevens Lab Activity 5 (begin)<br>Barron's checks
 | **Reading**     |
 | **Homework**    |
 
@@ -1156,7 +1155,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Elevens Lab] Activity 5 (end)
+| **In Class**    | Elevens Lab Activity 5 (end)
 | **Reading**     |
 | **Homework**    |
 
@@ -1165,7 +1164,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Elevens Lab] Activity 6
+| **In Class**    | Elevens Lab Activity 6
 | **Reading**     |
 | **Homework**    | Fix homework
 
@@ -1174,7 +1173,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:----------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Elevens Lab] Activity 7
+| **In Class**    | Elevens Lab Activity 7
 | **Reading**     |
 | **Homework**    | Fix homework
 
@@ -1183,7 +1182,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:----------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Elevens Lab] Activity 8<br>Re-grade fixed homework
+| **In Class**    | Elevens Lab Activity 8<br>Re-grade fixed homework
 | **Reading**     |
 | **Homework**    |
 
@@ -1192,7 +1191,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:----------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Elevens Lab] Activity 9 (begin)<br>Re-grade fixed homework
+| **In Class**    | Elevens Lab Activity 9 (begin)<br>Re-grade fixed homework
 | **Reading**     |
 | **Homework**    |
 
@@ -1201,7 +1200,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:----------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Elevens Lab] Activity 9 (end)<br>Re-grade fixed homework
+| **In Class**    | Elevens Lab Activity 9 (end)<br>Re-grade fixed homework
 | **Reading**     |
 | **Homework**    | Submit questions for review
 
@@ -1210,7 +1209,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:----------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Elevens Lab] Activity 10<br>Re-grade fixed homework
+| **In Class**    | Elevens Lab Activity 10<br>Re-grade fixed homework
 | **Reading**     |
 | **Homework**    |
 
@@ -1219,7 +1218,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:----------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Elevens Lab] Activity 11 (begin)
+| **In Class**    | Elevens Lab Activity 11 (begin)
 | **Reading**     |
 | **Homework**    |
 
@@ -1228,7 +1227,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:----------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | [Elevens Lab] Activity 11 (end)
+| **In Class**    | Elevens Lab Activity 11 (end)
 | **Reading**     |
 | **Homework**    |
 
@@ -1245,7 +1244,7 @@ Unit 7: Searching & Sorting (3 weeks)
 | Unit 7 Test     | _Searching & Sorting_
 |:----------------|:---------------------
 | **Guide**       | [Test 6 Guide]
-| **In Class**    | [Test 6 Section I]<br>[Test 6 Section II]
+| **In Class**    | Test 6 Section I<br>Test 6 Section II
 
 
 
@@ -1262,7 +1261,7 @@ Unit 8: Recursion (2 weeks)
 | [8.00] |Test Review & Reteach|Review test|12.1 up to “Structure of recursive solutions”|Test corrections
 | [8.01] |Thinking Recursively|Tower of Hanoi game|Rest of 12.1|
 | [8.02] |Writing Recursive Solutions|Grudgeball<br>SC 12.1 - 12.4|12.2|SC 12.5, 12.7-12.9, E 12.1
-| [8.03] |Mechanics of Recursion|[WS 8.3]<br>[Demo 8.3]|13.4?|SC 12.6, 12.10, E 12.3
+| [8.03] |Mechanics of Recursion|[WS 8.3]<br>[Teacher Demo 8.3]|13.4?|SC 12.6, 12.10, E 12.3
 | [8.04] |MergeSort|Implement mergeSort||SC 13.27-13.30<br>Notebook Check
 | [8.05] |Finding & Fixing Errors|Fix HW|Review ch 12.1, 12.2|Submit questions for review
 | [8.06] |Review & Quiz?|[Quiz 8.5]|Barrons ch 7|
@@ -1352,7 +1351,7 @@ Unit 9: AP Test Review (3 weeks)
 | [Lesson 9.00]   | _Reviewing for the AP Exam_
 |:----------------|:---------------------------
 | **Objectives**  | Students will review and prepare for the AP Computer Science A exam.
-| **Assessments** | [Bellevue Mastery Tests]<br>[AP CS 2012 Section II]
+| **Assessments** | Bellevue Mastery Tests<br>AP CS 2012 Section II
 | **In Class**    |
 | **Reading**     |
 | **Homework**    |
@@ -1372,17 +1371,12 @@ self-contained website with lessons, labs and other supporting resources:
 
 
 
-[AP CS 2012 Section II]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%209/AP%20CS%202012%20Section%20II.zip
-[Bellevue Mastery Tests]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%209/Bellevue%20Mastery%20Tests.zip
-[Collaborative Programming Exercise]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b5EB98E63-B7BF-4C57-AF18-8349E7F66E3C%7d&file=WS%203.12.docx&action=default
-[DeMorgan’s Law]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b42DF07DE-09B4-4631-93F9-672C02BF6A74%7d&file=DeMorgan%27s%20Law.pptx&action=default
-[Eclipse Magpie Archive]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%204/EclipseMagpieLab.zip
-[Eclipse Picture Lab Archive]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%205/EclipsePictureLab.zip
-[Elevens Lab]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%207/Unit%207%20Milestone%203%20-%20Elevens%20Lab.zip
-[Equestria]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b382FB1B0-6623-44FD-8EAE-21F8CD037A8D%7d&file=Map%20of%20Equestria.pptx&action=default
-[Example 6.1]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%206/Example%206.1.jpg
-[Frac Calc Student Guide]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bEF7CBBCD-634A-495F-ACCE-616FDF407E9A%7d&file=Frac%20Calc%20Student%20Guide.docx&action=default
-[Frac Calc Teacher Guide]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b30D8F9EA-8F5D-47D5-B845-3E6D8E0E7F21%7d&file=Frac%20Calc%20Teacher%20Guide.docx&action=default
+[Algorithm for Solving Problems]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx
+[DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
+[Equestria]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Map%20of%20Equestria.pptx
+[Example 6.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Example%206.1.jpg
+[Frac Calc Student Guide]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Frac%20Calc%20Student%20Guide.docx
+[Frac Calc Teacher Guide]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Frac%20Calc%20Teacher%20Guide.docx
 [Lesson 1.01]: Unit1/Lesson-101.md
 [1.01]: Unit1/Lesson-101.md
 [Lesson 1.02]: Unit1/Lesson-102.md
@@ -1549,91 +1543,76 @@ self-contained website with lessons, labs and other supporting resources:
 [8.07]: Unit8/Lesson-807.md
 [Lesson 9.00]: Unit9/Lesson-900.md
 [9.00]: Unit9/Lesson-900.md
-[Magpie Chatbot Lab]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%204/Unit%204%20Milestone%201%20Magpie%20Lab.zip
-[Operator Precedence]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b0BABFA36-26A9-43F7-9C5D-FC10B812AB4B%7d&file=Operator%20Precedence.pptx&action=default
-[Picture Lab]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%205/Unit%205%20Milestone%202%20Picture%20Lab.zip
-[Poster 2.4]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bF0A818B4-E658-4DD2-A3BB-CF39EDC0E778%7d&file=Poster%202.4.docx&action=default
-[Poster 3.16.1]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%203/Poster%203.16.1.pdf
-[Poster 3.16.2]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%203/Poster%203.16.2.pdf
-[Poster 4.2]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%204/Poster%204.2.pdf
-[Poster 4.7]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b54D2CB87-84D1-434E-AEDC-C66D7CFE245C%7d&file=Poster%204.7.pptx&action=default
-[Poster 6.3]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b9E9DCF3B-1DBD-440E-92D2-11CEC7631A5C%7d&file=Poster%206.3.pptx&action=default
-[Poster 6.6]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b26C78C28-FCDB-4CC5-8F79-FE82EB4CE245%7d&file=Poster%206.6.pptx&action=default
-[Quiz 8.5]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b8D2844A6-0421-4F92-9FA9-9A0EEB838DA4%7d&file=Quiz%208.5.docx&action=default
-[Teach mini-lessons]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bE3A7E8D8-492C-46C1-A221-9B4B845942D2%7d&file=WS%203.10.docx&action=default
-[Teacher Demo 8.3]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b7C3B469F-170C-479D-94CB-D0A87DB89E2A%7d&file=Teacher%20Demo%208.3.docx&action=default
-[Test 0 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b0A82C5C7-9036-4EA6-A159-7F4FB8A9552B%7d&file=AP%20CS%20Test%200%20Section%20I.docx&action=default
-[Test 0 Section II]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bE617EA03-A599-442C-8FE5-2C4EDB4F2489%7d&file=AP%20CS%20Test%200%20Section%20II.docx&action=default
-[Test 1 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bCA5899B7-C1B7-49AC-8E67-C7FBF9771E3B%7d&file=AP%20CS%20Test%201%20Section%20I.docx&action=default
-[Test 1 Section II]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b4BFA4783-DD0D-45E6-9C9F-7EABBC6DEF03%7d&file=AP%20CS%20Test%201%20Section%20II.docx&action=default
+[Operator Precedence]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Operator%20Precedence.pptx
+[Poster 2.4]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/Poster%202.4.docx
+[Poster 3.16.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Poster%203.16.1.pdf
+[Poster 3.16.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Poster%203.16.2.pdf
+[Poster 4.1]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Poster%204.1.pdf
+[Poster 4.2]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Poster%204.2.pdf
+[Poster 4.7]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Poster%204.7.pptx
+[Poster 6.3]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Poster%206.3.pptx
+[Poster 6.6]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Poster%206.6.pptx
+[Quiz 8.5]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit8/Quiz%208.5.docx
+[Teacher Demo 8.3]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit8/Teacher%20Demo%208.3.docx
 [Test 2 Guide]: Unit3/Test-2-Guide.md
-[Test 2 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bEF5A5AAC-4337-47D5-9274-DE8EFA269903%7d&file=AP%20CS%20Test%202%20Section%20I.docx&action=default
-[Test 2 Section II]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bD20B2474-96B9-47AC-8353-0EBF6DB561B8%7d&file=AP%20CS%20Test%202%20Section%20II.docx&action=default
-[Test 3 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b1A02C4F7-7A51-46C1-8DBB-4DA5226D0BAE%7d&file=AP%20CS%20Test%203%20Section%20I.docx&action=default
-[Test 3 Section II]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bB5649A60-7321-4D61-A65D-37DA8925856F%7d&file=AP%20CS%20Test%203%20Section%20II.docx&action=default
-[Test 4 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bEE153CCB-800A-4B47-A518-C0C164F61C31%7d&file=AP%20CS%20Test%204%20Section%20I.docx&action=default
-[Test 4 Section II]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bFCD2F052-748C-4F1E-A33B-2B50EE36A8BA%7d&file=AP%20CS%20Test%204%20Section%20II.docx&action=default
 [Test 5 Guide]: Unit6/Test-5-Guide.md
-[Test 5 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bC9BB20A4-E49E-4DE3-8833-8EE6BA0E1A5A%7d&file=AP%20CS%20Test%205%20Section%20I.docx&action=default
-[Test 5 Section II]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%206/AP%20CS%20Test%205%20Section%20II.docx
 [Test 6 Guide]: Unit7/Test-6-Guide.md
-[Test 6 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b4A734B63-4C9C-45CC-8985-D4BE41FFC245%7d&file=AP%20CS%20Test%206%20Section%20I.docx&action=default
-[Test 6 Section II]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b354B9E26-6A94-4B32-9275-FE660D9647FA%7d&file=AP%20CS%20Test%206%20-%20Section%20II.docx&action=default
-[Text Excel Student Guide A]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%206/Text%20Excel%20A%20Student%20Guide.docx
-[Text Excel Student Guide B]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%206/Text%20Excel%20B%20Student%20Guide.docx
-[Text Excel Student Guide C]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%206/Text%20Excel%20C%20Student%20Guide.docx
-[Text Excel Teacher Guide]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%206/Text%20Excel%20Teacher%20Guide.docx
-[Unit 1 Slides]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b37E92DD6-B7B6-4ECE-9349-6A47C7EC3657%7d&file=Unit1.pptx&action=default
-[Unit 1 Word Bank]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bE5199A44-5C48-41F2-B939-8CB1297EA004%7d&file=Unit%201%20Word%20Bank.docx&action=default
-[Unit 2 Slides]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b3A8173D3-C193-4093-928E-A8DEB6147181%7d&file=Unit2.pptx&action=default
-[Unit 2 Word Bank]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b57B892A1-AFAA-47B6-BFE5-9D29C0147E02%7d&file=Unit%202%20Word%20Bank.docx&action=default
-[Unit 3 Slides]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b571AF7A6-5BA1-4573-AA96-C4103AD37621%7d&file=Unit3.pptx&action=default
-[Unit 3 Test Review]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bCB43A17E-D554-403C-B041-FC6D9C4C1746%7d&file=Algorithm%20for%20Solving%20Problems.docx&action=default
-[Unit 3 Word Bank]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bCEDEE2B5-3C9F-4E9D-B99B-1CA3DE31E652%7d&file=Unit%203%20Word%20Bank.docx&action=default
-[Unit 4 Slides]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b297C788F-FE4E-4B63-85C1-385399BAA16C%7d&file=Unit4.pptx&action=default
-[Unit 4 Word Bank]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b767B6DF3-38EE-4CD1-BB97-C091E0BF8A7C%7d&file=Unit%204%20Word%20Bank.docx&action=default
-[Unit 5 Slides]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b055BB2E6-B705-4EB7-BDD0-9DAE03E14D09%7d&file=Unit5.pptx&action=default
-[Unit 5 Word Bank]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b2218D187-D432-494A-A495-245833352BE8%7d&file=Unit%205%20Word%20Bank.docx&action=default
-[Unit 6 Slides]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b0581C80E-3C9F-4109-9436-0D36A047403D%7d&file=Unit6.pptx&action=default
-[Unit 6 Word Bank]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bBAD4C792-00AD-4B4D-A0FA-CF8A5578D9E7%7d&file=Unit%206%20Word%20Bank.docx&action=default
-[Unit 7 Slides]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bA3674FAC-140A-47F2-9DE0-97B7CEA6F8AB%7d&file=Unit7.pptx&action=default
-[Unit 7 Word Bank]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b9977701F-4BC3-4966-9832-58E6DA9E9879%7d&file=Unit%207%20Word%20Bank.docx&action=default
-[Unit 8 Slides]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b7D8761D8-D33F-449B-9796-F978A87A9798%7d&file=Unit8.pptx&action=default
-[Unit 8 Word Bank]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b9242AA6F-137E-4FF0-AB72-CD79042E876E%7d&file=Unit%208%20Word%20Bank.docx&action=default
-[WS 1.1.1]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b0511987A-218C-422B-AB1F-A3071BDBB2E8%7d&file=WS%201.1.1.docx&action=default
-[WS 1.1.2]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%201/WS%201.1.2.docx
-[WS 1.4]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%201/WS%201.4.docx
-[WS 1.9]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%201/WS%201.9.docx
-[WS 2.11]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b84404339-EB3C-4D42-8877-A0CC54A9BE53%7d&file=WS%202.11.docx&action=default
-[WS 2.1]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%202/WS%202.1.docx
-[WS 2.2]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%202/WS%202.2.docx
-[WS 2.4]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%202/WS%202.4.docx
-[WS 2.5]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%202/WS%202.5.docx
-[WS 2.7]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%202/WS%202.7.docx
-[WS 3.13]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bDF7C626D-C034-4CAA-B14A-EA20D43B0274%7d&file=WS%203.13.docx&action=default
-[WS 3.16]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%203/WS%203.16.docx
-[WS 3.18]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%203/WS%203.18.docx
-[WS 3.4]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%203/WS%203.4.docx
-[WS 3.5]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%203/WS%203.5.docx
-[WS 3.7]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bE19ADDFA-3E39-4754-8CD9-241F1FCF3607%7d&file=WS%203.7.docx&action=default
-[WS 4.10]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%204/WS%204.10.docx
-[WS 4.1]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%204/WS%204.1.docx
-[WS 4.2]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%204/WS%204.2.docx
-[WS 4.3]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%204/WS%204.3.docx
-[WS 4.4 Answers]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%204/WS%204.4%20Answers.pdf
-[WS 4.4]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%204/WS%204.4.docx
-[WS 4.6]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%204/WS%204.6.docx
-[WS 5.1.1]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%205/WS%205.1.1.pdf
-[WS 5.2]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%205/WS%205.2.docx
-[WS 5.3.1]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%205/WS%205.3.1.docx
-[WS 5.3.2]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%205/WS%205.3.2.docx
-[WS 5.4]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%205/WS%205.4.docx
-[WS 5.7]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%205/WS%205.7.docx
-[WS 6.1]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%206/WS%206.1.docx
-[WS 6.2]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%206/WS%206.2.docx
-[WS 6.3]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%206/WS%206.3.docx
-[WS 6.4.1]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b18A2F37D-64EA-41CB-80BA-1CD1CAB900DB%7d&file=WS%206.4.1.docx&action=default
-[WS 6.4.2]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bD5555ACA-2425-4675-8709-9002B54AFD3B%7d&file=WS%206.4.2.docx&action=default
-[WS 6.5]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b7DEEB7BF-9DE2-43E8-A157-A667321A7E58%7d&file=WS%206.5.docx&action=default
-[WS 7.1]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%207/WS%207.1.docx
-[WS 8.3]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=AP%20CS%20A%20Curriculum%20Library/Unit%208/WS%208.3.docx
+[Text Excel Student Guide A]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Text%20Excel%20A%20Student%20Guide.docx
+[Text Excel Student Guide B]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Text%20Excel%20B%20Student%20Guide.docx
+[Text Excel Student Guide C]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Text%20Excel%20C%20Student%20Guide.docx
+[Text Excel Teacher Guide]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Text%20Excel%20Teacher%20Guide.docx
+[Unit 1 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/Unit1.pptx
+[Unit 1 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/Unit%201%20Word%20Bank.docx
+[Unit 2 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/Unit2.pptx
+[Unit 2 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/Unit%202%20Word%20Bank.docx
+[Unit 3 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Unit3.pptx
+[Unit 3 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Unit%302%20Word%20Bank.docx
+[Unit 4 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Unit4.pptx
+[Unit 4 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Unit%402%20Word%20Bank.docx
+[Unit 5 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/Unit5.pptx
+[Unit 5 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/Unit%502%20Word%20Bank.docx
+[Unit 6 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Unit6.pptx
+[Unit 6 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Unit%602%20Word%20Bank.docx
+[Unit 7 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit7/Unit7.pptx
+[Unit 7 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit7/Unit%702%20Word%20Bank.docx
+[Unit 8 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit8/Unit8.pptx
+[Unit 8 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit8/Unit%802%20Word%20Bank.docx
+[WS 1.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.1.1.docx
+[WS 1.1.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.1.2.docx
+[WS 1.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.4.docx
+[WS 1.9]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.9.docx
+[WS 2.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.1.docx
+[WS 2.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.2.docx
+[WS 2.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.4.docx
+[WS 2.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.5.docx
+[WS 2.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.7.docx
+[WS 2.11]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.11.docx
+[WS 3.10]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.10.docx
+[WS 3.12]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.12.docx
+[WS 3.13]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.13.docx
+[WS 3.15]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.15.docx
+[WS 3.16]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.16.docx
+[WS 3.18]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.18.docx
+[WS 3.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.4.docx
+[WS 3.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.5.docx
+[WS 3.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.7.docx
+[WS 4.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.1.docx
+[WS 4.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.2.docx
+[WS 4.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.3.docx
+[WS 4.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.4.docx
+[WS 4.6]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.6.docx
+[WS 4.10]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.10.docx
+[WS 5.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.1.1.pdf
+[WS 5.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.2.docx
+[WS 5.3.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.3.1.docx
+[WS 5.3.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.3.2.docx
+[WS 5.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.4.docx
+[WS 5.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.7.docx
+[WS 6.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.1.docx
+[WS 6.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.2.docx
+[WS 6.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.3.docx
+[WS 6.4.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.4.1.docx
+[WS 6.4.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.4.2.docx
+[WS 6.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.5.docx
+[WS 7.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit7/WS%207.1.docx
+[WS 8.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit8/WS%208.3.docx
