@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **White paper** **and** **markers**
-- **Classroom copies** of WS 2.2
+- **Classroom copies** of [WS 2.2]
 - **Pair or small group** student assignments
 - **Sample online temperature converter** (<http://www.onlineconversion.com/temperature.htm>)
 
@@ -176,3 +176,6 @@ Video
 
 - CS Homework Bytes, _Variable and Assignment, with Elizabeth_<br>
   <https://www.youtube.com/watch?v=fPqGiexXi_Y>
+  
+ [WS 2.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.2.docx
+
