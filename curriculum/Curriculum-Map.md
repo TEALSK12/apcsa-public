@@ -1057,8 +1057,8 @@ Unit 7: Searching & Sorting (3 weeks)
 | [7.03] 14|Elevens lab (day 14)| Elevens Lab Activity 10, re-grade fixed HW||
 | [7.03] 15|Elevens lab (day 15)| Elevens Lab Activity 11 (begin)||
 | [7.03] 16|Elevens lab (day 16)| Elevens Lab Activity 11 (end)||
-| [7.04|Review|Review questions||Study
-| [7.99|Unit 7 test|[Test 6 Guide]<br>Test 6 Section I<br>Test 6 Section II||
+| [7.04]|Review|Review questions||Study
+| 7.99|Unit 7 test|[Test 6 Guide]<br>Test 6 Section I<br>Test 6 Section II||
 
 ### 7.00
 | [Lesson 7.00]   | _Test Review & Reteach_
