@@ -1351,7 +1351,7 @@ Unit 9: AP Test Review (3 weeks)
 | [Lesson 9.00]   | _Reviewing for the AP Exam_
 |:----------------|:---------------------------
 | **Objectives**  | Students will review and prepare for the AP Computer Science A exam.
-| **Assessments** | [Bellevue Mastery Tests]<br>[AP CS 2012 Section II]
+| **Assessments** | Bellevue Mastery Tests<br>AP CS 2012 Section II
 | **In Class**    |
 | **Reading**     |
 | **Homework**    |
@@ -1372,8 +1372,6 @@ self-contained website with lessons, labs and other supporting resources:
 
 
 [Algorithm for Solving Problems]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx&raw=true
-[AP CS 2012 Section II]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%209/AP%20CS%202012%20Section%20II.zip
-[Bellevue Mastery Tests]: https://teals.sharepoint.com/curriculum/AP%20CS%20A%20Curriculum%20Library/Unit%209/Bellevue%20Mastery%20Tests.zip
 [DeMorgan’s Law]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx&raw=true
 [Equestria]: https://github.com/TEALSK12/apcsa/blob/master/curriculum/Unit3/Map%20of%20Equestria.pptx&raw=true
 [Example 6.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Example%206.1.jpg
