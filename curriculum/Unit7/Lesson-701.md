@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 7.1
+- **Classroom copies** of [WS 7.1]
 - **CS Unplugged Activity:** Searching Algorithms (<http://csunplugged.org/searching-algorithms/>)
 - **Classroom copies** of Battleship 1A, 1A’, 1B, 1B’, 2A, 2A’, 2B, 2B’
   - Included in the CS Unplugged activity
@@ -153,3 +153,6 @@ Video
 
 - CSE 143, _Binary Search_ (1:57–12:41)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=67aa1877-adc1-41d9-9bb6-1621cfa8a99e&start=107>
+  
+[WS 7.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit7/WS%207.1.docx
+
