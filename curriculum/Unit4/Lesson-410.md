@@ -18,7 +18,7 @@ Materials & Prep
 - **Projector and computer**
 - **Whiteboard and marker**
 - **Results** from electronic survey of review topics
-- **Classroom copies** of the practice test (WS 4.10)
+- **Classroom copies** of the practice test [WS 4.10]
 
 Once students have submitted their review requests, assemble those topics into categories and
 prepare to re-teach the topics as needed. If you are crunched for time, hold the review session
@@ -69,3 +69,6 @@ Procedure
 
 ### Check Student Study Lists \[5 minutes\]
 Spend the last 5 minutes of class checking each student’s review topic list.
+
+[WS 4.10]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.10.docx
+
