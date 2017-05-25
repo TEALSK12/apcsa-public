@@ -21,7 +21,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 3.13
+- **Classroom copies** of [WS 3.13]
 
 
 Pacing Guide
@@ -117,6 +117,8 @@ Common Mistakes
 ---------------
 Loops common mistakes:
 <http://interactivepython.org/runestone/static/JavaReview/LoopBasics/lMistakes.html>
+
+[WS 3.13]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.13.docx
 
 
 Video
