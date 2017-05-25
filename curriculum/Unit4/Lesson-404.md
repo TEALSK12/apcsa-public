@@ -19,8 +19,8 @@ Materials & Prep
 ----------------
 - **Projector and computer** with this page: <http://www.legendarypokemon.net/javacalc.html>
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 4.4
-- **Instructor copy** of WS 4.4
+- **Classroom copies** of [WS 4.4]
+- **Instructor copy** of WS 4.4 Answer
 
 The “worksheet” for today is a 5-page work packet, so if your school has long lines/production time
 for the copy machine, plan ahead!
@@ -119,6 +119,11 @@ Video
 
 - CSE 142, _Values vs reference_ (25:28–39:18)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=1528>
+  
+  [WS 4.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.4.docx
+
 
 - CSE 142, _modifying array when passed as parameter_ (39:19–43:41)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=2359>
+
+[WS 4.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.4.docx
