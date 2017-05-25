@@ -17,7 +17,7 @@ Overview
 
 Materials & Prep
 ----------------
-- **Group copies** of WS 5.4
+- **Group copies** of [WS 5.4]
 - **Assignments for 4 student groups**
 - **4 classroom copies** of the textbook (or have students bring books to class)
 - **Copies of the grading rubric** on the overhead or printed out (optional)
@@ -211,3 +211,6 @@ Videos
 
 - CSE 142, _“this” notation_ (optional) (45:59–49:46)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ef2111f-c799-4da9-b64a-2d876da98fb0&start=2759>
+  
+[WS 5.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.4.docx
+
