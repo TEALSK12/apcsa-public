@@ -23,7 +23,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **White paper** **and** **markers**
-- **Classroom copies** of [WS 2.4]
+- **Classroom copies** of [WS 2.4], [Poster 2.4]
 - **Zombie/werewolf video** (<https://www.youtube.com/watch?v=ZL-58z3HxUI&feature=youtu.be&t=2m41s>)
   - Probably want to play on mute!
 - **Unicorn image**
@@ -165,3 +165,4 @@ Video
   <https://www.youtube.com/watch?v=y-4vMMeBcAc>
   
 [WS 2.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.4.docx
+[Poster 2.4]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/Poster%202.4.docx
