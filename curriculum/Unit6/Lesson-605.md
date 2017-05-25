@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **Whiteboard and** **markers**
-- **Projection or classroom copies** of WS 6.5 (an AP Section II question)
+- **Projection or classroom copies** of [WS 6.5] (an AP Section II question)
 - **Student pair assignments**
 - **Video for hook:** <https://vimeo.com/18439821>
 
@@ -181,3 +181,6 @@ Misconceptions
 _Has-a_ implies a one-to-one relationship, while in many cases, classes have a one-to-many
 relationship. Use examples where the _has-a_ (composition) relationship is more than just a
 1&ratio;1 relationship. For example, a deck of cards has 52 cards.
+
+[WS 6.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.5.docx
+
