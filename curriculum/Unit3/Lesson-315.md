@@ -20,7 +20,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and markers**
-- **Group copies** of WS 3.15
+- **Group copies** of [WS 3.15]
 - **3 or more classroom copies** of the textbook
 
 
@@ -129,3 +129,6 @@ Video
 
 - CSE 142, _Sentinel Loops_ (15:56)<br>
   https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9874ea5-8d4d-4bf1-8924-ded454847a58&start=681
+  
+[WS 3.15]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.15.docx
+
