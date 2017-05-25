@@ -17,7 +17,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 3.16
+- **Classroom copies** of [WS 3.16] (RPS, Pig), [DeMorgan’s Law], [Poster 3.16.1], [Poster 3.16.2]
 - **Link** to rock-paper-scissor game (<http://tinyurl.com/bubyvtu>)
 - **Poster** 3.16.1
 - **Poster** 3.16.2
@@ -283,3 +283,10 @@ Video
 -----
 - BJP 5-4, _The Boolean Type_<br>
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c5-4>
+  
+[WS 3.16]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.16.docx
+[Poster 3.16.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Poster%203.16.1.pdf
+[Poster 3.16.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Poster%203.16.2.pdf
+[DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
+
+
