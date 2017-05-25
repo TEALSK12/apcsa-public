@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer **
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 4.6
+- **Classroom copies** of [WS 4.6]
 - **Array whiteboards**
 
 
@@ -253,3 +253,5 @@ Videos
 ------
 - BJP 7-3-2, _Tallying with an Array_<br>
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c7-3-2>
+
+[WS 4.6]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.6.docx
