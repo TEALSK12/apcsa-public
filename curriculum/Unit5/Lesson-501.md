@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 5.1
+- **Classroom copies** of [WS 5.1.1]
 - **Classroom copies** of the textbook (or just section 8.1)
 - **Bookmarks on student computers (or emailed links) to Bulbapedia**
 
@@ -351,3 +351,6 @@ Videos
 
 - CSE 142, _Class_ vs _Object_ (26:36–31:43)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2071ef1c-2912-4b41-8052-d327180ea215&start=686>
+  
+[WS 5.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.1.1.pdf
+
