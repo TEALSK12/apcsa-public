@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **White paper** **and** **markers**
-- **Classroom copies** of WS 2.5
+- **Classroom copies** of [WS 2.5]
 
 
 Pacing Guide
@@ -181,3 +181,5 @@ Video
 
 - CSE 142, _The for Loop_ (31:30–42:03)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca84c6fe-878e-4bcf-92d4-a18edd3fef21&start=1890>
+
+[WS 2.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.5.docx

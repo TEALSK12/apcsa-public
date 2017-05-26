@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 4.2
+- **Classroom copies** of [WS 4.2]
 - **Poster** 4.2
 - **Array whiteboards** (see notes at end of LP 4.2) **and dry erase markers**
 - **Student small-group assignments** (≈3-4 students per group)
@@ -148,3 +148,5 @@ Video
 
 - CSE 142, _For-Each Loop_ (19:40–22:40)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=14058dec-efd5-4db3-b841-9d836e92bfb4&start=1570>
+
+[WS 4.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.2.docx

@@ -19,6 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (optional)
 - **White paper** **and** **markers**
+- **Classroom copies** of [Poster 4.7]
 - **Rules** for grudgeball (see website for details:
   <http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html>)
 - **Team assignments** that divide your class into 5 or 6 teams
@@ -269,3 +270,6 @@ Videos
 
 - CSE 142, _Wrapper Class_ (41:53–44:54)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=efa0eeba-81bc-497c-a1ae-46cda247c563&start=2510>
+  
+[Poster 4.7]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Poster%204.7.pptx
+

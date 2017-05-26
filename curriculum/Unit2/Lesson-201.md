@@ -21,7 +21,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **White paper** **and** **markers**
-- **Classroom sets** of operator/operand expression cards created from WS 2.0
+- **Classroom sets** of operator/operand expression cards created from [WS 2.1]
 - **Pair or small group** student assignments
 
 Operator/Operand Expression sets can be printed and cut from regular printer paper, or you can write
@@ -176,3 +176,5 @@ Video
 
 - CSE 142, _Basic Data Concepts_ (40:42–49:59)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5df64f2-e42f-4943-bab6-29eca0ab8f00&start=2442>
+
+[WS 2.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.1.docx

@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 3.5
+- **Classroom copies** of [WS 3.5]
 
 The handouts for this lesson include notes as well as exercises. If you are working on developing
 note-taking skills in your classroom, you may prefer to delete the notes from the worksheet (so it
@@ -173,3 +173,5 @@ Videos
 
 - UW AP CS Prep, _Java String Processing_<br>
   <https://www.youtube.com/playlist?list=PL_bszZLe8OFfnueQ6fn7wNqu87k3X2Nin>
+
+[WS 3.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.5.docx

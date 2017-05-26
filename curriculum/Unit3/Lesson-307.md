@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **Whiteboard and markers**
-- **Classroom copies** of WS 3.7
+- **Classroom copies** of [WS 3.7] LP Battle
 - **Video** of sample battle (<http://youtu.be/k7K5LEE9xxw?t=48s>)
 - **Advanced damage calculator** (<https://pokemonshowdown.com/damagecalc/>)
 
@@ -162,3 +162,5 @@ to add that factor into their battle simulation as they read through Ch. 4 and C
 
 If students are struggling with creating the graphic in Exercise 3, help students by writing helper
 lines of code on the board, or creating a pseudocode outline as a whole group.
+
+[WS 3.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.7.docx

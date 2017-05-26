@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard** **and** **markers**
-- **Classroom copies** of WS 6.2
+- **Classroom copies** of [WS 6.2]
 - **Class posters** from 6.1
 - **Art supplies** for each group:
   - Markers
@@ -204,3 +204,6 @@ Video
 
 - CSE 142, _Polymorphism_ (35:07–49:57)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8a0a0287-877b-42df-99fc-e9f551929bef&start=2107>
+  
+[WS 6.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.2.docx
+

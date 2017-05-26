@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 5.3.1 and WS 5.3.2
+- **Classroom copies** of [WS 5.3.1], [WS 5.3.2]
 - **Student small-group assignments** (3-4 per group)
 - **2 dialogue bubbles** (index cards or sticky notes) for each group
 - **Roll of tape/glue stick** for each group
@@ -231,3 +231,7 @@ Videos
 
 - CSE 142, _Multiple Constructors_ (optional) (30:14–35:37)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ef2111f-c799-4da9-b64a-2d876da98fb0&start=1814>
+  
+[WS 5.3.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.3.1.docx
+[WS 5.3.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.3.2.docx
+

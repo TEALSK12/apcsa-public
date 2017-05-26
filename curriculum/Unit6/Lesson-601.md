@@ -21,7 +21,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 6.1
+- **Classroom copies** of [WS 6.1] Start class poster, [Example 6.1]
 - **Pictures** of Pokémon (<http://tinyurl.com/l6mybmr>) or Pokémon Cards
 - **Student pair assignments**
 - **Art supplies** for each group:
@@ -339,3 +339,6 @@ Video
 
 - CSE 142, _Inheritance_ (23:28–35:06)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8a0a0287-877b-42df-99fc-e9f551929bef&start=1408>
+
+[WS 6.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.1.docx
+[Example 6.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Example%206.1.jpg

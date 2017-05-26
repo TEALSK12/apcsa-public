@@ -21,7 +21,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 2.7
+- **Classroom copies** of [WS 2.7]
 
 Since most of today’s lesson follows WS 2.7, you should have read through the worksheet. You may
 prefer to delete the notes from the worksheet (so it is only a sheet of exercises) if you are
@@ -123,3 +123,6 @@ Video
 
 - CSE 142, _Managing Complexity: Review_ (Optional) (0:58–21:04)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=26cacdb4-6e47-405f-a788-912a9a158b41&start=58>
+  
+[WS 2.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.7.docx
+

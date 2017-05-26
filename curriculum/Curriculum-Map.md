@@ -1057,8 +1057,8 @@ Unit 7: Searching & Sorting (3 weeks)
 | [7.03] 14|Elevens lab (day 14)| Elevens Lab Activity 10, re-grade fixed HW||
 | [7.03] 15|Elevens lab (day 15)| Elevens Lab Activity 11 (begin)||
 | [7.03] 16|Elevens lab (day 16)| Elevens Lab Activity 11 (end)||
-| [7.04|Review|Review questions||Study
-| [7.99|Unit 7 test|[Test 6 Guide]<br>Test 6 Section I<br>Test 6 Section II||
+| [7.04]|Review|Review questions||Study
+| 7.99|Unit 7 test|[Test 6 Guide]<br>Test 6 Section I<br>Test 6 Section II||
 
 ### 7.00
 | [Lesson 7.00]   | _Test Review & Reteach_
@@ -1547,8 +1547,8 @@ self-contained website with lessons, labs and other supporting resources:
 [Poster 2.4]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/Poster%202.4.docx
 [Poster 3.16.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Poster%203.16.1.pdf
 [Poster 3.16.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Poster%203.16.2.pdf
-[Poster 4.1]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Poster%204.1.pdf
-[Poster 4.2]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Poster%204.2.pdf
+[Poster 4.1]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Poster%204.1.pptx
+[Poster 4.2]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Poster%204.2.pptx
 [Poster 4.7]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Poster%204.7.pptx
 [Poster 6.3]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Poster%206.3.pptx
 [Poster 6.6]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Poster%206.6.pptx

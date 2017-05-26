@@ -20,6 +20,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (optional)
 - **Whiteboard and** **markers**
+- **Classroom copies** of [Operator Precedence]
 - **Rules** for grudgeball (see website for details:
   <http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html>)
 
@@ -330,3 +331,6 @@ Video
 
 - CS Homework Bytes, _If-Statements, with Jim_<br>
   <https://www.youtube.com/watch?v=SxWFYfA4i0M>
+  
+  [Operator Precedence]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Operator%20Precedence.pptx
+

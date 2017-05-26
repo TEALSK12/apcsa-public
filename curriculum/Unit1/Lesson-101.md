@@ -24,7 +24,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Student Computers** with Eclipse installed
-- **Classroom copies** of WS 1.1.2
+- **Classroom copies** of [WS 1.1.1] and [WS 1.1.2]
 - **USB Drives** for each student (if applicable to school)
 - **Handout/Slide Deck** demonstrating file submission procedure
 
@@ -158,3 +158,6 @@ JavaScript. Although both are programing languages and many of the constructs ar
 between the two languages, Java and JavaScript are two different languages. JavaScript is used today
 for both client side web browser scripting to web servers. Java is used to create platform
 independent apps meaning a program written in Java will run across a variety of operating systems.
+
+[WS 1.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.1.1.docx
+[WS 1.1.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.1.2.docx

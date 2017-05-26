@@ -20,7 +20,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **White paper** **and** **markers**
-- **Classroom copies** of WS 1.4
+- **Classroom copies** of [WS 1.4]
 - **Sample punched card** to pass around (available on eBay: <http://tinyurl.com/nnthazu>)
 - **Pictures**:
   - Punch cards (<http://tinyurl.com/n9zqd3k>)
@@ -214,3 +214,6 @@ Video
 -----
 - CSE 142, _Common Errors_ (36:10–44:11)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dd78a77d-cd7a-4ff8-b853-5446801946fb&start=2170>
+
+[WS 1.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.4.docx
+

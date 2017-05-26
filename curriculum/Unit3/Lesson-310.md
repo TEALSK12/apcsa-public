@@ -20,7 +20,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (optional)
 - **Whiteboard and** **markers**
-- **Group copies** of WS 3.10
+- **Group copies** of [WS 3.10]
 - **Poster paper, construction paper, white paper,** and **lined paper**
 - **Markers, tape, and glue sticks**
 - **Classroom copies of textbooks**
@@ -72,3 +72,5 @@ each of your working teams are properly stratified (rather than using tiered gro
 
 If students are speeding along, encourage students to write down questions to pose to other groups
 during mini-lessons.
+
+[WS 3.10]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.10.docx

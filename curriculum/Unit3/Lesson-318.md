@@ -18,7 +18,7 @@ Materials & Prep
 - **Projector and computer**
 - **Whiteboard and marker**
 - **Results** from electronic survey of review topics
-- **Classroom copies** of the practice test (WS 3.18)
+- **Classroom copies** of the practice test [WS 3.18]
 
 Once students have submitted their review requests, assemble those topics into categories and
 prepare to re-teach the topics as needed.
@@ -92,3 +92,5 @@ challenge of a real AP test.
 As written, the exams increase in length and complexity with each unit. If your students are all
 acing the test, challenge your students by modifying the section 2 questions, and adding extra
 section 1 questions.
+
+[WS 3.18]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.18.docx

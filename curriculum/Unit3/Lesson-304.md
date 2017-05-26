@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **White paper** **and** **markers**
-- **Classroom copies** of WS 3.4
+- **Classroom copies** of [WS 3.4], [Equestria]
 - **Classroom copies** of Algorithm for Solving Problems
 - **Poster or image** of Equestria map with Cartesian coordinates (Poster 3.4)
 
@@ -139,3 +139,6 @@ class,” “create some parameters to pass to a return method,” “write the 
 return the distance value”) out of order, then give the students some time to organize the steps
 themselves. As a whole group, you can then come to consensus on what steps need to be approached,
 and what order components should appear in the final program.
+
+[WS 3.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.4.docx
+[Equestria]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Map%20of%20Equestria.pptx
