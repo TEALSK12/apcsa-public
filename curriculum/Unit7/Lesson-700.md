@@ -104,3 +104,8 @@ to assign Programming Projects from the blue pages at the end of each Chapter.
 
 If you have a few students that are struggling with the class, choose these students to create your
 classroom posters after school or for extra credit.
+
+
+Forum discussion
+----------------
+[Lesson 7.00 Test Review & Reteach (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-7/7-00-test-review-reteach)
