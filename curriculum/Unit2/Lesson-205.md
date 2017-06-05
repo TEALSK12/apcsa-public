@@ -181,3 +181,8 @@ Video
 
 - CSE 142, _The for Loop_ (31:30–42:03)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca84c6fe-878e-4bcf-92d4-a18edd3fef21&start=1890>
+
+
+Forum discussion
+---------------------------
+[Lesson 2.05 for Loops (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-2/2-05-for-loops)

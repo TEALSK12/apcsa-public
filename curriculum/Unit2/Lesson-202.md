@@ -176,3 +176,8 @@ Video
 
 - CS Homework Bytes, _Variable and Assignment, with Elizabeth_<br>
   <https://www.youtube.com/watch?v=fPqGiexXi_Y>
+
+
+Forum discussion
+---------------------------
+[Lesson 2.02 Declaring and Assigning Variables (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-2/2-02-declaring-assigning-variables)

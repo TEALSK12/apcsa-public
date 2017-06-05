@@ -124,3 +124,8 @@ actual coding challenge.
 
 If students are having trouble due to language, pair students up so those with more advanced English
 can help those that are emergent language learners.
+
+
+Forum discussion
+---------------------------
+[Lesson 2.08 Programming Project (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-2/2-08-programming-project)
