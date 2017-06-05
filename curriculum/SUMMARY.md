@@ -3,7 +3,7 @@
 * [Curriculum Map](Curriculum-Map.md)
 
 ## Unit 1: Programming & Java (2 weeks)
-* [Lesson 1.01: Using Eclipse & Practice It](Unit1/Lesson-101.md) 
+* [Lesson 1.01: Using Eclipse & Practice It](Unit1/Lesson-101.md)
 * [Lesson 1.02: Algorithms & Computational Thinking](Unit1/Lesson-102.md)
 * [Lesson 1.03: String & Console Output](Unit1/Lesson-103.md)
 * [Lesson 1.04: Common Errors & Comments](Unit1/Lesson-104.md)
@@ -51,6 +51,7 @@
 * [Lesson 3.18: Review](Unit3/Lesson-318.md)
 * [Lesson 3.99: (Unit 3 test)](Curriculum-Map.md#399)
 * [Lesson 3.XX: Frac Calc](Curriculum-Map.md#3xx)
+  * [Test 2 Guide](Unit3/Test-2-Guide.md)
 
 ## Unit 4: Arrays, Lists, & Files (4 weeks)
 * [Lesson 4.00: Test Review & Reteach](Unit4/Lesson-400.md)
@@ -89,6 +90,7 @@
 * [Lesson 6.08: Finding & Fixing Errors](Unit6/Lesson-608.md)
 * [Lesson 6.09: Review](Unit6/Lesson-609.md)
 * [Lesson 6.99: (Unit 6 test)](Curriculum-Map.md#699)
+  * [Test 5 Guide](Unit6/Test-5-Guide.md)
 * [Lesson 6.XX: Text Excel](Curriculum-Map.md#6xx)
 
 ## Unit 7: Searching & Sorting (3 weeks)
@@ -98,6 +100,7 @@
 * [Lesson 7.03: Elevens Lab (16 Days)](Unit7/Lesson-703.md)
 * [Lesson 7.04: Review](Unit7/Lesson-704.md)
 * [Lesson 7.99: (Unit 7 test)](Curriculum-Map.md#799)
+  * [Test 6 Guide](Unit6/Test-5-Guide.md)
 
 ## Unit 8: Recursion (2 weeks)
 * [Lesson 8.00: Test Review & Reteach](Unit8/Lesson-800.md)
@@ -108,6 +111,7 @@
 * [Lesson 8.05: Finding & Fixing Errors](Unit8/Lesson-805.md)
 * [Lesson 8.06: Review & Quiz](Unit8/Lesson-806.md)
 * [Lesson 8.07: Quiz Review & Reteach](Unit8/Lesson-807.md)
+  * [Test 6 Guide](Unit7/Test-6-Guide.md)
 
 ## Unit 9: AP Test Review (3 weeks)
 * [Lesson 9.01: Reviewing for the AP Exam](Unit9/Lesson-901.md)
