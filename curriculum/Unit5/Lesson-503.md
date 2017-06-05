@@ -231,3 +231,8 @@ Videos
 
 - CSE 142, _Multiple Constructors_ (optional) (30:14–35:37)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ef2111f-c799-4da9-b64a-2d876da98fb0&start=1814>
+
+
+Forum discussion
+----------------
+[Lesson 5.03 Object Initialization: Constructors (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-5/5-03-object-initialization-constructors)

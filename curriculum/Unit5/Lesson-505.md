@@ -82,3 +82,8 @@ help students work through it.
 
 For those students who have nothing to correct (or finish very early), reward them with silent free
 time, or allow them to work on a free-choice programming project.
+
+
+Forum discussion
+----------------
+[Lesson 5.05 Finding & Fixing Errors (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-5/5-05-finding-fixing-errors)

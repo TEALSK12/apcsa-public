@@ -211,3 +211,8 @@ Videos
 
 - CSE 142, _“this” notation_ (optional) (45:59–49:46)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ef2111f-c799-4da9-b64a-2d876da98fb0&start=2759>
+
+
+Forum discussion
+----------------
+[Lesson 5.04 Encapsulation (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-5/5-04-encapsulation)

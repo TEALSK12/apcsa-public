@@ -284,3 +284,8 @@ Videos
 
 - CSE 142, _Object methods_ (45:32–49:41)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2071ef1c-2912-4b41-8052-d327180ea215&start=2732>
+
+
+Forum discussion
+----------------
+[Lesson 5.02 Object State & Behavior (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-5/5-02-object-state-behavior)

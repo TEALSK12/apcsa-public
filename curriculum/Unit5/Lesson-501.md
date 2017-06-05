@@ -351,3 +351,8 @@ Videos
 
 - CSE 142, _Class_ vs _Object_ (26:36–31:43)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2071ef1c-2912-4b41-8052-d327180ea215&start=686>
+
+
+Forum discussion
+----------------
+[Lesson 5.01 Object Oriented Programming (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-5/5-01-object-oriented-programming)
