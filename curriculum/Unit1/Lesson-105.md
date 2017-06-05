@@ -229,3 +229,8 @@ Videos
 
 - CSE 142, _Eliminating Redundancy_ (29:36–35:49)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5df64f2-e42f-4943-bab6-29eca0ab8f00&start=1775>
+
+
+Forum discussion
+---------------------------
+[Lesson 1.05 Static Methods and Method Calls (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/ap-cs-a-unit-1/1-05-static-methods-method-calls)

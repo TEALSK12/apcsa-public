@@ -214,3 +214,8 @@ Video
 -----
 - CSE 142, _Common Errors_ (36:10–44:11)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dd78a77d-cd7a-4ff8-b853-5446801946fb&start=2170>
+
+
+Forum discussion
+---------------------------
+[Lesson 1.04 Common Errors & Comments (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/ap-cs-a-unit-1/1-04-common-errors-comments)

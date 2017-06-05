@@ -93,3 +93,8 @@ because (1) grading the questions is easier, since logic and syntax errors are e
 Teaching Tips
 -------------
 Tips for Assessment: <http://csteachingtips.org/tips-for-assessing-programming>
+
+
+Forum discussion
+---------------------------
+[Lesson 1.09 Unit 1 Test (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/ap-cs-a-unit-1/1-99-unit-1-test)

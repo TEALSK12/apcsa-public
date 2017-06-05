@@ -194,6 +194,7 @@ ever existed. The invention of the computer created a platform for algorithms cr
 carried out by a machine. So a computer program is a tool used by people to expresses algorithms
 that can be executed by a computer.
 
+
 Forum discussion
 ---------------------------
-[Lesson 1.02 Algorithms Computational Thinking](http://tealsk12.trydiscourse.com/c/ap-cs-a-unit-1/1-02-algorithms-computational-thinking)
+[Lesson 1.02 Algorithms Computational Thinking (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/ap-cs-a-unit-1/1-02-algorithms-computational-thinking)
