@@ -240,3 +240,8 @@ Video
 
 - CSE 142, _Cumulative Sum_ (23:07-38:40)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c247411-e890-4835-8a79-bee6e74066c2&start=1387>
+
+
+Forum discussion
+----------------
+[Lesson 3.12 Cumulative Algorithms (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-12-cumulative-algorithms)

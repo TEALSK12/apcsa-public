@@ -139,3 +139,8 @@ class,” “create some parameters to pass to a return method,” “write the 
 return the distance value”) out of order, then give the students some time to organize the steps
 themselves. As a whole group, you can then come to consensus on what steps need to be approached,
 and what order components should appear in the final program.
+
+
+Forum discussion
+----------------
+[Lesson 3.0 Programming Project (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-04-programming-project)

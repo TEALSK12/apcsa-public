@@ -133,3 +133,8 @@ Video
 
 - CSE 142, _Guessing Game_ (17:18–37:13)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fe3ea547-6068-4e56-ab0b-e8f8605dd836&start=1038>
+
+
+Forum discussion
+----------------
+[Lesson 3.14 Random Numbers (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-14-random-numbers)

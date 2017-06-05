@@ -129,3 +129,8 @@ Video
 
 - CSE 142, _Sentinel Loops_ (15:56)<br>
   https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9874ea5-8d4d-4bf1-8924-ded454847a58&start=681
+
+
+Forum discussion
+----------------
+[Lesson 3.15 Fencepost & Sentinel Loops (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-15-fencepost-sentinel-loops)

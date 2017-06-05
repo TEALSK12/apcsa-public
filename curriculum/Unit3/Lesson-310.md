@@ -72,3 +72,8 @@ each of your working teams are properly stratified (rather than using tiered gro
 
 If students are speeding along, encourage students to write down questions to pose to other groups
 during mini-lessons.
+
+
+Forum discussion
+----------------
+[Lesson 3.10 Nested if/else Statements (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-10-nested-if-else-statements)

@@ -146,3 +146,8 @@ Video
 
 - CSE 142, _Scanner_ (0:21-23:06)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c247411-e890-4835-8a79-bee6e74066c2&start=21>
+
+
+Forum discussion
+----------------
+[Lesson 3.06 Interactive Programs & Scanner Objects (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-06-interactive-programs-scanner-objects)

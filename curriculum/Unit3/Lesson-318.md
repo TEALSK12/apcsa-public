@@ -92,3 +92,8 @@ challenge of a real AP test.
 As written, the exams increase in length and complexity with each unit. If your students are all
 acing the test, challenge your students by modifying the section 2 questions, and adding extra
 section 1 questions.
+
+
+Forum discussion
+----------------
+[Lesson 3.18 Review (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-18-review)
