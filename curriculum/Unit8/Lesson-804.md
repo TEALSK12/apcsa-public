@@ -119,3 +119,8 @@ Video
 -----
 - CSE 143, _Selection Sort_ (17:22–28:11)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1fdd364a-4d01-49cf-96b3-ce2f67b77dcf&start=1042>
+
+
+Forum discussion
+----------------
+[Lesson 8.04 MergeSort (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-8/8-04-mergesort)

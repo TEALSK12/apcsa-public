@@ -45,7 +45,7 @@ Unit 1: Programming & Java (2 weeks)
 | [1.07] | _Programming Project_                   | PP 1.2, 1.5 | | Note check (add summaries if needed) |
 | [1.08] | _Finding & Fixing Errors_               | Fix homework | Review ch 1 | Submit questions for review |
 | [1.09] | _Review_                                | Review questions<br>[WS 1.9]<br>Practice test | | Study |
-| [1.99] | _Unit 1 Test_                           | [Test 0 Section I]<br>[Test 0 Section II] | | |
+| 1.99 | _Unit 1 Test_                             | [Test 0 Section I]<br>[Test 0 Section II] | |  |
 
 ### 1.01
 | [Lesson 1.01]   | _Using Eclipse & Practice-It_
@@ -157,7 +157,7 @@ Unit 2: Working with Data & Basic Control Flow (3 weeks)
 | [2.09] | Programming Project	                 | Complete PP 2.4 | | \[_TBD practice question_\] |
 | [2.10] | Finding & Fixing Errors	             | Fix HW	       | Review ch 2 (omit 2.5)	| Submit questions for review |
 | [2.11] | Review	(Review questions)             | [WS 2.11]<br>practice test |	| Study |
-| [2.99] | (Unit 2 Test) | [Test 1 Section I]<br>[Test 1 Section II] | | |
+| 2.99 | (Unit 2 Test) | [Test 1 Section I]<br>[Test 1 Section II] | |  |
 
 ### 2.00
 | [Lesson 2.00]   | _Test Review & Reteach_
@@ -700,7 +700,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 | [5.06] 08|Picture Lab (day 8)|[Picture Lab] Activity 9||Cont. Picture Lab Activity 9
 | [5.06] 09|Picture Lab (day 9)|[Picture Lab] Activity 9, cont.||Submit questions for review
 | [5.07] |Review|Review question<br>[WS 5.7] Test practice||Study
-5.99|(Unit 5 test)|[Test 4 Section I]<br>[Test 4 Section II]||
+| 5.99|(Unit 5 test)|[Test 4 Section I]<br>[Test 4 Section II]| | |
 
 ### 5.00
 | [Lesson 5.00]   | _Test Review & Reteach_
@@ -1058,8 +1058,8 @@ Unit 7: Searching & Sorting (3 weeks)
 | [7.03] 14|Elevens lab (day 14)| [Elevens Lab] Activity 10, re-grade fixed HW||
 | [7.03] 15|Elevens lab (day 15)| [Elevens Lab] Activity 11 (begin)||
 | [7.03] 16|Elevens lab (day 16)| [Elevens Lab] Activity 11 (end)||
-| [7.04|Review|Review questions||Study
-| [7.99|Unit 7 test|[Test 6 Guide]<br>[Test 6 Section I]<br>[Test 6 Section II]||
+| [7.04]|Review|Review questions||Study
+| 7.99|Unit 7 test|[Test 6 Guide]<br>[Test 6 Section I]<br>[Test 6 Section II]||
 
 ### 7.00
 | [Lesson 7.00]   | _Test Review & Reteach_
@@ -1265,8 +1265,9 @@ Unit 8: Recursion (2 weeks)
 | [8.03] |Mechanics of Recursion|[WS 8.3]<br>[Demo 8.3]|13.4?|SC 12.6, 12.10, E 12.3
 | [8.04] |MergeSort|Implement mergeSort||SC 13.27-13.30<br>Notebook Check
 | [8.05] |Finding & Fixing Errors|Fix HW|Review ch 12.1, 12.2|Submit questions for review
-| [8.06] |Review & Quiz?|[Quiz 8.5]|Barrons ch 7|
-| [8.07] |Quiz Review & Reteach|Review quiz|Barrons ch 7|
+| [8.06] |Review||Study|
+| 8.07 |Quiz|[Quiz 8]|Barrons ch 7|
+| [8.08] |Quiz Review & Reteach|Review quiz||Barrons ch 7|
 
 ### 8.00
 | [Lesson 8.00]   | _Test Review & Reteach_
@@ -1323,22 +1324,27 @@ Unit 8: Recursion (2 weeks)
 | **Homework**    | Submit questions for review
 
 ### 8.06
-| [Lesson 8.06]   | _Review & Quiz_
+| [Lesson 8.06]   | _Review_
 |:----------------|:---------------
 | **Objectives**  | Students will identify weaknesses in their Unit 8 knowledge.
 | **Assessments** | Students will create a personalized list of review topics to guide tonight's study session.
-| **In Class**    | [Quiz 8.5]
-| **Reading**     | Barrons ch 7
-| **Homework**    |
+| **In Class**    | Review Questions
+| **Reading**     |
+| **Homework**    | Study
 
 ### 8.07
+| [Lesson 8.07]   | _Review & Quiz_
+|:----------------|:---------------
+| **In Class**    | [Quiz 8]
+
+### 8.08
 | [Lesson 8.07]   | _Quiz Review & Reteach_
 |:----------------|:-----------------------
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 8.
 | **Assessments** | Re-submit quiz answers with updated corrections for partial or full credit.
 | **In Class**    | Review quiz
-| **Reading**     | Barrons ch 7
-| **Homework**    |
+| **Reading**     |
+| **Homework**    | Barrons ch 7
 
 
 
@@ -1353,9 +1359,6 @@ Unit 9: AP Test Review (3 weeks)
 |:----------------|:---------------------------
 | **Objectives**  | Students will review and prepare for the AP Computer Science A exam.
 | **Assessments** | [Bellevue Mastery Tests]<br>[AP CS 2012 Section II]
-| **In Class**    |
-| **Reading**     |
-| **Homework**    |
 
 
 
@@ -1559,7 +1562,7 @@ self-contained website with lessons, labs and other supporting resources:
 [Poster 4.7]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b54D2CB87-84D1-434E-AEDC-C66D7CFE245C%7d&file=Poster%204.7.pptx&action=default
 [Poster 6.3]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b9E9DCF3B-1DBD-440E-92D2-11CEC7631A5C%7d&file=Poster%206.3.pptx&action=default
 [Poster 6.6]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b26C78C28-FCDB-4CC5-8F79-FE82EB4CE245%7d&file=Poster%206.6.pptx&action=default
-[Quiz 8.5]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b8D2844A6-0421-4F92-9FA9-9A0EEB838DA4%7d&file=Quiz%208.5.docx&action=default
+[Quiz 8]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b8D2844A6-0421-4F92-9FA9-9A0EEB838DA4%7d&file=Quiz%208.5.docx&action=default
 [Teach mini-lessons]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7bE3A7E8D8-492C-46C1-A221-9B4B845942D2%7d&file=WS%203.10.docx&action=default
 [Teacher Demo 8.3]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b7C3B469F-170C-479D-94CB-D0A87DB89E2A%7d&file=Teacher%20Demo%208.3.docx&action=default
 [Test 0 Section I]: https://teals.sharepoint.com/curriculum/_layouts/15/WopiFrame.aspx?sourcedoc=%7b0A82C5C7-9036-4EA6-A159-7F4FB8A9552B%7d&file=AP%20CS%20Test%200%20Section%20I.docx&action=default

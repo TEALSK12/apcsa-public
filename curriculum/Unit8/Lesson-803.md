@@ -265,3 +265,8 @@ Video
 -----
 - BJP 12-3, _Implementing a Recursive Method_<br>
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c12-3>
+
+
+Forum discussion
+----------------
+[Lesson 8.03 Mechanics of Recursion (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-8/8-03-mechanics-of-recursion)

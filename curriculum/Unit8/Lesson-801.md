@@ -206,3 +206,8 @@ Video
 
 - CSE 143, _Recursion_ (6:32–32:28)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c698c41a-6872-46d3-9c55-87ce2ba78276&start=392>
+
+
+Forum discussion
+----------------
+[Lesson 8.01 Thinking Recursively (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-8/8-01-thinking-recursively)
