@@ -50,8 +50,8 @@
 * [Lesson 3.17: Finding & Fixing Errors](Unit3/Lesson-317.md)
 * [Lesson 3.18: Review](Unit3/Lesson-318.md)
 * [Lesson 3.99: (Unit 3 test)](Curriculum-Map.md#399)
-* [Lesson 3.XX: Frac Calc](Curriculum-Map.md#3xx)
   * [Test 2 Guide](Unit3/Test-2-Guide.md)
+* [Lesson 3.XX: Frac Calc](Curriculum-Map.md#3xx)
 
 ## Unit 4: Arrays, Lists, & Files (4 weeks)
 * [Lesson 4.00: Test Review & Reteach](Unit4/Lesson-400.md)
