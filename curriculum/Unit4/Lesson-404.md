@@ -122,3 +122,9 @@ Video
 
 - CSE 142, _modifying array when passed as parameter_ (39:19–43:41)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=2359>
+
+
+
+Forum discussion
+----------------
+[Lesson 4.04 Reference Semantics (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-04-reference-semantics)

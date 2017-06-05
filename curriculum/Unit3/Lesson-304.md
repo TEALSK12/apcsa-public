@@ -143,4 +143,4 @@ and what order components should appear in the final program.
 
 Forum discussion
 ----------------
-[Lesson 3.0 Programming Project (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-04-programming-project)
+[Lesson 3.04 Programming Project (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-04-programming-project)

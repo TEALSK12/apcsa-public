@@ -244,3 +244,8 @@ Video
 
 - CSE 142: _Absolute values an array_ (1:42–5:11)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=2622>
+
+
+Forum discussion
+----------------
+[Lesson 4.05 Shifting Values & Arrays of Objects (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-05-shifting-values-arrays-of-objects)
