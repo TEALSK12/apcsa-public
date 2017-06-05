@@ -204,3 +204,8 @@ Video
 
 - CSE 142, _Polymorphism_ (35:07–49:57)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8a0a0287-877b-42df-99fc-e9f551929bef&start=2107>
+
+
+Forum discussion
+----------------
+[Lesson 6.02 Overriding Methods & Accessing Inherited Code (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-6/6-02-overriding-methods-accessing-inherited-code)

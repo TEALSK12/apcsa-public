@@ -59,3 +59,8 @@ Procedure
 
 ### Check Student Study Lists \[5 minutes\]
 Spend the last 5 minutes of class checking each student’s review topic list.
+
+
+Forum discussion
+----------------
+[Lesson 6.09 Unit 6 Review (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-6/6-09-review)

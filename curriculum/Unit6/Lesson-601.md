@@ -339,3 +339,8 @@ Video
 
 - CSE 142, _Inheritance_ (23:28–35:06)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8a0a0287-877b-42df-99fc-e9f551929bef&start=1408>
+
+
+Forum discussion
+----------------
+[Lesson 6.01 Inheritance Basics (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-6/6-0101-0102-inheritance-basics)

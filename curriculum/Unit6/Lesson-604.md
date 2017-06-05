@@ -225,3 +225,8 @@ worksheet to complete this lesson in one class period.
   group for additional scaffolding.
 
 Alternatively, you can do the entire assignment, but allow 2 class periods to complete each group.
+
+
+Forum discussion
+----------------
+[Lesson 6.04 Polymorphism (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-6/6-04-polymorphism)

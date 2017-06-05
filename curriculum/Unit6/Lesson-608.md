@@ -78,3 +78,8 @@ In ELL classrooms, pair students and allow them to work together to correct thei
 
 For those students who have nothing to correct (or finish very early), reward them with silent free
 time, or allow them to work on a free-choice programming project.
+
+
+Forum discussion
+----------------
+[Lesson 6.08 Finding & Fixing Errors (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-6/6-08-finding-fixing-errors)
