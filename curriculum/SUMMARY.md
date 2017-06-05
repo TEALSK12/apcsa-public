@@ -109,8 +109,8 @@
 * [Lesson 8.03: Mechanics of Recursion](Unit8/Lesson-803.md)
 * [Lesson 8.04: MergeSort](Unit8/Lesson-804.md)
 * [Lesson 8.05: Finding & Fixing Errors](Unit8/Lesson-805.md)
-* [Lesson 8.06: Review & Quiz](Unit8/Lesson-806.md)
-* [Lesson 8.07: (Unit 8 test)](Curriculum-Map.md#807)
+* [Lesson 8.06: Review](Unit8/Lesson-806.md)
+* [Lesson 8.07: (Unit 8 quiz)](Curriculum-Map.md#807)
 * [Lesson 8.08: Quiz Review & Reteach](Unit8/Lesson-808.md)
 
 
