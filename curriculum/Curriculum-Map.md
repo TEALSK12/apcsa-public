@@ -699,7 +699,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 | [5.06] 08|Picture Lab (day 8)|Picture Lab Activity 9||Cont. Picture Lab Activity 9
 | [5.06] 09|Picture Lab (day 9)|Picture Lab Activity 9, cont.||Submit questions for review
 | [5.07] |Review|Review question<br>[WS 5.7] Test practice||Study
-5.99|(Unit 5 test)|Test 4 Section I<br>Test 4 Section II||
+| [5.99]|(Unit 5 test)|Test 4 Section I<br>Test 4 Section II||
 
 ### 5.00
 | [Lesson 5.00]   | _Test Review & Reteach_
@@ -1264,8 +1264,9 @@ Unit 8: Recursion (2 weeks)
 | [8.03] |Mechanics of Recursion|[WS 8.3]<br>[Teacher Demo 8.3]|13.4?|SC 12.6, 12.10, E 12.3
 | [8.04] |MergeSort|Implement mergeSort||SC 13.27-13.30<br>Notebook Check
 | [8.05] |Finding & Fixing Errors|Fix HW|Review ch 12.1, 12.2|Submit questions for review
-| [8.06] |Review & Quiz?|[Quiz 8.5]|Barrons ch 7|
-| [8.07] |Quiz Review & Reteach|Review quiz|Barrons ch 7|
+| [8.06] |Review||Study|
+| 8.07 |Quiz|[Quiz 8]|Barrons ch 7|
+| [8.08] |Quiz Review & Reteach|Review quiz||Barrons ch 7|
 
 ### 8.00
 | [Lesson 8.00]   | _Test Review & Reteach_
@@ -1322,22 +1323,27 @@ Unit 8: Recursion (2 weeks)
 | **Homework**    | Submit questions for review
 
 ### 8.06
-| [Lesson 8.06]   | _Review & Quiz_
+| [Lesson 8.06]   | _Review_
 |:----------------|:---------------
 | **Objectives**  | Students will identify weaknesses in their Unit 8 knowledge.
 | **Assessments** | Students will create a personalized list of review topics to guide tonight's study session.
-| **In Class**    | [Quiz 8.5]
-| **Reading**     | Barrons ch 7
-| **Homework**    |
+| **In Class**    | Review Questions
+| **Reading**     |
+| **Homework**    | Study
 
 ### 8.07
+| [Lesson 8.07]   | _Review & Quiz_
+|:----------------|:---------------
+| **In Class**    | [Quiz 8]
+
+### 8.08
 | [Lesson 8.07]   | _Quiz Review & Reteach_
 |:----------------|:-----------------------
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 8.
 | **Assessments** | Re-submit quiz answers with updated corrections for partial or full credit.
 | **In Class**    | Review quiz
-| **Reading**     | Barrons ch 7
-| **Homework**    |
+| **Reading**     |
+| **Homework**    | Barrons ch 7
 
 
 

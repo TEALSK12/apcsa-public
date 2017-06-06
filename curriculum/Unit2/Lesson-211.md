@@ -93,4 +93,10 @@ because (1) grading the questions is easier, since logic and syntax errors are e
 If your students are easily completing the programming projects in the week leading to the test, you
 may want to edit the test by deleting the “fill in the blanks” and leaving empty space.
 
+
+Forum discussion
+---------------------------
+[Lesson 2.11 Unit 2 Review (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-2/2-11-review)
+
+
 [WS 2.11]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.11.docx

@@ -159,5 +159,11 @@ between the two languages, Java and JavaScript are two different languages. Java
 for both client side web browser scripting to web servers. Java is used to create platform
 independent apps meaning a program written in Java will run across a variety of operating systems.
 
+
+Forum discussion
+----------------
+[Lesson 1.01 Using Eclipse & Practice-it (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/ap-cs-a-unit-1/1-01-using-eclipse-practice-it)
+
+
 [WS 1.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.1.1.docx
 [WS 1.1.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.1.2.docx

@@ -153,6 +153,11 @@ Video
 
 - CSE 143, _Binary Search_ (1:57–12:41)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=67aa1877-adc1-41d9-9bb6-1621cfa8a99e&start=107>
-  
-[WS 7.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit7/WS%207.1.docx
 
+
+Forum discussion
+----------------
+[Lesson 7.01 Searching Algorithms (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-7/7-01-searching-algorithms)
+
+
+[WS 7.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit7/WS%207.1.docx

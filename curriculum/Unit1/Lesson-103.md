@@ -214,3 +214,7 @@ Video
 -----
 - CSE 142, _Hello World_ (29:24–36:09)<br>
   https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dd78a77d-cd7a-4ff8-b853-5446801946fb&start=1765
+
+Forum discussion
+---------------------------
+[Lesson 1.03 String Console Output](http://tealsk12.trydiscourse.com/c/ap-cs-a-unit-1/1-03-string-console-output)

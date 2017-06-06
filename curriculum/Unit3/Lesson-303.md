@@ -213,3 +213,8 @@ Video
 
 - CSE 142: _Return value worked example_ (8:46-38:32)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dc713b99-c294-403f-82ee-52fc3323a19b&start=85>
+
+
+Forum discussion
+----------------
+[Lesson 3.03 Return Values (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-03-return-values)

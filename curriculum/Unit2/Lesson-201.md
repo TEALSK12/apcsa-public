@@ -177,4 +177,10 @@ Video
 - CSE 142, _Basic Data Concepts_ (40:42–49:59)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5df64f2-e42f-4943-bab6-29eca0ab8f00&start=2442>
 
+
+Forum discussion
+---------------------------
+[Lesson 2.01 Basic Data Concepts (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-2/2-01-basic-data-concepts)
+
+
 [WS 2.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.1.docx

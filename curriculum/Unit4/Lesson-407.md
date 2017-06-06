@@ -270,6 +270,11 @@ Videos
 
 - CSE 142, _Wrapper Class_ (41:53–44:54)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=efa0eeba-81bc-497c-a1ae-46cda247c563&start=2510>
-  
-[Poster 4.7]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Poster%204.7.pptx
 
+
+Forum discussion
+----------------
+[Lesson 4.07 ArrayList (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-07-arraylist)
+
+
+[Poster 4.7]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Poster%204.7.pptx

@@ -283,10 +283,14 @@ Video
 -----
 - BJP 5-4, _The Boolean Type_<br>
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c5-4>
-  
+
+
+Forum discussion
+----------------
+[Lesson 3.16 Boolean Logic (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-1601-1602-boolean-logic)  
+
+
 [WS 3.16]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.16.docx
 [Poster 3.16.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Poster%203.16.1.pdf
 [Poster 3.16.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Poster%203.16.2.pdf
 [DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
-
-

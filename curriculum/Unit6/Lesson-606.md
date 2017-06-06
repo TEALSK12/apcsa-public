@@ -205,6 +205,11 @@ Video
 
 - CSE 143, _Interfaces_ (note: uses ArrayIntList written in class as an example) (3:43–26:35)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=696d623a-dca4-4b64-bdfd-71d49fc9b47d&start=223>
-  
-[Poster 6.6]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Poster%206.6.pptx
 
+
+Forum discussion
+----------------
+[Lesson 6.06 Interfaces (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-6/6-06-interfaces)
+
+
+[Poster 6.6]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Poster%206.6.pptx

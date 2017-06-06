@@ -182,5 +182,10 @@ _Has-a_ implies a one-to-one relationship, while in many cases, classes have a o
 relationship. Use examples where the _has-a_ (composition) relationship is more than just a
 1&ratio;1 relationship. For example, a deck of cards has 52 cards.
 
-[WS 6.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.5.docx
 
+Forum discussion
+----------------
+[Lesson 6.05 Has-a Relationships (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-6/6-05-has-a-relationships)
+
+
+[WS 6.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.5.docx

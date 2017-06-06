@@ -70,5 +70,10 @@ Procedure
 ### Check Student Study Lists \[5 minutes\]
 Spend the last 5 minutes of class checking each student’s review topic list.
 
-[WS 4.10]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.10.docx
 
+Forum discussion
+----------------
+[Lesson 4.10 Unit 4 Review (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-1-review)
+
+
+[WS 4.10]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.10.docx

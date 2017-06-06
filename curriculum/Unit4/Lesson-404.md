@@ -119,11 +119,14 @@ Video
 
 - CSE 142, _Values vs reference_ (25:28–39:18)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=1528>
-  
-  [WS 4.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.4.docx
-
 
 - CSE 142, _modifying array when passed as parameter_ (39:19–43:41)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=2359>
+
+
+Forum discussion
+----------------
+[Lesson 4.04 Reference Semantics (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-04-reference-semantics)
+
 
 [WS 4.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.4.docx

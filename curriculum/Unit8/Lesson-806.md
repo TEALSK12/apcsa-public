@@ -1,4 +1,4 @@
-Lesson 8.06 — Review & Quiz
+Lesson 8.06 — Review
 ====================================================================================================
 
 Overview
@@ -10,7 +10,7 @@ Overview
 - **Complete** Quiz 8.5.
 
 ### Homework — _Students will…_
-- **Read and highlight** Chapter 7 in Barron’s Review Book \[Optional\]
+- **Read and highlight** Study for Quiz
 
 
 Materials & Prep
@@ -18,7 +18,7 @@ Materials & Prep
 - **Projector and computer**
 - **Whiteboard and marker**
 - **Results** from electronic survey of review topics
-- **Classroom copies** of Quiz 8.5
+
 
 Once students have submitted their review requests, assemble those topics into categories and
 prepare to re-teach the topics as needed. Rather than using an entire class period for a test, we’re
@@ -31,8 +31,7 @@ Pacing Guide
 | Section                     | Total Time |
 |-----------------------------|-----------:|
 | Bell-work and attendance    |       5min |
-| Review of student questions |      30min |
-| Unit 8 Quiz                 |      20min |
+| Review of student questions |      40min |
 
 
 Procedure
@@ -70,3 +69,8 @@ The quiz features a recursive method to produce the Fibonacci sequence. If your 
 help/scaffolding, you might want to show students this YouTube video
 (<https://youtu.be/dsmBRUCzS7k>) and lead a class discussion to ensure students are familiar with
 the math involved.
+
+
+Forum discussion
+----------------
+[Lesson 8.06 Review & Quiz (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-8/8-06-review-quiz)

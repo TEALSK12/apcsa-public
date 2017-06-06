@@ -122,3 +122,8 @@ a few options (some more drastic than others):
   introduces the Magpie lab, a long form programming lab with plenty of enrichment opportunities;
   encourage students to work on this project if they are ever left with a few minutes after
   completing a class assignment.
+
+
+Forum discussion
+----------------
+[Lesson 4.00 Test Review & Reteach (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-test-review-reteach)

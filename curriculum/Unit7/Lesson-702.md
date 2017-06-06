@@ -283,3 +283,8 @@ Video
 
 - CSE 143, _Selection Sort_ (16:14–17:21)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1fdd364a-4d01-49cf-96b3-ce2f67b77dcf&start=974>
+
+
+Forum discussion
+----------------
+[Lesson 7.02 Sorting Algorithms (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-7/7-02-sorting-algorithms)

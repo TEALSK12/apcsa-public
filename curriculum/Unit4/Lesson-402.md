@@ -149,4 +149,10 @@ Video
 - CSE 142, _For-Each Loop_ (19:40–22:40)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=14058dec-efd5-4db3-b841-9d836e92bfb4&start=1570>
 
+
+Forum discussion
+----------------
+[Lesson 4.02 For-Each Loop & Arrays Class (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-02-for-each-loop-arrays-class)
+
+
 [WS 4.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.2.docx

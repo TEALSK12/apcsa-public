@@ -163,6 +163,12 @@ Video
 
 - CS Homework Bytes, _Type Conversations, with Kristin_<br>
   <https://www.youtube.com/watch?v=y-4vMMeBcAc>
-  
+
+
+Forum discussion
+---------------------------
+[Lesson 2.04 Mixing Types & Casting (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-2/2-04-mixing-types-casting)
+
+
 [WS 2.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.4.docx
 [Poster 2.4]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/Poster%202.4.docx

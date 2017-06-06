@@ -83,3 +83,9 @@ process instead of just giving them the answers.
 
 
 [webmaker.org]: http://www.webmaker.org
+
+
+
+Forum discussion
+----------------
+[Lesson 3.08 Finding & Fixing Errors (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-08-finding-fixing-errors)

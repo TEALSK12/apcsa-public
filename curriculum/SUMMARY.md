@@ -50,6 +50,7 @@
 * [Lesson 3.17: Finding & Fixing Errors](Unit3/Lesson-317.md)
 * [Lesson 3.18: Review](Unit3/Lesson-318.md)
 * [Lesson 3.99: (Unit 3 test)](Curriculum-Map.md#399)
+  * [Test 2 Guide](Unit3/Test-2-Guide.md)
 * [Lesson 3.XX: Frac Calc](Curriculum-Map.md#3xx)
 
 ## Unit 4: Arrays, Lists, & Files (4 weeks)
@@ -89,6 +90,7 @@
 * [Lesson 6.08: Finding & Fixing Errors](Unit6/Lesson-608.md)
 * [Lesson 6.09: Review](Unit6/Lesson-609.md)
 * [Lesson 6.99: (Unit 6 test)](Curriculum-Map.md#699)
+  * [Test 5 Guide](Unit6/Test-5-Guide.md)
 * [Lesson 6.XX: Text Excel](Curriculum-Map.md#6xx)
 
 ## Unit 7: Searching & Sorting (3 weeks)
@@ -98,6 +100,7 @@
 * [Lesson 7.03: Elevens Lab (16 Days)](Unit7/Lesson-703.md)
 * [Lesson 7.04: Review](Unit7/Lesson-704.md)
 * [Lesson 7.99: (Unit 7 test)](Curriculum-Map.md#799)
+  * [Test 6 Guide](Unit7/Test-6-Guide.md)
 
 ## Unit 8: Recursion (2 weeks)
 * [Lesson 8.00: Test Review & Reteach](Unit8/Lesson-800.md)
@@ -106,8 +109,10 @@
 * [Lesson 8.03: Mechanics of Recursion](Unit8/Lesson-803.md)
 * [Lesson 8.04: MergeSort](Unit8/Lesson-804.md)
 * [Lesson 8.05: Finding & Fixing Errors](Unit8/Lesson-805.md)
-* [Lesson 8.06: Review & Quiz](Unit8/Lesson-806.md)
-* [Lesson 8.07: Quiz Review & Reteach](Unit8/Lesson-807.md)
+* [Lesson 8.06: Review](Unit8/Lesson-806.md)
+* [Lesson 8.07: (Unit 8 quiz)](Curriculum-Map.md#807)
+* [Lesson 8.08: Quiz Review & Reteach](Unit8/Lesson-808.md)
+
 
 ## Unit 9: AP Test Review (3 weeks)
 * [Lesson 9.01: Reviewing for the AP Exam](Unit9/Lesson-901.md)

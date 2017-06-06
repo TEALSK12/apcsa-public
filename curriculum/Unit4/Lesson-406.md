@@ -254,4 +254,10 @@ Videos
 - BJP 7-3-2, _Tallying with an Array_<br>
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c7-3-2>
 
+
+Forum discussion
+----------------
+[Lesson 4.06 Nested Loop Algorithms & Rectangular Arrays (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-06-nested-loop-algorithms-rectangular-arrays)
+
+
 [WS 4.6]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.6.docx

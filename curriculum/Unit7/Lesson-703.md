@@ -217,3 +217,8 @@ to twice the amount of time for completion of the lab.
 Encourage advanced students to work through the optional lab activities. Otherwise, these students
 can serve as student TAs, helping others when they get stuck on code. Remind student TAs not to give
 answers directly, but to ask leading questions and modeling solutions to similar problems.
+
+
+Forum discussion
+----------------
+[Lesson 7.03 Elevens Lab (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-7/7-0301-0314-elevens-lab)

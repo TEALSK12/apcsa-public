@@ -123,6 +123,11 @@ Video
 
 - CSE 142, _Managing Complexity: Review_ (Optional) (0:58–21:04)<br>
   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=26cacdb4-6e47-405f-a788-912a9a158b41&start=58>
-  
-[WS 2.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.7.docx
 
+
+Forum discussion
+---------------------------
+[Lesson 2.07 Scope & Pseudocode (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-2/2-07-scope-pseudocode)
+
+
+[WS 2.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.7.docx

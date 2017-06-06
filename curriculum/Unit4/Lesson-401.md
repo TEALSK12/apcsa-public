@@ -208,7 +208,7 @@ way for children to learn concepts in a developmentally appropriate, hands-on an
 \[TEST: hello world\]
 
 
-Teacher Prior CS Knowledge 
+Teacher Prior CS Knowledge
 ---------------------------
 Arrays in Java (and other object oriented programming languages) are classes. This brings the whole
 object oriented paradigm into play. When declaring an array variable, the variable is now a
@@ -244,9 +244,12 @@ Video
 
 - CS Homework Bytes, _Arrays, with Ariel_<br>
   <https://www.youtube.com/watch?v=PFohS2HvCgs>
-  
+
+
+Forum discussion
+----------------
+[Lesson 4.01 Array Basics (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-01-array-basics)
+
+
 [WS 4.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.1.docx
 [Poster 4.2]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Poster%204.2.pptx
-
-
-
