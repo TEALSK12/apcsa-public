@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (optional)
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 3.12
+- **Classroom copies** of [WS 3.12]
 - **Plastic binder sleeves** (1 per student)
 
 
@@ -245,3 +245,6 @@ Video
 Forum discussion
 ----------------
 [Lesson 3.12 Cumulative Algorithms (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-12-cumulative-algorithms)
+
+
+[WS 3.12]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.12.docx

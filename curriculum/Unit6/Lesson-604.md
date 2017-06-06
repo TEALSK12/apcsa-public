@@ -20,8 +20,8 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 6.4.1
-- **Tracing Inheritance Guide** WS 6.4.2
+- **Classroom copies** of [WS 6.4.1]
+- **Tracing Inheritance Guide** [WS 6.4.2]
 - **Class hierarchies and client code** from Section 9.3 (on board or projector)
 
 The Round Robin worksheet is 11 pages long, so it may take a while to print out/copy.
@@ -230,3 +230,7 @@ Alternatively, you can do the entire assignment, but allow 2 class periods to co
 Forum discussion
 ----------------
 [Lesson 6.04 Polymorphism (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-6/6-04-polymorphism)
+
+
+[WS 6.4.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.4.1.docx
+[WS 6.4.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.4.2.docx

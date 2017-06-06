@@ -20,7 +20,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **White paper** **and** **markers**
-- **Classroom copies** of WS 1.4
+- **Classroom copies** of [WS 1.4]
 - **Sample punched card** to pass around (available on eBay: <http://tinyurl.com/nnthazu>)
 - **Pictures**:
   - Punch cards (<http://tinyurl.com/n9zqd3k>)
@@ -219,3 +219,6 @@ Video
 Forum discussion
 ---------------------------
 [Lesson 1.04 Common Errors & Comments (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/ap-cs-a-unit-1/1-04-common-errors-comments)
+
+
+[WS 1.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.4.docx

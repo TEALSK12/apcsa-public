@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 4.1
+- **Classroom copies** of [WS 4.1], [Poster 4.2]
 - **Array whiteboards** (see notes at end of lesson) **and dry-erase markers**
 - **Student small-group assignments** (~3-4 students per group)
 - **Large manipulative** for teacher demo (**optional**)
@@ -249,3 +249,7 @@ Video
 Forum discussion
 ----------------
 [Lesson 4.01 Array Basics (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-01-array-basics)
+
+
+[WS 4.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.1.docx
+[Poster 4.2]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Poster%204.2.pptx

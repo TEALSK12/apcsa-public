@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** for hook (<https://youtu.be/3WBvS_n2oTY>)
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 8.3
+- **Classroom copies** of [WS 8.3], [Teacher Demo 8.3]
 - **One pair of scissors** for each group
 - **Small group assignments** (~4 students per group)
 - **Classroom copies** of the textbook (**optional**)
@@ -270,3 +270,7 @@ Video
 Forum discussion
 ----------------
 [Lesson 8.03 Mechanics of Recursion (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-8/8-03-mechanics-of-recursion)
+
+
+[WS 8.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit8/WS%208.3.docx
+[Teacher Demo 8.3]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit8/Teacher%20Demo%208.3.docx

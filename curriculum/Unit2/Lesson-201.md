@@ -21,7 +21,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **White paper** **and** **markers**
-- **Classroom sets** of operator/operand expression cards created from WS 2.0
+- **Classroom sets** of operator/operand expression cards created from [WS 2.1]
 - **Pair or small group** student assignments
 
 Operator/Operand Expression sets can be printed and cut from regular printer paper, or you can write
@@ -181,3 +181,6 @@ Video
 Forum discussion
 ---------------------------
 [Lesson 2.01 Basic Data Concepts (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-2/2-01-basic-data-concepts)
+
+
+[WS 2.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.1.docx

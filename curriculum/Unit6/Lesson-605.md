@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **Whiteboard and** **markers**
-- **Projection or classroom copies** of WS 6.5 (an AP Section II question)
+- **Projection or classroom copies** of [WS 6.5] (an AP Section II question)
 - **Student pair assignments**
 - **Video for hook:** <https://vimeo.com/18439821>
 
@@ -186,3 +186,6 @@ relationship. Use examples where the _has-a_ (composition) relationship is more 
 Forum discussion
 ----------------
 [Lesson 6.05 Has-a Relationships (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-6/6-05-has-a-relationships)
+
+
+[WS 6.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.5.docx

@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer **
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 4.6
+- **Classroom copies** of [WS 4.6]
 - **Array whiteboards**
 
 
@@ -258,3 +258,6 @@ Videos
 Forum discussion
 ----------------
 [Lesson 4.06 Nested Loop Algorithms & Rectangular Arrays (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-06-nested-loop-algorithms-rectangular-arrays)
+
+
+[WS 4.6]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.6.docx

@@ -21,7 +21,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 2.7
+- **Classroom copies** of [WS 2.7]
 
 Since most of today’s lesson follows WS 2.7, you should have read through the worksheet. You may
 prefer to delete the notes from the worksheet (so it is only a sheet of exercises) if you are
@@ -128,3 +128,6 @@ Video
 Forum discussion
 ---------------------------
 [Lesson 2.07 Scope & Pseudocode (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-2/2-07-scope-pseudocode)
+
+
+[WS 2.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.7.docx

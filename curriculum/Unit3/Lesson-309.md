@@ -20,6 +20,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (optional)
 - **Whiteboard and** **markers**
+- **Classroom copies** of [Operator Precedence]
 - **Rules** for grudgeball (see website for details:
   <http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html>)
 
@@ -335,3 +336,6 @@ Video
 Forum discussion
 ----------------
 [Lesson 3.09 Relational Operators & if/else (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-09-relational-operators-if-else)
+
+  
+[Operator Precedence]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Operator%20Precedence.pptx

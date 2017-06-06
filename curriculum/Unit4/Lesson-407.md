@@ -19,6 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (optional)
 - **White paper** **and** **markers**
+- **Classroom copies** of [Poster 4.7]
 - **Rules** for grudgeball (see website for details:
   <http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html>)
 - **Team assignments** that divide your class into 5 or 6 teams
@@ -274,3 +275,6 @@ Videos
 Forum discussion
 ----------------
 [Lesson 4.07 ArrayList (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-07-arraylist)
+
+
+[Poster 4.7]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Poster%204.7.pptx

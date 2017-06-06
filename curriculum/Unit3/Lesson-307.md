@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **Whiteboard and markers**
-- **Classroom copies** of WS 3.7
+- **Classroom copies** of [WS 3.7] LP Battle
 - **Video** of sample battle (<http://youtu.be/k7K5LEE9xxw?t=48s>)
 - **Advanced damage calculator** (<https://pokemonshowdown.com/damagecalc/>)
 
@@ -167,3 +167,6 @@ lines of code on the board, or creating a pseudocode outline as a whole group.
 Forum discussion
 ----------------
 [Lesson 3.07 Pokémon Battle Programming Project (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-07-pokemon-battle-programming-project)
+
+
+[WS 3.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.7.docx

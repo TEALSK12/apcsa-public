@@ -22,7 +22,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **White paper** **and** **markers**
-- **Poster** 6.6
+- **In Class** [Poster 6.6]
 - **Small group assignments** (≈4 people per group)
 
 
@@ -210,3 +210,6 @@ Video
 Forum discussion
 ----------------
 [Lesson 6.06 Interfaces (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-6/6-06-interfaces)
+
+
+[Poster 6.6]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Poster%206.6.pptx

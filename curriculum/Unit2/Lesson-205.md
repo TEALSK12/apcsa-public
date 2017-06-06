@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **White paper** **and** **markers**
-- **Classroom copies** of WS 2.5
+- **Classroom copies** of [WS 2.5]
 
 
 Pacing Guide
@@ -186,3 +186,6 @@ Video
 Forum discussion
 ---------------------------
 [Lesson 2.05 for Loops (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-2/2-05-for-loops)
+
+
+[WS 2.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.5.docx

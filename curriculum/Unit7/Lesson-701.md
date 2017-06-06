@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 7.1
+- **Classroom copies** of [WS 7.1]
 - **CS Unplugged Activity:** Searching Algorithms (<http://csunplugged.org/searching-algorithms/>)
 - **Classroom copies** of Battleship 1A, 1A’, 1B, 1B’, 2A, 2A’, 2B, 2B’
   - Included in the CS Unplugged activity
@@ -158,3 +158,6 @@ Video
 Forum discussion
 ----------------
 [Lesson 7.01 Searching Algorithms (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-7/7-01-searching-algorithms)
+
+
+[WS 7.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit7/WS%207.1.docx

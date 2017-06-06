@@ -18,7 +18,7 @@ Materials & Prep
 - **Projector and computer**
 - **Whiteboard and marker**
 - **Results** from electronic survey of review topics
-- **Classroom copies** of the practice test (WS 1.9)
+- **Classroom copies** of the practice test [WS 1.9]
 
 Once students have submitted their review requests, assemble those topics into categories and
 prepare to re-teach the topics as needed.
@@ -98,3 +98,6 @@ Tips for Assessment: <http://csteachingtips.org/tips-for-assessing-programming>
 Forum discussion
 ---------------------------
 [Lesson 1.09 Unit 1 Test (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/ap-cs-a-unit-1/1-99-unit-1-test)
+
+
+[WS 1.9]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.9.docx

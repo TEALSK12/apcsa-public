@@ -20,7 +20,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (optional)
 - **Whiteboard and** **markers**
-- **Group copies** of WS 3.10
+- **Group copies** of [WS 3.10]
 - **Poster paper, construction paper, white paper,** and **lined paper**
 - **Markers, tape, and glue sticks**
 - **Classroom copies of textbooks**
@@ -77,3 +77,6 @@ during mini-lessons.
 Forum discussion
 ----------------
 [Lesson 3.10 Nested if/else Statements (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-10-nested-if-else-statements)
+
+
+[WS 3.10]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.10.docx

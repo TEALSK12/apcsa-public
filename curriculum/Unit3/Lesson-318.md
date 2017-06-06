@@ -18,7 +18,7 @@ Materials & Prep
 - **Projector and computer**
 - **Whiteboard and marker**
 - **Results** from electronic survey of review topics
-- **Classroom copies** of the practice test (WS 3.18)
+- **Classroom copies** of the practice test [WS 3.18]
 
 Once students have submitted their review requests, assemble those topics into categories and
 prepare to re-teach the topics as needed.
@@ -97,3 +97,6 @@ section 1 questions.
 Forum discussion
 ----------------
 [Lesson 3.18 Review (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-18-review)
+
+
+[WS 3.18]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.18.docx

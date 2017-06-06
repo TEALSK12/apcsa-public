@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 6.3
+- **Classroom copies** of [WS 6.3], [Poster 6.3]
 - **Poster 6.3**
 - **Empty & washed, or non-refrigerated, drink bottles**, with labels affixed (**optional**)
 
@@ -169,3 +169,7 @@ Video
 Forum discussion
 ----------------
 [Lesson 6.03 Interacting with the Object Superclass (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-6/6-03-interacting-with-the-object-superclass)
+
+
+[WS 6.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.3.docx
+[Poster 6.3]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Poster%206.3.pptx

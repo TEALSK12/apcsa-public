@@ -20,7 +20,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and markers**
-- **Group copies** of WS 3.15
+- **Group copies** of [WS 3.15]
 - **3 or more classroom copies** of the textbook
 
 
@@ -134,3 +134,6 @@ Video
 Forum discussion
 ----------------
 [Lesson 3.15 Fencepost & Sentinel Loops (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-15-fencepost-sentinel-loops)
+
+
+[WS 3.15]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.15.docx

@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 4.2
+- **Classroom copies** of [WS 4.2]
 - **Poster** 4.2
 - **Array whiteboards** (see notes at end of LP 4.2) **and dry erase markers**
 - **Student small-group assignments** (≈3-4 students per group)
@@ -153,3 +153,6 @@ Video
 Forum discussion
 ----------------
 [Lesson 4.02 For-Each Loop & Arrays Class (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-02-for-each-loop-arrays-class)
+
+
+[WS 4.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.2.docx

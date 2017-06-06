@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 5.1
+- **Classroom copies** of [WS 5.1.1]
 - **Classroom copies** of the textbook (or just section 8.1)
 - **Bookmarks on student computers (or emailed links) to Bulbapedia**
 
@@ -356,3 +356,6 @@ Videos
 Forum discussion
 ----------------
 [Lesson 5.01 Object Oriented Programming (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-5/5-01-object-oriented-programming)
+
+
+[WS 5.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.1.1.pdf

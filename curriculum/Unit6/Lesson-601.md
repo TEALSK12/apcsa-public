@@ -21,7 +21,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 6.1
+- **Classroom copies** of [WS 6.1] Start class poster, [Example 6.1]
 - **Pictures** of Pokémon (<http://tinyurl.com/l6mybmr>) or Pokémon Cards
 - **Student pair assignments**
 - **Art supplies** for each group:
@@ -344,3 +344,7 @@ Video
 Forum discussion
 ----------------
 [Lesson 6.01 Inheritance Basics (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-6/6-0101-0102-inheritance-basics)
+
+
+[WS 6.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.1.docx
+[Example 6.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Example%206.1.jpg

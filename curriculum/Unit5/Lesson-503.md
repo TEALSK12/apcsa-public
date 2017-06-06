@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 5.3.1 and WS 5.3.2
+- **Classroom copies** of [WS 5.3.1], [WS 5.3.2]
 - **Student small-group assignments** (3-4 per group)
 - **2 dialogue bubbles** (index cards or sticky notes) for each group
 - **Roll of tape/glue stick** for each group
@@ -236,3 +236,7 @@ Videos
 Forum discussion
 ----------------
 [Lesson 5.03 Object Initialization: Constructors (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-5/5-03-object-initialization-constructors)
+
+
+[WS 5.3.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.3.1.docx
+[WS 5.3.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.3.2.docx

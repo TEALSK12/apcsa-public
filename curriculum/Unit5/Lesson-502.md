@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 5.2
+- **Classroom copies** of [WS 5.2]
 
 You should read the introduction on the Bulbepedia website so you understand the main ideas behind
 the Pokémon game. If you search YouTube, you can find recorded games to see how a Pokémon battle
@@ -289,3 +289,6 @@ Videos
 Forum discussion
 ----------------
 [Lesson 5.02 Object State & Behavior (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-5/5-02-object-state-behavior)
+
+
+[WS 5.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.2.docx

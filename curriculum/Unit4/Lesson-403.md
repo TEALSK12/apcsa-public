@@ -18,7 +18,7 @@ Overview
 
 Materials & Prep
 ----------------
-- **Group copies** of WS 4.3
+- **Group copies** of [WS 4.3]
 - **Assignments** for 5 student groups
 - **5 classroom copies** of the textbook (or have students bring their copies to class)
 - **Copies of the grading rubric** (on the overhead or printed out; **optional**)
@@ -234,3 +234,6 @@ Video
 Forum discussion
 ----------------
 [Lesson 4.03 Printing, Searching, & Testing for Equality (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-03-printing-searching-testing-for-equality)
+
+
+[WS 4.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.3.docx

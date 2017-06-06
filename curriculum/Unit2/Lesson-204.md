@@ -23,7 +23,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **White paper** **and** **markers**
-- **Classroom copies** of WS 2.4
+- **Classroom copies** of [WS 2.4], [Poster 2.4]
 - **Zombie/werewolf video** (<https://www.youtube.com/watch?v=ZL-58z3HxUI&feature=youtu.be&t=2m41s>)
   - Probably want to play on mute!
 - **Unicorn image**
@@ -168,3 +168,7 @@ Video
 Forum discussion
 ---------------------------
 [Lesson 2.04 Mixing Types & Casting (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-2/2-04-mixing-types-casting)
+
+
+[WS 2.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.4.docx
+[Poster 2.4]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/Poster%202.4.docx

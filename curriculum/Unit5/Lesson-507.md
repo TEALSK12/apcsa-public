@@ -18,7 +18,7 @@ Materials & Prep
 - **Projector and computer**
 - **Whiteboard and marker**
 - **Results** from electronic survey of review topics
-- **Classroom copies** of the practice test (WS 5.7)
+- **Classroom copies** of the practice test [WS 5.7]
 
 Once students have submitted their review requests, assemble those topics into categories and
 prepare to re-teach the topics as needed. If you are crunched for time, hold the review session
@@ -73,3 +73,6 @@ Spend the last 5 minutes of class checking each student’s review topic list.
 Forum discussion
 ----------------
 [Lesson 5.0 Unit 5 Review (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-5/5-07-review)
+
+
+[WS 5.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.7.docx

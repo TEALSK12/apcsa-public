@@ -17,7 +17,7 @@ Overview
 
 Materials & Prep
 ----------------
-- **Group copies** of WS 5.4
+- **Group copies** of [WS 5.4]
 - **Assignments for 4 student groups**
 - **4 classroom copies** of the textbook (or have students bring books to class)
 - **Copies of the grading rubric** on the overhead or printed out (optional)
@@ -216,3 +216,6 @@ Videos
 Forum discussion
 ----------------
 [Lesson 5.04 Encapsulation (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-5/5-04-encapsulation)
+
+
+[WS 5.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.4.docx

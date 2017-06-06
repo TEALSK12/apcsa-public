@@ -18,7 +18,7 @@ Materials & Prep
 - **Projector and computer**
 - **Whiteboard and marker**
 - **Results** from electronic survey of review topics
-- **Classroom copies** of the practice test (WS 2.10)
+- **Classroom copies** of the practice test [WS 2.11]
 
 Once students have submitted their review requests, assemble those topics into categories and
 prepare to re-teach the topics as needed.
@@ -97,3 +97,6 @@ may want to edit the test by deleting the “fill in the blanks” and leaving e
 Forum discussion
 ---------------------------
 [Lesson 2.11 Unit 2 Review (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-2/2-11-review)
+
+
+[WS 2.11]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.11.docx

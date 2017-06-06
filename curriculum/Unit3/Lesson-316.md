@@ -17,7 +17,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of WS 3.16
+- **Classroom copies** of [WS 3.16] (RPS, Pig), [DeMorgan’s Law], [Poster 3.16.1], [Poster 3.16.2]
 - **Link** to rock-paper-scissor game (<http://tinyurl.com/bubyvtu>)
 - **Poster** 3.16.1
 - **Poster** 3.16.2
@@ -287,4 +287,10 @@ Video
 
 Forum discussion
 ----------------
-[Lesson 3.16 Boolean Logic (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-1601-1602-boolean-logic)
+[Lesson 3.16 Boolean Logic (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-1601-1602-boolean-logic)  
+
+
+[WS 3.16]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.16.docx
+[Poster 3.16.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Poster%203.16.1.pdf
+[Poster 3.16.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Poster%203.16.2.pdf
+[DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx

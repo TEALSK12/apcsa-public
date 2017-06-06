@@ -24,7 +24,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Student Computers** with Eclipse installed
-- **Classroom copies** of WS 1.1.2
+- **Classroom copies** of [WS 1.1.1] and [WS 1.1.2]
 - **USB Drives** for each student (if applicable to school)
 - **Handout/Slide Deck** demonstrating file submission procedure
 
@@ -163,3 +163,7 @@ independent apps meaning a program written in Java will run across a variety of 
 Forum discussion
 ----------------
 [Lesson 1.01 Using Eclipse & Practice-it (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/ap-cs-a-unit-1/1-01-using-eclipse-practice-it)
+
+
+[WS 1.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.1.1.docx
+[WS 1.1.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.1.2.docx
