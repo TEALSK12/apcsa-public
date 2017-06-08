@@ -4,9 +4,9 @@ Lesson 2.04 — Mixing Types & Casting
 Overview
 --------
 ### Objectives — _Students will be able to…_
-- **Describe** which types automatically convert into others when appearing together.
-- **Predict** how an expression with mixed types will evaluate.
-- **Convert** types by casting.
+- **Describe** which types automatically convert into others when appearing together
+- **Predict** how an expression with mixed types will evaluate
+- **Convert** types by casting
 
 ### Assessments — _Students will…_
 - **Use** “zombie rules” of precedence to correctly write code that yields a given answer
