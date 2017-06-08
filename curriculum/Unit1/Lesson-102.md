@@ -176,8 +176,8 @@ Teaching Tips
 - Tips for Introducing Computer Science: <http://csteachingtips.org/Tips-for-introducing-computing>
 
 - The lesson plan has the teacher be the “computer” that follows the instructions read aloud by the
-  student. You may be inclined to have a student to be the computers. However, students are
-  unpredictable and you may or may not get the outcomes you desired. Even though this activity is
+  student. You may be inclined to have a student be the computer. However, students are
+  unpredictable and you may or may not get the outcomes you desire. Even though this activity is
   meant to be playful, student silliness can get out of hand when building their P&J sandwich. If
   you do choose to have students be the computer, setup norms like no throwing food and they must
   clean up after themselves.
