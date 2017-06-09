@@ -209,6 +209,7 @@ in now, what homework do I have for math class, or who is the teacher of the cla
 student has prior programming knowledge, they may not be familiar with the notion of a class with
 respect to OOP.  
 
+
 Video
 -----
 - CSE 142, _Hello World_ (29:24–36:09)<br>
