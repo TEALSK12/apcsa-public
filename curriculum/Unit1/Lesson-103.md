@@ -201,13 +201,13 @@ Teaching Tips
 
 Misconceptions
 --------------
-Students learn by making connections to something they already know. Unfortunately, this may
+Students learn by making connections to prior knowledge they already know. Unfortunately, this may
 backfire as in the case of the keyword class. When computer scientists use the word _class_, it is
 automatically assumed that one is referring to class in the context of object oriented programming.
 However, for a typical high school student, class means something totally different: what class am I
 in now, what homework do I have for math class, or who is the teacher of the class. Even if the
 student has prior programming knowledge, they may not be familiar with the notion of a class with
-respect to OOP.
+respect to OOP.  
 
 
 Video
