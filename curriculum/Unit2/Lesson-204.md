@@ -77,7 +77,7 @@ happening on the video.
      - If a double or int is placed in an expression with a String, Java converts it to a String.
        (The werewolf double gets bitten by the zombie String, and is now also a zombie String.)
 
-     - So: int ≥ double ≥ String
+     - So: `String` > `double` > `int`
 
    - In Java we call this “promoting” because the double holds more information than int, and String
      holds more information than double! (We’ll learn more about what information is stored in a
