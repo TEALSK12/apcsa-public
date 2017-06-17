@@ -166,7 +166,7 @@ lines of code on the board, or creating a pseudocode outline as a whole group.
 
 Forum discussion
 ----------------
-[Lesson 3.07 Pokémon Battle Programming Project (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-07-pokemon-battle-programming-project)
+[Lesson 3.07 Pokémon Battle Programming Project (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-07-pokemon-battle-programming-project)
 
 
 [WS 3.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.7.docx

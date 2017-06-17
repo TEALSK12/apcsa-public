@@ -105,4 +105,4 @@ Differentiation of the lab assignment can be found on page 14 of the Teacher’s
 
 Forum discussion
 ----------------
-[Lesson 4.09 Magpie Lab (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-0901-0905-magpie-lab)
+[Lesson 4.09 Magpie Lab (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-4/4-0901-0905-magpie-lab)

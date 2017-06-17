@@ -208,7 +208,7 @@ Video
 
 Forum discussion
 ----------------
-[Lesson 6.02 Overriding Methods & Accessing Inherited Code (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-6/6-02-overriding-methods-accessing-inherited-code)
+[Lesson 6.02 Overriding Methods & Accessing Inherited Code (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-6/6-02-overriding-methods-accessing-inherited-code)
 
 
 [WS 6.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.2.docx

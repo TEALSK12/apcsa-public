@@ -20,4 +20,4 @@ When modifying the test to suit your students, don’t forget to:
 
  Forum discussion
  ----------------
- [Test 2 Guide (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-99-unit-3-test)
+ [Test 2 Guide (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-99-unit-3-test)

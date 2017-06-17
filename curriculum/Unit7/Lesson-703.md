@@ -221,4 +221,4 @@ answers directly, but to ask leading questions and modeling solutions to similar
 
 Forum discussion
 ----------------
-[Lesson 7.03 Elevens Lab (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-7/7-0301-0314-elevens-lab)
+[Lesson 7.03 Elevens Lab (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-7/7-0301-0314-elevens-lab)

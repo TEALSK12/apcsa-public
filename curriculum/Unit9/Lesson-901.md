@@ -88,4 +88,4 @@ rubric are included with Unit 9 materials. 2014’s questions and scoring rubric
 
 Forum discussion
 ----------------
-[Lesson 9.0 Reviewing for the AP Exam (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-9/9-00-reviewing-for-the-ap-exam)
+[Lesson 9.0 Reviewing for the AP Exam (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-9/9-00-reviewing-for-the-ap-exam)

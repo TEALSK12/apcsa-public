@@ -224,4 +224,4 @@ Video
 
 Forum discussion
 ---------------------------
-[Lesson 2.06 Nested for Loops (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-2/2-06-nested-for-loops)
+[Lesson 2.06 Nested for Loops (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-2/2-06-nested-for-loops)

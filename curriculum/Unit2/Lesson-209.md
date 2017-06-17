@@ -93,4 +93,4 @@ can help those that are emergent language learners.
 
 Forum discussion
 ---------------------------
-[Lesson 2.09 Programming Project (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-2/2-08-programming-project)
+[Lesson 2.09 Programming Project (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-2/2-08-programming-project)

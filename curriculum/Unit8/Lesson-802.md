@@ -226,4 +226,4 @@ Video
 
 Forum discussion
 ----------------
-[Lesson 8.02 Writing Recursive Solutions (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-8/8-02-writing-recursive-solutions)
+[Lesson 8.02 Writing Recursive Solutions (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-8/8-02-writing-recursive-solutions)

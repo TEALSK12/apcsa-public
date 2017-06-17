@@ -355,7 +355,7 @@ Videos
 
 Forum discussion
 ----------------
-[Lesson 5.01 Object Oriented Programming (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-5/5-01-object-oriented-programming)
+[Lesson 5.01 Object Oriented Programming (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-5/5-01-object-oriented-programming)
 
 
 [WS 5.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.1.1.pdf

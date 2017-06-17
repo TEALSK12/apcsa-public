@@ -274,7 +274,7 @@ Videos
 
 Forum discussion
 ----------------
-[Lesson 4.07 ArrayList (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-07-arraylist)
+[Lesson 4.07 ArrayList (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-4/4-07-arraylist)
 
 
 [Poster 4.7]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Poster%204.7.pptx

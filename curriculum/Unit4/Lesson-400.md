@@ -126,4 +126,4 @@ a few options (some more drastic than others):
 
 Forum discussion
 ----------------
-[Lesson 4.00 Test Review & Reteach (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-test-review-reteach)
+[Lesson 4.00 Test Review & Reteach (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-4/4-test-review-reteach)

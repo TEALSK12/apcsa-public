@@ -138,4 +138,4 @@ Video
 
 Forum discussion
 ----------------
-[Lesson 3.11 Reducing Redundancy (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-11-reducing-redundancy)
+[Lesson 3.11 Reducing Redundancy (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-11-reducing-redundancy)

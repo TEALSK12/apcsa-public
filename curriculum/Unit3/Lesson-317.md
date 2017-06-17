@@ -72,4 +72,4 @@ are working. Return notebooks by the end of class so students may use them to st
 
 Forum discussion
 ----------------
-[Lesson 3.17 Finding & Fixing Errors (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-17-finding-fixing-errors)
+[Lesson 3.17 Finding & Fixing Errors (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-17-finding-fixing-errors)

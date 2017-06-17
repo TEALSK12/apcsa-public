@@ -217,4 +217,4 @@ Video
 
 Forum discussion
 ---------------------------
-[Lesson 1.03 String Console Output](http://tealsk12.trydiscourse.com/c/ap-cs-a-unit-1/1-03-string-console-output)
+[Lesson 1.03 String Console Output](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-03-string-console-output)

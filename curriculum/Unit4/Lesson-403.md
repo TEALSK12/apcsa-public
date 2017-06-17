@@ -233,7 +233,7 @@ Video
 
 Forum discussion
 ----------------
-[Lesson 4.03 Printing, Searching, & Testing for Equality (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-03-printing-searching-testing-for-equality)
+[Lesson 4.03 Printing, Searching, & Testing for Equality (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-4/4-03-printing-searching-testing-for-equality)
 
 
 [WS 4.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.3.docx

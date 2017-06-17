@@ -1,4 +1,4 @@
-Lesson 2.11 — Review
+yLesson 2.11 — Review
 ====================================================================================================
 
 Overview
@@ -96,7 +96,7 @@ may want to edit the test by deleting the “fill in the blanks” and leaving e
 
 Forum discussion
 ---------------------------
-[Lesson 2.11 Unit 2 Review (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-2/2-11-review)
+[Lesson 2.11 Unit 2 Review (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-2/2-11-review)
 
 
 [WS 2.11]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.11.docx

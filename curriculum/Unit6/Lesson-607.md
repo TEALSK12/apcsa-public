@@ -146,4 +146,4 @@ include comments to remind themselves (and you!) of what each section of code is
 
 Forum discussion
 ----------------
-[Lesson 6.07 Programming Project (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-6/6-0701-0705-programming-project)
+[Lesson 6.07 Programming Project (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-6/6-0701-0705-programming-project)

@@ -76,7 +76,7 @@ during mini-lessons.
 
 Forum discussion
 ----------------
-[Lesson 3.10 Nested if/else Statements (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-10-nested-if-else-statements)
+[Lesson 3.10 Nested if/else Statements (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-10-nested-if-else-statements)
 
 
 [WS 3.10]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.10.docx

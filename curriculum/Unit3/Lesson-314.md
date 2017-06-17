@@ -137,4 +137,4 @@ Video
 
 Forum discussion
 ----------------
-[Lesson 3.14 Random Numbers (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-14-random-numbers)
+[Lesson 3.14 Random Numbers (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-14-random-numbers)

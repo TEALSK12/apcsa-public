@@ -32,4 +32,4 @@ packets between class periods.
 
 Forum discussion
 ----------------
-[Test 6 Guide (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-7/7-99-unit-7-test)
+[Test 6 Guide (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-7/7-99-unit-7-test)

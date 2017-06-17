@@ -343,7 +343,7 @@ Video
 
 Forum discussion
 ----------------
-[Lesson 6.01 Inheritance Basics (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-6/6-0101-0102-inheritance-basics)
+[Lesson 6.01 Inheritance Basics (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-6/6-0101-0102-inheritance-basics)
 
 
 [WS 6.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.1.docx

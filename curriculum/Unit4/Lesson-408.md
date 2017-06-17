@@ -88,4 +88,4 @@ time, or allow them to work on a free-choice programming project.
 
 Forum discussion
 ----------------
-[Lesson 4.08 Finding & Fixing Errors (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-08-finding-fixing-errors)
+[Lesson 4.08 Finding & Fixing Errors (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-4/4-08-finding-fixing-errors)
