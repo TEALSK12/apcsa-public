@@ -1,4 +1,4 @@
-yLesson 2.00 — Test Review & Reteach
+Lesson 2.00 — Test Review & Reteach
 ====================================================================================================
 
 Overview
