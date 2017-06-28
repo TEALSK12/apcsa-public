@@ -73,4 +73,4 @@ the math involved.
 
 Forum discussion
 ----------------
-[Lesson 8.06 Review & Quiz (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-8/8-06-review-quiz)
+[Lesson 8.06 Review & Quiz (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-8/8-06-review-quiz)

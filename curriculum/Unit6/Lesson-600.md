@@ -94,4 +94,4 @@ classroom posters after school or for extra credit.
 
 Forum discussion
 ----------------
-[Lesson 6.00 Test Review & Reteach (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-6/6-00-test-review-reteach)
+[Lesson 6.00 Test Review & Reteach (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-6/6-00-test-review-reteach)

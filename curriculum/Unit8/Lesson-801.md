@@ -210,4 +210,4 @@ Video
 
 Forum discussion
 ----------------
-[Lesson 8.01 Thinking Recursively (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-8/8-01-thinking-recursively)
+[Lesson 8.01 Thinking Recursively (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-8/8-01-thinking-recursively)

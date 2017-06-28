@@ -163,4 +163,4 @@ Assessment questions have been relocated to the practice exam, WS 5.7.
 
 Forum discussion
 ----------------
-[Lesson 5.06 Picture Lab (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-5/5-0601-0609-picture-lab)
+[Lesson 5.06 Picture Lab (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-5/5-0601-0609-picture-lab)

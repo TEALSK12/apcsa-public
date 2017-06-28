@@ -287,7 +287,7 @@ Video
 
 Forum discussion
 ----------------
-[Lesson 3.16 Boolean Logic (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-1601-1602-boolean-logic)  
+[Lesson 3.16 Boolean Logic (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-1601-1602-boolean-logic)  
 
 
 [WS 3.16]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.16.docx

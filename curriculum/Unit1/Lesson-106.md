@@ -198,4 +198,4 @@ Video
 
 Forum discussion
 ---------------------------
-[Lesson 1.06 Static Methods and Method Calls (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/ap-cs-a-unit-1/1-05-static-methods-method-calls)
+[Lesson 1.06 Static Methods and Method Calls (TEALS Discourse account required)](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-05-static-methods-method-calls)

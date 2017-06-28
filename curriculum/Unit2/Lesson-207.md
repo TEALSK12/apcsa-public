@@ -127,7 +127,7 @@ Video
 
 Forum discussion
 ---------------------------
-[Lesson 2.07 Scope & Pseudocode (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-2/2-07-scope-pseudocode)
+[Lesson 2.07 Scope & Pseudocode (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-2/2-07-scope-pseudocode)
 
 
 [WS 2.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.7.docx

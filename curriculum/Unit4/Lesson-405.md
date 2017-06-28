@@ -248,4 +248,4 @@ Video
 
 Forum discussion
 ----------------
-[Lesson 4.05 Shifting Values & Arrays of Objects (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-05-shifting-values-arrays-of-objects)
+[Lesson 4.05 Shifting Values & Arrays of Objects (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-4/4-05-shifting-values-arrays-of-objects)

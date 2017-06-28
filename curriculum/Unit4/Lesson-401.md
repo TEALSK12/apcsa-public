@@ -248,7 +248,7 @@ Video
 
 Forum discussion
 ----------------
-[Lesson 4.01 Array Basics (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-4/4-01-array-basics)
+[Lesson 4.01 Array Basics (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-4/4-01-array-basics)
 
 
 [WS 4.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.1.docx

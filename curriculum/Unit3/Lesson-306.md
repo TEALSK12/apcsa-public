@@ -150,4 +150,4 @@ Video
 
 Forum discussion
 ----------------
-[Lesson 3.06 Interactive Programs & Scanner Objects (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-3/3-06-interactive-programs-scanner-objects)
+[Lesson 3.06 Interactive Programs & Scanner Objects (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-06-interactive-programs-scanner-objects)

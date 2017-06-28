@@ -269,7 +269,7 @@ Video
 
 Forum discussion
 ----------------
-[Lesson 8.03 Mechanics of Recursion (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-8/8-03-mechanics-of-recursion)
+[Lesson 8.03 Mechanics of Recursion (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-8/8-03-mechanics-of-recursion)
 
 
 [WS 8.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit8/WS%208.3.docx

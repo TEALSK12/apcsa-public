@@ -101,4 +101,4 @@ classroom posters after school or for extra credit.
 
 Forum discussion
 ----------------
-[Lesson 8.08 Quiz Review & Reteach (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-8/8-08-quiz-review-reteach)
+[Lesson 8.08 Quiz Review & Reteach (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-8/8-08-quiz-review-reteach)

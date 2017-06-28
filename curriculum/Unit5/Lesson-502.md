@@ -288,7 +288,7 @@ Videos
 
 Forum discussion
 ----------------
-[Lesson 5.02 Object State & Behavior (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-5/5-02-object-state-behavior)
+[Lesson 5.02 Object State & Behavior (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-5/5-02-object-state-behavior)
 
 
 [WS 5.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.2.docx

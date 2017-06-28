@@ -209,7 +209,7 @@ Video
 
 Forum discussion
 ----------------
-[Lesson 6.06 Interfaces (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-6/6-06-interfaces)
+[Lesson 6.06 Interfaces (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-6/6-06-interfaces)
 
 
 [Poster 6.6]:    https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Poster%206.6.pptx

@@ -64,4 +64,4 @@ grade.
 
 Forum discussion
 ----------------
-[Lesson 7.04 Unit 7 Review (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-7/7-04-review)
+[Lesson 7.04 Unit 7 Review (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-7/7-04-review)

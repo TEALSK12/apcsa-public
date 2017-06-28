@@ -97,4 +97,4 @@ time, or allow them to work on a free-choice programming project.
 
 Forum discussion
 ----------------
-[Lesson 8.05 Finding & Fixing Errors (TEALS Discourse account required)](http://tealsk12.trydiscourse.com/c/unit-8/8-05-finding-fixing-errors)
+[Lesson 8.05 Finding & Fixing Errors (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-8/8-05-finding-fixing-errors)
