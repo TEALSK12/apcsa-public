@@ -304,7 +304,7 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 | [3.17] |Finding & Fixing Errors|(Fix HW)|Review ch 3-5|Submit questions for review |
 | [3.18] |Review|(Review questions), [WS 3.18] practice test||Study |
 | 3.99 |Unit 3 test|[Test 2 Guide]<br>Test 2 Section I<br>Test 2 Section II|| |
-| 3.XX |Project: Frac Calc|[Frac Calc Student Guide]<br>[Frac Calc Teacher Guide]|| |
+| 3.XX |Project: Frac Calc|[Project: Frac Calc]<br>[Frac Calc Student Guide]<br>[Frac Calc Teacher Guide]|| |
 
 ### 3.00
 | [Lesson 3.00]   | _Test Review & Reteach_
@@ -490,7 +490,7 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 ### 3.XX
 | Unit 3 Project  | _Frac Calc_
 |:----------------|:-----------
-| **In Class**    | [Frac Calc Student Guide]<br>[Frac Calc Teacher Guide]
+| **In Class**    | [Project: Frac Calc]<br>[Frac Calc Student Guide]<br>[Frac Calc Teacher Guide]
 
 
 
@@ -514,11 +514,11 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 | [4.06] |Nested Loop Algorithms & Rectangular Arrays|[WS 4.6]|10.1 up to Adding to and Removing from an ArrayList|SC [TBD]
 | [4.07] |ArrayList|Grudgeball<br>[Poster 4.7]||Outline ch 7 and 10.1
 | [4.08] |Finding & Fixing Errors|Fix HW|Review ch 7, 10.1 for Magpie lab|Submit questions for review
-| [4.09] 01|Magpie Lab (day 1)|Magpie Chatbot Lab Activity 1 & 2|Barrons ch 6|
-| [4.09] 02|Magpie Lab (day 2)|Magpie Chatbot Lab Activity 2|Barrons ch 6|
-| [4.09] 03|Magpie Lab (day 3)|Magpie Chatbot Lab Activity 3||Barrons ch 6 practice questions
-| [4.09] 04|Magpie Lab (day 4)|Magpie Chatbot Lab Activity 4||Check and correct Barrons ch.6 questions
-| [4.09] 05|Magpie Lab (day 5)|Magpie Chatbot Lab Activity 5||Check and correct Barrons ch.6 questions
+| [4.09] 01|Magpie Lab (day 1)|[Magpie Chatbot Lab] Activity 1 & 2<br>[Eclipse Magpie Archive]|Barrons ch 6|
+| [4.09] 02|Magpie Lab (day 2)|[Magpie Chatbot Lab] Activity 2|Barrons ch 6|
+| [4.09] 03|Magpie Lab (day 3)|[Magpie Chatbot Lab] Activity 3||Barrons ch 6 practice questions
+| [4.09] 04|Magpie Lab (day 4)|[Magpie Chatbot Lab] Activity 4||Check and correct Barrons ch.6 questions
+| [4.09] 05|Magpie Lab (day 5)|[Magpie Chatbot Lab] Activity 5||Check and correct Barrons ch.6 questions
 | [4.10] |Review|Review questions [WS 4.10] practice test||Study
 | 4.99 |Unit 4 test|Test 3 Section I<br>Test 3 Section II||
 
@@ -617,7 +617,7 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 |:----------------|:--------------------
 | **Objectives**  | Students will complete a long-form lab, using if statements, algorithms, the Sting class, arrays, and ArrayLists.
 | **Assessments** | Students will complete the College Board’s AP CS A Magpie Chatbot Lab.<br>Students will answer assessment questions on the fourth class exam.
-| **In Class**    | Magpie Chatbot Lab Activity 1 & 2
+| **In Class**    | [Magpie Chatbot Lab] Activity 1 & 2<br>[Eclipse Magpie Archive]
 | **Reading**     | Barrons ch 6
 | **Homework**    |
 
@@ -626,7 +626,7 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 |:----------------|:--------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Magpie Chatbot Lab Activity 2
+| **In Class**    | [Magpie Chatbot Lab] Activity 2
 | **Reading**     | Barrons ch 6
 | **Homework**    |
 
@@ -635,7 +635,7 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 |:----------------|:--------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Magpie Chatbot Lab Activity 3
+| **In Class**    | [Magpie Chatbot Lab] Activity 3
 | **Reading**     |
 | **Homework**    | Barrons ch 6 practice questions
 
@@ -644,7 +644,7 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 |:----------------|:--------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Magpie Chatbot Lab Activity 4
+| **In Class**    | [Magpie Chatbot Lab] Activity 4
 | **Reading**     |
 | **Homework**    | Check and correct Barrons ch.6 questions
 
@@ -653,7 +653,7 @@ Unit 4: Arrays, Lists, & Files (4 weeks)
 |:----------------|:--------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Magpie Chatbot Lab Activity 5
+| **In Class**    | [Magpie Chatbot] Lab Activity 5
 | **Reading**     |
 | **Homework**    | Check and correct Barrons ch.6 questions
 
@@ -689,15 +689,15 @@ Unit 5: Object-Oriented Programming (4 weeks)
 | [5.03] |Object Initialization: Constructors|[WS 5.3.1]<br>[WS 5.3.2]|8.4|
 | [5.04] |Encapsulation|[WS 5.4] Mini-lessons||SC 8.22-8.28
 | [5.05] |Finding & Fixing Errors|Fix HW|Review ch 8 for Picture Lab|Submit questions for review
-| [5.06] 01|Picture Lab (day 1)|Picture Lab Activity 1 & 2<br>Picture Lab||Summarize notes since last exam
-| [5.06] 02|Picture Lab (day 2)|Picture Lab Activity 3 & 4, notebook checks||Outline ch 8
-| [5.06] 03|Picture Lab (day 3)|Picture Lab Activity 5, notebook checks|Read and highlight Barrons ch 2, skip this keyword|
-| [5.06] 04|Picture Lab (day 4)|Picture Lab Activity 5 & 6, notebook checks||Barrons ch 2 exam, skip #20
-| [5.06] 05|Picture Lab (day 5)|Picture Lab Activity 6, Barron's checks|Read and highlight Barrons ch 5|
-| [5.06] 06|Picture Lab (day 6)|Picture Lab Activity 7||SC 8.28, 8.30
-| [5.06] 07|Picture Lab (day 7)|Picture Lab Activity 8|8.5|Finish Picture Lab Activity 8
-| [5.06] 08|Picture Lab (day 8)|Picture Lab Activity 9||Cont. Picture Lab Activity 9
-| [5.06] 09|Picture Lab (day 9)|Picture Lab Activity 9, cont.||Submit questions for review
+| [5.06] 01|Picture Lab (day 1)|[Picture Lab] Activity 1 & 2<br>[Eclipse Picture Lab Archive]||Summarize notes since last exam
+| [5.06] 02|Picture Lab (day 2)|[Picture Lab] Activity 3 & 4, notebook checks||Outline ch 8
+| [5.06] 03|Picture Lab (day 3)|[Picture Lab] Activity 5, notebook checks|Read and highlight Barrons ch 2, skip this keyword|
+| [5.06] 04|Picture Lab (day 4)|[Picture Lab] Activity 5 & 6, notebook checks||Barrons ch 2 exam, skip #20
+| [5.06] 05|Picture Lab (day 5)|[Picture Lab] Activity 6, Barron's checks|Read and highlight Barrons ch 5|
+| [5.06] 06|Picture Lab (day 6)|[Picture Lab] Activity 7||SC 8.28, 8.30
+| [5.06] 07|Picture Lab (day 7)|[Picture Lab] Activity 8|8.5|Finish Picture Lab Activity 8
+| [5.06] 08|Picture Lab (day 8)|[Picture Lab] Activity 9||Cont. Picture Lab Activity 9
+| [5.06] 09|Picture Lab (day 9)|[Picture Lab] Activity 9, cont.||Submit questions for review
 | [5.07] |Review|Review question<br>[WS 5.7] Test practice||Study
 | [5.99]|(Unit 5 test)|Test 4 Section I<br>Test 4 Section II||
 
@@ -760,7 +760,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  | Students will complete a long-form lab, using two dimensional arrays of objects, array traversing algorithms, program analysis, binary numbers, inheritance, and interfaces.
 | **Assessments** | Picture Lab
-| **In Class**    | Picture Lab Activity 1 & 2<br>Picture Lab
+| **In Class**    | [Picture Lab] Activity 1 & 2<br>[Eclipse Picture Lab Archive]
 | **Reading**     |
 | **Homework**    | Summarize notes since last exam
 
@@ -769,7 +769,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Picture Lab Activity 3 & 4<br>Notebook checks
+| **In Class**    | [Picture Lab] Activity 3 & 4<br>Notebook checks
 | **Reading**     |
 | **Homework**    | Outline ch 8
 
@@ -778,7 +778,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Picture Lab Activity 5<br>Notebook checks
+| **In Class**    | [Picture Lab] Activity 5<br>Notebook checks
 | **Reading**     | Read and highlight Barrons ch 2, skip `this` keyword
 | **Homework**
 
@@ -787,7 +787,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Picture Lab Activity 5 & 6<br>Notebook checks
+| **In Class**    | [Picture Lab] Activity 5 & 6<br>Notebook checks
 | **Reading**     |
 | **Homework**    | Barrons ch 2 exam (skip #20)
 
@@ -796,7 +796,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Picture Lab Activity 6<br>Barron's checks
+| **In Class**    | [Picture Lab] Activity 6<br>Barron's checks
 | **Reading**     | Read and highlight Barrons ch 5
 | **Homework**    |
 
@@ -805,7 +805,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Picture Lab Activity 7
+| **In Class**    | [Picture Lab] Activity 7
 | **Reading**     |
 | **Homework**    | SC 8.28,30
 
@@ -814,7 +814,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Picture Lab Activity 8
+| **In Class**    | [Picture Lab] Activity 8
 | **Reading**     | 8.5
 | **Homework**    | Finish Picture Lab Activity 8
 
@@ -823,7 +823,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Picture Lab Activity 9
+| **In Class**    | [Picture Lab] Activity 9
 | **Reading**     |
 | **Homework**    | Cont. Picture Lab Activity 9
 
@@ -832,7 +832,7 @@ Unit 5: Object-Oriented Programming (4 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Picture Lab Activity 9, cont.
+| **In Class**    | [Picture Lab] Activity 9, cont.
 | **Reading**     |
 | **Homework**    | Submit questions for review
 
@@ -878,7 +878,7 @@ Unit 6: Inheritance & Polymorphism (4 weeks)
 | [6.08] |Finding & Fixing Errors|(Fix HW)|Review ch 9|Submit questions for review
 | [6.09] |Review|Review questions<br>[WS 6.5] Test practice||Study
 | 6.99 |Unit 6 test|[Test 5 Guide]<br>Test 5 Section I<br>Test 5 Section II||
-| 6.XX |Project: Text Excel|[Text Excel Student Guide A]<br>[Text Excel Student Guide B]<br>[Text Excel Student Guide C]<br>[Text Excel Teacher Guide]||
+| 6.XX |Project: Text Excel|[Project: Text Excel]<br>[Text Excel Student Guide A]<br>[Text Excel Student Guide B]<br>[Text Excel Student Guide C]<br>[Text Excel Teacher Guide]||
 
 ### 6.00
 | [Lesson 6.00]   | _Test Review & Reteach_
@@ -1024,7 +1024,7 @@ Unit 6: Inheritance & Polymorphism (4 weeks)
 ### 6.XX
 | Unit 6 Project  | _Text Excel_
 |:----------------|:------------
-| **In Class**    | [Text Excel Student Guide A]<br>[Text Excel Student Guide B]<br>[Text Excel Student Guide C]<br>[Text Excel Teacher Guide]
+| **In Class**    | [Project: Text Excel]<br>[Text Excel Student Guide A]<br>[Text Excel Student Guide B]<br>[Text Excel Student Guide C]<br>[Text Excel Teacher Guide]
 
 
 
@@ -1041,22 +1041,22 @@ Unit 7: Searching & Sorting (3 weeks)
 | [7.00] |Test Review & Reteach|Review test|13.1 up to “Sorting”|Test corrections
 | [7.01] |Searching Algorithms|(CS Unplugged Battleship)<br>[WS 7.1]|13.1 “Sorting”|SC 13.4-13.6, E 13.1-13.3 
 | [7.02] |Sorting Algorithms||13.1 “Shuffling”|
-| [7.03] 01|Elevens lab (day 1)| Elevens Lab Activity 1|"13.3 skip ""Recursive Binary Search"""|SC 13.16-13.21, 13.23, 13.24
-| [7.03] 02|Elevens lab (day 2)| Elevens Lab Activity 2 (begin)||
-| [7.03] 03|Elevens lab (day 3)| Elevens Lab Activity 2 (end)||Summarize notes since last exam
-| [7.03] 04|Elevens lab (day 4)| Elevens Lab Activity 3 (begin), notebook checks||Outline ch 13
-| [7.03] 05|Elevens lab (day 5)| Elevens Lab Activity 3 (end), notebook checks|Read and outline Barrons ch 8|
-| [7.03] 06|Elevens lab (day 6)| Elevens Lab Activity 4||Barrons ch 8 exam, self-grade 
-| [7.03] 07|Elevens lab (day 7)| Elevens Lab Activity 5 (begin), Barron's checks||
-| [7.03] 08|Elevens lab (day 8)| Elevens Lab Activity 5 (end)||
-| [7.03] 09|Elevens lab (day 9)| Elevens Lab Activity 6||(Fix HW)
-| [7.03] 10|Elevens lab (day 10)| Elevens Lab Activity 7||(Fix HW)
-| [7.03] 11|Elevens lab (day 11)| Elevens Lab Activity 8, re-grade fixed HW||
-| [7.03] 12|Elevens lab (day 12)| Elevens Lab Activity 9 (begin), re-grade fixed HW||
-| [7.03] 13|Elevens lab (day 13)| Elevens Lab Activity 9 (end), re-grade fixed HW||Submit questions for review
-| [7.03] 14|Elevens lab (day 14)| Elevens Lab Activity 10, re-grade fixed HW||
-| [7.03] 15|Elevens lab (day 15)| Elevens Lab Activity 11 (begin)||
-| [7.03] 16|Elevens lab (day 16)| Elevens Lab Activity 11 (end)||
+| [7.03] 01|Elevens lab (day 1)| [Elevens Lab] Activity 1|"13.3 skip ""Recursive Binary Search"""|SC 13.16-13.21, 13.23, 13.24
+| [7.03] 02|Elevens lab (day 2)| [Elevens Lab] Activity 2 (begin)||
+| [7.03] 03|Elevens lab (day 3)| [Elevens Lab] Activity 2 (end)||Summarize notes since last exam
+| [7.03] 04|Elevens lab (day 4)| [Elevens Lab] Activity 3 (begin), notebook checks||Outline ch 13
+| [7.03] 05|Elevens lab (day 5)| [Elevens Lab] Activity 3 (end), notebook checks|Read and outline Barrons ch 8|
+| [7.03] 06|Elevens lab (day 6)| [Elevens Lab] Activity 4||Barrons ch 8 exam, self-grade 
+| [7.03] 07|Elevens lab (day 7)| [Elevens Lab] Activity 5 (begin), Barron's checks||
+| [7.03] 08|Elevens lab (day 8)| [Elevens Lab] Activity 5 (end)||
+| [7.03] 09|Elevens lab (day 9)| [Elevens Lab] Activity 6||(Fix HW)
+| [7.03] 10|Elevens lab (day 10)| [Elevens Lab] Activity 7||(Fix HW)
+| [7.03] 11|Elevens lab (day 11)| [Elevens Lab] Activity 8, re-grade fixed HW||
+| [7.03] 12|Elevens lab (day 12)| [Elevens Lab] Activity 9 (begin), re-grade fixed HW||
+| [7.03] 13|Elevens lab (day 13)| [Elevens Lab] Activity 9 (end), re-grade fixed HW||Submit questions for review
+| [7.03] 14|Elevens lab (day 14)| [Elevens Lab] Activity 10, re-grade fixed HW||
+| [7.03] 15|Elevens lab (day 15)| [Elevens Lab] Activity 11 (begin)||
+| [7.03] 16|Elevens lab (day 16)| [Elevens Lab] Activity 11 (end)||
 | [7.04]|Review|Review questions||Study
 | 7.99|Unit 7 test|[Test 6 Guide]<br>Test 6 Section I<br>Test 6 Section II||
 
@@ -1092,7 +1092,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:---------------------
 | **Objectives**  | Students will complete a long-form lab, demonstrating effective use of object oriented program design, program implementation and analysis, and standard data structures and algorithms.
 | **Assessments** | Elevens Lab
-| **In Class**    | Elevens Lab Activity 1
+| **In Class**    | [Elevens Lab] Activity 1
 | **Reading**     | 13.3 (skip “_Recursive Binary Search_”)
 | **Homework**    | SC 13.16–21,23–24
 
@@ -1101,7 +1101,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 2 (begin)
+| **In Class**    | [Elevens Lab] Activity 2 (begin)
 | **Reading**     |
 | **Homework**    |
 
@@ -1110,7 +1110,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 2 (end)
+| **In Class**    | [Elevens Lab] Activity 2 (end)
 | **Reading**     |
 | **Homework**    | Summarize notes since last exam
 
@@ -1119,7 +1119,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 3 (begin)<br>Notebook checks
+| **In Class**    | [Elevens Lab] Activity 3 (begin)<br>Notebook checks
 | **Reading**     |
 | **Homework**    | Outline ch 13
 
@@ -1128,7 +1128,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 3 (end)<br>Notebook checks
+| **In Class**    | [Elevens Lab] Activity 3 (end)<br>Notebook checks
 | **Reading**     | Read and outline Barrons ch 8
 | **Homework**    |
 
@@ -1137,7 +1137,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 4
+| **In Class**    | [Elevens Lab] Activity 4
 | **Reading**     |
 | **Homework**    | Barrons ch 8 exam, self-grade
 
@@ -1146,7 +1146,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 5 (begin)<br>Barron's checks
+| **In Class**    | [Elevens Lab] Activity 5 (begin)<br>Barron's checks
 | **Reading**     |
 | **Homework**    |
 
@@ -1155,7 +1155,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 5 (end)
+| **In Class**    | [Elevens Lab] Activity 5 (end)
 | **Reading**     |
 | **Homework**    |
 
@@ -1164,7 +1164,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 6
+| **In Class**    | [Elevens Lab] Activity 6
 | **Reading**     |
 | **Homework**    | Fix homework
 
@@ -1173,7 +1173,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:----------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 7
+| **In Class**    | [Elevens Lab] Activity 7
 | **Reading**     |
 | **Homework**    | Fix homework
 
@@ -1182,7 +1182,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:----------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 8<br>Re-grade fixed homework
+| **In Class**    | [Elevens Lab] Activity 8<br>Re-grade fixed homework
 | **Reading**     |
 | **Homework**    |
 
@@ -1191,7 +1191,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:----------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 9 (begin)<br>Re-grade fixed homework
+| **In Class**    | [Elevens Lab] Activity 9 (begin)<br>Re-grade fixed homework
 | **Reading**     |
 | **Homework**    |
 
@@ -1200,7 +1200,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:----------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 9 (end)<br>Re-grade fixed homework
+| **In Class**    | [Elevens Lab] Activity 9 (end)<br>Re-grade fixed homework
 | **Reading**     |
 | **Homework**    | Submit questions for review
 
@@ -1209,7 +1209,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:----------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 10<br>Re-grade fixed homework
+| **In Class**    | [Elevens Lab] Activity 10<br>Re-grade fixed homework
 | **Reading**     |
 | **Homework**    |
 
@@ -1218,7 +1218,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:----------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 11 (begin)
+| **In Class**    | [Elevens Lab] Activity 11 (begin)
 | **Reading**     |
 | **Homework**    |
 
@@ -1227,7 +1227,7 @@ Unit 7: Searching & Sorting (3 weeks)
 |:----------------|:----------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 11 (end)
+| **In Class**    | [Elevens Lab] Activity 11 (end)
 | **Reading**     |
 | **Homework**    |
 
@@ -1622,3 +1622,10 @@ self-contained website with lessons, labs and other supporting resources:
 [WS 6.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.5.docx
 [WS 7.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit7/WS%207.1.docx
 [WS 8.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit8/WS%208.3.docx
+[Project: Frac Calc]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Unit%203%20Frac%20Calc.zip
+[Project: Text Excel]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/Unit%206%20Text%20Excel.zip
+[Magpie Chatbot Lab]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/Unit%204%20Milestone%201%20Magpie%20Lab.zip
+[Eclipse Magpie Archive]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/EclipseMagpieLab.zip
+[Picture Lab]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/Unit%205%20Milestone%202%20Picture%20Lab.zip
+[Eclipse Picture Lab Archive]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/EclipsePictureLab.zip
+[Elevens Lab]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit7/Unit%207%20Milestone%203%20-%20Elevens%20Lab.zip
