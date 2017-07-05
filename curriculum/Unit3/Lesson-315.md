@@ -136,4 +136,4 @@ Forum discussion
 [Lesson 3.15 Fencepost & Sentinel Loops (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-15-fencepost-sentinel-loops)
 
 
-[WS 3.15]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.15.docx
+[WS 3.15]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.15.docx

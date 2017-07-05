@@ -188,4 +188,4 @@ Forum discussion
 [Lesson 2.05 for Loops (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-2/2-05-for-loops)
 
 
-[WS 2.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit2/WS%202.5.docx
+[WS 2.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/WS%202.5.docx

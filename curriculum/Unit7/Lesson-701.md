@@ -160,4 +160,4 @@ Forum discussion
 [Lesson 7.01 Searching Algorithms (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-7/7-01-searching-algorithms)
 
 
-[WS 7.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit7/WS%207.1.docx
+[WS 7.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit7/WS%207.1.docx

@@ -238,5 +238,5 @@ Forum discussion
 [Lesson 5.03 Object Initialization: Constructors (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-5/5-03-object-initialization-constructors)
 
 
-[WS 5.3.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.3.1.docx
-[WS 5.3.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit5/WS%205.3.2.docx
+[WS 5.3.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.3.1.docx
+[WS 5.3.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.3.2.docx

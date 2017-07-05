@@ -2,8 +2,8 @@ TEALS AP CS A Curriculum — How to Contribute
 ====================================================================================================
 
 ## Repository Location
-The curriculum's source code is hosted on Github at [https://github.com/TEALSK12/apcsa]. Restricted
-instructor-only content is hosted at [https://github.com/TEALSK12/apcsa-instructor].
+The curriculum's source code is hosted on Github at [https://github.com/TEALSK12/apcsa-public].
+Restricted instructor-only content is hosted at [https://github.com/TEALSK12/apcsa-instructor].
 
 Did you catch an error in the TEALS AP CS A curriculum, or perhaps have an idea for an addition that
 would make it better? If so, we'd love to see what you've got!
@@ -94,9 +94,9 @@ Hopefully, all went well, and you've helped to make our curriculum even better -
 
 [GitHub account]:   https://github.com/join
 [Kenney Chan]:      mailto:kencha@microsoft.com
-[main code page]:   https://github.com/TEALSK12/apcsa
+[main code page]:   https://github.com/TEALSK12/apcsa-public
 [Steve Hollasch]:   mailto:steve@hollasch.net
 [style guidelines]: STYLE.md
-[submit an issue]:  https://github.com/TEALSK12/apcsa/issues
-[https://github.com/TEALSK12/apcsa]: https://github.com/TEALSK12/apcsa
+[submit an issue]:  https://github.com/TEALSK12/apcsa-public/issues
+[https://github.com/TEALSK12/apcsa-public]: https://github.com/TEALSK12/apcsa-public
 [https://github.com/TEALSK12/apcsa-instructor]: https://github.com/TEALSK12/apcsa-instructor

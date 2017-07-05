@@ -99,4 +99,4 @@ Forum discussion
 [Lesson 3.18 Review (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-18-review)
 
 
-[WS 3.18]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.18.docx
+[WS 3.18]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.18.docx

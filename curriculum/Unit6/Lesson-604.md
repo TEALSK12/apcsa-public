@@ -232,5 +232,5 @@ Forum discussion
 [Lesson 6.04 Polymorphism (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-6/6-04-polymorphism)
 
 
-[WS 6.4.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.4.1.docx
-[WS 6.4.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit6/WS%206.4.2.docx
+[WS 6.4.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/WS%206.4.1.docx
+[WS 6.4.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/WS%206.4.2.docx

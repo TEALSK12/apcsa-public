@@ -221,4 +221,4 @@ Forum discussion
 [Lesson 1.04 Common Errors & Comments (TEALS Discourse account required)](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-04-common-errors-comments)
 
 
-[WS 1.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.4.docx
+[WS 1.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.4.docx

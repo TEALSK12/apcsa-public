@@ -118,7 +118,7 @@ Common Mistakes
 Loops common mistakes:
 <http://interactivepython.org/runestone/static/JavaReview/LoopBasics/lMistakes.html>
 
-[WS 3.13]:  https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/WS%203.13.docx
+[WS 3.13]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.13.docx
 
 
 Video
