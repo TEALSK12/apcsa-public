@@ -338,4 +338,4 @@ Forum discussion
 [Lesson 3.09 Relational Operators & if/else (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-09-relational-operators-if-else)
 
   
-[Operator Precedence]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit3/Operator%20Precedence.pptx
+[Operator Precedence]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Operator%20Precedence.pptx

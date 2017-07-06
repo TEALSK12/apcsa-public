@@ -165,5 +165,5 @@ Forum discussion
 [Lesson 1.01 Using Eclipse & Practice-it (TEALS Discourse account required)](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-01-using-eclipse-practice-it)
 
 
-[WS 1.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.1.1.docx
-[WS 1.1.2]: https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit1/WS%201.1.2.docx
+[WS 1.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.1.docx
+[WS 1.1.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.2.docx

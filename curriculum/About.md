@@ -74,4 +74,4 @@ Acknowledgements
 [LICENSE.md]:  LICENSE.md
 [Locally]:     SUMMARY.md
 [On GitBook]:  https://tealsk12.gitbooks.io/ap-computer-science-a/content/
-[On GitHub]:   https://github.com/TEALSK12/apcsa/blob/master/SUMMARY.md
+[On GitHub]:   https://github.com/TEALSK12/apcsa-public/blob/master/SUMMARY.md

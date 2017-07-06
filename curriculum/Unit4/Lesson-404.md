@@ -129,4 +129,4 @@ Forum discussion
 [Lesson 4.04 Reference Semantics (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-4/4-04-reference-semantics)
 
 
-[WS 4.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa/master/curriculum/Unit4/WS%204.4.docx
+[WS 4.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/WS%204.4.docx
