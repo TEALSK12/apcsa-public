@@ -1,6 +1,7 @@
 # AP CS A
 * [Video Tutorials](Video-Tutorials.md)
 * [Curriculum Map](Curriculum-Map.md)
+* [Curriculum Assets](Assets.md)
 
 ## Unit 1: Programming & Java (2 weeks)
 * [Lesson 1.01: Using Eclipse & Practice It](Unit1/Lesson-101.md)
