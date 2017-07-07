@@ -21,9 +21,9 @@ Contents
     student starter source code.
 
   - <code id="magpie">/Projects/APCSA-Magpie-v1.X.X.zip</code>
-    The Unit 4 Magpie Chatbot Lab. Inside this archive you'll find the teacher guide, teacher solution
-    source code, and the distributable starter code archive for students. Get started by reading
-    `Magpie-Teacher-Guide.pdf`.
+    The Unit 4 Magpie Chatbot Lab. Inside this archive you'll find the teacher guide, teacher
+    solution source code, and the distributable starter code archive for students. Get started by
+    reading `Magpie-Teacher-Guide.pdf`.
 
   - <code id="picturelab">/Projects/APCSA-PictureLab-v1.X.X.zip</code>
     The Unit 5 Picture Lab. This archive contains the teacher guide, teacher solution code, and
@@ -31,9 +31,9 @@ Contents
     `TeacherMaterials/pixLab-Teacher-Guide.pdf`.
 
   - <code id="textexcel">/Projects/APCSA-TextExcel-v1.X.X.zip</code>
-    The Unit 6 Text Excel Project. This archive contains the teacher guide, teacher solution code, and
-    distributable starter project for students. Get started by reading `guides/Text Excel Teacher
-    Guide.docx`.
+    The Unit 6 Text Excel Project. This archive contains the teacher guide, teacher solution code,
+    and distributable starter project for students. Get started by reading `guides/Text Excel
+    Teacher Guide.docx`.
 
 - `/Unit*/`
   Assets for each of the APCSA curriculum units. In general, each Word file will have a
@@ -54,4 +54,4 @@ Contents
 
 [Additional Curriculum Materials]:   https://www.tealsk12.org/dashboard/curriculum-repository/
 [`apcsa-instructor` releases]:       https://github.com/TEALSK12/apcsa-instructor/releases
-[TEALS-APCSA-Curriculum-v2.0.0.zip]: https://github.com/TEALSK12/apcsa-instructor/releases/download/curriculum-v2.0.0/
+[TEALS-APCSA-Curriculum-v2.0.1.zip]: https://github.com/TEALSK12/apcsa-instructor/releases/download/curriculum-v2.0.1/TEALS-APCSA-Curriculum-v2.0.1.zip
