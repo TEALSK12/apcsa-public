@@ -7,6 +7,7 @@
     "root": "curriculum",
     "structure": {
         "readme":  "README.md",
-        "summary": "SUMMARY.md"
+        "summary": "SUMMARY.md",
+        "assets":  "Assets.md"
     }
 }
