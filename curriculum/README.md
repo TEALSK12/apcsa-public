@@ -7,7 +7,7 @@ access to a computer science professional) can use this curriculum to teach the 
 A course.
 
 This curriculum is based on and aligned with Professor Stuart Reges' course at the University of
-Washington, CSE 142. The course uses the textbook _Building Java Concepts: A Back to Basics
+Washington, CSE 142. The course uses the textbook _Building Java Programs: A Back to Basics
 Approach_, by Stuart Reges and Marty Stepp. The course is aligned with the AP Computer Science A
 standards. TEALS has received AP Audit certification for previous versions of the course and
 syllabus. Since these materials are new in 2015–2016, TEALS will apply to have the new syllabus
