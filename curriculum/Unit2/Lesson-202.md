@@ -10,7 +10,7 @@ Overview
 - **Write** a program that converts temperature from Fahrenheit to Celsius.
 
 ### Homework — _Students will…_
-- **Read** the rest of HW 2.2
+- **Read** the rest of BJP 2.2
 - **Complete** self-check questions 5, 6, 9, 12-15 (4<sup>th</sup> edition: 6, 7, 10, 14-17)
 
 

@@ -12,7 +12,7 @@ Overview
 - **Complete** a worksheet
 
 ### Homework — _Students will…_
-- **Read** HW 9.3 up to “Interpreting Inheritance Code.”
+- **Read** BJP 9.3 up to “Interpreting Inheritance Code.”
 
 
 Materials & Prep

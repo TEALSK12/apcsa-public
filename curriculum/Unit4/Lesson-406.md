@@ -11,7 +11,7 @@ Overview
 - **Complete** WS 4.6
 
 ### Homework — _Students will…_
-- **Read** HW 10.1 up to “Adding to and Removing from an ArrayList”
+- **Read** BJP 10.1 up to “Adding to and Removing from an ArrayList”
 - **Complete** self-check problems \#1 - 6
 
 

@@ -11,7 +11,7 @@ Overview
 - **Complete** a class competition
 
 ### Homework — _Students will…_
-- **Read** HW 4.2
+- **Read** BJP 4.2
 - **Finish outlining** Chapter 4, excluding sections 4.3, 4.4, and 4.5
 
 

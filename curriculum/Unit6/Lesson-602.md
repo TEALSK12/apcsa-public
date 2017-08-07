@@ -11,7 +11,7 @@ Overview
 - **Add** code to their Class Posters from the previous lesson.
 
 ### Homework — _Students will…_
-- **Read** the rest of HW 9.2 starting from “The Object Class.”
+- **Read** the rest of BJP 9.2 starting from “The Object Class.”
 
 
 Materials & Prep

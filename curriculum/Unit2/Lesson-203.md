@@ -11,7 +11,7 @@ Overview
 - **Evaluate** statements and predict output during a game of grudgeball
 
 ### Homework — _Students will…_
-- **Read** remainder of HW 2.2
+- **Read** remainder of BJP 2.2
 - **Complete** self-check question 4 (4<sup>th</sup> edition: 5)
 
 

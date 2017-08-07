@@ -11,7 +11,7 @@ Overview
     - Credit depends on instructor preference
 
 ### Homework — _Students will…_
-- **Read** HW 12.1 up to “Structure of Recursive Solutions”
+- **Read** BJP 12.1 up to “Structure of Recursive Solutions”
 - **Correct** any incorrect test answers by re-answering on a separate sheet of paper
   - To get back credit, they must justify their new answers
   - Staple new answer sheet to old test and turn in tomorrow

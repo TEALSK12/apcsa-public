@@ -13,7 +13,7 @@ Overview
 - **Complete** Practice-It questions
 
 ### Homework — _Students will…_
-- **Read** HW 5.1 “Random Numbers”
+- **Read** BJP 5.1 “Random Numbers”
 - **Complete** self-check questions \#1-4 and exercise 2
 
 

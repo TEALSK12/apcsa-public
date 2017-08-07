@@ -12,7 +12,7 @@ Overview
 - **Assemble and debug** a program that directs the instructor to make a sandwich
 
 ### Homework — _Students will…_
-- **Read** HW 1.2
+- **Read** BJP 1.2
 
 
 Materials & Prep
@@ -20,7 +20,6 @@ Materials & Prep
 - **Projector and computer OR whiteboard and marker**
 - **Food items** for peanut butter and jelly sandwich
 - **Utensils** for sandwich assembly (spoon for jelly, knife for spreading)
-- **Classroom copies** of HW 1.2
 - **Wet wipes or water** to clean hands
 
 

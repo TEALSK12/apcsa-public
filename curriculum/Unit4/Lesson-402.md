@@ -10,7 +10,7 @@ Overview
 - **Complete** manipulatives exercises on WS 4.2
 
 ### Homework — _Students will…_
-- **Read** HW 7.2 up to “Reversing an Array”
+- **Read** BJP 7.2 up to “Reversing an Array”
 - **Complete** self-check questions \#12-14
 
 

@@ -12,7 +12,7 @@ Overview
   grudgeball.
 
 ### Homework — _Students will…_
-- **Read** HW 4.1 “Nested if/else” and “Object Equality”
+- **Read** BJP 4.1 “Nested if/else” and “Object Equality”
 - **Complete** self-check questions 7–9 and exercises 1 & 2
 
 

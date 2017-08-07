@@ -14,7 +14,7 @@ Overview
 
 ### Homework — _Students will…_
 - **Complete** self-check questions 1-3 (4<sup>th</sup> edition: 1, 3, 4)
-- **Read** HW 2.2 up to “String Concatenation”
+- **Read** BJP 2.2 up to “String Concatenation”
 
 
 Materials & Prep
