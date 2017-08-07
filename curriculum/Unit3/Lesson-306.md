@@ -10,7 +10,7 @@ Overview
 - **Complete** Practice-It problems
 
 ### Homework — _Students will…_
-- **Outline** Chapter 3, except for HW 3.4
+- **Outline** Chapter 3, except for BJP 3.4
 
 
 Materials & Prep

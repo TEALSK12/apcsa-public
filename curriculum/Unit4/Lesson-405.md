@@ -12,7 +12,7 @@ Overview
 - **Model** memory manipulation using array whiteboards
 
 ### Homework — _Students will…_
-- **Read** HW 7.4 “Nested Arrays” and HW 7.5 “Rectangular Two-Dimensional Arrays”
+- **Read** BJP 7.4 “Nested Arrays” and BJP 7.5 “Rectangular Two-Dimensional Arrays”
 - **Complete** self-check questions \#27-29 and exercise \#4
 
 

@@ -13,7 +13,7 @@ Overview
 - **Complete** a Class Hierarchy poster as indicated in WS 6.1
 
 ### Homework — _Students will…_
-- **Read** HW 9.2 up to “DividendStock Behavior.”
+- **Read** BJP 9.2 up to “DividendStock Behavior.”
 - **Collect** images that represent instances of the classes created for in-class poster project.
 
 

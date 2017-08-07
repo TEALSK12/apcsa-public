@@ -14,7 +14,7 @@ Overview
 - **Complete** Practice-It questions
 
 ### Homework — _Students will…_
-- **Read** HW 5.2
+- **Read** BJP 5.2
 - **Complete** programming project 1
 
 

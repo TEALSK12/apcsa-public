@@ -12,7 +12,7 @@ Overview
 - **Submit** Practice-It questions
 
 ### Homework — _Students will…_
-- **Read** HW 3.1 “Limitations of Parameters” and “Multiple Parameters”
+- **Read** BJP 3.1 “Limitations of Parameters” and “Multiple Parameters”
 - **Complete** self-check questions 4-7
 
 

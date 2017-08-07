@@ -12,7 +12,7 @@ Overview
 - **Submit** several Practice-It questions
 
 ### Homework — _Students will…_
-- **Read** HW 4.1 “Factoring if/else Statements” and “Testing Multiple Conditions”
+- **Read** BJP 4.1 “Factoring if/else Statements” and “Testing Multiple Conditions”
 - **Complete** exercises 4 and 5
 
 

@@ -10,7 +10,7 @@ Overview
 - **Submit** an Equestria program by the end of class.
 
 ### Homework — _Students will…_
-- **Read** HW 3.3 up to “Interactive Programs and Scanner Objects”
+- **Read** BJP 3.3 up to “Interactive Programs and Scanner Objects”
 - **Complete** Ch.3 self-check questions 18 & 19
 
 

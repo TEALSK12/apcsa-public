@@ -11,7 +11,7 @@ Overview
 - **Complete** Practice-It questions
 
 ### Homework — _Students will…_
-- **Read** HW 8.2 up to “Mutators and Accessors”
+- **Read** BJP 8.2 up to “Mutators and Accessors”
 
 
 Materials & Prep

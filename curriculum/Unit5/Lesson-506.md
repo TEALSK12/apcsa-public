@@ -86,7 +86,7 @@ Pacing Guide: Day 6
 | Section                | Total Time
 |------------------------|-----------
 | **Student Activity 7** | Full class
-| **Homework:**<br>_Read HW 8.5 and answer self-check questions 29–30_  | TONIGHT
+| **Homework:**<br>_Read BJP 8.5 and answer self-check questions 29–30_  | TONIGHT
 
 
 Pacing Guide: Day 7

@@ -13,7 +13,7 @@ Overview
 
 ### Homework — _Students will…_
 - **Day 1:** Complete self-check questions \#15-17 and exercise 3
-- **Day 2:** Read HW 7.3 and complete self-check questions \#19-21
+- **Day 2:** Read BJP 7.3 and complete self-check questions \#19-21
 
 
 Materials & Prep

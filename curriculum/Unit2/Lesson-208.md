@@ -10,7 +10,7 @@ Overview
 - **Submit** a complete, functional program by the end of next class
 
 ### Homework — _Students will…_
-- **Outline** Chapter 2, omitting HW 2.5
+- **Outline** Chapter 2, omitting BJP 2.5
 
 
 Materials & Prep

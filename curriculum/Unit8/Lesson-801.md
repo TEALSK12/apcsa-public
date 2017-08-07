@@ -11,7 +11,7 @@ Overview
 - **Compare** iterative and recursive methods during a class discussion
 
 ### Homework — _Students will…_
-- **Read** the rest of HW 12.1
+- **Read** the rest of BJP 12.1
 
 
 Materials & Prep

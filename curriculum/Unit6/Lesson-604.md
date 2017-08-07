@@ -12,7 +12,7 @@ Overview
 - **Complete** WS 6.4
 
 ### Homework — _Students will…_
-- **Read** HW 9.4 “Is-a Versus Has-a Relationships.”
+- **Read** BJP 9.4 “Is-a Versus Has-a Relationships.”
 - **Complete** self-check questions \#18, 20
 
 

@@ -11,7 +11,7 @@ Overview
 - **Teach** a mini-lesson explaining the relationship between parameters and values stored in memory
 
 ### Homework — _Students will…_
-- **Read** HW 5.3
+- **Read** BJP 5.3
 - **Complete** exercises \#6 & 8
 - **Summarize** all of your daily notes if not already done
 

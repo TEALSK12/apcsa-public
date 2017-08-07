@@ -10,7 +10,7 @@ Overview
 - **Write, modify, and correct** programs written by others.
 
 ### Homework — _Students will…_
-- **Read** HW 5.1 (skip “do/while Loops”)
+- **Read** BJP 5.1 (skip “do/while Loops”)
 - **Complete** Chapter 4 Programming Project \#2
 
 

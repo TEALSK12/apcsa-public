@@ -11,7 +11,7 @@ Overview
 - **Complete** WS 5.2 individually or in pairs.
 
 ### Homework — _Students will…_
-- **Read** HW 8.3 up to “The Keyword this”
+- **Read** BJP 8.3 up to “The Keyword this”
 - **Complete** self-check questions \#9-11, 13-16
 
 

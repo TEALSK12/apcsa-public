@@ -13,7 +13,7 @@ Overview
   - Credit depends on instructor preference
 
 ### Homework — _Students will…_
-- **Read** HW 13.1 up to “Sorting.”
+- **Read** BJP 13.1 up to “Sorting.”
 - **Correct** any incorrect test answers by re-answering on a separate sheet of paper
   - To get back credit, they must justify their new answers
   - Staple new answer sheet to old test and turn in tomorrow

@@ -14,7 +14,7 @@ Overview
 - **Predict** output by completing and trading worksheets
 
 ### Homework — _Students will…_
-- **Read** HW 2.3 up to “Nested for Loops”
+- **Read** BJP 2.3 up to “Nested for Loops”
 - **Complete** self-check question 18
 - **Finish** the worksheet if not completed in class
 

@@ -10,7 +10,7 @@ Overview
 - **Submit** a program at the end of 2 or 3 class periods.
 
 ### Homework — _Students will…_
-- **Outline** Chapter 5 (up to and including HW 5.3)
+- **Outline** Chapter 5 (up to and including BJP 5.3)
 
 
 Materials & Prep

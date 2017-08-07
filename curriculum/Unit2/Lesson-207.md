@@ -11,7 +11,7 @@ Overview
 - **Complete** a worksheet
 
 ### Homework — _Students will…_
-- **Read** HW 2.4 “Pseudocode”
+- **Read** BJP 2.4 “Pseudocode”
 - **Complete** self-check questions 31-33 (4<sup>th</sup> edition 34-36)
 - **Check class notes** for completion, adding daily summaries if needed
   - Students may use the book to supplement their notes if needed.

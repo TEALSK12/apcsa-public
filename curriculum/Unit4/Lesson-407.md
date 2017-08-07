@@ -11,7 +11,7 @@ Overview
 - **Evaluate** statements and **predict** output during a game of grudgeball
 
 ### Homework — _Students will…_
-- **Outline** Chapter 7 and HW 10.1 “ArrayList”
+- **Outline** Chapter 7 and BJP 10.1 “ArrayList”
 - **Complete** self-check questions \#3-6 and exercise \#3
 
 

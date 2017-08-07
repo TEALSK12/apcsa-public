@@ -11,7 +11,7 @@ Overview
 -   **Evaluate** statements and **predict** output during a game of grudgeball
 
 ### Homework — _Students will…_
--   **Read** HW 12.2
+-   **Read** BJP 12.2
 -   **Complete** self-check questions \#5, 7-9 and exercise \#1
 
 
