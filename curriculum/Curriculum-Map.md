@@ -308,7 +308,7 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 | [3.17] |Finding & Fixing Errors|(Fix HW)|Review ch 3-5|Submit questions for review |
 | [3.18] |Review|(Review questions), [WS 3.18] practice test||Study |
 | 3.99 |Unit 3 test|[Test 2 Guide]<br>Test 2 Section I<br>Test 2 Section II|| |
-| 3.XX |[Frac Calc]|[Frac Calc Student Guide]<br>[Frac Calc Teacher Guide]|| |
+| 3.XX | [Frac Calc] | | | |
 
 ### 3.00
 | [Lesson 3.00]   | _Test Review & Reteach_
@@ -494,7 +494,7 @@ Unit 3: Advanced Data & Control Flow (4 weeks)
 ### 3.XX
 | Unit 3 Project  | _Frac Calc_
 |:----------------|:-----------
-| **In Class**    | [Frac Calc]<br>[Frac Calc Student Guide]<br>[Frac Calc Teacher Guide]
+| **In Class**    | [Frac Calc]
 
 
 
@@ -1396,8 +1396,6 @@ self-contained website with lessons, labs and other supporting resources:
 [DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
 [Equestria]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Map%20of%20Equestria.pptx
 [Example 6.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Example%206.1.jpg
-[Frac Calc Student Guide]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Frac%20Calc%20Student%20Guide.docx
-[Frac Calc Teacher Guide]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Frac%20Calc%20Teacher%20Guide.docx
 [Lesson 1.01]: Unit1/Lesson-101.md
 [1.01]: Unit1/Lesson-101.md
 [Lesson 1.02]: Unit1/Lesson-102.md
