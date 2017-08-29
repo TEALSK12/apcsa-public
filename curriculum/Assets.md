@@ -2,9 +2,11 @@ TEALS AP CS A Curriculum Assets
 ====================================================================================================
 
 The TEALS AP CS A Curriculum assets may be downloaded from the [Additional Curriculum Materials]
-section of the TEALS Dashboard, or from the [`apcsa-instructor` releases] page on GitHub.
+section of the TEALS Dashboard 
 
-The latest version is [TEALS-APCSA-Curriculum-v2.0.1.zip].
+[Note: you need to be a current TEALS volunteer or classroom teacher to acess the TEALS Dashboard]
+
+The latest version is TEALS-APCSA-Curriculum-v2.0.1.zip.
 
 Contents
 --------
@@ -53,5 +55,4 @@ Contents
 
 
 [Additional Curriculum Materials]:   https://www.tealsk12.org/dashboard/curriculum-repository/
-[`apcsa-instructor` releases]:       https://github.com/TEALSK12/apcsa-instructor/releases
-[TEALS-APCSA-Curriculum-v2.0.1.zip]: https://github.com/TEALSK12/apcsa-instructor/releases/download/curriculum-v2.0.1/TEALS-APCSA-Curriculum-v2.0.1.zip
+
