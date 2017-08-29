@@ -89,7 +89,7 @@ reinforcing concepts and applying the tools, procedures, and code that were intr
 
 ### Programming Project \[30 minutes\]
 
-Get students started on the first programming project (\#2 in Chapter 1 of the textbook). Offer
+Get students started on the ASCII art programming project. Offer
 students help after they have tried to answer the questions themselves:
 
 a. Have the checked the book for examples?
