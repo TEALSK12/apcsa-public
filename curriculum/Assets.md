@@ -6,7 +6,7 @@ section of the TEALS Dashboard
 
 [Note: you need to be a current TEALS volunteer or classroom teacher to acess the TEALS Dashboard]
 
-The latest version is TEALS-APCSA-Curriculum-v2.0.1.zip.
+The latest version is TEALS-APCSA-Curriculum-v2.0.2.zip.
 
 Contents
 --------
