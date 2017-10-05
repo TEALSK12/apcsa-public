@@ -17,7 +17,8 @@ identical” function of the AP Audit website to obviate the need for their own 
 This curriculum uses principles of universal design for learning (UDL). The curriculum was written
 for and tested in classrooms with diverse learners; students with individualized education plans,
 English language learners, students who have received sub-optimal math or language instruction in
-the past, students who are gifted/talented, students who are otherwise “outside the average.”
+the past, students who are gifted/talented, students who are otherwise “outside the average.”  See 
+[Additional Resources](#additional-resources) for more information on  universal design for learning.
 
 Accessing the Curriculum
 ------------------------
@@ -223,7 +224,7 @@ encouraged to email the program's creator Alex Aiken directly, at
 [aiken@cs.stanford.edu](mailto:aiken@cs.stanford.edu).
 
 
-Additional Resources
+### Additional Resources
 --------------------
 
 - The free web-based game Code Hunt (http://www.codehunt.com) offers opportunities for students to
