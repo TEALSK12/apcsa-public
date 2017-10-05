@@ -77,9 +77,9 @@ students to predict how many lines of code they’d need to design the images.
              System.out.println("number = " + number);
          }
          public static void doubleNumber (int number) {
-             System.out.println("Initial value = " + " + number");
+             System.out.println("Initial value = " + number);
              number = number * 2;
-             System.out.println("Final value = " + " + number");
+             System.out.println("Final value = " + number);
          }
      }
      ```
