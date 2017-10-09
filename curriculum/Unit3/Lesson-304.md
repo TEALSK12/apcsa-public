@@ -106,8 +106,8 @@ following pairs of cities. Your main method should output the value returned by 
 3. Distance from the Badlands to Ponyville =
 
 ##### Exercise 3
-Write a program that helps Princess Luna plan a 3-stop tour of Equestria. Your program should prompt
-the user (in this case Princess Luna) for three destinations in Equestria, as defined by their x and
+Write a program that helps Princess Luna plan a 3-stop tour of Equestria. 
+Choose any 3 locations in Equestria, as defined by their x and
 y coordinates on the map. You program should output the distance between the three destinations.
 
 You should use the distance methods you wrote for Exercise 2.
