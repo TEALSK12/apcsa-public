@@ -115,6 +115,12 @@ students to predict how many lines of code they’d need to design the images.
            System.out.println();        //------- Go to the next line before starting the body
        }                                //        of the loop again.
    }
+
+   public static void writeChars (char ch, int number) {
+       for (int i = 1; i <= number; i++) {
+           System.out.print(ch);
+       }
+   }
    ```
 
    - Have students predict how the output will change if you change 1 or 2 things in the code, then
