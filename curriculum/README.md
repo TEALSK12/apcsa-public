@@ -266,7 +266,7 @@ encouraged to email the program's creator Alex Aiken directly, at
   1. Use the lecture notes as given, but record the lecture for student viewing.
 
   2. Where lecture activities have been suggested (_e.g._ think-pair-shares), consider embedding
-     questions into your video as a Mix: https://mix.office.com/.
+     questions into your lesson plans.
 
   3. Save class competitions for in-class, and leave reading and easy Practice-it, self check, and
      worksheet exercises for home review.
@@ -293,13 +293,13 @@ on the TEALS dashboard, or to [APSquad@tealsk12.org](mailto:APSquad@tealsk12.org
 [AP Java Quick Reference]: http://apcentral.collegeboard.com/apc/public/repository/ap_comp_sci_a_quick_reference.pdf
 [Curriculum Map]: Curriculum-Map.md
 [Google Hangouts]: http://hangouts.google.com
-[Grudgeball]: https://mix.office.com/watch/1nfwrdlos27tc
-[Parson's Problems]: https://mix.office.com/watch/1urvviz6o57ol
+[Grudgeball]: https://www.youtube.com/watch?v=u_GzWwSrDlo
+[Parson's Problems]: https://www.youtube.com/watch?v=11n-AsaCd9w
 [Practice-It]: https://practiceit.cs.washington.edu/
-[Projects and Labs]: https://mix.office.com/watch/17a11c41ynk5j
+[Projects and Labs]: https://www.youtube.com/watch?v=WHvuK7LBe-o
 [Skype]: http://www.skype.com
-[Supporting Visual-Spatial Learners]: https://mix.office.com/watch/f7y2ddrd3kp2
+[Supporting Visual-Spatial Learners]: https://www.youtube.com/watch?v=O6yBe3J10vQ
 [TEALS Program]: https://www.tealsk12.org/
-[Timing and Pacing]: https://mix.office.com/watch/s7tl0g80olbx
+[Timing and Pacing]: https://www.youtube.com/watch?v=LkGh03UZ724
 [Twiddla]: http://www.twiddla.com
 [Vyew]: http://www.vyew.com
