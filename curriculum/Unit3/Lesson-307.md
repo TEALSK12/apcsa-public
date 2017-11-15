@@ -153,9 +153,9 @@ Call statsTable() from your main() method with the Pokemon’s name from Exercis
 
 ##### Conclusion
 In your completed project should include the following methods:
-•	battleStart
-•	damage
-•	statsTable
+  -	battleStart()
+  -	damage()
+  -	statsTable()
 
 These methods should all be called in main() so that the player can experience the entire battle in one sitting. Also be sure to close your Scanner when finished.
 
