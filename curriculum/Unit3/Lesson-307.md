@@ -85,21 +85,37 @@ At the beginning of class, introduce the lab and watch the sample battle video.
 
 #### PROGRAMMING PROJECT
 
+Complete this programming project using your notes, the text book, and any online or in-class sources you like.  Your work must be your own; you may ask a friend to look over your work, or discuss procedural decomposition with you, but you must write all code on your own.  To receive full credit on this lab, you must submit a structure diagram or pseudocode-plan for each question.
+
+Recall how to use Scanner to get user input:
+
+``` Java
+Scanner console = new Scanner(System.in);
+System.out.print("Hello, what is your name? ");
+String name = console.nextLine();
+
+System.out.print("What is your age? ");
+int age = console.nextInt();
+```
+     
 ##### Exercise 1
-Write a method called battleStart that introduces the battle, prompts the user to choose their first
-Pokémon to battle, and outputs the pairing. Your output should look something like this:
+Write a method called battleStart() that introduces the battle, prompts the user to choose their first
+Pokémon to battle, and outputs the pairing. battleStart() should also return the name of the Pokemon chosen. Your output should look something like this:
 
     Another trainer is issuing a challenge!
 
-    Which Pokémon do you choose?
-
     Zebstrika appeared.
+
+    Which Pokémon do you choose? Arcanine
+    
+    You chose Arcanine!
 
     It’s a Pokémon battle between Arcanine and Zebstrika! Go!
 
+Call battleStart() from your main() method and store the name of the Pokemon in a variable.
+
 ##### Exercise 2
-Write a method called damage that prompts the user for their base stats and reports damage done to
-their Pokémon in a battle. The formula used to calculate damage is:
+Write a method called damage() that takes a Pokemon’s name as a parameter and returns the about of HP after damage has been done. damage() should prompt the user for their base stats in order to calculate damage.  Use the following equations for calculating damage:
 
     Modifier = Same Type Attack Bonus (STAB) \* Random
     Damage = Modifier * ((2*Level+10)/250 + (Attack/Defense)*Base + 2)
@@ -118,13 +134,13 @@ Your output should look like this:
     STAB:
     HP:
 
-    Arcanine sustained 10 points damage. HP are now 70.
+    Arcanine sustained 10 points damage. 
+    HP, after damage, are now 70.
 
-_Damage method returns value._
+Call damage() from your main() method with the Pokemon’s name from Exercise 1 and store the return value (HP) in a variable.
 
 ##### Exercise 3
-Write a method called statsTable that accepts the user’s Pokémon stats and learned moves as
-parameters, and outputs something similar to this image:
+Write a method called statsTable() that accepts the user’s Pokemon name, stats and learned moves as parameters, and outputs something similar to this image:
 
 <img src="media/figure-307a.png" />
 
@@ -145,6 +161,19 @@ Sample output:
     SPEED     107
     -------------------------------
     Moves Learned: Thunder Wave, Hidden Power, Psycho Cut, Recover
+    
+Call statsTable() from your main() method with the Pokemon’s name from Exercise 1 and the HP from Exercise 2 and any other values you’d like for the other parameters.
+
+##### Conclusion
+In your completed project should include the following methods:
+  -	battleStart()
+  -	damage()
+  -	statsTable()
+
+These methods should all be called in main() so that the player can experience the entire battle in one sitting.
+
+Proper Java syntax and thorough comments are required.
+
 
 ----------------------------------------------------------------------------------------------------
 
