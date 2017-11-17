@@ -85,6 +85,19 @@ At the beginning of class, introduce the lab and watch the sample battle video.
 
 #### PROGRAMMING PROJECT
 
+Complete this programming project using your notes, the text book, and any online or in-class sources you like.  Your work must be your own; you may ask a friend to look over your work, or discuss procedural decomposition with you, but you must write all code on your own.  To receive full credit on this lab, you must submit a structure diagram or pseudocode-plan for each question.
+
+Recall how to use Scanner to get user input:
+
+``` Java
+Scanner console = new Scanner(System.in);
+System.out.print("Hello, what is your name? ");
+String name = console.nextLine();
+
+System.out.print("What is your age? ");
+int age = console.nextInt();
+```
+     
 ##### Exercise 1
 Write a method called battleStart() that introduces the battle, prompts the user to choose their first
 Pokémon to battle, and outputs the pairing. battleStart() should also return the name of the Pokemon chosen. Your output should look something like this:
@@ -157,7 +170,7 @@ In your completed project should include the following methods:
   -	damage()
   -	statsTable()
 
-These methods should all be called in main() so that the player can experience the entire battle in one sitting. Also be sure to close your Scanner when finished.
+These methods should all be called in main() so that the player can experience the entire battle in one sitting.
 
 Proper Java syntax and thorough comments are required.
 
