@@ -21,7 +21,7 @@ Materials & Prep
 - **Projector and computer**
 - **Whiteboard and** **markers**
 - **Assignments** for 5 student groups
-- **GIF** of model falling (<http://i.perezhilton.com/wp-content/uploads/2014/04/97192025.gif>)
+- **GIF** of software development gone awry (<https://g.redditmedia.com/tPgaGgDXL0yZyLe_4pjr1ZO2_qpIOk8t5eopSErOwVk.gif?w=320&s=c5345cd1b395f874f92f51e2509e97ae>)
 
 
 Pacing Guide
