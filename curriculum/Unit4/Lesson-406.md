@@ -29,7 +29,7 @@ Pacing Guide
 |----------------------------------------------------|-----------:|
 | Bell-work and attendance                           |       5min |
 | Introduction/Review of objects & string processing |     ≈10min |
-| Round Robin                                        |     ≈45min |
+| Round Robin                                        |     ≈35min |
 | Paper selection & grade announcement               |       3min |
 
 If the instruction takes longer than expected, assign the worksheet to small groups so students can
@@ -218,8 +218,8 @@ lesson finishes early.
    a. Questions 1–4 should take ≈1 minute each.<br>
    b. Questions 5–9 should take ≈2 minutes each.<br>
    c. Questions 10–12 should take ≈3 minutes each.<br>
-   d. Questions 13–17 should take ≈4 minutes each.<br>
-   e. Questions 18–19 should take ≈5 minutes each.
+   d. Questions 13–14 should take ≈4 minutes each.<br>
+   e. Questions 15–16 [Bonus] should take ≈5 minutes each.
 
    Adjust the timing on these questions as needed, but try to keep a brisk pace. Part of the
    engagement factor is the sense of urgency.
