@@ -119,7 +119,7 @@ physical space, so make sure that all groups are working along with their array 
 7. Once students have written the code they think is correct, have them trace their own code and
    manipulate the arrays in their whiteboard.
 
-   Encourage students to divide up this task so one student reads the code and anther student moves
+   Encourage students to divide up this task so one student reads the code and another student moves
    the elements on the whiteboard. All members should be engaged in error checking.
 
 8. The correct final code looks like this:
