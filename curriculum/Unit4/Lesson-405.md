@@ -127,7 +127,7 @@ physical space, so make sure that all groups are working along with their array 
    ``` Java
    public static void firstToLastRight (int[] metroCardRides) {
        int last = metroCardRides[metroCardRides.length – 1];
-       for (int j = metroCardRides.length – 1; j >= 1; j++) {
+       for (int j = metroCardRides.length – 1; j >= 1; j--) {
            metroCardRides[j] = metroCardRides[j – 1];
        }
        metroCardRides[0] = last;
