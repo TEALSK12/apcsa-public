@@ -156,7 +156,7 @@ lesson finishes early.
    - An array constructed with the code below has 2 rows and 3 columns:
 
      ```
-     double[][] ages = new ages[2][3];
+     double[][] ages = new double[2][3];
      ```
 
      Have students index the array for you:
