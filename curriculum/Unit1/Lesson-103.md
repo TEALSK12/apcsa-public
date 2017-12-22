@@ -4,7 +4,7 @@ Lesson 1.03 — String & Console Output
 Overview
 --------
 ### Objectives — _Students will be able to…_
-- **Describe** the history of Java and why it is used today.
+- **Describe** the history of computer science and Java and why they're used today.
 - **Correctly assemble** a complete program with a class header, body, and main method.
 - **Correctly use** print, println, and escape sequences.
 
