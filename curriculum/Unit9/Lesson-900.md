@@ -9,8 +9,8 @@ practice exam as a pre-test, another as a post-test after some review, then the 
 A exam (the most recent fully-released exam) as a final practice.
 
 The 2009 exam includes GridWorld questions (Free response question 2, multiple choice questions
-21–25). Instructors could have students skip these questions, or replace them with questions of
-similar difficulty from the 2004 exam to allow an AP score to be reasonably computed.
+21–25). Instructors could have students skip these now obsolete questions, or replace them with
+questions of similar difficulty from the 2004 exam to allow an AP score to be reasonably computed.
 
 As you re-teach concepts, practice questions and assessments can be gleaned from the Bellevue
 International Mastery Tests (included as a file within the Unit 9 materials). These tests, written
