@@ -132,7 +132,7 @@ class, for example Pikachu, Bulbasaur.)
 
      ``` Java
      public int sumStats() {
-         return HP + attack + defense + specialAttack + specialDefense + speed;
+         return hp + attack + defense + specialAttack + specialDefense + speed;
      }
      ```
 
