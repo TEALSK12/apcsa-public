@@ -58,7 +58,7 @@ computer algorithms by playing Battleship.
    students, which can be accessed by student name, ID number, or grade level, weathermen store
    historical and current data about atmospheric conditions, etc.
 
-3. These data aren’t manageable unless we are able to search for a particular data point (datum).
+3. Large collections of data aren’t manageable unless we are able to search for a particular data point (datum).
 
    _Example:_ When you search the internet, you’re searching for a single keyword (or phrase) called
    a “search key” within a particular webpage (or set of webpages).
