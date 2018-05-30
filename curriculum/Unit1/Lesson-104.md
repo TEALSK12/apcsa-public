@@ -218,7 +218,7 @@ Comments will also come in very handy when you have to debug and fix errors in y
 Debugging will play a very important part in the work you do as a computer programmer. As much as we like to think we can write code correctly the first time, this very rarely happens, even for experienced programmers. This is why debugging becomes a very important skill!
 <br>
 The Eclipse IDE provides a number of tools to help you debug your programs. You will also learn about debugging skills and techniques such as outputting the contents of your variables to the screen to ensure appropriate values.
-<br>
+<br><br>
 All these tools and skills, when used together, will help you debug quicker and more effectively.
 </tr>
 </td>
