@@ -44,6 +44,16 @@ have not included a procedure for file submission. You should prepare a handout 
 assess understanding of your procedure. 10 minutes of this lesson have been reserved for you to
 teach these procedures.
 
+<table>
+  <tr>
+    <td><strong>Big Ideas</strong<br>
+      <strong>Tools and technologies can be adapted for specific purposes.</strong><br><br>
+As you begin your journey in this course, think carefully about the tools you use to program. A carpenter, a bricklayer, a painter… all of these people need tools in order to create and build. In much the same way, a computer programmer requires tools to create and build programs. <br>
+The Eclipse IDE is a tool that programmers can use to create computer software. Just like how a saw or a hammer or a paint brush can be used to create a wide variety of things, the Eclipse IDE can be used to create a wide variety of software applications.
+  </tr>
+  <td>
+    </table>
+
 
 Pacing Guide
 ------------
