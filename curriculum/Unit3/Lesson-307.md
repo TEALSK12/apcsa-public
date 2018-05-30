@@ -174,7 +174,14 @@ These methods should all be called in main() so that the player can experience t
 
 Proper Java syntax and thorough comments are required.
 
-
+<table>
+  <tr>
+    <td>
+      <strong>Final Project</strong><br><br>
+      Imagine you had to create a program similar to the one above, but instead of using Pokemons it used insects, dinosaurs or basketball teams. What initial stats would each dinosaur have? What attacks would insects have? How would you program the ability to have one basketball team challenge another basketball team?<br>
+      The final project in this course will provide you with the opportunity to create a program, similar to Pokemon, that uses different characters or "challengers". As you read more about the Pokemon program, think carefully about how you would implement the same ideas in a different context.</td>
+  </tr>
+  </table>
 ----------------------------------------------------------------------------------------------------
 
 
