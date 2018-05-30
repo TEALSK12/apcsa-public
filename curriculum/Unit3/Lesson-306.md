@@ -123,7 +123,7 @@ Procedure
    <tr>
       <td>
          <strong>Final Project</strong><br><br>
-         Pay close attention to the formulas used when calculating experience points and other values in the Pokemon game. The final project in this course will involve you creating a similar game to Pokemon, so these formulas will be very worthwhile to understand.<
+         Pay close attention to the formulas used when calculating experience points and other values in the Pokemon game. The final project in this course will involve you creating a similar game to Pokemon, so these formulas will be very worthwhile to understand.
       </td>
    </tr>
    </table>
