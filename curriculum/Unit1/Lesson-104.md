@@ -198,8 +198,9 @@ Teaching Tips
     two students that need to be separated are not in the same group.
 
 <table>
-<tr>
-  <td>
+  <tr>
+    <td>
+      Emphasize with students...<br><br>
     <strong>Content - Self-documenting code</strong><br><br>
 
 Commenting your code is a very important step when programming. Adding descriptive comments to your code can help other programmers who might be collaborating on your project, or who might be updating your code at a later date.<br>
@@ -213,6 +214,7 @@ Comments will also come in very handy when you have to debug and fix errors in y
 <table>
   <tr>
     <td>
+      Emphasize with students...<br><br>
       <strong>Content - Debugging tools</strong><br><br>
 
 Debugging will play a very important part in the work you do as a computer programmer. As much as we like to think we can write code correctly the first time, this very rarely happens, even for experienced programmers. This is why debugging becomes a very important skill!
