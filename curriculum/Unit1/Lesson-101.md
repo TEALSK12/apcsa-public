@@ -84,6 +84,33 @@ Procedure
 
 ### Plug-In & Un-Plug Procedure \[10 minutes\]
 
+<table>
+  <tr>
+    <td>
+      Emphasize with students...<br><br>
+      <strong>Content - Collaboration Tools for programming</strong><br><br>
+
+In this activity you will learn the correct procedures for using a USB drive to store and transport your programs. The USB drive also provides an opportunity for you to collaborate with others and share your programs.<br><br>
+
+Can you think of other ways that you might collaborate with others in this course as you create and share programs? What methods are used in the field of programming when there are a number of programmers working on developing the same software application?
+</td>
+</tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      Emphasize with students...<br><br>
+      <strong>Big Ideas - Personal design interests require the evaluation and refinement of skills</strong><br><br>
+
+Practice-It is a place that will allow you to practice and refine your computer programming and computer science skills beyond the resources within this course. It’s important for you to use Practice-It, and to find other sources of computer programming help and information.<br><br>
+
+Throughout this course you will create a wide range of programs, and you will want to extend projects and add your own creative touch to each one. As you do this, it’s important to carefully evaluate and build on the skills that you have. Resources like Practice-It can help you develop further as a programmer, which will allow you to create even more engaging software applications.
+</td>
+</tr>
+</table>
+
+
 1. Using WS 1.1.2, model the steps for:
    - Opening Eclipse and a workspace
    - Creating and saving a program
