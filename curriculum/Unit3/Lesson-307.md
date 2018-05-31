@@ -80,6 +80,18 @@ At the beginning of class, introduce the lab and watch the sample battle video.
 
 4. In an email, on the projector, or as a handout WS 3.7, give student the following questions to
    work on individually (or, if scaffolding requires it, in pairs).
+   
+<table>
+<tr>
+<td>
+  Emphasize with students...<br><br>
+  <strong>Content - Elements for interface design that is efficient and intuitive for the user</strong><br><br>
+As you begin to receive more input from the user, and generate more output for the user to read, it’s important to think carefully about how the user will interact with your program. Sometimes instructions can be unclear for the user and the programmer doesn’t realize it.<br><br>
+Be sure to ask specific, detailed questions and be sure to format and display output in a way that the user can easily understand. One of the best ways to determine whether or not your program is user-friendly is to have a classmate, friend or relative use your program. As you watch them use it, take notes about how they interact with the program and about whether or not they are confused about any input our output.
+  </td>
+  </tr>
+</table>
+      
 
 ----------------------------------------------------------------------------------------------------
 
