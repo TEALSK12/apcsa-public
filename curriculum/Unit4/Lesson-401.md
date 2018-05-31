@@ -50,7 +50,7 @@ other.
    <tr>
       <td>
          Emphasize with students...<br><br>
-         <strong>Content - Collaboration tools for programming - Standardized source code documentation<br><br>
+         <strong>Content - Collaboration tools for programming - Standardized source code documentation</strong><br><br>
 As you complete this collaborative programming exercise, think carefully about the tools and skills that you used. Very few programs are written by one programmer. There is often a team of programmers all working on the same program, and collaboration is therefore very important.<br><br>
 Also, be sure to leave standardized source code documentation that your partner can understand. Your comments should clearly and effectively explain the code without being too lengthy. Writing clear and concise comments is a skill you will develop as you continue on in your programming journey.
             </td>
