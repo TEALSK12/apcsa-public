@@ -111,7 +111,7 @@ Write an inheritance hierarchy of three-dimensional shapes:
 In this project your will interview an end-user in order to determine their interests. You will then write an inheritance hierarcy that stores data related to the end-user's interests.
 
 1. Select an end-user (this can be a classmate, friend, teacher, relative, etc).
-2. Create a series of questions that will allow you to understand their interests.
+2. Create a series of questions that will allow you to understand their interests. Have the user respond to the questions and record their responses.
 3. With the end-user, design a common superclass or interface that will store information related to their interests (ie: if the end-user is interested in sports then the superclass could include information common to any player regardless of sport, such as name, number, and salary).
 4. With the end-user, design a subclasses for specific elements, characters or players that fall under the superclass structure (ie: players of your favorite sports, such as basketball, soccer or tennis could have specific attributes under the athlete superclass).
 5. Place sport-specific information and behavior (such as kicking, vertical jump height, or speed) into subclasses whenever possible.
@@ -119,6 +119,27 @@ In this project your will interview an end-user in order to determine their inte
 7. Test the program with the end-user. Record their comments, suggestions and feedback and make any required changes.
 8. Test the program with your classmates and friends. Record their comments, suggestions and feedback and make any required changes.
 9. Submit to your teacher the interview questions and responses, the feedback from end-user testing, the feedback from classroom testing and the finished program.
+
+## Grading Scheme/Rubric
+
+| Implementation| Value   |
+|---|---|
+| Superclass is implemented effectively| 4 points|
+| Subclasses are implemented effectively| 4 points|
+| Superclass and Subclass are designed effectively considering user interests| 2 points|
+| User and class testing is effective| 2 points|
+| Menu and general flow of program is effective and user-friendly| 2 points|
+| TOTAL | 14 points|
+|---|---|
+| Applied Design Steps|           |
+| User interview questions and responses are thorough and informative| 1 point   |
+| Ideating components are complete and thorough| 1 point   |
+| Ideating/Prototyping are components complete and thorough| 1 point   |
+| Testing components with user are complete and thorough| 1 point   |
+| Testing components with class are complete and thorough| 1 point   |
+| Total| 5 points  |
+|---|---|
+| Grand Total| 19 points |
 
 
 Accommodation and Differentiation
