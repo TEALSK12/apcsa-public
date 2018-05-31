@@ -5,6 +5,8 @@ Time to get creative and apply your programming and object oriented skills to a 
 
 Your task is to create a software application that is similar to the Pokemon game. It should include a number of characters that can clash with each other in battles. The winner of each battle will be determined by a number of things including each character’s attributes, attacks and defenses.
 
+![Image of a wide variety of characters including a ghost, a shark, a bee, an alien and a robot.](BCFinalProjImage2.JPG)
+
 You will use many of the concepts that have been introduced throughout the course to establish attributes for each character and to determine hit points and health status. You will use object oriented programming concepts in order to implement your program.
 
 You will follow the Applied Design stages and begin by interviewing an end-user to determine their interests, then you will design a Pokemon-like game that they would enjoy playing. The end-user will be involved in the design and testing of the game.
@@ -29,6 +31,8 @@ The end-user will provide you context for the program by indicating their intere
 * A program that allows different basketball teams to compete against each other, each team has different strengths and weaknesses (three point shooting, defense, endurance). The game allows the user to play as a coach, selecting what to do in specific situations
 * A program that allows different African animals to battle for “Savanah Supremacy”.
 * A program that simulates a number of different cars being able to race each other on different tracks (gravel, pavement, desert, rainy, etc).
+* A program that simulates a battle between vegetables, fighting to be recognized as the healthiest thing to eat.
+* A program that uses characters that you have made up yourself, with attributes, that battle for some type of championship
 
 You will have to be creative as you complete the program, and you will also have to carefully design and test the game play and logic of the battles. You want to ensure that the formulas for hit points and health make sense, and that the game includes an appropriate level of difficulty.
 
@@ -152,7 +156,7 @@ AS WELL AS YOUR FEEDBACK FROM CLASSMATES, FRIENDS OR FAMILY.
 ---
 
 |Grading Scheme/Rubric | |
-|---|---|
+|   |   |
 |Implementation| |
 |Project is appropriately complex and creative|	4 points|
 |Program is well-documented and shows good style|	10 points|
@@ -165,12 +169,12 @@ AS WELL AS YOUR FEEDBACK FROM CLASSMATES, FRIENDS OR FAMILY.
 |Checkpoint 2|	2 points|
 |Checkpoint 3|	2 points|
 |TOTAL|	42 points
-|---|---|
+|   |   |
 |Applied Design Steps and Log| |
 |Understanding Context components are complete and thorough|	3 points|
 |Defining and ideating components are complete and thorough	|3 points|
 |Prototyping and testing  components complete and thorough|	2 points|
 |Sharing, Testing and Final Iteration components are complete and thorough|	2 points|
 |TOTAL|	10 points|
-|---|---|
+|   |   |
 |TOTAL| 52 points|
