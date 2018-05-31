@@ -66,12 +66,12 @@ Talia tests the program with friends and relatives in order obtain further feedb
 
 Implementation Requirements
 
-###Complexity and Creativity
+### Complexity and Creativity
 Your final project should be sufficiently complex and large-scale to push your limits as a programmer, but not so sophisticated that you are not able to complete it in the time allotted. The complexity in your project should come from the design and the algorithms and not from the code. (That is, you cannot meet the complexity requirement simply by writing a lot of code. Your code must be challenging or interesting in some meaningful way.) In addition, you should not add complexity by introducing peripheral elements, such as graphics or sound effects. (Your program can certainly have these, but they will not be considered in determining the projects complexity.)
 In addition, one of the main goals of this project is to allow you to unleash your creativity and allow you to create something of interest to you. To achieve this, your project must show some level of creativity or personalization that makes it your own. Simply creating your own version of some existing application will not fully meet this requirement.
 For both the complexity and creativity requirements, you should talk to the instructors early and often to ensure your project is in line with our expectations.
 
-###Documentation and Style
+### Documentation and Style
 As with all previous projects, your program must be well-written, well-documented, and readable. Writing code with good style is always a good idea, but in a project of this size and scope, following style guidelines will help you keep your thoughts organized and make it easier to keep track of your progress, pick up where you left off each day, and find and fix bugs. 
 
 Resources:
@@ -94,6 +94,7 @@ These resources will help you understand how characters and attributes are imple
 ---
 
 STEP 1 – UNDERSTANDING CONTEXT
+
 Conduct user-centered research to understand design opportunities and barriers.
 
 Select an end-user for whom you will design and create this program (this can be a friend, classmate, relative, etc). Create interview questions that will allow you to understand the end-user’s interests and likes/dislikes. Provide these questions to your teacher and then use them to interview your end-user.
@@ -103,6 +104,7 @@ Record all of the end-user’s responses to your questions.
 ---
 
 STEP 2 – DEFINING AND IDEATING
+
 Choose a design opportunity and point of view, make inferences about premises and boundaries,
 take creative risks to identify gaps to explore, generate ideas to create a range of possibilities, prioritize ideas for prototyping and designing with users
 
@@ -126,6 +128,7 @@ SUBMIT YOUR INTERVIEW QUESTIONS, RESPONSES AND PROGRAM DESIGN PLAN TO YOUR TEACH
 ---
 
 STEP 3 – PROTOTYPING AND TESTING
+
 Construct prototypes, making changes to code as needed.
 
 Program your game. Be sure to review course notes and activities to make sure that you effectively implement object oriented programming design for your characters.
@@ -143,6 +146,7 @@ AS WELL AS YOUR TEST PLAN AND FEEDBACK FROM THE END-USER
 ---
 
 STEP 4 – SHARING, TESTING AND FINAL ITERATION
+
 Gather feedback from users over time to critically evaluate
 design and make changes to product design or processes
 Identify new design issues
