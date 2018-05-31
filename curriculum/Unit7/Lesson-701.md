@@ -91,7 +91,7 @@ computer algorithms by playing Battleship.
   <tr>
     <td>
       Emphasize with students...<br><br>
-      <strong>Big Ideas - Tools and technologies can be adapted for specific purposes<br><br>
+      <strong>Big Ideas - Tools and technologies can be adapted for specific purposes</strong><br><br>
 When you first started looking at the linear and binary search algorithms, you probably didn’t consider how they could be used in a game of battleship. This is what many find so interesting about Computer Science. The algorithms and solutions can be adapted to solve a wide variety of problems!
 </td>
 </tr>
