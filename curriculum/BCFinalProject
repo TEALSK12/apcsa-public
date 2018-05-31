@@ -31,7 +31,7 @@ The end-user will provide you context for the program by indicating their intere
 
 You will have to be creative as you complete the program, and you will also have to carefully design and test the game play and logic of the battles. You want to ensure that the formulas for hit points and health make sense, and that the game includes an appropriate level of difficulty.
 <hr>
-Example…  
+Example... 
 The following is just an example to illustrate the various components of the program.
 
 Talia is a student in the course. She interviews her little sister as the end-user of her game and determines that her little sister loves aliens. Talia brainstorms some ideas and presents the following idea to her sister:
@@ -44,7 +44,7 @@ Notice that the values add up to 17 and no value is above 5 or below 0.
 
 Talia meets with her little sister after the initial design stage and she loves Talia’s ideas. They work together to determine how each character will do battle and decide that the user will get to select which alien they play as. They will then have to battle the seven other aliens in order to be crowned Champion of the Solar System. The alien will receive extra points after each defeat and Talia will design formulas that make the game challenging, but winnable.
 
-IMAGE
+![Image of the planets](BCFinalProjImage.JPG)
 
 Talia designs object classes for each alien and creates formulas (that include some random values) in order to determine the amount of health lost in each batter. Talia creates user menus that allow the user to navigate the program and to allow the user to see and sort the characteristics of each alien.
 
