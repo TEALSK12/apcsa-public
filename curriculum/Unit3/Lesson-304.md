@@ -75,6 +75,17 @@ Student Programming Time \[45 minutes\]
 In an email, on the projector, or as a handout (WS 3.4), give students the following questions to
 work on individually, or in pairs.
 
+<table>
+  <tr>
+    <td>
+      <strong>Content  - Problem decomposition - Management of complexity</strong></br><br>
+By the end of this activity you will have created quite a complex program. But notice how the activity takes you through the smaller steps in building the program?<br><br>
+The finished program is broken up into smaller steps, then they’re each completed individually. When they’re put together they create the larger program. This type of decomposition allows the programmer to manage complexity. Rather than considering the whole problem and program, the programmer can focus on each small component, then assemble them together at the end.<br><br>
+Writing programs with methods allows us to divide the program up into smaller parts quite easily.
+</td>
+</tr>
+</table>
+
 ----------------------------------------------------------------------------------------------------
 
 #### PROGRAMMING PROJECT
