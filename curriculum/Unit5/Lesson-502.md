@@ -219,6 +219,7 @@ class, for example Pikachu, Bulbasaur.)
 <table>
    <tr>
       <td>
+         Empasize with students...<br><br>
          <strong>Big Ideas - Personal design interests require the evaluation and refinement of skills</strong></br><br>
 This activity helps you develop specific classes and methods that will implement parts of a pokemon game. As you progress through the remainder of the course, you will learn more about the components required to create a full game.<br><br>
 As you complete these tasks, think carefully about the skills you are developing. What components of the pokemon game implementation have been difficult for you to implement? What components seem easy? What can you do to improve your skills so that you can add extensions and additions to the program that go beyond the basic instructions?<br><br>
