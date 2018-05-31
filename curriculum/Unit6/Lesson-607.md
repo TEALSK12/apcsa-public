@@ -131,7 +131,7 @@ In this project your will interview an end-user in order to determine their inte
 | Menu and general flow of program is effective and user-friendly| 2 points|
 | TOTAL | 14 points|
 |---|---|
-| Applied Design Steps|  Value|
+| Applied Design Steps|  |
 | User interview questions and responses are thorough and informative| 1 point   |
 | Ideating components are complete and thorough| 1 point   |
 | Ideating/Prototyping are components complete and thorough| 1 point   |
