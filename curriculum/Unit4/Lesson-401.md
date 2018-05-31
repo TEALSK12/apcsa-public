@@ -50,9 +50,10 @@ other.
    <tr>
       <td>
          Emphasize with students...<br><br>
-         <strong>Content - Collaboration tools for programming - Standardized source code documentation</strong><br><br>
-As you complete this collaborative programming exercise, think carefully about the tools and skills that you used. Very few programs are written by one programmer. There is often a team of programmers all working on the same program, and collaboration is therefore very important.<br><br>
-Also, be sure to leave standardized source code documentation that your partner can understand. Your comments should clearly and effectively explain the code without being too lengthy. Writing clear and concise comments is a skill you will develop as you continue on in your programming journey.
+         <strong>Content - Uses of pre-built data structures</strong><br><br
+An array is a data structure that is available for a programmer to use in Java. You will find that there are situations where arrays will work perfectly for your program and they will facilitate finding a solution. Other times an array might not be the best data structure to use and you might have to use something different.<br><br>
+As you complete this activity, think carefully about how arrays could be used in your future programs.
+
             </td>
    </tr>
    </table>
