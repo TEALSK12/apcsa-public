@@ -42,7 +42,12 @@ Talia is a student in the course. She interviews her little sister as the end-us
 A game that includes 8 aliens, one from each of the planets in the solar system. Each alien has five attributes including oozePower, hop-ability, laserShot, protectCharms and powerPunch. These attributes are rated on a scale of 1-5, with each character possessing a total score of 17.
 
 As an example, one of Talia’s characters is called MartyMarsian. He has the following levels for each of the attributes:
-oozePower: 3     hop-ability: 4     laserShot: 5    protectCharms: 2    powerPunch: 3
+* oozePower: 3
+* hop-ability: 4
+* laserShot: 5
+* protectCharms: 2
+* powerPunch: 3
+
 Notice that the values add up to 17 and no value is above 5 or below 0.
 
 Talia meets with her little sister after the initial design stage and she loves Talia’s ideas. They work together to determine how each character will do battle and decide that the user will get to select which alien they play as. They will then have to battle the seven other aliens in order to be crowned Champion of the Solar System. The alien will receive extra points after each defeat and Talia will design formulas that make the game challenging, but winnable.
@@ -57,27 +62,30 @@ Talia tests the program with friends and relatives in order obtain further feedb
 
 Implementation Requirements
 
-1.Complexity and Creativity
+###Complexity and Creativity
 Your final project should be sufficiently complex and large-scale to push your limits as a programmer, but not so sophisticated that you are not able to complete it in the time allotted. The complexity in your project should come from the design and the algorithms and not from the code. (That is, you cannot meet the complexity requirement simply by writing a lot of code. Your code must be challenging or interesting in some meaningful way.) In addition, you should not add complexity by introducing peripheral elements, such as graphics or sound effects. (Your program can certainly have these, but they will not be considered in determining the projects complexity.)
 In addition, one of the main goals of this project is to allow you to unleash your creativity and allow you to create something of interest to you. To achieve this, your project must show some level of creativity or personalization that makes it your own. Simply creating your own version of some existing application will not fully meet this requirement.
 For both the complexity and creativity requirements, you should talk to the instructors early and often to ensure your project is in line with our expectations.
 
-2. Documentation and Style
+###Documentation and Style
 As with all previous projects, your program must be well-written, well-documented, and readable. Writing code with good style is always a good idea, but in a project of this size and scope, following style guidelines will help you keep your thoughts organized and make it easier to keep track of your progress, pick up where you left off each day, and find and fix bugs. 
 
 Resources:
 Throughout this course, you have completed a number of small programs that implemented a Pokemon game. You now have the opportunity to take these skills and apply them to a new context. Be sure to review course resources so that you fully understand how this type of game can be implemented. You can alter and change some of the ideas presented in the course in order to facilitate the completion of your own game. The following are just a few resources that you might want to review:
 
-3.03 – Pokemon and returning values				3.06 Hitpoints and formulas
-3.07 Pokemon Battle Program					3.14 Random Numbers
-Unit 5 Object Oriented Programming				Unit 6 Inheritance and Polymorphism
+* 3.03 – Pokemon and returning values
+* 3.06 Hitpoints and formulas
+* 3.07 Pokemon Battle Program
+* 3.14 Random Numbers
+* Unit 5 Object Oriented Programming
+* Unit 6 Inheritance and Polymorphism
 
 These resources will help you understand how characters and attributes are implemented in Pokemon:
-•	Basic Overview of the Game: http://www.pokemon.com/us/parents-guide/
-•	Advanced Individual Value & Stat Calculator:  https://legendarypkmn.github.io/javacalc.html
-•	Gameplay: https://youtu.be/DlEbXH8eUTk?t=1m26s
-•	Types of Pokemon: http://www.pokemon.com/us/pokedex/
-•	Pokemon with Stats: http://tinyurl.com/no4mzic
+* Basic Overview of the Game: http://www.pokemon.com/us/parents-guide/
+* Advanced Individual Value & Stat Calculator:  https://legendarypkmn.github.io/javacalc.html
+* Gameplay: https://youtu.be/DlEbXH8eUTk?t=1m26s
+* Types of Pokemon: http://www.pokemon.com/us/pokedex/
+* Pokemon with Stats: http://tinyurl.com/no4mzic
 
 ---
 
