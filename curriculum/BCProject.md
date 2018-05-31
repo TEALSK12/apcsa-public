@@ -1,4 +1,4 @@
-# CHARACTER CLASH!
+<center># CHARACTER CLASH!</center>
 # FINAL PROJECT
 
 ---
