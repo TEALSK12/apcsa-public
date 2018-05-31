@@ -45,6 +45,19 @@ other.
 ### Bell-work and Attendance \[5 minutes\]
 
 ### Introduction to Arrays \[20 minutes\]
+
+<table>
+   <tr>
+      <td>
+         Emphasize with students...<br><br>
+         <strong>Content - Collaboration tools for programming - Standardized source code documentation<br><br>
+As you complete this collaborative programming exercise, think carefully about the tools and skills that you used. Very few programs are written by one programmer. There is often a team of programmers all working on the same program, and collaboration is therefore very important.<br><br>
+Also, be sure to leave standardized source code documentation that your partner can understand. Your comments should clearly and effectively explain the code without being too lengthy. Writing clear and concise comments is a skill you will develop as you continue on in your programming journey.
+            </td>
+   </tr>
+   </table>
+
+
 1. Open up with the example of daily temperature on the slides.
 
    - Ask the class to build the program, they should reach the point where they calculate the
