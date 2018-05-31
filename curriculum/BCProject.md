@@ -1,5 +1,5 @@
-**CHARACTER CLASH!**
-**FINAL PROJECT**
+# CHARACTER CLASH!**
+# FINAL PROJECT**
 
 ---
 
@@ -12,7 +12,7 @@ You will use many of the concepts that have been introduced throughout the cours
 You will follow the Applied Design stages and begin by interviewing an end-user to determine their interests, then you will design a Pokemon-like game that they would enjoy playing. The end-user will be involved in the design and testing of the game.
 
 Your software application should include:
-A number of characters
+..*A number of characters
 -A number of common attributes for each character
 -A variety of power levels for each attribute of a given character
 -A range of attacks that each character can perform
