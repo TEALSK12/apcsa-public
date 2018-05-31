@@ -135,7 +135,7 @@ Their explanation should describe the recursive case in pseudocode.
    <tr>
       <td>
          Emphasize with students<br><br>
-         <strong>Content - Advanced programming structures - Managing Complexity<br><br>
+         <strong>Content - Advanced programming structures - Managing Complexity</strong><br><br>
 Recursion is an interesting but sometimes difficult concept. When dealing with more advanced ideas like this, it’s important to manage complexity in order to design and implement complex programs.<br><br>
 This activity helps you organize recursion in your program. It’s advised that you use these ideas, and consider these questions, as you create more programs that implement recursion.
 </td>
