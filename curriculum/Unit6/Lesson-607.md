@@ -113,9 +113,9 @@ In this project your will interview an end-user in order to determine their inte
 1. Select an end-user (this can be a classmate, friend, teacher, relative, etc).
 2. Create a series of questions that will allow you to understand their interests. Have the user respond to the questions and record their responses.
 3. With the end-user, design a common superclass or interface that will store information related to their interests (ie: if the end-user is interested in sports then the superclass could include information common to any player regardless of sport, such as name, number, and salary).
-4. With the end-user, design a subclasses for specific elements, characters or players that fall under the superclass structure (ie: players of your favorite sports, such as basketball, soccer or tennis could have specific attributes under the athlete superclass).
-5. Place sport-specific information and behavior (such as kicking, vertical jump height, or speed) into subclasses whenever possible.
-6. Program that superclass and subclasses. Your program should provide the user with a menu that allows them to display different data based on user's input.
+4. With the end-user, design a subclasses for specific elements, characters or players that fall under the superclass structure (ie: players of your favorite sports, such as basketball, soccer or tennis could have specific attributes under the athlete superclass). Be sure to place common behavior in superclasses whenever possible, and use abstract classes as appropriate. Place sport-specific information and behavior (such as kicking, vertical jump height, or speed) into subclasses whenever possible.
+5. Add methods to the subclasses to represent the unique behavior of each athlete.
+6. Program the superclass and subclasses. Your program should provide the user with a menu that allows them to display different data based on user's input.
 7. Test the program with the end-user. Record their comments, suggestions and feedback and make any required changes.
 8. Test the program with your classmates and friends. Record their comments, suggestions and feedback and make any required changes.
 9. Submit to your teacher the interview questions and responses, the feedback from end-user testing, the feedback from classroom testing and the finished program.
