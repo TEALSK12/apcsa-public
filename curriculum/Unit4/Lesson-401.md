@@ -53,10 +53,9 @@ other.
          <strong>Content - Uses of pre-built data structures</strong><br><br>
 An array is a data structure that is available for a programmer to use in Java. You will find that there are situations where arrays will work perfectly for your program and they will facilitate finding a solution. Other times an array might not be the best data structure to use and you might have to use something different.<br><br>
 As you complete this activity, think carefully about how arrays could be used in your future programs.
-
-            </td>
-   </tr>
-   </table>
+      </td>
+</tr>
+</table>
 
 
 1. Open up with the example of daily temperature on the slides.
