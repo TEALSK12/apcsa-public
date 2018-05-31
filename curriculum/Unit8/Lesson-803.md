@@ -131,6 +131,17 @@ Their explanation should describe the recursive case in pseudocode.
 
 ### Activity 1: Modeling Recursive Methods \[20 minutes\]
 
+<table>
+   <tr>
+      <td>
+         Emphasize with students<br><br>
+         <strong>Content - Advanced programming structures - Managing Complexity<br><br>
+Recursion is an interesting but sometimes difficult concept. When dealing with more advanced ideas like this, it’s important to manage complexity in order to design and implement complex programs.<br><br>
+This activity helps you organize recursion in your program. It’s advised that you use these ideas, and consider these questions, as you create more programs that implement recursion.
+</td>
+</tr>
+</table>
+
 1. Direct students to read through all the directions first before beginning the activity. Point out
    to them that they will be completing their own demo (similar to the one you just completed) using
    their own code.
