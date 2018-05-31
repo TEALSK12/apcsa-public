@@ -64,7 +64,7 @@ Talia tests the program with friends and relatives in order obtain further feedb
 
 ---
 
-Implementation Requirements
+## Implementation Requirements
 
 ### Complexity and Creativity
 Your final project should be sufficiently complex and large-scale to push your limits as a programmer, but not so sophisticated that you are not able to complete it in the time allotted. The complexity in your project should come from the design and the algorithms and not from the code. (That is, you cannot meet the complexity requirement simply by writing a lot of code. Your code must be challenging or interesting in some meaningful way.) In addition, you should not add complexity by introducing peripheral elements, such as graphics or sound effects. (Your program can certainly have these, but they will not be considered in determining the projects complexity.)
