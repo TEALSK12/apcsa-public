@@ -53,13 +53,13 @@ As an example, one of Talia’s characters is called MartyMarsian. He has the fo
 * protectCharms: 2
 * powerPunch: 3
 
-Notice that the values add up to 17 and no value is above 5 or below 0.
+Notice that the values add up to 17 and no value is above 5 or below 0. This is a design feature that Talia wanted to include in her game.
 
-Talia meets with her little sister after the initial design stage and she loves Talia’s ideas. They work together to determine how each character will do battle and decide that the user will get to select which alien they play as. They will then have to battle the seven other aliens in order to be crowned Champion of the Solar System. The alien will receive extra points after each defeat and Talia will design formulas that make the game challenging, but winnable.
+Talia meets with her little sister after the initial design stage and she loves Talia’s ideas. They work together to determine how each character will do battle and decide that the user will get to select which alien they play as. They will then have to battle the seven other aliens in order to be crowned Champion of the Solar System. The alien will receive extra points after each victory and Talia will design formulas that make the game challenging, but winnable.
 
 ![Image of the planets](BCFinalProjImage.JPG)
 
-Talia designs object classes for each alien and creates formulas (that include some random values) in order to determine the amount of health lost in each batter. Talia creates user menus that allow the user to navigate the program and to allow the user to see and sort the characteristics of each alien.
+Talia designs a superclass and subclasses for her aliens and creates formulas (that include some random values) in order to determine the amount of health lost in each battle. Talia creates user menus that allow the user to navigate the program and to allow the user to see and sort the characteristics of each alien.
 
 Talia tests the program with friends and relatives in order obtain further feedback and suggestions. She then implements a few changes and submits her finished project to her teacher!
 
