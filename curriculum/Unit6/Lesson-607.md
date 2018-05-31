@@ -121,9 +121,9 @@ In this project your will interview an end-user in order to determine their inte
 9. Submit to your teacher the interview questions and responses, the feedback from end-user testing, the feedback from classroom testing and the finished program.
 
 ## Grading Scheme/Rubric
-|   |   |
-| Implementation| Value   |
+| Component | Value   |
 |---|---|
+| Implementation |   |
 | Superclass is implemented effectively| 4 points|
 | Subclasses are implemented effectively| 4 points|
 | Superclass and Subclass are designed effectively considering user interests| 2 points|
