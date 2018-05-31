@@ -3,7 +3,7 @@
 
 Time to get creative and apply your programming and object oriented skills to a new context!
 
-Your task is to create a software application that is similar to the Pokemon game. It should include a number of characters that can clash with each other in battles. The winner of each battle will be determined by a number of things including each character’s attributes, attacks and defenses.
+Your task is to create a software application that is similar to the Pokemon game. It should include a number of characters that can clash with each other, or against computer opponents, in battles. The winner of each battle will be determined by a number of things including each character’s attributes, attacks and defenses.
 
 ![Image of a wide variety of characters including a ghost, a shark, a bee, an alien and a robot.](BCFinalProjImage2.png)
 
@@ -24,7 +24,7 @@ Your software application should include:
 
 You will need to carefully select your characters and a context in which they can do battle. This will require you to understand the interests of your end user, but it will also require you to be creative and to apply many of the concepts your have learnt throughout the course.
 
-These characters or groups will be able to “battle” each other. The results of each battle will be dependent on the statistics of each of the characters or groups in the battle, as well as the attacks and defenses chosen by the user.
+These characters or groups will be able to “battle” each other or they can work together to battle "computer opponents". The results of each battle will be dependent on the statistics of each of the characters or groups in the battle, as well as the attacks and defenses chosen by the user. You can also add some randomization into the battle as well.
 
 The end-user will provide you context for the program by indicating their interests and likes/dislikes. The following list provides you with some quick ideas to help you start thinking of some possibilities:
 * A program that allows various bugs to battle each other, each bug has different attributes and strengths/weaknesses
@@ -32,7 +32,8 @@ The end-user will provide you context for the program by indicating their intere
 * A program that allows different African animals to battle for “Savanah Supremacy”.
 * A program that simulates a number of different cars being able to race each other on different tracks (gravel, pavement, desert, rainy, etc).
 * A program that simulates a battle between vegetables, fighting to be recognized as the healthiest thing to eat.
-* A program that uses characters that you have made up yourself, with attributes, that battle for some type of championship
+* A program that uses characters that you have made up yourself, with attributes, that battle for some type of championship.
+* A program that simulates a wide range of pets (cats, dogs, birds, lizards, etc) who are defending their owners home from a burglary or defending themselves from being petnapped!
 
 You will have to be creative as you complete the program, and you will also have to carefully design and test the game play and logic of the battles. You want to ensure that the formulas for hit points and health make sense, and that the game includes an appropriate level of difficulty.
 
