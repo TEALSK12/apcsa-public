@@ -156,6 +156,7 @@ AS WELL AS YOUR FEEDBACK FROM CLASSMATES, FRIENDS OR FAMILY.
 ---
 
 |Grading Scheme/Rubric | |
+|---|---|
 |Implementation| |
 |Project is appropriately complex and creative|	4 points|
 |Program is well-documented and shows good style|	10 points|
@@ -168,10 +169,12 @@ AS WELL AS YOUR FEEDBACK FROM CLASSMATES, FRIENDS OR FAMILY.
 |Checkpoint 2|	2 points|
 |Checkpoint 3|	2 points|
 |TOTAL|	44 points|
+|---|---|
 |Applied Design Steps and Log| |
 |Understanding Context components are complete and thorough|	3 points|
 |Defining and ideating components are complete and thorough	|3 points|
 |Prototyping and testing  components complete and thorough|	2 points|
 |Sharing, Testing and Final Iteration components are complete and thorough|	2 points|
 |TOTAL|	10 points|
+|---|---|
 |TOTAL| 54 points|
