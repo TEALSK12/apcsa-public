@@ -70,6 +70,17 @@ popular with your class. Invoke an air of mystery and don’t offer an explanati
 
 ### Introduction \[20 minutes\]
 
+<table>
+ <tr>
+   <td>
+     Emphasize with students...<br><br>
+     <strong>Big Ideas - Products can be designed for life cycle</strong><br><br>
+This activity will take you through the process of designing superclasses and subclasses. As you do so, consider carefully how your superclass could be reused and repurposed, later, by another programmer to create something different.<br><br>
+Many of the programs you create could be altered, remixed and tweaked to create new and innovative software that is slightly different than the original. This is a great thing about Object Oriented Programming. Much of the code and be reused and repurposed to create things we haven’t even thought of yet.
+   </td>
+  </tr>
+  </table>
+
 1. Have a class discussion about the Pokémon picture/cards. Ask a few probing questions to model the
    use of proper programming terminology as you have students work through a starter assignment:
 
