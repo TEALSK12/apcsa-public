@@ -52,6 +52,19 @@ original worksheet).
 
 ### Introduction/Review of Objects and String Processing \[10 minutes\]
 
+<table>
+   <tr>
+      <td>
+         Emphasize with students...<br><br>
+         <strong>Content - Advanced programming structures</strong><br><br>
+         
+This activity introduces the concept of objects and classes. This means we are going into some more advanced and complex programming ideas and structures. As you learn about these things, its important to read through the instructions carefully and to think about the code that you are writing in your programs.<br><br>
+Using advanced programming structures can be tricky, but it will allow you to create some very cool projects!
+</td>
+</tr>
+</table>
+
+
 1. Begin with an introduction to the concepts of objects and string processing.
 
    Using WS 3.5, walk students through the difference between **primitives** and **objects**.
