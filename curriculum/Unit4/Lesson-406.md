@@ -56,7 +56,7 @@ lesson finishes early.
    <tr>
       <td>
          Emphasize with students...<br><br>
-         <strong>Content - Advanced programming structures - Uses of pre-built data structures<br><br>
+         <strong>Content - Advanced programming structures - Uses of pre-built data structures</strong><br><br>
 Multidimensional arrays have quite a few uses. They can serve as grids for seating plans or for board games such as chess and checkers. Some students enjoy recreating the game of battleship using two dimensional arrays.<br><br>
 As you learn about their use, remember to consider how you might use multidimensional arrays in your future projects.
 </td>
