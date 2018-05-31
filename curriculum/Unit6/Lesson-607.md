@@ -6,6 +6,7 @@ Overview
 ### Objectives — _Students will be able to…_
 
 - **Write** complex code that uses polymorphism, inheritance, and interfaces.
+- **Implement** the applied design stages as they create a program for an end-user.
 
 ### Assessments — _Students will…_
 - **Submit** multiple programs electronically
@@ -45,7 +46,7 @@ Pacing Guide: Day 3
 -------------------
 | Section                                                         | Total Time
 |-----------------------------------------------------------------|-----------
-| **Programming Project II**<br>_(Project 9.3 from the textbook)_ | Full class
+| **Programming Project II**<br>                                  | Full class
 | **Homework:**<br>_Take the Chapter 4 quiz. Grade your answers._ | TONIGHT
 
 
@@ -53,7 +54,7 @@ Pacing Guide: Day 4
 -------------------
 | Section                                                                | Total Time
 |------------------------------------------------------------------------|-----------
-| **Programming Project III**<br>_(Exercise 9.3 from the textbook)_      | Full class
+| **Programming Project II**<br>                                         | Full class
 | **Homework:**<br>_Read and outline Chapter 3 in Barron’s review book._ | TONIGHT
 
 
@@ -105,24 +106,19 @@ Write an inheritance hierarchy of three-dimensional shapes:
 4. Add methods to the subclasses to represent the unique behavior of each three-dimensional shape,
    such as a method to get a sphere’s radius.
 
-#### Programming Project II
+#### Programming Project II - Applied Design Stages and Creating for End-Users
 
-Write an inheritance hierarchy that stores data about sports players.
+In this project your will interview an end-user in order to determine their interests. You will then write an inheritance hierarcy that stores data related to the end-user's interests.
 
-1. Create a common superclass or interface to store information common to any player regardless of
-   sport, such as name, number, and salary.
-
-2. Then create subclasses for players of your favorite sports, such as basketball, soccer or tennis.
-
-3. Place sport-specific information and behavior (such as kicking, vertical jump height, or speed)
-   into subclasses whenever possible.
-
-#### Programming Project III
-
-Have students submit answers to Exercise 9.3 in their textbooks. This assignment will be submitted
-on paper. As written, students are not given some code that implements GroceryBill, Employee, and
-Item. If you wish to make this an electronic assignment, you should consider providing students with
-some starter code.
+1. Select an end-user (this can be a classmate, friend, teacher, relative, etc).
+2. Create a series of questions that will allow you to understand their interests.
+3. With the end-user, design a common superclass or interface that will store information related to their interests (ie: if the end-user is interested in sports then the superclass could include information common to any player regardless of sport, such as name, number, and salary).
+4. With the end-user, design a subclasses for specific elements, characters or players that fall under the superclass structure (ie: players of your favorite sports, such as basketball, soccer or tennis could have specific attributes under the athlete superclass).
+5. Place sport-specific information and behavior (such as kicking, vertical jump height, or speed) into subclasses whenever possible.
+6. Program that superclass and subclasses. Your program should provide the user with a menu that allows them to display different data based on user's input.
+7. Test the program with the end-user. Record their comments, suggestions and feedback and make any required changes.
+8. Test the program with your classmates and friends. Record their comments, suggestions and feedback and make any required changes.
+9. Submit to your teacher the interview questions and responses, the feedback from end-user testing, the feedback from classroom testing and the finished program.
 
 
 Accommodation and Differentiation
@@ -133,12 +129,6 @@ and translating the math. You can also introduce and reinforce useful vocabulary
 physical examples of these shapes. If you are having trouble finding prisms, cones, and cylinders,
 you can make these items out of paper by printing out templates and following the instructions at
 this website: ([**http://tinyurl.com/asz6e69**](http://tinyurl.com/asz6e69))
-
-To help students process Programming Project III, you may want to read through exercise 9.3 in the
-textbook with the class, breaking down the problem into its parts as a whole group. In ELL
-classrooms, you should bring in physical samples of grocery receipts and pass them around or view
-them on the projector. Have students point out the different parts of the receipt as they relate to
-the assignment.
 
 Remind students to always draw a structure diagram, sketch out their plan using pseudocode, and
 include comments to remind themselves (and you!) of what each section of code is for.
