@@ -189,6 +189,18 @@ Proper Java syntax and thorough comments are required.
 <table>
   <tr>
     <td>
+      Emphasize with students...<br><br>
+      <strong>Curricular Competencies – Applied Design - Understanding Context - Testing</strong><br><br>
+One of the best ways to effectively design and develop for end-users is to include them in the design and development processes. Computer programmers do this by interviewing the end-users at the beginning of the process. This allows the programmer to understand what the user is looking for and it helps create an initial plan for design ideas.<br><br>
+When it’s time for the program to be tested, it is often good practice to have the end-user test the software. This allows them to comment and provide feedback on different parts of the program before it is totally complete. The programmer should take notes related to the end-user’s questions and concerns about the program, and also the things that they love.
+    </td>
+  </tr>
+  </table>
+
+
+<table>
+  <tr>
+    <td>
       <strong>Final Project</strong><br><br>
       Imagine you had to create a program similar to the one above, but instead of using Pokemons it used insects, dinosaurs or basketball teams. What initial stats would each dinosaur have? What attacks would insects have? How would you program the ability to have one basketball team challenge another basketball team?<br><br>
       The final project in this course will provide you with the opportunity to create a program, similar to Pokemon, that uses different characters or "challengers". As you read more about the Pokemon program, think carefully about how you would implement the same ideas in a different context.</td>
