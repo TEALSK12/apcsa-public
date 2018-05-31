@@ -5,7 +5,7 @@ Time to get creative and apply your programming and object oriented skills to a 
 
 Your task is to create a software application that is similar to the Pokemon game. It should include a number of characters that can clash with each other in battles. The winner of each battle will be determined by a number of things including each character’s attributes, attacks and defenses.
 
-![Image of a wide variety of characters including a ghost, a shark, a bee, an alien and a robot.](BCFinalProjImage2.JPG)
+![Image of a wide variety of characters including a ghost, a shark, a bee, an alien and a robot.](BCFinalProjImage2.png)
 
 You will use many of the concepts that have been introduced throughout the course to establish attributes for each character and to determine hit points and health status. You will use object oriented programming concepts in order to implement your program.
 
