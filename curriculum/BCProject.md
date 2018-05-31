@@ -1,7 +1,5 @@
-<center># CHARACTER CLASH!</center>
+# CHARACTER CLASH!
 # FINAL PROJECT
-
----
 
 Time to get creative and apply your programming and object oriented skills to a new context!
 
@@ -13,24 +11,24 @@ You will follow the Applied Design stages and begin by interviewing an end-user 
 
 Your software application should include:
 * A number of characters
--A number of common attributes for each character
--A variety of power levels for each attribute of a given character
--A range of attacks that each character can perform
--Formulas to determine the effectiveness of each character’s attack in given situations  (this may involve some randomness)
--The ability for the user to list all data related to the characters  
--The ability for the user to select and play the game as one of the characters
--The ability for the user to select a variety of attacks and defenses
--Game play that progresses the user through the game and determines whether or not the user defeats other characters to win the game, or is defeated and therefore loses.
+* A number of common attributes for each character
+* A variety of power levels for each attribute of a given character
+* A range of attacks that each character can perform
+* Formulas to determine the effectiveness of each character’s attack in given situations  (this may involve some randomness)
+* The ability for the user to list all data related to the characters  
+* The ability for the user to select and play the game as one of the characters
+* The ability for the user to select a variety of attacks and defenses
+* Game play that progresses the user through the game and determines whether or not the user defeats other characters to win the game, or is defeated and therefore loses.
 
 You will need to carefully select your characters and a context in which they can do battle. This will require you to understand the interests of your end user, but it will also require you to be creative and to apply many of the concepts your have learnt throughout the course.
 
 These characters or groups will be able to “battle” each other. The results of each battle will be dependent on the statistics of each of the characters or groups in the battle, as well as the attacks and defenses chosen by the user.
 
 The end-user will provide you context for the program by indicating their interests and likes/dislikes. The following list provides you with some quick ideas to help you start thinking of some possibilities:
--A program that allows various bugs to battle each other, each bug has different attributes and strengths/weaknesses
--A program that allows different basketball teams to compete against each other, each team has different strengths and weaknesses (three point shooting, defense, endurance). The game allows the user to play as a coach, selecting what to do in specific situations
--A program that allows different African animals to battle for “Savanah Supremacy”.
--A program that simulates a number of different cars being able to race each other on different tracks (gravel, pavement, desert, rainy, etc).
+* A program that allows various bugs to battle each other, each bug has different attributes and strengths/weaknesses
+* A program that allows different basketball teams to compete against each other, each team has different strengths and weaknesses (three point shooting, defense, endurance). The game allows the user to play as a coach, selecting what to do in specific situations
+* A program that allows different African animals to battle for “Savanah Supremacy”.
+* A program that simulates a number of different cars being able to race each other on different tracks (gravel, pavement, desert, rainy, etc).
 
 You will have to be creative as you complete the program, and you will also have to carefully design and test the game play and logic of the battles. You want to ensure that the formulas for hit points and health make sense, and that the game includes an appropriate level of difficulty.
 
