@@ -280,6 +280,23 @@ Video
 - BJP 5-4, _The Boolean Type_<br>
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c5-4>
 
+## Grading Scheme/Rubric
+|   |   |
+| Program demonstrates complex use of boolean logic| 2 points|
+| Game play demonstrates effective design and planning skills | 2 points|
+| User-interface is clear, consise and easy to use.| 2 points|
+| Rules, game play and scoring demonstrate logic | 3 points|
+
+|Applied Design Steps and Log|   |
+|Understanding Context components are complete and thorough| 1 point    |
+|Defining components are complete and thorough| 1 point    |
+|Ideating components are complete and thorough| 1 point    |
+|Ideating/Prototyping are components complete and thorough| 1 point    |
+|Testing components are complete and thorough| 1 point    |
+|Sharing components are complete and thorough| 1 point    |
+|Total| 6 points   |
+| _**Total **_ | _**46 points**_  |
+
 
 Forum discussion
 ----------------
