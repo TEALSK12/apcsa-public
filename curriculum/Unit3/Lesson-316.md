@@ -202,12 +202,12 @@ Your task is to create a computer game for an end-user (a friend, classmate, tea
 You will first learn about and understand the interests/likes/passions/hobbies of your end-user by interviewing them and asking them questions. You will then, in collaboration with the end-user, decide what type of game you are going to create and what type of changes you might make to an original Rock-Paper-Scissors, card or dice game.
 
 Some examples that you and your end-user might want to change include:
-..* Different options for play. Rather than playing rock, paper or scissors, the end-user might have suggestions for different plays or attacks, or they might want to add new attacks.
-..* Different options for scoring. The end-user might want to add scoring features such as players being able to risk double the points on certain plays which would mean they would lose double the points, or win double the point.
-..* Change the format of gameplay by having players win “two-in-a-row” or by having players win “best of 7” in order to be declared the victor.
-..* Add the ability to play the computer or another player.
-..* Add more dice to an existing game and alter the scoring accordingly.
-..* Create new scoring for a dice game or a randomized number game.
+- Different options for play. Rather than playing rock, paper or scissors, the end-user might have suggestions for different plays or attacks, or they might want to add new attacks.
+- Different options for scoring. The end-user might want to add scoring features such as players being able to risk double the points on certain plays which would mean they would lose double the points, or win double the point.
+- Change the format of gameplay by having players win “two-in-a-row” or by having players win “best of 7” in order to be declared the victor.
+- Add the ability to play the computer or another player.
+- Add more dice to an existing game and alter the scoring accordingly.
+- Create new scoring for a dice game or a randomized number game.
 
 You and your end-user may also choose to create an entirely new game. Just make sure that if you do this, you ensure that the logic of the game is sound. This may require careful design and testing.
 
