@@ -193,9 +193,9 @@ link to the NY Times article about rock paper scissors is included in the Materi
 lesson plan.
 
 ----------------------------------------------------------------------------------------------------
-#### PROGRAMMING ACTIVITY
+### PROGRAMMING ACTIVITY
 
-##### Applied Design and Creating a Program for an End-User
+### Applied Design and Creating a Program for an End-User
 
 Your task is to create a computer game for an end-user (a friend, classmate, teacher, relative, etc). You can create a program similar to Rock-Paper-Scissors or similar to some type of dice or simple card game that you maybe have encountered before (you can use similar rules, similar game play, etc). “War” is an interesting card game that you could alter for this purpose and “Pig” is an interesting dice game. You can read the rules for each of these online.
 
@@ -281,7 +281,7 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c5-4>
 
 ## Grading Scheme/Rubric
-|   |   |
+|---|---|
 | Program demonstrates complex use of boolean logic| 2 points|
 | Game play demonstrates effective design and planning skills | 2 points|
 | User-interface is clear, consise and easy to use.| 2 points|
