@@ -287,15 +287,15 @@ Video
 | Game play demonstrates effective design and planning skills | 2 points|
 | User-interface is clear, consise and easy to use.| 2 points|
 | Rules, game play and scoring demonstrate logic | 3 points|
-|Total| 9 points   |
+| **Total**| **9 points**   |
 | **Applied Design Steps and Log**|   |
 |Understanding Context components are complete and thorough| 1 point    |
 |Defining components are complete and thorough| 1 point    |
 |Ideating/Prototyping are components complete and thorough| 1 point    |
 |Testing components are complete and thorough| 1 point    |
 |Sharing components are complete and thorough| 1 point    |
-|Total| 5 points   |
-| _**Total **_ | _**14 points**_  |
+|**Total**| **5 points**   |
+| **Total** | **14 points**  |
 
 
 Forum discussion
