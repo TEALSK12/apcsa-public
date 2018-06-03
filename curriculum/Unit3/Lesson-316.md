@@ -4,10 +4,12 @@ Lesson 3.16 — Boolean Logic
 Overview
 --------
 ### Objectives — _Students will be able to…_
-- **Write** a game that plays Rock-Paper-Scissors.
+- **Write** a game, similar to rock-paper-scissors or a pre-existing dice/card game.
+- **Implement** the Applied Design stages in order to create a program with an end-user in mind.
 
 ### Assessments — _Students will…_
 - **Submit** a program at the end of 2 or 3 class periods.
+- **Submit** any Applied Design documents and resources.
 
 ### Homework — _Students will…_
 - **Outline** Chapter 5 (up to and including BJP 5.3)
@@ -193,37 +195,22 @@ lesson plan.
 ----------------------------------------------------------------------------------------------------
 #### PROGRAMMING ACTIVITY
 
-##### Exercise 1
-Write a game that plays many rounds of Rock Paper Scissors. The user and computer will each choose
-between three items: rock (defeats scissors, but loses to paper), paper (defeats rock, but loses to
-scissors), and scissors (defeats paper, but loses to rock). If the player and computer choose the
-same item, the game is a tie.
+##### Applied Design and Creating a Program for an End-User
 
-- A good program will prompt for user input, compare input to a computer counter-move, then output a
-  verdict (user loses, wins, or ties), prompt for another round or exit.
+Your task is to create a computer game for an end-user (a friend, classmate, teacher, relative, etc). You can create a program similar to Rock-Paper-Scissors or similar to some type of dice or simple card game that you maybe have encountered before (you can use similar rules, similar game play, etc). “War” is an interesting card game that you could alter for this purpose and “Pig” is an interesting dice game. You can read the rules for each of these online.
 
-- An excellent program will do all that a satisfactory program does, but will use different
-  algorithmic strategies for choosing the best item. Teacher’s note: there is no superior
-  strategy—the focus here is to get students to try different approaches and conclude that on their
-  own.
+You will first learn about and understand the interests/likes/passions/hobbies of your end-user by interviewing them and asking them questions. You will then, in collaboration with the end-user, decide what type of game you are going to create and what type of changes you might make to an original Rock-Paper-Scissors, card or dice game.
 
-##### Exercise 2
-You and your partner should test out the game by playing it at least 3 times each. Keep record of
-how many moves it took before you won or lost the game.
+Some examples that you and your end-user might want to change include:
+..* Different options for play. Rather than playing rock, paper or scissors, the end-user might have suggestions for different plays or attacks, or they might want to add new attacks.
+..* Different options for scoring. The end-user might want to add scoring features such as players being able to risk double the points on certain plays which would mean they would lose double the points, or win double the point.
+..* Change the format of gameplay by having players win “two-in-a-row” or by having players win “best of 7” in order to be declared the victor.
+..* Add the ability to play the computer or another player.
+..* Add more dice to an existing game and alter the scoring accordingly.
+..* Create new scoring for a dice game or a randomized number game.
 
-##### Exercise 3
-Write a program that compares 2 players. Your program should prompt for each player (1) the number
-of times they played the game, (2) the number of times they won the game, (3) the number of moves
-for each game. Have the program report which player performs better on the basis of their reported
-statistics. Test your program by inputting your and your partner’s results from Exercise 2.
+You and your end-user may also choose to create an entirely new game. Just make sure that if you do this, you ensure that the logic of the game is sound. This may require careful design and testing.
 
-##### Exercise 4
-Write a program that plays the dice game Pig. Pig is a 2-player game where the players take turns
-repeatedly rolling a single 6-sided die. A player repeatedly rolls the die until one of the two
-events occurs: (1) either the player chooses to stop rolling, in which case the sum of that player’s
-rolls are added to his/her total points, or (2) if the player rolls a 1 at any time, all points from
-that turn are lots and the turn ends immediately. The first player to reach a score of at least 100
-points wins.
 
 **To get full credit on this assignment, you must include a structure diagram and/or pseudocode
   explaining your strategy.**
@@ -246,7 +233,7 @@ Scissor, and any other online sources you choose to help you draft a plan for yo
    <tr>
       <td>
          <strong>Final Project</strong><br><br>
-         The small games above implement interesting game play ideas. Boolean logic is used to determine winners and losers and to alter the score. Keep these small games in mind as you continue to think about the final project in the course. You will need to have an in-depth understanding of boolean logic as you create your final game.
+         The small game you design above will implement interesting game play ideas. Boolean logic is used to determine winners and losers and to alter the score. Keep these small games in mind as you continue to think about the final project in the course. You will need to have an in-depth understanding of boolean logic as you create your final game.
       </td>
    </tr>
    </table>
