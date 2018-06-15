@@ -229,15 +229,13 @@ Scissor, and any other online sources you choose to help you draft a plan for yo
 - Start grading student note-books in small batches (so students are not without their notebooks for
   too long!)
 
-<table>
-   <tr>
-      <td>
-         <strong>Final Project</strong><br><br>
-         The small game you design above will implement interesting game play ideas. Boolean logic is used to determine winners and losers and to alter the score. Keep these small games in mind as you continue to think about the final project in the course. You will need to have an in-depth understanding of boolean logic as you create your final game.
-      </td>
-   </tr>
-   </table>
+---
 
+#### Final Project
+
+The small game you design above will implement interesting game play ideas. Boolean logic is used to determine winners and losers and to alter the score. Keep these small games in mind as you continue to think about the final project in the course. You will need to have an in-depth understanding of boolean logic as you create your final game.
+
+---
 
 Accommodation and Differentiation
 ---------------------------------
