@@ -44,18 +44,19 @@ of your classroom).
 
 ### Introduction to for Loops \[15 minutes\]
 
-<table>
-   <tr>
-      <td>
-         Emphasize with students...<br><br>
-         <strong>Content - Management of complexity</strong><br><br>
-The chart in this activity is a flow chart that represents, organizes and communicates the control of a program. As you create programs with added complexity, it’s important for you to have a way to manage this complexity. You can create flow charts to do this.
-Flow charts can be used to show control in a loop, to show user input, to show processing and output, and to show conditional statements and decisions.<br><br>
-There are a number of flow chart creation programs available online, these can help you manage the complexity of your programs during the design stages.
-      </td>
-   </tr>
-   </table>
+---
 
+#### Emphasize with students...
+
+#### Content - Management of complexity
+
+The chart in this activity is a flow chart that represents, organizes and communicates the control of a program. As you create programs with added complexity, it’s important for you to have a way to manage this complexity. You can create flow charts to do this.
+
+Flow charts can be used to show control in a loop, to show user input, to show processing and output, and to show conditional statements and decisions.
+
+There are a number of flow chart creation programs available online, these can help you manage the complexity of your programs during the design stages.
+
+---
 
 1. If you haven’t already, distribute the handout with loop diagrams to your students. Following
    along with the handout:
