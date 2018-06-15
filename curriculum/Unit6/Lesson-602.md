@@ -50,17 +50,19 @@ the sample will appear.
 
 ### Introduction & Review of the Project \[10 minutes\]
 
-<table>
-  <tr>
-    <td>
-      Emphasize with students...<br><br>
-      <strong>Big Ideas - Products can be designed for life cycle</strong><br><br>
-Software organizations are always updating and altering software source code. This is done in order to fix bugs, add features or improve performance. It is for this reason that it’s always important to remember that software can be designed for life cycle.</br><br>
-The original programmer can ensure that their code is well written and well documented. This can facilitate later updates and changes.<br><br>
+---
+
+#### Emphasize with students...
+
+#### Big Ideas - Products can be designed for life cycle
+
+Software organizations are always updating and altering software source code. This is done in order to fix bugs, add features or improve performance. It is for this reason that it’s always important to remember that software can be designed for life cycle.
+
+The original programmer can ensure that their code is well written and well documented. This can facilitate later updates and changes.
+
 The original programmer can also think carefully about how additional features and updates might be implemented. This can impact the original design of objects or classes in order to ensure the ability to further add to and improve the design.
-  </td>
-  </tr>
-  </table>
+
+---
 
 1. Inheritance makes it convenient to reuse code between classes. However, sometimes we’ll want to
    specialize code in a subclass, or ignore a method that doesn’t apply. Ask students for examples
