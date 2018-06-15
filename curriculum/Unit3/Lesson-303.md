@@ -182,15 +182,15 @@ Blastoise OR Raichu given here:
 
 ----------------------------------------------------------------------------------------------------
 
-<table>
-  <tr>
-    <td>
-      <strong>Course Final Project</strong><br><br>
-      Pay close attention to the base stats for the Pokemons and how health values are deducted based on the attacks.<br>When you complete your final project in the course, this information will be very important as you apply these concepts to a new battle context that will be a little different than Pokemon.
-    </td>
-  </tr>
-  </table>
+---
 
+#### Course Final Project
+
+Pay close attention to the base stats for the Pokemons and how health values are deducted based on the attacks.
+
+When you complete your final project in the course, this information will be very important as you apply these concepts to a new battle context that will be a little different than Pokemon.
+
+---
 
 Accommodation and Differentiation
 ---------------------------------
