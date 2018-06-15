@@ -122,16 +122,17 @@ students work together with the guidance of WS 5.3.1
 
 ### Student Work \[30 minutes\]
 
-<table>
-  <tr>
-    <td>
-      Empasize with students...<br><br>
-      <strong>Big Ideas - Tools and technologies can be adapted for specific purposes</strong><br><br>
-In this activity you and your classmates will be creating your own classes and objects. This is a great example of a how a technology like Object Oriented Programming can be adapted to serve a wide variety of purposes.<br><br>
+---
+
+#### Empasize with students...
+
+#### Big Ideas - Tools and technologies can be adapted for specific purposes
+
+In this activity you and your classmates will be creating your own classes and objects. This is a great example of a how a technology like Object Oriented Programming can be adapted to serve a wide variety of purposes.
+
 As you learn about the other classes and objects created by your classmates, and as you compare it to your own, think carefully about how different people implement technology in different ways. Your classmates will probably present ideas that you had never thought of. That’s exciting!
-    </td>
-  </tr>
-  </table>
+
+---
 
 1. If you have a sample (that you did yourself, or that you saved from previous students’ work),
    hold it up as an example for the class, but do not let students look too closely. The idea here
