@@ -115,16 +115,17 @@ method.
 
 ### Student Practice: WS 6.3 \[25 minutes\]
 
-<table>
-   <tr>
-      <td>
-         Emphasize with students...<br><br>
-         <strong>Content - Problem decomposition - Advanced programming structures - Management of complexity</strong><br><br>
-Now that you are creating superclasses and subclasses you are starting to program using quite advanced programming structures. These structures are sometimes difficult concepts for students to grasp, but once understood, they can actually facilitate programming.<br><br>
+---
+
+#### Emphasize with students...
+
+#### Content - Problem decomposition - Advanced programming structures - Management of complexity
+
+Now that you are creating superclasses and subclasses you are starting to program using quite advanced programming structures. These structures are sometimes difficult concepts for students to grasp, but once understood, they can actually facilitate programming.
+
 The creation of superclasses and subclasses allows you to break your program down into smaller chunks (this is called decomposition). It also allows you to manage complexity by having methods and attributes exist within the class. This keeps the data separate from the main program, but of course it can be accessed or altered whenever necessary.
-</td>
-</tr>
-</table>
+
+---
 
 Once students have completed these exercises, distribute worksheet 6.3.
 
