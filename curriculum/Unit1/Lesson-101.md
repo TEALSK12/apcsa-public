@@ -44,17 +44,17 @@ have not included a procedure for file submission. You should prepare a handout 
 assess understanding of your procedure. 10 minutes of this lesson have been reserved for you to
 teach these procedures.
 
-<table>
-  <tr>
-    <td>
-      Emphasize with students...
-      <br><br><strong>Big Ideas - Tools and technologies can be adapted for specific purposes.</strong><br><br>
-As you begin your journey in this course, think carefully about the tools you use to program. A carpenter, a bricklayer, a painter… all of these people need tools in order to create and build. In much the same way, a computer programmer requires tools to create and build programs. <br>
-The Eclipse IDE is a tool that programmers can use to create computer software. Just like how a saw or a hammer or a paint brush can be used to create a wide variety of things, the Eclipse IDE can be used to create a wide variety of software applications.
-  </tr>
-  <td>
-    </table>
+---
 
+#### Emphasize with students...
+
+#### Big Ideas - Tools and technologies can be adapted for specific purposes
+
+As you begin your journey in this course, think carefully about the tools you use to program. A carpenter, a bricklayer, a painter… all of these people need tools in order to create and build. In much the same way, a computer programmer requires tools to create and build programs.
+
+The Eclipse IDE is a tool that programmers can use to create computer software. Just like how a saw or a hammer or a paint brush can be used to create a wide variety of things, the Eclipse IDE can be used to create a wide variety of software applications.
+
+---
 
 Pacing Guide
 ------------
@@ -84,32 +84,30 @@ Procedure
 
 ### Plug-In & Un-Plug Procedure \[10 minutes\]
 
-<table>
-  <tr>
-    <td>
-      Emphasize with students...<br><br>
-      <strong>Content - Collaboration Tools for programming</strong><br><br>
+---
 
-In this activity you will learn the correct procedures for using a USB drive to store and transport your programs. The USB drive also provides an opportunity for you to collaborate with others and share your programs.<br><br>
+#### Emphasize with students...
+
+#### Content - Collaboration Tools for programming
+
+In this activity you will learn the correct procedures for using a USB drive to store and transport your programs. The USB drive also provides an opportunity for you to collaborate with others and share your programs.
 
 Can you think of other ways that you might collaborate with others in this course as you create and share programs? What methods are used in the field of programming when there are a number of programmers working on developing the same software application?
-</td>
-</tr>
-</table>
 
-<table>
-  <tr>
-    <td>
-      Emphasize with students...<br><br>
-      <strong>Big Ideas - Personal design interests require the evaluation and refinement of skills</strong><br><br>
+---
 
-Practice-It is a place that will allow you to practice and refine your computer programming and computer science skills beyond the resources within this course. It’s important for you to use Practice-It, and to find other sources of computer programming help and information.<br><br>
+---
+
+#### Emphasize with students...
+
+#### Big Ideas - Personal design interests require the evaluation and refinement of skills
+
+Practice-It is a place that will allow you to practice and refine your computer programming and computer science skills beyond the resources within this course. It’s important for you to use Practice-It, and to find other sources of computer programming help and information.
+
 
 Throughout this course you will create a wide range of programs, and you will want to extend projects and add your own creative touch to each one. As you do this, it’s important to carefully evaluate and build on the skills that you have. Resources like Practice-It can help you develop further as a programmer, which will allow you to create even more engaging software applications.
-</td>
-</tr>
-</table>
 
+---
 
 1. Using WS 1.1.2, model the steps for:
    - Opening Eclipse and a workspace
