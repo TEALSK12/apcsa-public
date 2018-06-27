@@ -190,13 +190,8 @@ Digital Tools Associated with This Curriculum
 ### Integrated Design Environment (IDE) — Eclipse
 
 Coding in Java requires the Java Development Kit and a text editor or IDE. There are many Java IDEs
-available; at present time, most of the TEALS classrooms use Eclipse. Unit 1 includes directions for
+available. Currently most of the TEALS classrooms use Eclipse. Unit 1 includes directions for
 installing Eclipse.
-
-TEALS volunteer Gil Lund has prepared two videos as an introduction to Eclipse you may find useful:
-
-  1. [Intro to Eclipse / Java Debugging Part 1: Perspectives]
-  2. [Intro to Eclipse / Java Debugging Part 2: Breakpoints]
 
 ### Practice-It!
 
@@ -300,8 +295,6 @@ on the TEALS dashboard, or to [APSquad@tealsk12.org](mailto:APSquad@tealsk12.org
 [Curriculum Map]: ./Curriculum-Map.md
 [Google Hangouts]: http://hangouts.google.com
 [Grudgeball]: https://www.youtube.com/watch?v=u_GzWwSrDlo
-[Intro to Eclipse / Java Debugging Part 1: Perspectives]: https://www.youtube.com/watch?v=xqhNBmJ7XV4
-[Intro to Eclipse / Java Debugging Part 2: Breakpoints]: https://www.youtube.com/watch?v=Qq2nUrgsxwk
 [Parson's Problems]: https://www.youtube.com/watch?v=11n-AsaCd9w
 [Practice-It]: https://practiceit.cs.washington.edu/
 [Projects and Labs]: https://www.youtube.com/watch?v=WHvuK7LBe-o
