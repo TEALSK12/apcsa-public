@@ -74,7 +74,7 @@ following daily structure:
   questions (though time has been scheduled in the Pacing Guide for one or both of these
   activities). You should choose your questions based on the topics you felt were most challenging
   or confusing for your students. A good source for short-answer and multiple choice questions is
-  \[SUGGESTED SOURCES\].
+  the [Barron's AP Computer Science A review book](https://www.amazon.com/Barrons-AP-Computer-Science-8th/dp/1438009194), which TEALS ships to each AP CS A volunteer.
 
 ### Scaffolding
 
