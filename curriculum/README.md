@@ -76,7 +76,7 @@ following daily structure:
   questions (though time has been scheduled in the Pacing Guide for one or both of these
   activities). You should choose your questions based on the topics you felt were most challenging
   or confusing for your students. A good source for short-answer and multiple choice questions is
-  \[SUGGESTED SOURCES\].
+  the [Barron's AP Computer Science A review book], which TEALS ships to each AP CS A volunteer.
 
 ### Scaffolding
 
@@ -292,7 +292,8 @@ on the TEALS dashboard, or to [APSquad@tealsk12.org](mailto:APSquad@tealsk12.org
 
 [20 Fun Free Tools for Interactive Classroom Collaboration]: http://tinyurl.com/k62tstg
 [AP Java Quick Reference]: http://apcentral.collegeboard.com/apc/public/repository/ap_comp_sci_a_quick_reference.pdf
-[Curriculum Map]: ./Curriculum-Map.md
+[Barron's AP Computer Science A review book]: https://www.amazon.com/dp/1438009194
+[Curriculum Map]: Curriculum-Map.md
 [Google Hangouts]: http://hangouts.google.com
 [Grudgeball]: https://www.youtube.com/watch?v=u_GzWwSrDlo
 [Parson's Problems]: https://www.youtube.com/watch?v=11n-AsaCd9w
