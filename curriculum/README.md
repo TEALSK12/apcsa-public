@@ -23,9 +23,11 @@ the past, students who are gifted/talented, students who are otherwise “outsid
 Accessing the Curriculum
 ------------------------
 
-The AP Computer Science A Curriculum GitBook is located at [https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details](https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details)
+The AP Computer Science A Curriculum GitBook is located at
+https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details.
 
-For contributions to the curriculum, the AP Computer Science A GitHub repository is located at [https://github.com/TEALSK12/apcsa](https://github.com/TEALSK12/apcsa)
+For contributions to the curriculum, the AP Computer Science A GitHub repository is located at
+https://github.com/TEALSK12/apcsa.
 
 Using the curriculum
 --------------------
@@ -188,9 +190,8 @@ Digital Tools Associated with This Curriculum
 ### Integrated Design Environment (IDE) — Eclipse
 
 Coding in Java requires the Java Development Kit and a text editor or IDE. There are many Java IDEs
-available; at present time, most of the TEALS classrooms use Eclipse. Unit 1 includes directions for
-installing Eclipse. TEALS volunteer Gil Lund has prepared a video with a Hello World and walkthrough
-of some Eclipse: https://mix.office.com/watch/pje5izaj92jz/.
+available. Currently most of the TEALS classrooms use Eclipse. Unit 1 includes directions for
+installing Eclipse.
 
 ### Practice-It!
 
@@ -225,7 +226,7 @@ encouraged to email the program's creator Alex Aiken directly, at
 
 
 ### Additional Resources
---------------------
+------------------------
 
 - The free web-based game Code Hunt (http://www.codehunt.com) offers opportunities for students to
   find and fix errors by “discovering the missing code segments.” Assignments/Levels are
