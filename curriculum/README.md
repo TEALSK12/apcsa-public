@@ -304,4 +304,4 @@ on the TEALS dashboard, or to [APSquad@tealsk12.org](mailto:APSquad@tealsk12.org
 [Timing and Pacing]: https://www.youtube.com/watch?v=LkGh03UZ724
 [Twiddla]: http://www.twiddla.com
 [Vyew]: http://www.vyew.com
-[here]: https://1drv.ms/w/s!AmOr6JmWN27GgfZLyI6QVmMVfVj2Nw
+[here]: apcsa-public/curriculum/AP CS A Course Audit Instructions.docx 
