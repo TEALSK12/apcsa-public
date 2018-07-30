@@ -234,7 +234,7 @@ classroom.
 [7.03]: Lesson-703.md
 [7.04]: Lesson-704.md
 [Curriculum Assets]: ../Assets.md
-[Elevens Lab]: Assets.md#elevens
+[Elevens Lab]: ../Assets.md#elevens
 [Lesson 7.00]: Lesson-700.md
 [Lesson 7.01]: Lesson-701.md
 [Lesson 7.02]: Lesson-702.md
