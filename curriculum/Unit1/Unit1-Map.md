@@ -117,26 +117,26 @@ classroom.
 
 
 
-[1.01]: ./Lesson-101.md
-[1.02]: ./Lesson-102.md
-[1.03]: ./Lesson-103.md
-[1.04]: ./Lesson-104.md
-[1.05]: ./Lesson-105.md
-[1.06]: ./Lesson-106.md
-[1.07]: ./Lesson-107.md
-[1.08]: ./Lesson-108.md
-[1.09]: ./Lesson-109.md
+[1.01]: Lesson-101.md
+[1.02]: Lesson-102.md
+[1.03]: Lesson-103.md
+[1.04]: Lesson-104.md
+[1.05]: Lesson-105.md
+[1.06]: Lesson-106.md
+[1.07]: Lesson-107.md
+[1.08]: Lesson-108.md
+[1.09]: Lesson-109.md
 [1.99]: #199
 [Curriculum Assets]: ../Assets.md
-[Lesson 1.01]: ./Lesson-101.md
-[Lesson 1.02]: ./Lesson-102.md
-[Lesson 1.03]: ./Lesson-103.md
-[Lesson 1.04]: ./Lesson-104.md
-[Lesson 1.05]: ./Lesson-105.md
-[Lesson 1.06]: ./Lesson-106.md
-[Lesson 1.07]: ./Lesson-107.md
-[Lesson 1.08]: ./Lesson-108.md
-[Lesson 1.09]: ./Lesson-109.md
+[Lesson 1.01]: Lesson-101.md
+[Lesson 1.02]: Lesson-102.md
+[Lesson 1.03]: Lesson-103.md
+[Lesson 1.04]: Lesson-104.md
+[Lesson 1.05]: Lesson-105.md
+[Lesson 1.06]: Lesson-106.md
+[Lesson 1.07]: Lesson-107.md
+[Lesson 1.08]: Lesson-108.md
+[Lesson 1.09]: Lesson-109.md
 [Unit 1 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/Unit1.pptx
 [Unit 1 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/Unit%201%20Word%20Bank.docx
 [WS 1.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.1.docx
