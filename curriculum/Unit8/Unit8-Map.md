@@ -107,25 +107,25 @@ classroom.
 
 
 [8.00]: Unit8/Lesson-800.md
-[Teacher Demo 8.3]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit8/Teacher%20Demo%208.3.docx
-[8.01]: ./Lesson-801.md
-[8.02]: ./Lesson-802.md
-[8.03]: ./Lesson-803.md
-[8.04]: ./Lesson-804.md
-[8.05]: ./Lesson-805.md
-[8.06]: ./Lesson-806.md
+[8.01]: Lesson-801.md
+[8.02]: Lesson-802.md
+[8.03]: Lesson-803.md
+[8.04]: Lesson-804.md
+[8.05]: Lesson-805.md
+[8.06]: Lesson-806.md
 [8.07]: #807
-[8.08]: ./Lesson-808.md
+[8.08]: Lesson-808.md
 [Curriculum Assets]: ../Assets.md
-[Lesson 8.00]: ./Lesson-800.md
-[Lesson 8.01]: ./Lesson-801.md
-[Lesson 8.02]: ./Lesson-802.md
-[Lesson 8.03]: ./Lesson-803.md
-[Lesson 8.04]: ./Lesson-804.md
-[Lesson 8.05]: ./Lesson-805.md
-[Lesson 8.06]: ./Lesson-806.md
-[Lesson 8.08]: ./Lesson-808.md
+[Lesson 8.00]: Lesson-800.md
+[Lesson 8.01]: Lesson-801.md
+[Lesson 8.02]: Lesson-802.md
+[Lesson 8.03]: Lesson-803.md
+[Lesson 8.04]: Lesson-804.md
+[Lesson 8.05]: Lesson-805.md
+[Lesson 8.06]: Lesson-806.md
+[Lesson 8.08]: Lesson-808.md
+[Quiz 8.5]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit8/Quiz%208.5.docx
+[Teacher Demo 8.3]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit8/Teacher%20Demo%208.3.docx
 [Unit 8 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit8/Unit8.pptx
 [Unit 8 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit8/Unit%208%20Word%20Bank.docx
 [WS 8.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit8/WS%208.3.docx
-[Quiz 8.5]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit8/Quiz%208.5.docx

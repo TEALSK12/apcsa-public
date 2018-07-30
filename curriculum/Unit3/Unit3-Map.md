@@ -230,53 +230,53 @@ classroom.
 
 
 
-[3.00]: ./Lesson-300.md
-[3.01]: ./Lesson-301.md
-[3.02]: ./Lesson-302.md
-[3.03]: ./Lesson-303.md
-[3.04]: ./Lesson-304.md
-[3.05]: ./Lesson-305.md
-[3.06]: ./Lesson-306.md
-[3.07]: ./Lesson-307.md
-[3.08]: ./Lesson-308.md
-[3.09]: ./Lesson-309.md
-[3.10]: ./Lesson-310.md
-[3.11]: ./Lesson-311.md
-[3.12]: ./Lesson-312.md
-[3.13]: ./Lesson-313.md
-[3.14]: ./Lesson-314.md
-[3.15]: ./Lesson-315.md
-[3.16]: ./Lesson-316.md
-[3.17]: ./Lesson-317.md
-[3.18]: ./Lesson-318.md
+[3.00]: Lesson-300.md
+[3.01]: Lesson-301.md
+[3.02]: Lesson-302.md
+[3.03]: Lesson-303.md
+[3.04]: Lesson-304.md
+[3.05]: Lesson-305.md
+[3.06]: Lesson-306.md
+[3.07]: Lesson-307.md
+[3.08]: Lesson-308.md
+[3.09]: Lesson-309.md
+[3.10]: Lesson-310.md
+[3.11]: Lesson-311.md
+[3.12]: Lesson-312.md
+[3.13]: Lesson-313.md
+[3.14]: Lesson-314.md
+[3.15]: Lesson-315.md
+[3.16]: Lesson-316.md
+[3.17]: Lesson-317.md
+[3.18]: Lesson-318.md
 [Algorithm for Solving Problems]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx
 [Curriculum Assets]: ../Assets.md
 [DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
 [Equestria]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Map%20of%20Equestria.pptx
 [Frac Calc]: ../Assets.md#fraccalc
-[Lesson 3.00]: ./Lesson-300.md
-[Lesson 3.01]: ./Lesson-301.md
-[Lesson 3.02]: ./Lesson-302.md
-[Lesson 3.03]: ./Lesson-303.md
-[Lesson 3.04]: ./Lesson-304.md
-[Lesson 3.05]: ./Lesson-305.md
-[Lesson 3.06]: ./Lesson-306.md
-[Lesson 3.07]: ./Lesson-307.md
-[Lesson 3.08]: ./Lesson-308.md
-[Lesson 3.09]: ./Lesson-309.md
-[Lesson 3.10]: ./Lesson-310.md
-[Lesson 3.11]: ./Lesson-311.md
-[Lesson 3.12]: ./Lesson-312.md
-[Lesson 3.13]: ./Lesson-313.md
-[Lesson 3.14]: ./Lesson-314.md
-[Lesson 3.15]: ./Lesson-315.md
-[Lesson 3.16]: ./Lesson-316.md
-[Lesson 3.17]: ./Lesson-317.md
-[Lesson 3.18]: ./Lesson-318.md
+[Lesson 3.00]: Lesson-300.md
+[Lesson 3.01]: Lesson-301.md
+[Lesson 3.02]: Lesson-302.md
+[Lesson 3.03]: Lesson-303.md
+[Lesson 3.04]: Lesson-304.md
+[Lesson 3.05]: Lesson-305.md
+[Lesson 3.06]: Lesson-306.md
+[Lesson 3.07]: Lesson-307.md
+[Lesson 3.08]: Lesson-308.md
+[Lesson 3.09]: Lesson-309.md
+[Lesson 3.10]: Lesson-310.md
+[Lesson 3.11]: Lesson-311.md
+[Lesson 3.12]: Lesson-312.md
+[Lesson 3.13]: Lesson-313.md
+[Lesson 3.14]: Lesson-314.md
+[Lesson 3.15]: Lesson-315.md
+[Lesson 3.16]: Lesson-316.md
+[Lesson 3.17]: Lesson-317.md
+[Lesson 3.18]: Lesson-318.md
 [Operator Precedence]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Operator%20Precedence.pptx
 [Poster 3.16.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Poster%203.16.1.pdf
 [Poster 3.16.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Poster%203.16.2.pdf
-[Test 2 Guide]: ./Test-2-Guide.md
+[Test 2 Guide]: Test-2-Guide.md
 [Unit 3 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Unit3.pptx
 [Unit 3 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Unit%203%20Word%20Bank.docx
 [WS 3.10]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.10.docx

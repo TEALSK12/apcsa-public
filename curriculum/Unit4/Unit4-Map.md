@@ -188,29 +188,29 @@ classroom.
 
 
 
-[4.00]: ./Lesson-400.md
-[4.01]: ./Lesson-401.md
-[4.02]: ./Lesson-402.md
-[4.03]: ./Lesson-403.md
-[4.04]: ./Lesson-404.md
-[4.05]: ./Lesson-405.md
-[4.06]: ./Lesson-406.md
-[4.07]: ./Lesson-407.md
-[4.08]: ./Lesson-408.md
-[4.09]: ./Lesson-409.md
-[4.10]: ./Lesson-410.md
+[4.00]: Lesson-400.md
+[4.01]: Lesson-401.md
+[4.02]: Lesson-402.md
+[4.03]: Lesson-403.md
+[4.04]: Lesson-404.md
+[4.05]: Lesson-405.md
+[4.06]: Lesson-406.md
+[4.07]: Lesson-407.md
+[4.08]: Lesson-408.md
+[4.09]: Lesson-409.md
+[4.10]: Lesson-410.md
 [Curriculum Assets]: ../Assets.md
-[Lesson 4.00]: ./Lesson-400.md
-[Lesson 4.01]: ./Lesson-401.md
-[Lesson 4.02]: ./Lesson-402.md
-[Lesson 4.03]: ./Lesson-403.md
-[Lesson 4.04]: ./Lesson-404.md
-[Lesson 4.05]: ./Lesson-405.md
-[Lesson 4.06]: ./Lesson-406.md
-[Lesson 4.07]: ./Lesson-407.md
-[Lesson 4.08]: ./Lesson-408.md
-[Lesson 4.09]: ./Lesson-409.md
-[Lesson 4.10]: ./Lesson-410.md
+[Lesson 4.00]: Lesson-400.md
+[Lesson 4.01]: Lesson-401.md
+[Lesson 4.02]: Lesson-402.md
+[Lesson 4.03]: Lesson-403.md
+[Lesson 4.04]: Lesson-404.md
+[Lesson 4.05]: Lesson-405.md
+[Lesson 4.06]: Lesson-406.md
+[Lesson 4.07]: Lesson-407.md
+[Lesson 4.08]: Lesson-408.md
+[Lesson 4.09]: Lesson-409.md
+[Lesson 4.10]: Lesson-410.md
 [Magpie Chatbot Lab]: ../Assets.md#magpie
 [Poster 4.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.1.pptx
 [Poster 4.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.2.pptx

@@ -147,32 +147,32 @@ classroom.
 
 
 
-[2.00]: ./Lesson-200.md
-[2.01]: ./Lesson-201.md
-[2.02]: ./Lesson-202.md
-[2.03]: ./Lesson-203.md
-[2.04]: ./Lesson-204.md
-[2.05]: ./Lesson-205.md
-[2.06]: ./Lesson-206.md
-[2.07]: ./Lesson-207.md
-[2.08]: ./Lesson-208.md
-[2.09]: ./Lesson-209.md
-[2.10]: ./Lesson-210.md
-[2.11]: ./Lesson-211.md
+[2.00]: Lesson-200.md
+[2.01]: Lesson-201.md
+[2.02]: Lesson-202.md
+[2.03]: Lesson-203.md
+[2.04]: Lesson-204.md
+[2.05]: Lesson-205.md
+[2.06]: Lesson-206.md
+[2.07]: Lesson-207.md
+[2.08]: Lesson-208.md
+[2.09]: Lesson-209.md
+[2.10]: Lesson-210.md
+[2.11]: Lesson-211.md
 [2.99]: #299
 [Curriculum Assets]: ../Assets.md
-[Lesson 2.00]: ./Lesson-200.md
-[Lesson 2.01]: ./Lesson-201.md
-[Lesson 2.02]: ./Lesson-202.md
-[Lesson 2.03]: ./Lesson-203.md
-[Lesson 2.04]: ./Lesson-204.md
-[Lesson 2.05]: ./Lesson-205.md
-[Lesson 2.06]: ./Lesson-206.md
-[Lesson 2.07]: ./Lesson-207.md
-[Lesson 2.08]: ./Lesson-208.md
-[Lesson 2.09]: ./Lesson-209.md
-[Lesson 2.10]: ./Lesson-210.md
-[Lesson 2.11]: ./Lesson-211.md
+[Lesson 2.00]: Lesson-200.md
+[Lesson 2.01]: Lesson-201.md
+[Lesson 2.02]: Lesson-202.md
+[Lesson 2.03]: Lesson-203.md
+[Lesson 2.04]: Lesson-204.md
+[Lesson 2.05]: Lesson-205.md
+[Lesson 2.06]: Lesson-206.md
+[Lesson 2.07]: Lesson-207.md
+[Lesson 2.08]: Lesson-208.md
+[Lesson 2.09]: Lesson-209.md
+[Lesson 2.10]: Lesson-210.md
+[Lesson 2.11]: Lesson-211.md
 [Poster 2.4]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/Poster%202.4.docx
 [Unit 2 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/Unit2.pptx
 [Unit 2 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/Unit%202%20Word%20Bank.docx

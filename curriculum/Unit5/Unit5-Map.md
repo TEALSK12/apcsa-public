@@ -188,24 +188,24 @@ classroom.
 - **PP** — Programming Project (in the textbook)
 
 
-[Picture Lab]: Assets.md#picturelab
-[5.00]: ./Lesson-500.md
-[5.01]: ./Lesson-501.md
-[5.02]: ./Lesson-502.md
-[5.03]: ./Lesson-503.md
-[5.04]: ./Lesson-504.md
-[5.05]: ./Lesson-505.md
-[5.06]: ./Lesson-506.md
-[5.07]: ./Lesson-507.md
+[5.00]: Lesson-500.md
+[5.01]: Lesson-501.md
+[5.02]: Lesson-502.md
+[5.03]: Lesson-503.md
+[5.04]: Lesson-504.md
+[5.05]: Lesson-505.md
+[5.06]: Lesson-506.md
+[5.07]: Lesson-507.md
 [Curriculum Assets]: ../Assets.md
-[Lesson 5.00]: ./Lesson-500.md
-[Lesson 5.01]: ./Lesson-501.md
-[Lesson 5.02]: ./Lesson-502.md
-[Lesson 5.03]: ./Lesson-503.md
-[Lesson 5.04]: ./Lesson-504.md
-[Lesson 5.05]: ./Lesson-505.md
-[Lesson 5.06]: ./Lesson-506.md
-[Lesson 5.07]: ./Lesson-507.md
+[Lesson 5.00]: Lesson-500.md
+[Lesson 5.01]: Lesson-501.md
+[Lesson 5.02]: Lesson-502.md
+[Lesson 5.03]: Lesson-503.md
+[Lesson 5.04]: Lesson-504.md
+[Lesson 5.05]: Lesson-505.md
+[Lesson 5.06]: Lesson-506.md
+[Lesson 5.07]: Lesson-507.md
+[Picture Lab]: Assets.md#picturelab
 [Unit 5 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/Unit5.pptx
 [Unit 5 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/Unit%205%20Word%20Bank.docx
 [WS 5.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.1.1.pdf

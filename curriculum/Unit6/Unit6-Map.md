@@ -185,36 +185,36 @@ classroom.
 - **PP** — Programming Project (in the textbook)
 
 
-[6.00]: ./Lesson-600.md
+[6.00]: Lesson-600.md
+[6.01]: Lesson-601.md
+[6.02]: Lesson-602.md
+[6.03]: Lesson-603.md
+[6.04]: Lesson-604.md
+[6.05]: Lesson-605.md
+[6.06]: Lesson-606.md
+[6.07]: Lesson-607.md
+[6.08]: Lesson-608.md
+[6.09]: Lesson-609.md
+[Curriculum Assets]: ../Assets.md
+[Example 6.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Example%206.1.jpg
+[Lesson 6.00]: Lesson-600.md
+[Lesson 6.01]: Lesson-601.md
+[Lesson 6.02]: Lesson-602.md
+[Lesson 6.03]: Lesson-603.md
+[Lesson 6.04]: Lesson-604.md
+[Lesson 6.05]: Lesson-605.md
+[Lesson 6.06]: Lesson-606.md
+[Lesson 6.07]: Lesson-607.md
+[Lesson 6.08]: Lesson-608.md
+[Lesson 6.09]: Lesson-609.md
+[Poster 6.3]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Poster%206.3.pptx
+[Poster 6.6]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Poster%206.6.pptx
+[Test 5 Guide]: Test-5-Guide.md
 [Text Excel Student Guide A]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Text%20Excel%20A%20Student%20Guide.docx
 [Text Excel Student Guide B]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Text%20Excel%20B%20Student%20Guide.docx
 [Text Excel Student Guide C]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Text%20Excel%20C%20Student%20Guide.docx
 [Text Excel Teacher Guide]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Text%20Excel%20Teacher%20Guide.docx
 [Text Excel]: Assets.md#textexcel
-[6.01]: ./Lesson-601.md
-[6.02]: ./Lesson-602.md
-[6.03]: ./Lesson-603.md
-[6.04]: ./Lesson-604.md
-[6.05]: ./Lesson-605.md
-[6.06]: ./Lesson-606.md
-[6.07]: ./Lesson-607.md
-[6.08]: ./Lesson-608.md
-[6.09]: ./Lesson-609.md
-[Curriculum Assets]: ../Assets.md
-[Example 6.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Example%206.1.jpg
-[Lesson 6.00]: ./Lesson-600.md
-[Lesson 6.01]: ./Lesson-601.md
-[Lesson 6.02]: ./Lesson-602.md
-[Lesson 6.03]: ./Lesson-603.md
-[Lesson 6.04]: ./Lesson-604.md
-[Lesson 6.05]: ./Lesson-605.md
-[Lesson 6.06]: ./Lesson-606.md
-[Lesson 6.07]: ./Lesson-607.md
-[Lesson 6.08]: ./Lesson-608.md
-[Lesson 6.09]: ./Lesson-609.md
-[Poster 6.3]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Poster%206.3.pptx
-[Poster 6.6]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Poster%206.6.pptx
-[Test 5 Guide]: ./Test-5-Guide.md
 [Unit 6 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Unit6.pptx
 [Unit 6 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Unit%206%20Word%20Bank.docx
 [WS 6.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/WS%206.1.docx

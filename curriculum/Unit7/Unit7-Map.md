@@ -228,19 +228,19 @@ classroom.
 - **PP** — Programming Project (in the textbook)
 
 
-[7.00]: ./Lesson-700.md
-[7.01]: ./Lesson-701.md
-[7.02]: ./Lesson-702.md
-[7.03]: ./Lesson-703.md
-[7.04]: ./Lesson-704.md
+[7.00]: Lesson-700.md
+[7.01]: Lesson-701.md
+[7.02]: Lesson-702.md
+[7.03]: Lesson-703.md
+[7.04]: Lesson-704.md
 [Curriculum Assets]: ../Assets.md
-[Lesson 7.00]: ./Lesson-700.md
-[Lesson 7.01]: ./Lesson-701.md
-[Lesson 7.02]: ./Lesson-702.md
-[Lesson 7.03]: ./Lesson-703.md
-[Lesson 7.04]: ./Lesson-704.md
-[Test 6 Guide]: ./Test-6-Guide.md
+[Elevens Lab]: Assets.md#elevens
+[Lesson 7.00]: Lesson-700.md
+[Lesson 7.01]: Lesson-701.md
+[Lesson 7.02]: Lesson-702.md
+[Lesson 7.03]: Lesson-703.md
+[Lesson 7.04]: Lesson-704.md
+[Test 6 Guide]: Test-6-Guide.md
 [Unit 7 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit7/Unit7.pptx
 [Unit 7 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit7/Unit%207%20Word%20Bank.docx
 [WS 7.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit7/WS%207.1.docx
-[Elevens Lab]: Assets.md#elevens

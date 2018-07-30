@@ -14,6 +14,6 @@ Unit 9: AP Test Review (3 weeks)
 
 
 
-[9.00]: ./Lesson-900.md
+[9.00]: Lesson-900.md
 [Curriculum Assets]: ../Assets.md
-[Lesson 9.00]: ./Lesson-900.md
+[Lesson 9.00]: Lesson-900.md
