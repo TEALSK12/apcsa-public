@@ -44,7 +44,7 @@ classroom.
 | [Lesson 6.01]   | _Inheritance Basics (Day 1)_
 |:----------------|:----------------------------
 | **Objectives**  | Students will correctly define inheritance<br>Students will use proper syntax to extend a class.<br>Students will illustrate is-a relationships.<br>Students will properly implement constructors of derived classes using super.
-| **Assessments** | Students will complete a Class Heirarchy Poster as indicated in WS 6.1.
+| **Assessments** | Students will complete a Class Hierarchy Poster as indicated in WS 6.1.
 | **In Class**    | [WS 6.1]<br>Start class poster<br>[Example 6.1]
 | **Reading**     | 9.2 up to “_Dividend Stock Behavior_”
 | **Homework**    | Collect images

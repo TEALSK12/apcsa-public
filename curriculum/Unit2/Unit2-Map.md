@@ -48,7 +48,7 @@ classroom.
 | [Lesson 2.02]   | _Declaring & Assigning Variables_
 |:----------------|:---------------------------------
 | **Objectives**  | Students will be able to identify, declare, and assign variables.
-| **Assessments** | Students will write a program that converts temperature from Farenheit to Celsius.
+| **Assessments** | Students will write a program that converts temperature from Fahrenheit to Celsius.
 | **In Class**    | [WS 2.2]<br>Practice-It<br>SC 2.7, 2.11 (4th: 2.8, 2.13)<br>E 2.1
 | **Reading**     | Rest of 2.2
 | **Homework**    | SC 2.5, 2.6, 2.9, 2.12–15 (4th: 2.6, 2.7, 2.10, 2.14–17)
@@ -66,7 +66,7 @@ classroom.
 | [Lesson 2.04]   | _Mixing Types & Casting_
 |:----------------|:------------------------
 | **Objectives**  | Students will be able to describe which types automatically convert into others when appearing together in expressions, and predict how an expression with mixed types will evaluate.<br>Students will be able to convert types by casting.
-| **Assessments** | Students will use “_Zombie Rules_” of precedence to correctly write code that yields a given answer<br>Sudents will create their own expressions & predict output by completing and trading worksheets.
+| **Assessments** | Students will use “_Zombie Rules_” of precedence to correctly write code that yields a given answer<br>Students will create their own expressions & predict output by completing and trading worksheets.
 | **In Class**    | [WS 2.4]<br>[Poster 2.4]
 | **Reading**     | 2.3 up to “_Nested for Loops_”
 | **Homework**    | Finish [WS 2.4]

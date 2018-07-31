@@ -129,7 +129,7 @@ classroom.
 ## 3.10
 | [Lesson 3.10]   | _Nested if/else Statements_
 |:----------------|:---------------------------
-| **Objectives**  | Students will will be able to choose which if statements ot use for different problems<br>Students will use correct syntax for the different if statements.
+| **Objectives**  | Students will will be able to choose which if statements to use for different problems<br>Students will use correct syntax for the different if statements.
 | **Assessments** | Students will teach a mini-lesson on sequential or nested if statements.<br>Students will submit several Practice-It questions.
 | **In Class**    | [WS 3.10] Teach mini-lessons<br>Practice-It<br>SC 4.5–6<br>E 4.3
 | **Reading**     | 4.1, “_Factoring If/Else Statements_” and “_Testing Multiple Conditions_”

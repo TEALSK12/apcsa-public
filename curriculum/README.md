@@ -11,7 +11,7 @@ Washington, CSE 142. The course uses the textbook _Building Java Programs: A Bac
 Approach_, by Stuart Reges and Marty Stepp. The course is aligned with the AP Computer Science A
 standards. TEALS has received AP Audit certification for previous versions of the course and
 syllabus. Since these materials are new in 2015–2016, TEALS will apply to have the new syllabus
-approved. Once the CollegeBoard approves the new syllabus, partner schools may use the “claim
+approved. Once the College Board approves the new syllabus, partner schools may use the “claim
 identical” function of the AP Audit website to obviate the need for their own curriculum audit.
 
 This curriculum uses principles of universal design for learning (UDL). The curriculum was written
@@ -45,7 +45,7 @@ You may browse the [Curriculum Map] for an overview of the pacing, objectives, a
 
 ### Year Round Pacing
 
-The table-of-contents (included with Introduction materials) contains course-grained time estimates
+The table-of-contents (included with Introduction materials) contains coarse-grained time estimates
 on the scale of weeks and days so teachers can plan accordingly. Units 6 and 8 include extra days in
 the time-estimate so teachers can re-adjust their unit plans if they have shifted due to unexpected
 class cancellations or drift.
@@ -176,7 +176,7 @@ initial effort to win a day off.
 Video Tutorials
 ---------------
 - [Timing and Pacing] — Adjusting lessons and the curriculum map for the speed of your learners
-- [Projects and Labs] — Choosingn whether your class completes the AP labs or the projects
+- [Projects and Labs] — Choosing whether your class completes the AP labs or the projects
   (FracCalc/TextExcel)
 - [Supporting Visual-Spatial Learners] — Using the physical space in your classroom to enhance
   learning
@@ -258,7 +258,7 @@ encouraged to email the program's creator Alex Aiken directly, at
 - If you are stationed in a high-performing school, or in a school where many students have already
   mastered other programming languages, you may want to consider flipping (or inverting) your
   classroom. To learn more about the theory and practice of teaching in a flipped classroom,
-  Vanterbilt Univerisity offers a comprehensive introduction and links to practical
+  Vanderbilt University offers a comprehensive introduction and links to practical
   resources/examples here: http://cft.vanderbilt.edu/guides-sub-pages/flipping-the-classroom.
 
   You should still be able to use most of the resources offered in this curriculum, but you will

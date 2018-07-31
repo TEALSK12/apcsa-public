@@ -49,7 +49,7 @@ Procedure
      keep track of raised hands, and that you’ll call on each person until you encounter the correct
      answer.
 
-   - Read off the numbers, and keep track of who finshes early, and who finishes late. Ask students
+   - Read off the numbers, and keep track of who finishes early, and who finishes late. Ask students
      how they computed their answers.
 
      You’re looking for an answer from the “quick” students that they kept a running tally, and that

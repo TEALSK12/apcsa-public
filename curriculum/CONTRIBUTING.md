@@ -79,7 +79,7 @@ The following steps outline the easiest way to submit a PR:
      If not, you should get a clear explanation why the change was not accepted.
 
    + A reviewer may point out problems with your PR, and request changes before approving. You'll
-     need to monitor your PR to catch this. One aid is that GitHub tracks nofications in the upper
+     need to monitor your PR to catch this. One aid is that GitHub tracks notifications in the upper
      right corner of the web pages (the bell icon), and should alert you to change requests.
 
 7. After the dust has settled, _please delete your feature branch_ from the GitHub repo. You may of
