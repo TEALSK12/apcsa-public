@@ -258,7 +258,7 @@ encouraged to email the program's creator Alex Aiken directly, at
 - If you are stationed in a high-performing school, or in a school where many students have already
   mastered other programming languages, you may want to consider flipping (or inverting) your
   classroom. To learn more about the theory and practice of teaching in a flipped classroom,
-  Vanterbilt Univerisity offers a comprehensive introduction and links to practical
+  Vanderbilt University offers a comprehensive introduction and links to practical
   resources/examples here: http://cft.vanderbilt.edu/guides-sub-pages/flipping-the-classroom.
 
   You should still be able to use most of the resources offered in this curriculum, but you will
