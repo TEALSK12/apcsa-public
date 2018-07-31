@@ -255,7 +255,7 @@ Teacher Prior CS Knowledge
   them.
 
 - When given a deck of random cards and asked to sort them, students usually come up with either
-  selection sort or insertion sort. However, the selectin sort used to sort the random cards is
+  selection sort or insertion sort. However, the selection sort used to sort the random cards is
   different from the actual algorithm used. Selection sort swaps the next smallest (or largest) item
   in the list. However, when students select the next smallest item, they insert it in the cards
   already sorted and shift the remaining cards down. You can implement a selection sort in this

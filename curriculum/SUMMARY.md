@@ -137,4 +137,4 @@
 * [About This Curriculum](About.md)
 * [Changelog](CHANGELOG.md)
 * [Contributing](CONTRIBUTING.md)
-* [Acknowledegments](About.md#acknowledgements)
+* [Acknowledgements](About.md#acknowledgements)

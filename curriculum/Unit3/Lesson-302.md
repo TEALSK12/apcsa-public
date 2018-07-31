@@ -30,7 +30,7 @@ of this lesson plan.
 
 If this is your first year teaching this lesson, you obviously won’t have pictures from previous
 years events. Make sure to document this lesson for future years so you can hook students with the
-glamor and excitement of an art gallery opening.
+glamour and excitement of an art gallery opening.
 
 
 Pacing Guide
