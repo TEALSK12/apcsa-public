@@ -1,0 +1,4 @@
+# Git Ignore File for AP CS A
+
+# Ignore generated files
+/out/

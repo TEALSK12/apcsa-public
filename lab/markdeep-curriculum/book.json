@@ -1,0 +1,12 @@
+{
+    "title":       "AP Computer Science A Curriculum",
+    "description": "The AP CS A TEALSK12 Curriculum",
+    "author":      "TEALSK12 - https://www.tealsk12.org",
+    "language":    "en",
+
+    "root": "curriculum",
+    "structure": {
+        "readme":  "README.md",
+        "summary": "SUMMARY.md"
+    }
+}
