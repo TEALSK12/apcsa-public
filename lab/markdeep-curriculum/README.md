@@ -1,17 +1,7 @@
-TEALS AP CS A Repo
-==================
+Experiment: GitHub-Hosted Curriculum via Markdeep
+==================================================
 
-This open public repository contains materials for all users (including students) of the TEALS
-AP CS A course. In addition, it contains the source for the [AP CS A Curriculum].
+Can we find a way to jettison GitBook, switch to the more powerful Markdeep language, and host it
+for free on GitHub? Yup!
 
-Instructors, volunteers and other developers, see also the [apcsa-instructor] repo for restricted
-curriculum materials and assets.
-
-For questions, contact [Steve Hollasch] or [Kenney Chan].
-
-
-
-[AP CS A Curriculum]: https://tealsk12.gitbooks.io/ap-computer-science-a/content/
-[apcsa-instructor]:   https://github.com/TEALSK12/apcsa-instructor/
-[Kenney Chan]:        mailto:kencha@microsoft.com
-[Steve Hollasch]:     mailto:steve@hollasch.net
+This repo is temporary, but hopefully the results will not be.
