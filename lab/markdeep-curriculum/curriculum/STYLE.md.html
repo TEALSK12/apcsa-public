@@ -42,7 +42,7 @@ sense, precede the H2 header with two blank lines.
 
 ### As much as it makes sense, define link URLs at the bottom of each Markdown file
 Markdown allows you to define link values at the bottom of the document. For example, you might have
-a link to `[Some Random Page]` in your text, but the resulting URL can be defined at the bottom
+a link to `[Some Random Page]` in your text, but the resulting URL can be defined at the bottom
 using a line like this:
 
     [Some Random Page]:  things/jawn/stuff/random.md.html
@@ -50,6 +50,9 @@ using a line like this:
 This keeps the text clean and easy to read, and also provides a way to define a URL only once for
 the entire document. Blocks of link definitions should be placed at the very bottom of a Markdown
 file, preceeded by three blank lines.
+
+_If you are editing a **Markdeep** document_ (`.md.html`), then you will need to express these links in
+square brackets, followed immediately by empty square brackets, like this: `[Some Random Page][]`.
 
 
 ----------------------------------------------------------------------------------------------------
