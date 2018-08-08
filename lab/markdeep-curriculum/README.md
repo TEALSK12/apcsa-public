@@ -36,6 +36,20 @@ this:
 
 With MD, such links must include empty square brackets on the right, like `[linkText][]`.
 
+### 4. Markdeep Doesn't Require Escapes for Square Brackets in Text
+
+Since MD requires empty trailing square brackets for links with later definitions, regular text
+_with_ square brackets doesn't require escaping. For example, where GFM files might have
+
+```
+### Practice-It \[10 minutes\]
+```
+
+these escapes should be removed for MD files:
+
+```
+### Practice-It [10 minutes]
+```
 
 
 [APCSA Curriculum Sketch]: https://tealsk12.github.io/x-markdeep/curriculum/SUMMARY.md.html
