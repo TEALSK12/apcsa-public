@@ -99,7 +99,7 @@ In daily life, human beings enjoy repetition and patterns in many areas of life 
 Consider the national anthem of Canada https://www.canada.ca/en/canadian-heritage/services/anthems-canada.html#a13 
 Did you know that there is an English version, a French version, and even a Bilingual Version?
 
-Imagine you are creating a piece for your class perform at special event.  Your challenge is to include combinations of the different versions and languages.  How can you use static methods to design this musical piece?
+Imagine you are creating a piece for your class perform at a special event.  Your challenge is to include combinations of the different versions and languages.  How can you use static methods to design this musical piece?
 
 ---
 
