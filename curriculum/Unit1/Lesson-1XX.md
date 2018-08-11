@@ -1,4 +1,4 @@
-Lesson 1.XX — Open-Ended Programming Project
+Lesson 1.XX — Open-Ended Programming Project (Lesson 1.07 Alternative)
 ====================================================================================================
 
 Overview
