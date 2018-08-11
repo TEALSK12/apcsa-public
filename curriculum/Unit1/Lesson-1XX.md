@@ -71,16 +71,16 @@ work.
 
 ### Programming Project  \[30 minutes\]
 
-Reference the exercise above, where you write (ie, output, or print) similar letters to different people.  The main program has common parts.  In the main method;  calls are made to static methods that offer some variety.
+Reference the exercise above, where you write (ie, output, or print) similar letters to different people.  The main program has common parts.  In the main method, make calls to static methods that do other variations.
 
-Examples of output that have this characteristic:
+Examples of text-based output that have this characteristic:
 -  A standardized form, or letter
 -  Lyrics of a song or rhyme that has:
-    * lines that are repeated at each verse "There Was an Old Lady"
-    * new lines are added onto existing old lines "Twelve Days of Christmas", "The House That Jack Built".  Static methods can simplify the task.  For example, use methods for each verse, and for repeated text.
--  Lyrics of a song that has more than one language
--  Patterns on a piece of fabric, or stained glass window
--  Optical illusions 
+    * Lnes that are repeated at each verse, e.g. "There Was an Old Lady"  (Reference text book Chapter 1, Project #2)
+    * New lines are added onto existing old lines, e.g. "Twelve Days of Christmas", "The House That Jack Built". (Reference text book Chapter 1, Project #3, #5.)  
+-  Lyrics of a song that includes words (or sections) in different languages
+-  A cheer or chant for a school team
+Static methods can simplify output of the above task.  For example, you can use methods for each verse, and for repeated text.
 
 What other types of output have repeated patterns?
 What are other types of printed output that can benefit from static methods?
@@ -92,20 +92,20 @@ Choose one to implement.
 
 #### Big Ideas - Personal design interests require the evaluation and refinement of skills
 
-Computers are great at doing repetitive work.  In computational thinking, we use the words "decomposition", "pattern recognition", "abstraction", and "algorithm design".    Think of the problem you are given.   Break down the problem into manageable chunks.   Are there any parts that show patterns, or similarities?   Let's take advantage of the computer to help us do "similar" looking tasks.   
+Computers are great at doing repetitive tasks.  In computational thinking, we use the words "decomposition", "pattern recognition", "abstraction", and "algorithm design".    Think of the problem you are given.   Break down the problem into manageable chunks.   Are there any parts that show patterns, or similarities?   Let's take advantage of the computer to help us do "similar" looking tasks.   
 
-In daily life, human beings enjoy repetition and patterns in many areas of life and nature.   For the written word, repetiion is useful for learning of songs or poetry.  It's a literary technique. 
+In daily life, human beings enjoy repetition and patterns in many areas of life and nature.   For the written word, repetiion is useful for the learning of songs or poetry.  It's a literary technique.   Repetition enhances significance and meaning.
 
 Consider the national anthem of Canada https://www.canada.ca/en/canadian-heritage/services/anthems-canada.html#a13 
 Did you know that there is an English version, a French version, and even a Bilingual Version?
 
-Imagine you are creating a piece for your class perform at a special event.  Your challenge is to include combinations of the different versions and languages.  How can you use static methods to design this musical piece?
+Imagine you are creating a special national anthem medley for your class to perform at an event.  Your challenge is to include combinations of the different language versions.  How can you use static methods to design this musical piece?
 
 ---
 
-### Students trade work, check, and turn in \[5 minutes\]
+### Students trade work, check, evaluate and turn in \[5 minutes\]
 At the end of class, have students briefly look at each other’s projects and review their work
-before they submit.
+before they submit.  Evaluation Question:  How many lines of code did this program "save" by calling static methods, versus calling print statements to output every single line in this written piece of work?
 
 
 Accommodation and Differentiation
