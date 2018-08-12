@@ -107,7 +107,7 @@ Choose one to implement.
 At the end of class, have students briefly look at each other’s projects and review their work
 before they submit.  
 
-**Evaluation Question:**  How many lines of code did this program "save" by calling static methods, versus calling print statements to output every single line in this written piece of work?
+**Evaluation Question:**  How many lines of code did this program "save" by calling static methods, instead of calling print statements to output every single line of text?
 
 
 Accommodation and Differentiation
