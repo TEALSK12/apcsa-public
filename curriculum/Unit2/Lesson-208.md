@@ -128,16 +128,16 @@ along.
 ### Students trade work, check, evaluate, and turn in \[5 minutes\]
 At the end of class, have students look over each other’s projects before submitting.
 
-Evaluation Question: How many lines of code did this program "save" by using for-loops?
+Evaluation Question: How many lines of code did this program "save" by using for-loops?  How can the code be modified for some other interesting effect, or embellishment?
 
 ---
 #### Emphasize with students...
 
 #### Curricular Competancies - Share and evaluate
 
-It's fun to share artwork.  Also, it's good to see other ways of applying the same concept. 
+It's fun to share artwork.  It spurs the imagination.  It's valuable to see how others apply the same concept. 
 
-Computers are great at doing repetitive tasks.  Ask a few questions to evaluate each other's code.  For example:  How may lines of code did you save by using loops?  A well decomposed solution should result in clean, simple, and succinct (fewest lines) code.   How can the code be modified for some effect, or embellishment?
+Computers are great at doing repetitive tasks.  Ask a few questions to evaluate each other's code.  For example:  How may lines of code did you save by using loops?  A well decomposed solution should result in clean, simple code, using as few lines as possible.   How can the code be modified for some other interesting effect, or embellishment?
 
 ---
 
