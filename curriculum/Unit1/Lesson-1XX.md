@@ -14,6 +14,22 @@ Overview
   - Students may use the book to supplement their notes if needed.
   - **All students must turn in notes for each day of class** (even if they were absent).
 
+---
+
+#### Emphasize with students...
+
+#### Big Ideas - Personal design interests require the evaluation and refinement of skills
+
+Computers are great at doing repetitive tasks.  In computational thinking, we use the words "decomposition", "pattern recognition", "abstraction", and "algorithm design".    Think of the problem you are given.   Break down the problem into manageable chunks.   Are there any parts that show patterns, or similarities?   Let's take advantage of the computer to help us do "similar" looking tasks.   
+
+In daily life, human beings enjoy repetition and patterns in many areas of life and nature.   For the written word, repetiion is useful for the learning of songs or poetry.  It's a literary technique.   Repetition enhances significance and meaning.
+
+Consider the national anthem of Canada https://www.canada.ca/en/canadian-heritage/services/anthems-canada.html#a13 
+Did you know that there is an English version, a French version, and even a Bilingual Version?
+
+Imagine you are creating a special national anthem medley for your class to perform at an event.  Your challenge is to include combinations of versions in different languages.  How can you use static methods to design this musical piece?
+
+---
 
 Materials & Prep
 ----------------
@@ -85,23 +101,6 @@ Static methods can simplify output of the above task.  For example, you can use 
 What other types of output have repeated patterns?
 What are other types of printed output that can benefit from static methods?
 Choose one to implement. 
-
----
-
-#### Emphasize with students...
-
-#### Big Ideas - Personal design interests require the evaluation and refinement of skills
-
-Computers are great at doing repetitive tasks.  In computational thinking, we use the words "decomposition", "pattern recognition", "abstraction", and "algorithm design".    Think of the problem you are given.   Break down the problem into manageable chunks.   Are there any parts that show patterns, or similarities?   Let's take advantage of the computer to help us do "similar" looking tasks.   
-
-In daily life, human beings enjoy repetition and patterns in many areas of life and nature.   For the written word, repetiion is useful for the learning of songs or poetry.  It's a literary technique.   Repetition enhances significance and meaning.
-
-Consider the national anthem of Canada https://www.canada.ca/en/canadian-heritage/services/anthems-canada.html#a13 
-Did you know that there is an English version, a French version, and even a Bilingual Version?
-
-Imagine you are creating a special national anthem medley for your class to perform at an event.  Your challenge is to include combinations of the different language versions.  How can you use static methods to design this musical piece?
-
----
 
 ### Students trade work, check, evaluate and turn in \[5 minutes\]
 At the end of class, have students briefly look at each other’s projects and review their work
