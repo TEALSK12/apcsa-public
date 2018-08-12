@@ -22,12 +22,12 @@ Overview
 
 Computers are great at doing repetitive tasks.  In computational thinking, we use the words "decomposition", "pattern recognition", "abstraction", and "algorithm design".    Think of the problem you are given.   Break down the problem into manageable chunks.   Are there any parts that show patterns, or similarities?   Let's take advantage of the computer to help us do "similar" looking tasks.   
 
-In daily life, human beings enjoy repetition and patterns in many areas of life and nature.   For the written word, repetiion is useful for the learning of songs or poetry.  It's a literary technique.   Repetition enhances significance and meaning.
+In daily life, human beings enjoy repetition and patterns in many areas of life and nature.   For the written word, repetition is useful for the learning of songs or poetry.  It's a literary technique.   Repetition enhances significance and meaning.
 
 Consider the national anthem of Canada https://www.canada.ca/en/canadian-heritage/services/anthems-canada.html#a13 
 Did you know that there is an English version, a French version, and even a Bilingual Version?
 
-Imagine that you are creating a national anthem medley for your class to perform at a special event.  Your challenge is to include a combination of verses in different languages.  How can you use static methods to design this musical piece?
+Imagine that you are creating a national anthem medley for your class to perform at a special event.  Your challenge is to include a combination of language versions.  How can you use static methods to design this musical piece?
 
 ---
 
@@ -96,6 +96,7 @@ Examples of text-based output that have this characteristic:
     * New lines are added onto existing old lines, e.g. "Twelve Days of Christmas", "The House That Jack Built". (Reference text book Chapter 1, Project #3, #5.)  
 -  Lyrics of a song that includes words (or sections) in different languages
 -  A cheer or chant for a school team
+-  A medley of different songs (verse and chorus) put together
 Static methods can simplify output of the above task.  For example, you can use methods for each verse, and for repeated text.
 
 What other types of output have repeated patterns?
