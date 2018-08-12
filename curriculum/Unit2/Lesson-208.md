@@ -101,7 +101,7 @@ As an alternative to the "hour-glass" picture, there are other alternatives that
    * a series of 3 (possibly nested) pyramids (small, medium, large)
    * a house with roof, a tall tower, or a rocket ship (symmetrical)
    * a pattern on a fabric or carpet, or stained glass window
-   * nested boxes, or other optical illusion  
+   * nested shapes, or other optical illusion  
    * other ideas
 
 In this ASCII art programmming project, create something unique!
@@ -111,7 +111,7 @@ In this ASCII art programmming project, create something unique!
 
 ### Programming Project \[30 minutes\]
 
-Get students started on the ASCII art programming project. Offer
+Get students started on the ASCII art programming project.  It can be he hour-glass picture, or something different! Offer
 students help after they have tried to answer the questions themselves:
 
 a. Have the checked the book for examples?
@@ -125,8 +125,21 @@ If the entire class is stuck, return to whole group and work through the program
 together as a class, having students offer an increasing proportion of the answers as you move
 along.
 
-### Students trade work, check, and turn in \[5 minutes\]
+### Students trade work, check, evaluate, and turn in \[5 minutes\]
 At the end of class, have students look over each other’s projects before submitting.
+
+Evaluation Question: How many lines of code did this program "save" by using for-loops?
+
+---
+#### Emphasize with students...
+
+#### Curricular Competancies - Share and evaluate
+
+It's fun to share artwork.  Also, it's good to see other ways of applying the same concept. 
+
+Computers are great at doing repetitive tasks.  Ask a few questions to evaluate each other's code.  For example:  How may lines of code did you save by using loops?  A well decomposed solution should result in clean, simple, and succinct (fewest lines) code.   How can the code be modified for some effect, or embellishment?
+
+---
 
 
 Accommodation and Differentiation
