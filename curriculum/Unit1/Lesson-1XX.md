@@ -105,7 +105,9 @@ Imagine you are creating a special national anthem medley for your class to perf
 
 ### Students trade work, check, evaluate and turn in \[5 minutes\]
 At the end of class, have students briefly look at each other’s projects and review their work
-before they submit.  Evaluation Question:  How many lines of code did this program "save" by calling static methods, versus calling print statements to output every single line in this written piece of work?
+before they submit.  
+
+**Evaluation Question:**  How many lines of code did this program "save" by calling static methods, versus calling print statements to output every single line in this written piece of work?
 
 
 Accommodation and Differentiation
