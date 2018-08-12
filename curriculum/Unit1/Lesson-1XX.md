@@ -4,7 +4,7 @@ Lesson 1.XX — Open-Ended Programming Project (Lesson 1.07 Alternative)
 Overview
 --------
 ### Objectives — _Students will be able to…_
-- **Construct** a program containing method calls and static methods.
+- **Ideate, and Construct** a program containing method calls and static methods.
 
 ### Assessments — _Students will…_
 - **Submit** a complete, functional program by the end of class
