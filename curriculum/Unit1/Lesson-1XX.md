@@ -27,7 +27,7 @@ In daily life, human beings enjoy repetition and patterns in many areas of life 
 Consider the national anthem of Canada https://www.canada.ca/en/canadian-heritage/services/anthems-canada.html#a13 
 Did you know that there is an English version, a French version, and even a Bilingual Version?
 
-Imagine you are creating a special national anthem medley for your class to perform at an event.  Your challenge is to include combinations of versions in different languages.  How can you use static methods to design this musical piece?
+Imagine that you are creating a national anthem medley for your class to perform at a special event.  Your challenge is to include a combination of verses in different languages.  How can you use static methods to design this musical piece?
 
 ---
 
@@ -47,7 +47,7 @@ Pacing Guide
 |-------------------------------------------|-----------:|
 | Bell-work and attendance                  |       5min |
 | Introduction & classroom procedure review |      10min |
-| Programming project       |      30min |
+| Programming project                       |      30min |
 | Students trade work, check, and turn in   |       5min |
 
 
