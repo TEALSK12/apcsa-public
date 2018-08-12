@@ -74,7 +74,7 @@ reinforcing concepts and applying the tools, procedures, and code that were intr
 
    _TIPS: Start with a structure diagram or writing out steps in English as pseudocode. Try to
    isolate repeated tasks into methods. Include comments in with your code so others can easily
-   understand what the code is supposed to do._
+   understand what the code is supposed to do.
 
 3. Ask your class for suggestions as to how to tackle this programming problem. Students should
    suggest drawing a structural diagram, building the program one method at a time (iterative
@@ -86,6 +86,28 @@ reinforcing concepts and applying the tools, procedures, and code that were intr
    - What characteristics stay the same for each line? (Slashes, colons, spaces)
    - What characteristics could we use a loop for?
    - What might we want to make its own method that we can call more than once?
+   
+---
+#### Emphasize with students...
+
+#### Big Ideas - Applying the concept of a nested for-loop in drawing artistic patterns
+
+A for-loops allow the repeated execution of one statement (or group of statements).  As you iterate through the repetitions, a counter (variable) keeps track of how many times it has already done.  The fun thing is:  this counter value can also be used for a *nested* for-loop (ie, have one for-loop inside another for-loop).  This combination of using two for-loops means you can write some code to repeat object/patterns that "grow" or "shrink".
+
+You can think of it this way:  A nested loop combination allows you to repeat execution of one statement ... but that one statement *itself* includes a repetition also.   
+
+As an alternative to the "hour-glass" picture, there are other alternatives that use nested for loops:
+   * a symmetrical Christmas tree, with a tree trunk (can add some decorations!)
+   * a series of 3 (possibly nested) pyramids (small, medium, large)
+   * a house with roof, a tall tower, or a rocket ship (symmetrical)
+   * a pattern on a fabric or carpet, or stained glass window
+   * nested boxes, or other optical illusion  
+   * other ideas
+
+In this ASCII art programmming project, create something unique!
+   
+---
+
 
 ### Programming Project \[30 minutes\]
 
