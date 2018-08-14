@@ -9,7 +9,7 @@ Lesson 3.XX — Programming Project (FracCalc Alternative)
 - **Test, Evaluate, and Share** end product
 
 ### Assessments — _Students will…_
-- **Apply** advanced data and control concepts 
+- **Apply** advanced data and control concepts covered in Unit 3
 - **Submit** a complete, functional program 
 
 ### Pacing
