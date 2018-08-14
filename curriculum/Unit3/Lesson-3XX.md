@@ -4,7 +4,7 @@ Lesson 3.XX — Programming Project (FracCalc Alternative)
 ## Overview
 --------
 ### Objectives — _Students will be able to…_
-- **Conduct user-centred research** on a specialized calculator application
+- **Conduct user-centred research** to identify a specialized calculator application
 - **Plan and construct** a create a calculator to perform a specialized operation
 - **Test, Evaluate, and Share** end product
 
