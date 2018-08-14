@@ -5,20 +5,20 @@ Lesson 3.XX — Programming Project (FracCalc Alternative)
 --------
 ### Objectives — _Students will be able to…_
 - **Conduct user-centred research** to identify a specialized calculator application
-- **Plan and construct** a create a calculator to perform a specialized operation
-- **Test, Evaluate, and Share** end product
+- **Plan and construct** a plan to create a calculator to perform specialized operations
+- **Test, evaluate, and share** the end product
 
 ---
 #### Emphasize with students...
 
-#### Content - arithmetic operations
+#### Content - arithmetic operations, data representation, applied design
 
 The "brains" of the computer is a block of circuitry called the "Central Processing Unit" (CPU).  
 At the heart of the CPU, is a sub-block of circuitry called the "Arithmetic Logic Unit" (ALU).  As you might guess, this block performs arithmetic operations!
 
-At a most basic level, the computer is simply, a "deluxe calculator".   While hand-held calculators have limitations on the size of the number you can work with,  the number range that is supported by your desktop or laptop computer is much bigger.  Not only can the computer do things faster, it is great with repetitions.
+At a most basic level, the computer is simply, a "deluxe calculator".   While hand-held calculators have limitations on the size of numbers you can work with, your desktop or laptop computer can support much larger numbers.  Not only can the computer calculate numbers quickly, and accurately, it is also great at doing it over, and over, and over again.  The computer never gets bored. 
 
-What are some situtions where you need to perform lots of calculations, possibly on very big, or very small, numbers?
+In what situations would you need to perform lots of calculations, possibly on very big, or very small, numbers?
 How often do you still use, or when would you use, a hand-held calculator (or the calculator on your phone)?
 
 ---
