@@ -27,7 +27,9 @@ Lesson 3.XX — Programming Project (FracCalc Alternative)
 ### Documentation and Style
 As with all projects, your program must be well-written, well-documented, and readable.  Writing code with good style is always good idea. This will help you debug, pick up where you left off each day, and keep track of progress.
 
---- STEP 1 - UNDERSTANDING CONTEXT
+--- 
+
+STEP 1 - UNDERSTANDING CONTEXT
 
 Conduct user-centred research to find design opportunities and barriers.
 
