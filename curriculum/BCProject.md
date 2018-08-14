@@ -125,7 +125,9 @@ Identify any issues or problems that might arise as you begin to program (what a
 
 ---
 CHECKPOINT 1
+
 SUBMIT YOUR INTERVIEW QUESTIONS, RESPONSES AND PROGRAM DESIGN PLAN TO YOUR TEACHER.
+
 ---
 
 STEP 3 – PROTOTYPING AND TESTING
@@ -142,8 +144,10 @@ Have your end-user try a working version of your program. Note their suggestions
 
 ---
 CHECKPOINT 2
+
 SUBMIT THE CURRENT VERSION OF YOUR PROGAM TO YOUR TEACHER,
 AS WELL AS YOUR TEST PLAN AND FEEDBACK FROM THE END-USER
+
 ---
 
 STEP 4 – SHARING, TESTING AND FINAL ITERATION
@@ -156,8 +160,10 @@ Share your work with classmates, friends or family. Record any feedback, suggest
 
 ---
 CHECKPOINT 3
+
 SUBMIT THE FINAL VERSION OF YOUR PROGAM TO YOUR TEACHER,
 AS WELL AS YOUR FEEDBACK FROM CLASSMATES, FRIENDS OR FAMILY.
+
 ---
 
 |Grading Scheme/Rubric | |
