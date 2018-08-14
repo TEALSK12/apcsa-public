@@ -98,6 +98,7 @@ Have your end-user try a working version of your program. Note their suggestions
 
 ---
 CHECKPOINT 2
+
 SUBMIT THE CURRENT VERSION OF YOUR PROGAM TO YOUR TEACHER, AS WELL AS YOUR TEST PLAN AND FEEDBACK FROM THE END-USER
 
 ---
@@ -111,6 +112,7 @@ Share your work with other classmates, friends or family. Record any feedback, s
 
 ---
 CHECKPOINT 3
+
 SUBMIT THE FINAL VERSION OF YOUR PROGAM TO YOUR TEACHER, AS WELL AS YOUR FEEDBACK FROM CLASSMATES, FRIENDS OR FAMILY.
 
 ---
