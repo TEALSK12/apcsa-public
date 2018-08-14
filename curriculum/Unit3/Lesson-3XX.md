@@ -8,6 +8,21 @@ Lesson 3.XX — Programming Project (FracCalc Alternative)
 - **Plan and construct** a create a calculator to perform a specialized operation
 - **Test, Evaluate, and Share** end product
 
+---
+#### Emphasize with students...
+
+#### Content - arithmetic operations
+
+The "brains" of the computer is a block of circuitry called the "Central Processing Unit" (CPU).  
+At the heart of the CPU, is a sub-block of circuitry called the "Arithmetic Logic Unit" (ALU).  As you might guess, this block performs arithmetic operations!
+
+At a most basic level, the computer is simply, a "deluxe calculator".   While hand-held calculators have limitations on the size of the number you can work with,  the number range that is supported by your desktop or laptop computer is much bigger.  Not only can the computer do things faster, it is great with repetitions.
+
+What are some situtions where you need to perform lots of calculations, possibly on very big, or very small, numbers?
+How often do you still use, or when would you use, a hand-held calculator (or the calculator on your phone)?
+
+---
+
 ### Assessments — _Students will…_
 - **Apply** advanced data and control concepts covered in Unit 3
 - **Submit** a complete, functional program 
@@ -15,7 +30,7 @@ Lesson 3.XX — Programming Project (FracCalc Alternative)
 ### Pacing
 - This project is intended to be the same length as the FracCalc Project. 
 - The duration of this project is at the discretion of the teacher.  About 4-5 classes are recommended. 
-- Project involves consucting research work (survey or interviews) outside of the classroom. 
+- Project involves conducting research work (survey or interviews) outside of the classroom. 
 
 ## Implementation Details
 
