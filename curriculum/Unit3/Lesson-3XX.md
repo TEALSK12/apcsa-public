@@ -67,13 +67,13 @@ Choose a design opportunity and point of view, make infereences about limitation
 Using the responses from your end-user interview, begin to develop a plan for your custom calculator.  Given the duration of the project, you should limit your calculator to do 3 interesting calcuations for the end-user.
 
 List:
-•	the types of calculator functions it will do:
-    * what will the user input
-    * what output will be calculated
-    * have example data for testing
-•	what user interface will the buttons have?
-    * a message to prompt for input?
-    * a mesage to report on the caluclated output?
+   *	the types of calculator functions it will do:
+       * what will the user input
+       * what output will be calculated
+       * have example data for testing
+   *	what user interface will the buttons have?
+       * a message to prompt for input?
+       * a mesage to report on the caluclated output?
 
 Share these ideas with your end user. Record their comments, suggestions and feedback and note any changes that you may make as a result of this interview.
 
