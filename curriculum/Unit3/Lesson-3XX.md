@@ -13,8 +13,8 @@ Lesson 3.XX — Programming Project (FracCalc Alternative)
 
 #### Content - arithmetic operations, data representation, applied design
 
-The "brains" of the computer is a block of circuitry called the "Central Processing Unit" (CPU).  
-At the heart of the CPU, is a sub-block of circuitry called the "Arithmetic Logic Unit" (ALU).  As you might guess, this block performs arithmetic operations!
+The "brain" of the computer is a block of circuitry called the "Central Processing Unit" (CPU).  
+Inside the CPU, there is a sub-block of circuitry called the "Arithmetic Logic Unit" (ALU).  As you might guess, this block performs arithmetic operations!
 
 At a most basic level, the computer is simply, a "deluxe calculator".   While hand-held calculators have limitations on the size of numbers you can work with, your desktop or laptop computer can support much larger numbers.  Not only can the computer calculate numbers quickly, and accurately, it is also great at doing it over, and over, and over again.  The computer never gets bored. 
 
