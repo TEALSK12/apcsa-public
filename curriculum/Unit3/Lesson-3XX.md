@@ -37,7 +37,7 @@ How often do you still use, or when would you use, a hand-held calculator (or th
 ### Complexity and Creativity
 
    This project is an alternative to the FracCalc and Excel projects in the existing AP Computer Science course. 
-   Students should come up with the idea themselves, based on user-centred research, and ideate a calculator application to address the needs of a specific user group.  Students will follow applied design process to implement the idea.  You should talk to your instructor often to ensure that your progress is in-line with expectations. 
+   Students should come up with the idea themselves, based on user-centred research, and ideate a calculator application to address the needs of a specific user group.  Students will follow applied design process to implement the idea.  You should talk to your teacher often to ensure that your progress is in-line with expectations. 
    
 ### Documentation and Style
 As with all projects, your program must be well-written, well-documented, and readable.  Writing code with good style is always good idea. This will help you debug, pick up where you left off each day, and keep track of progress.
