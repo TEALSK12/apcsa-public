@@ -80,9 +80,9 @@ Share these ideas with your end user. Record their comments, suggestions and fee
 Identify any issues or problems that might arise as you begin to program (what areas might require more information or programming solutions? Where can you find this information?) 
 
 ---
-CHECKPOINT 1
+*CHECKPOINT 1*
 
-SUBMIT YOUR INTERVIEW QUESTIONS, RESPONSES AND PROGRAM DESIGN PLAN TO YOUR TEACHER.
+<b> SUBMIT YOUR INTERVIEW QUESTIONS, RESPONSES AND PROGRAM DESIGN PLAN TO YOUR TEACHER. </b>
 
 ---
 
@@ -97,9 +97,9 @@ When you are ready, create a short test plan and test your program. Include expe
 Have your end-user try a working version of your program. Note their suggestions, comments and feedback. Indicate any changes that you made to the program, based on the user’s feedback.
 
 ---
-CHECKPOINT 2
+*CHECKPOINT 2*
 
-SUBMIT THE CURRENT VERSION OF YOUR PROGAM TO YOUR TEACHER, AS WELL AS YOUR TEST PLAN AND FEEDBACK FROM THE END-USER
+<b> SUBMIT THE CURRENT VERSION OF YOUR PROGAM TO YOUR TEACHER, AS WELL AS YOUR TEST PLAN AND FEEDBACK FROM THE END-USER </b>
 
 ---
   
@@ -111,9 +111,9 @@ Identify new design issues
 Share your work with other classmates, friends or family. Record any feedback, suggestions and comments and use this information to make the final iteration of your program.
 
 ---
-CHECKPOINT 3
+*CHECKPOINT 3*
 
-SUBMIT THE FINAL VERSION OF YOUR PROGAM TO YOUR TEACHER, AS WELL AS YOUR FEEDBACK FROM CLASSMATES, FRIENDS OR FAMILY.
+<b>SUBMIT THE FINAL VERSION OF YOUR PROGAM TO YOUR TEACHER, AS WELL AS YOUR FEEDBACK FROM CLASSMATES, FRIENDS OR FAMILY.</b>
 
 ---
 
