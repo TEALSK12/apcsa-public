@@ -27,7 +27,7 @@ How often do you still use, or when would you use, a hand-held calculator (or th
 - **Apply** advanced data and control concepts covered in Unit 3
 - **Submit** a complete, functional program 
 
-### Pacing
+### Pacing Recommendation
 - This project is intended to be the same length as the FracCalc Project. 
 - The duration of this project is at the discretion of the teacher.  About 4-5 classes are recommended. 
 - Project involves conducting research work (survey or interviews), and communicating with end-user, outside of the classroom. 
