@@ -279,7 +279,12 @@ encouraged to email the program's creator Alex Aiken directly, at
   adjustments have been made for content, timing, and AP test prep.
 
 
-Giving feedback on the curriculum
+### Printing GitBook
+--------------------
+The Introduction to Computer Science GitBook can be printed by navigating to https://pdf.gitbook.cloud/preview?url=https://tealsk12.gitbook.io/apcsa/#, the "Download" button does not work. The workaround is to use the .pdf reader download button by clicking on the document to enable the pdf menu to show and clicking the downarrow icon in the upper right corner.
+
+
+### Giving feedback on the curriculum
 ---------------------------------
 
 TEALS intends for this curriculum to be a starting point; it's our first attempt at a complete AP CS
