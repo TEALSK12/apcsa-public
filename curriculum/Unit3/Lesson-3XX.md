@@ -37,7 +37,9 @@ How often do you still use, or when would you use, a hand-held calculator (or th
 ### Complexity and Creativity
 
    This project is an alternative to the FracCalc and Excel projects in the existing AP Computer Science course. 
-   Students should come up with the idea themselves, based on user-centred research, and ideate a calculator application to address the needs of a specific user group.  Students will follow applied design process to implement the idea.  You should talk to your teacher often to ensure that your progress is in-line with expectations. 
+   Students should come up with the idea themselves, based on user-centred research, and ideate a calculator application to address the needs of a specific user group.  The "calculator application" could possibly involve several steps, such as solving the quadratic formula, or sharing the cost of a party. 
+   
+Students will follow applied design process to implement the idea.  You should talk to your teacher often to ensure that your progress is in-line with expectations.   
    
 ### Documentation and Style
 As with all projects, your program must be well-written, well-documented, and readable.  Writing code with good style is always good idea. This will help you debug, pick up where you left off each day, and keep track of progress.
@@ -50,13 +52,21 @@ Conduct user-centred research to find design opportunities and barriers.
 
 Select an end-user for whom you will design and create this program (this can be a friend, classmate, relative, etc). Create interview questions that will allow you to understand the end-user’s interests and likes/dislikes.  Since we are creating a cacluator application, here are some possible questions:
   * when was the last time you used a calculator?
-  * what do you use it for?  (common uses?)
+  * what do you use it for?
+  * what are your most common uses for the calculator?
   
-As the interviewee provides answers. They may reply: calculating tips at a restaurant;  or calculating cost of something when travelling in foreign country;   or converting temperature from celcius to farenheit...
+As the interview progresses, you may prompt them with ideas, but also give them time to think.  Some possible uses for the calculator may be:  calculate how to share costs for meal; calculate the cost of something with a special discount (eg, "buy one, and get one half price");  or calculate cost of something when travelling in foreign country (and compare with the cost of same item back home!).
+
+You may also ask the user about more complex problems that requires a formula (or several steps) to solve.  Examples:
+   * solving the quadratic formula
+   * factoring polynomials
+   * cost sharing  (eg: 5 people all bought something for the party, how much does each person "owe", or "gets paid back")
+   * difference in cost for filling up gas in the US vs in Canada (involves metric/imperial units, and currency conversion)
 
 At this point, you will need to ask more specific questions: 
-  * what function would be helpful?
-  * give me an example of some calculation related to [something they mentioned]
+  * "what type of conversions do you do the most?"
+  * "give me an example of some calculation related to [something they mentioned]"
+  * "what would really be handy in this situation?
   
 --- 
 
@@ -64,16 +74,17 @@ STEP 2 - DEFINING AND IDEATING
 
 Choose a design opportunity and point of view, make infereences about limitations and boundaries.  Take creative risks to indentify gaps to explore, generate a range of possibilities, prioritize ideas for prototyping.
 
-Using the responses from your end-user interview, begin to develop a plan for your custom calculator.  Given the duration of the project, you should limit your calculator to do 3 interesting calcuations for the end-user.
+Using the responses from your end-user interview, begin to develop a plan for your custom calculator.  Given the duration of the project, you should limit your calculator to do *an interesting calcuation* for a *specific end-user*.  At this point you will only be be to implement a text-based user interface (ie, no graphical elements, like buttons or scrollbars).  Keep it simple and easy to use. 
 
 List:
    *	the types of calculator functions it will do:
-       * what will the user input
-       * what output will be calculated
-       * have example data for testing
-   *	what user interface will the buttons have?
+       * what will the user input be?
+       * what output will be calculated?
+       * what are example data for testing?
+   *	what user interaction with the program will the user have?
        * a message to prompt for input?
        * a mesage to report on the caluclated output?
+       * type a word ("quit") to exit?
 
 Share these ideas with your end user. Record their comments, suggestions and feedback and note any changes that you may make as a result of this interview.
 
