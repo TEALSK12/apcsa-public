@@ -50,9 +50,9 @@ Here are some possible applications that could potentially use "if" statements a
    * Create the corresponding decryption program, but include some decision making
    * Work in pairs!  Test with one another. 
    
-  **ChatterBox**
+  **Chatbot**  https://en.wikipedia.org/wiki/Chatbot 
    * One of the four Activiies in the orginal MagPie Lab (estimated 1-2 hour time)
-   * A specialized ChatBox (other names Siri/Alexa) for a specific end-user in mind: 
+   * A specialized, modern ChatBox (Siri/Alexa) for a specific end-user in mind: 
             - TV show related
             - music DJ
             - learning tool for ELL, French immersion, or other foreign language students
