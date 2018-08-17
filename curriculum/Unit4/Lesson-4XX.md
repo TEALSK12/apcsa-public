@@ -46,12 +46,12 @@ Here are some possible applications that could potentially use "if" statements a
    * A acrostic builder pyramidword builder http://www.crauswords.com/pyramidword.html 
    
   **Classic Ciphers with a Twist**  (eg, Morce Code, Ceasar Cipher,etc.) https://en.wikipedia.org/wiki/Classical_cipher
-   * Create your own encryption program, but include some Logic or decision (Ask user for clues/hints for key generation?)
-   * Create the corresponding decryption program
+   * Create your own encryption program, but include some decision making (eg. Ask user for clues/hints for key generation?)
+   * Create the corresponding decryption program, but include some decision making
    * Work in pairs!  Test with one another. 
    
   **ChatterBox**
-   * One of the four Activiies in the orginal MagPie Lab  
+   * One of the four Activiies in the orginal MagPie Lab (estimated 1-2 hour time)
    * A specialized ChatBox (other names Siri/Alexa) for a specific end-user in mind: 
             - TV show related
             - music DJ
@@ -66,6 +66,7 @@ Here are some possible applications that could potentially use "if" statements a
          - creating baby books or random poetry
   
 After you have some initial ideas, interview some potential end-user to clarify your project specifications.
+
 ---
 #### Emphasize with students...
 
@@ -131,7 +132,7 @@ Have your end-user try a working version of your program. Note their suggestions
 STEP 4 – SHARING, TESTING AND FINAL ITERATION
 
 Gather feedback from users over time to critically evaluate your design and make changes to product design or processes
-Identify new design issues
+Identify new design issues.
 
 Share your work with other classmates, friends or family. Record any feedback, suggestions and comments and use this information to make the final iteration of your program.
 
