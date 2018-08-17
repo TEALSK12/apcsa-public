@@ -3,7 +3,7 @@ Lesson 4.XX — Programming Project (MagPie Alternative)
 
 ## Overview
 
-This project is intended to be an alternative to the MagPie Project.   Starting from 2014-2015 the College Board announced that 20 hours of hands-on lab time may replace the original required labs (MagPie, PictureLab, Elevens). In this document, we recommend some open-ended alternatives.
+This project is intended to be an alternative to the MagPie Lab in the original AP computer science course.  Starting from 2014-2015 the College Board announced that 20 hours of hands-on lab time may replace the original required labs (MagPie, PictureLab, Elevens). In this document, we recommend some open-ended alternatives.
 
 --------
 ### Objectives — _Students will be able to…_
@@ -15,15 +15,15 @@ This project is intended to be an alternative to the MagPie Project.   Starting 
 - **Apply** if-else, String methods to implement a software application
 - **Submit** a complete, functional program 
 
-### Pacing
-- The duration of this project is at the discretion of the teacher.  We recommend 2 hours for class time desig and implementation, and 1-2 hours for out of class time to connect with end-user.
+### Pacing Suggestion
+- The duration of this project is at the discretion of the teacher.  We recommend 2 hours for class time design and implementation, and 1-2 hours for out of class time to connect with end-user.
 - Project involves conducting research work (survey or interviews), and communicating with end-user, out of the classroom. 
 
 ## Implementation Details
 
 ### Complexity and Creativity
 
-Students should come up with the idea themselves, based on user-centred research, and ideate a specialized ChatBox application to address the needs of a specific user group. 
+Students should come up with the idea themselves, based on user-centred research, and ideate a specialized application to address the needs of a specific user group. 
    
 Students will follow applied design process to implement the idea.  You should talk to your teacher often to ensure that your progress is in-line with expectations.   
    
@@ -45,6 +45,11 @@ Here are some possible applications that could potentially use "if" statements a
    * A Mad-Libs Program https://en.wikipedia.org/wiki/Mad_Libs
    * A acrostic builder pyramidword builder http://www.crauswords.com/pyramidword.html 
    
+  **Classic Ciphers with a Twist**  (eg, Morce Code, Ceasar Cipher,etc.) https://en.wikipedia.org/wiki/Classical_cipher
+   * Create your own encryption program, but include some Logic or decision (Ask user for clues/hints for key generation?)
+   * Create the corresponding decryption program
+   * Work in pairs!  Test with one another. 
+   
   **ChatterBox**
    * One of the four Activiies in the orginal MagPie Lab  
    * A specialized ChatBox (other names Siri/Alexa) for a specific end-user in mind: 
@@ -53,12 +58,31 @@ Here are some possible applications that could potentially use "if" statements a
             - learning tool for ELL, French immersion, or other foreign language students
             - someone who is colour blind
             - someone who owns a petstore
+            
   **Other**
    * Other application that involves STRINGS (creation, parsing, and processing), together with decision making (IF statements)
          - Medical terminology taxonomy
          - language learning applications 
+         - creating baby books or random poetry
   
 After you have some initial ideas, interview some potential end-user to clarify your project specifications.
+---
+#### Emphasize with students...
+
+#### Big Ideas - personal design interests require the evalution and refinement of skills
+
+The possibilities are endless.
+We live in a world that operates on the written or spoken word.
+
+The computer and internet has forced us to digitize the words we use into zero's and one's for transmission purposes.  But at a higher level, most people are working with "strings"  (a collection of character symbols, making up a word).   Sometimes words are easily understood and recognized,  sometimes it is not.  
+
+Our human brains naturally make decisions and choices.  With so many options, and paths, we can ask the computer to help us explore these choices.   This is great when it comes to routine, repetitive, or time consuming tasks. 
+
+Poets, writers, travellers, wanderers, cryptographers, kings and queens have loved playing with words (strings, characters), and creating games (logic, secret messages) since the earliest of times to entertain, inspire, and protect the land. 
+
+Let your creative juices flow! 
+
+---
 
 --- 
 
