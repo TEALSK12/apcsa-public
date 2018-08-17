@@ -21,7 +21,7 @@ There are many different types of roles and skills needed in the technology indu
 
 As students get to know people in their community, they may even discover individuals who are willing to be mentors for your classroom in the days ahead.
 
-##### Content - Computational thinking skills applied to various aspects of design
+#### Content - Computational thinking skills applied to various aspects of design
 
 The four stages of computational thinking are:  decomposition, pattern recognition, abstraction, algorithm design.   These are bigs words!   These steps appear in our daily life.
 
