@@ -7,6 +7,7 @@ Students will be able to...
 * Conduct an interview
 * Identify the different types of roles and skills needed in the technology industry
 * Identify technology skills needed in non-technology organizations
+* Identify how <b> computational thinking </b> is practiced in real life
 * Reflect on how technology could be part of their future careers
 
 ---
@@ -19,6 +20,12 @@ Students may come with stereotypes and myths about technology jobs.
 There are many different types of roles and skills needed in the technology industry.  Not everyone is a coder;  diffand not everyone is coding all day long.  There are artistic designers, music creators, script writers, project managers, marketing specialists, quality assurance testers, front-end designer,  etc.  
 
 As students get to know people in their community, they may even discover individuals who are willing to be mentors for your classroom in the days ahead.
+
+##### Content - Computational thinking skills applied to various aspects of design
+
+The four stages of computational thinking are:  decomposition, pattern recognition, abstraction, algorithm design.   These are bigs words!   These steps appear in our daily life.
+
+Ask experts who are working with the computer in your jobs about how these steps are applied.   Ask them for specific answers.  You may be surprised, and hopefully, inspired.  
 
 ---
 
@@ -80,7 +87,12 @@ In the second class, students share and report on the interviews.
         * what educational background is needed to do your job?
         * what kind of technical skills are needed in your job?
         * what advice do you have for students?
- 
+      * Include questions related to computational thinking:
+         * can you give an example of how "decomposition" is used in the context of work?
+         * can you give an example of how "pattern recognition" is used in the context of work?
+         * can you give an example of how "abstraction" is used in the context of work?
+         * can you give an example of how "algorithms" is used in the context of work?
+
   
   
 3. **Conducting the interview**
