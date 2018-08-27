@@ -4,7 +4,7 @@ TEALS AP CS A Curriculum Assets
 The TEALS AP CS A Curriculum assets may be downloaded from the [Additional Curriculum Materials]
 section of the TEALS Dashboard 
 
-[Note: you need to be a current TEALS volunteer or classroom teacher to acess the TEALS Dashboard]
+[Note: you need to be a current TEALS volunteer or classroom teacher to access the TEALS Dashboard]
 
 The latest version is TEALS-APCSA-Curriculum-v2.0.2.zip.
 
