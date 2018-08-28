@@ -10,9 +10,11 @@ This curriculum is based on and aligned with Professor Stuart Reges' course at t
 Washington, CSE 142. The course uses the textbook _Building Java Programs: A Back to Basics
 Approach_, by Stuart Reges and Marty Stepp. The course is aligned with the AP Computer Science A
 standards. TEALS has received AP Audit certification for previous versions of the course and
-syllabus. Since these materials are new in 2015–2016, TEALS will apply to have the new syllabus
-approved. Once the College Board approves the new syllabus, partner schools may use the “claim
+syllabus.
+
+The TEALS AP curriculum was approved by the CollegeBoard so partner schools may use the “claim
 identical” function of the AP Audit website to obviate the need for their own curriculum audit.
+Specific instructions are available in the [AP CS A Course Audit Instructions].
 
 This curriculum uses principles of universal design for learning (UDL). The curriculum was written
 for and tested in classrooms with diverse learners; students with individualized education plans,
@@ -200,9 +202,8 @@ to complete Java exercises from the BJP textbook and get immediate feedback on t
 Detailed instructions for teacher and student registration on the site are included in Unit 1
 lessons.
 
-As of the 2015–2016 school year, TEALS classes do not have access to the Practice-It dashboard for
-tracking student progress on the exercises. Instead, instructors can use one of the following
-methods:
+AP CS A TEALS volunteers have been provided the documentation (on Canvas) for access to the
+Practice-It dashboard. As an alternative, other instructors can use one of the following methods:
 
 1. Students take screen shots of their total correct problems (a table is available on their home
    dashboard), and submit the screenshots by email or form submission on your chosen learning
@@ -305,3 +306,4 @@ on the TEALS dashboard, or to [APSquad@tealsk12.org](mailto:APSquad@tealsk12.org
 [Timing and Pacing]: https://www.youtube.com/watch?v=LkGh03UZ724
 [Twiddla]: http://www.twiddla.com
 [Vyew]: http://www.vyew.com
+[AP CS A Course Audit Instructions]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/AP%20CS%20A%20Course%20Audit%20Instructions.docx
