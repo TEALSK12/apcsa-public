@@ -194,10 +194,10 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c3-1>
 
 - CSE 142, _Single Parameters_ (21:05-33:05)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=26cacdb4-6e47-405f-a788-912a9a158b41&start=1265>
+  <https://www.youtube.com/watch?v=otR7yEbRZAs&start=1265>
 
 - CSE 142, _Multiple Parameters_ (33:06-50:0)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=26cacdb4-6e47-405f-a788-912a9a158b41&start=1985>
+  <https://www.youtube.com/watch?v=otR7yEbRZAs&start=1985>
 
 - CS Homework Bytes, _Functions and Parameters, with Komal_<br>
   <https://www.youtube.com/watch?v=UuZCQWErV-A>

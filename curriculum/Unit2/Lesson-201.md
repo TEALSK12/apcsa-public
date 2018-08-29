@@ -175,7 +175,7 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c2-1>
 
 - CSE 142, _Basic Data Concepts_ (40:42–49:59)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5df64f2-e42f-4943-bab6-29eca0ab8f00&start=2442>
+  <https://www.youtube.com/watch?v=KZY0S7wpMAg&start=2442>
 
 
 Forum discussion

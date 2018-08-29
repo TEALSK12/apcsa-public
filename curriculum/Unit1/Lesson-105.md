@@ -222,13 +222,13 @@ Videos
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c1-3>
 
 - CSE 142, _Static Methods_ (44:12-49:21)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dd78a77d-cd7a-4ff8-b853-5446801946fb&start=2652>
+  <https://www.youtube.com/watch?v=i2pQHeW5CeY&start=2652>
 
 - CSE 142, _Procedural Decomposition_ (20:10–29:35)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5df64f2-e42f-4943-bab6-29eca0ab8f00&start=1211>
+  <https://www.youtube.com/watch?v=KZY0S7wpMAg&start=1211>
 
 - CSE 142, _Eliminating Redundancy_ (29:36–35:49)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5df64f2-e42f-4943-bab6-29eca0ab8f00&start=1775>
+  <https://www.youtube.com/watch?v=KZY0S7wpMAg&start=1775>
 
 
 Forum discussion
