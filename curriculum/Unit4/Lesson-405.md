@@ -243,7 +243,7 @@ Video
   <https://www.youtube.com/watch?v=DieHL2VO83k&start=2622>
 
 - CSE 142: _Absolute values an array_ (1:42–5:11)<br>
-  <https://www.youtube.com/watch?v=DieHL2VO83k&start=2622>
+  <https://www.youtube.com/watch?v=DieHL2VO83k&start=102>
 
 
 Forum discussion

@@ -119,7 +119,7 @@ Video
   <https://www.youtube.com/watch?v=xQPlOF9KpbM&start=977>
 
 - CSE 142, _Managing Complexity: Class Constant_ (Optional) (37:51–49:17)<br>
-  <https://www.youtube.com/watch?v=xQPlOF9KpbM&start=977>
+  <https://www.youtube.com/watch?v=xQPlOF9KpbM&start=2271>
 
 - CSE 142, _Managing Complexity: Review_ (Optional) (0:58–21:04)<br>
   <https://www.youtube.com/watch?v=otR7yEbRZAs&start=58>
