@@ -204,8 +204,8 @@ Video
 - CS Homework Bytes, _Recursion, with Maxine_<br>
   <https://www.youtube.com/watch?v=a2Op-yPcm-A>
 
-- CSE 143, _Recursion_ (6:32–32:28)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c698c41a-6872-46d3-9c55-87ce2ba78276&start=392>
+- CSE 143, _Recursion_ (0:46–43:18)<br>
+  <https://www.youtube.com/watch?v=cRjRrOvBonQ&start=46>
 
 
 Forum discussion

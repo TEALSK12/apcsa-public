@@ -117,8 +117,11 @@ time, or allow them to work on a free-choice programming project.
 
 Video
 -----
-- CSE 143, _Selection Sort_ (17:22–28:11)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1fdd364a-4d01-49cf-96b3-ce2f67b77dcf&start=1042>
+- CSE 143, _Merge Sort_ (12:09–14:04)<br>
+  <https://www.youtube.com/watch?v=CTDtbbCKmSY&start=729>
+
+- CSE 143, _Merge Sort_ (20:50–26:15)<br>
+  <https://www.youtube.com/watch?v=CTDtbbCKmSY&start=1250>
 
 
 Forum discussion

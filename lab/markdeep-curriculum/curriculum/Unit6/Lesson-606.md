@@ -203,8 +203,8 @@ Video
 - CS Homework Bytes, _Interface and Abstract Classes, with Elizabeth_<br>
   <https://www.youtube.com/watch?v=iiZ_TIZsE6Q>
 
-- CSE 143, _Interfaces_ (note: uses ArrayIntList written in class as an example) (3:43–26:35)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=696d623a-dca4-4b64-bdfd-71d49fc9b47d&start=223>
+- CSE 143, _Interfaces_ (note: uses ArrayIntList written in class as an example) (1:23–26:35)<br>
+  <https://www.youtube.com/watch?v=KLJEss4jKf8&start=80>
 
 
 Forum discussion

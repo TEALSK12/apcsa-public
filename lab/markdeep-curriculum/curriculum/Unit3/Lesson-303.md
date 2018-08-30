@@ -212,7 +212,7 @@ Video
   <https://www.youtube.com/watch?v=kCqcmWk8qoY&start=85>
 
 - CSE 142: _Return value worked example_ (8:46-38:32)<br>
-  <https://www.youtube.com/watch?v=kCqcmWk8qoY&start=85>
+  <https://www.youtube.com/watch?v=kCqcmWk8qoY&start=526>
 
 
 Forum discussion
