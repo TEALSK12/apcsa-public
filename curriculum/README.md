@@ -280,7 +280,16 @@ encouraged to email the program's creator Alex Aiken directly, at
   adjustments have been made for content, timing, and AP test prep.
 
 
-Giving feedback on the curriculum
+### Printing GitBook
+--------------------
+The AP CS A GitBook can be printed by navigating to 
+https://pdf.gitbook.cloud/preview?url=https://tealsk12.gitbook.io/apcsa/#. 
+However, the "Download" button does not work. There is workaround depending on the browser:
+- click on the document to enable the pdf menu to show and clicking the down arrow or "Save as Copy"
+- right click on the .pdf document and select "Save As"
+
+
+### Giving feedback on the curriculum
 ---------------------------------
 
 TEALS intends for this curriculum to be a starting point; it's our first attempt at a complete AP CS
