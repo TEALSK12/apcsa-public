@@ -281,7 +281,11 @@ encouraged to email the program's creator Alex Aiken directly, at
 
 ### Printing GitBook
 --------------------
-The AP CS A GitBook can be printed by navigating to https://pdf.gitbook.cloud/preview?url=https://tealsk12.gitbook.io/apcsa/#, the "Download" button does not work. The workaround is to use the .pdf reader download button by clicking on the document to enable the pdf menu to show and clicking the downarrow icon in the upper right corner.
+The AP CS A GitBook can be printed by navigating to 
+https://pdf.gitbook.cloud/preview?url=https://tealsk12.gitbook.io/apcsa/#. 
+However, the "Download" button does not work. There is workaround depending on the browser:
+- click on the document to enable the pdf menu to show and clicking the down arrow or "Save as Copy"
+- right click on the .pdf document and select "Save As"
 
 
 ### Giving feedback on the curriculum
