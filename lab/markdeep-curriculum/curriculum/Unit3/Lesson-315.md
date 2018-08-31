@@ -125,10 +125,10 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c5-3>
 
 - CSE 142, _Fencepost_ (0:28-11:20)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9874ea5-8d4d-4bf1-8924-ded454847a58&start=28>
+  <https://www.youtube.com/watch?v=hpDQ9tdrj1Y&start=28>
 
 - CSE 142, _Sentinel Loops_ (15:56)<br>
-  https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9874ea5-8d4d-4bf1-8924-ded454847a58&start=681
+  https://www.youtube.com/watch?v=hpDQ9tdrj1Y&start=681
 
 
 Forum discussion

@@ -321,10 +321,10 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c4-2>
 
 - CSE 142, _if/else Statements_ (38:41-50:15)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c247411-e890-4835-8a79-bee6e74066c2&start=2321>
+  <https://www.youtube.com/watch?v=fo9_kOSs1Y8&start=2321>
 
 - CSE 142, _Methods with Conditional Execution_ (4:08-18:39)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fc356a4a-92a2-4038-9b89-90ea0ffa4533&start=248>
+  <https://www.youtube.com/watch?v=0mqNzejWfSY&start=248>
 
 - CS Homework Bytes, _Relational and Conditional Operators, with Elizabeth_<br>
   <https://www.youtube.com/watch?v=M-mYpnPygY0>

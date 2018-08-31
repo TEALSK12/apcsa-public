@@ -239,7 +239,7 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c4-4>
 
 - CSE 142, _Cumulative Sum_ (23:07-38:40)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c247411-e890-4835-8a79-bee6e74066c2&start=1387>
+  <https://www.youtube.com/watch?v=fo9_kOSs1Y8&start=1387>
 
 
 Forum discussion

@@ -231,7 +231,7 @@ Common mistakes with strings:
 Videos
 ------
 - CSE 142 (12:48–18:29)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca84c6fe-878e-4bcf-92d4-a18edd3fef21&start=769>
+  <https://www.youtube.com/watch?v=0eUm1RFGkWw&start=769>
 
 - CS Homework Bytes, _Mathematical Operators and Precedence, with Vinnie_<br>
   <https://www.youtube.com/watch?v=RTmRwEy-yFA>

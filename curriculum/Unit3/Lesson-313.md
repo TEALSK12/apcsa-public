@@ -124,7 +124,7 @@ Loops common mistakes:
 Video
 -----
 - CSE 142, _While Loop_ (11:21-15:55)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9874ea5-8d4d-4bf1-8924-ded454847a58&start=681>
+  <https://www.youtube.com/watch?v=hpDQ9tdrj1Y&start=681>
 
 
 Forum discussion

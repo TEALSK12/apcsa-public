@@ -172,7 +172,7 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c2-2>
 
 - CSE 142, _Variables_ (5:12–12:48)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca84c6fe-878e-4bcf-92d4-a18edd3fef21&start=310>
+  <https://www.youtube.com/watch?v=0eUm1RFGkWw&start=310>
 
 - CS Homework Bytes, _Variable and Assignment, with Elizabeth_<br>
   <https://www.youtube.com/watch?v=fPqGiexXi_Y>

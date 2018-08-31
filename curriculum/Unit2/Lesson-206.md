@@ -219,7 +219,7 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c2-4>
 
 - CSE 142, _Nested for Loops_ (16:18–37:50)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca84c6fe-878e-4bcf-92d4-a18edd3fef21&start=2524>
+  <https://www.youtube.com/watch?v=0eUm1RFGkWw&start=2524>
 
 
 Forum discussion

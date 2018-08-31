@@ -237,13 +237,13 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c7-3-1>
 
 - CSE 142: _Mystery code walk through_ (9:06–21:18)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=560>
+  <https://www.youtube.com/watch?v=DieHL2VO83k&start=560>
 
 - CSE 142: _Reversing an array_ (43:42–49:30)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=2622>
+  <https://www.youtube.com/watch?v=DieHL2VO83k&start=2622>
 
 - CSE 142: _Absolute values an array_ (1:42–5:11)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=2622>
+  <https://www.youtube.com/watch?v=DieHL2VO83k&start=102>
 
 
 Forum discussion

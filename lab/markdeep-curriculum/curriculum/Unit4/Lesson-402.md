@@ -144,10 +144,10 @@ to another, since students’ needs and strengths vary with instructional object
 Video
 -----
 - CSE 142, _Array Traversal_ (26:06–33:26)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=14058dec-efd5-4db3-b841-9d836e92bfb4&start=1570>
+  <https://www.youtube.com/watch?v=6M3KEfFpYiM&start=1570>
 
 - CSE 142, _For-Each Loop_ (19:40–22:40)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=14058dec-efd5-4db3-b841-9d836e92bfb4&start=1570>
+  <https://www.youtube.com/watch?v=6M3KEfFpYiM&start=1180>
 
 
 Forum discussion

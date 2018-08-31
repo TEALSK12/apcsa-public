@@ -129,10 +129,10 @@ Video
   <https://www.youtube.com/watch?v=R0MqnEofFvs>
 
 - CSE 142, _Random Numbers_ (11:12–17:17)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fe3ea547-6068-4e56-ab0b-e8f8605dd836&start=672>
+  <https://www.youtube.com/watch?v=tHFmXl42-ZA&start=672>
 
 - CSE 142, _Guessing Game_ (17:18–37:13)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fe3ea547-6068-4e56-ab0b-e8f8605dd836&start=1038>
+  <https://www.youtube.com/watch?v=tHFmXl42-ZA&start=1038>
 
 
 Forum discussion
