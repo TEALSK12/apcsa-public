@@ -275,14 +275,15 @@ Video
 - BJP 13-2, _Sorting_<br>
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c13-2>
 
-- CSE 143, _Bubble Sort_ (optional) (14:04–16:18)<br>
-  <https://www.youtube.com/watch?v=CTDtbbCKmSY&start=844>
+- CSE 143, _Selection Sort_ (4:43:14–8:50)<br>
+  <https://www.youtube.com/watch?v=CTDtbbCKmSY&start=283>
 
 - CSE 143, _Insertion Sort_ (9:26–12:00)<br>
   <https://www.youtube.com/watch?v=CTDtbbCKmSY&start=566>
 
-- CSE 143, _Selection Sort_ (4:43:14–8:50)<br>
-  <https://www.youtube.com/watch?v=CTDtbbCKmSY&start=283>
+- CSE 143, _Bubble Sort_ (optional) (14:04–16:18)<br>
+  <https://www.youtube.com/watch?v=CTDtbbCKmSY&start=844>
+
 
 
 Forum discussion
