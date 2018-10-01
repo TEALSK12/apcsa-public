@@ -7,7 +7,7 @@ Your task is to create a software application that is similar to the Pokemon gam
 
 ![Image of a wide variety of characters including a ghost, a shark, a bee, an alien and a robot.](BCFinalProjImage2.png)
 
-You will use many of the concepts that have been introduced throughout the course to establish attributes for each character and to determine hit points and health status. You will use object oriented programming concepts in order to implement your program.
+You will use many of the concepts that have been introduced throughout the course to establish attributes for each character and to determine hit points and health status. You will use object oriented programming concepts to implement your program.
 
 You will follow the Applied Design stages and begin by interviewing an end-user to determine their interests, then you will design a Pokemon-like game that they would enjoy playing. The end-user will be involved in the design and testing of the game.
 
@@ -55,13 +55,13 @@ As an example, one of Talia’s characters is called MartyMarsian. He has the fo
 
 Notice that the values add up to 17 and no value is above 5 or below 0. This is a design feature that Talia wanted to include in her game.
 
-Talia meets with her little sister after the initial design stage and she loves Talia’s ideas. They work together to determine how each character will do battle and decide that the user will get to select which alien they play as. They will then have to battle the seven other aliens in order to be crowned Champion of the Solar System. The alien will receive extra points after each victory and Talia will design formulas that make the game challenging, but winnable.
+Talia meets with her little sister after the initial design stage and she loves Talia’s ideas. They work together to determine how each character will do battle and decide that the user will get to select which alien they play as. They will then have to battle the seven other aliens to be crowned Champion of the Solar System. The alien will receive extra points after each victory and Talia will design formulas that make the game challenging, but winnable.
 
 ![Image of the planets](BCFinalProjImage.JPG)
 
-Talia designs a superclass and subclasses for her aliens and creates formulas (that include some random values) in order to determine the amount of health lost in each battle. Talia creates user menus that allow the user to navigate the program and to allow the user to see and sort the characteristics of each alien.
+Talia designs a superclass and subclasses for her aliens and creates formulas (that include some random values) to determine the amount of health lost in each battle. Talia creates user menus that allow the user to navigate the program and to allow the user to see and sort the characteristics of each alien.
 
-Talia tests the program with friends and relatives in order obtain further feedback and suggestions. She then implements a few changes and submits her finished project to her teacher!
+Talia tests the program with friends and relatives to obtain further feedback and suggestions. She then implements a few changes and submits her finished project to her teacher!
 
 ---
 
@@ -76,7 +76,7 @@ For both the complexity and creativity requirements, you should talk to the inst
 As with all previous projects, your program must be well-written, well-documented, and readable. Writing code with good style is always a good idea, but in a project of this size and scope, following style guidelines will help you keep your thoughts organized and make it easier to keep track of your progress, pick up where you left off each day, and find and fix bugs. 
 
 Resources:
-Throughout this course, you have completed a number of small programs that implemented a Pokemon game. You now have the opportunity to take these skills and apply them to a new context. Be sure to review course resources so that you fully understand how this type of game can be implemented. You can alter and change some of the ideas presented in the course in order to facilitate the completion of your own game. The following are just a few resources that you might want to review:
+Throughout this course, you have completed a number of small programs that implemented a Pokemon game. You now have the opportunity to take these skills and apply them to a new context. Be sure to review course resources so that you fully understand how this type of game can be implemented. You can alter and change some of the ideas presented in the course to facilitate the completion of your own game. The following are just a few resources that you might want to review:
 
 * 3.03 – Pokemon and returning values
 * 3.06 Hitpoints and formulas
