@@ -30,7 +30,6 @@ Ask experts who are working with the computer in your jobs about how these steps
 ---
 
 ## Materials/Preparation
-* High Tech in British Columbia https://www2.gov.bc.ca/gov/content/data/statistics/business-industry-trade/industry/high-technology  http://www.bctechnology.com/
 * General tips for interviewing others that might help:  http://provisional.com/employers/employer-interviewing-tips
 * Computational thinking basics https://en.wikipedia.org/wiki/Computational_thinking
 
