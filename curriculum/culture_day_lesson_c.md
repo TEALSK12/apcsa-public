@@ -46,7 +46,7 @@ On Journal Writing days, teachers can omit bell work, and provide students with 
       * On a scale of 1-5, how confident are you with them (5 being super-confident)
       * What do you look forward to learning in this course?
       * What are your worries and concerns about this course?
-      * other thoughts
+      * Other thoughts
    * Intermediate entries
       * What new technical skills have you gained since last time?  (list them out)
       * What other skills have you gained?  (creating a plan, drawing a graphic design, giving a presentation, etc.)
@@ -55,7 +55,7 @@ On Journal Writing days, teachers can omit bell work, and provide students with 
       * What did you like best about the course so far?
       * What other skills would you really like to learn?
       * What do you not like the most about the course so far?
-      * other thoughts
+      * Other thoughts
    
    * End of the course entry
      * If you were to give advice to a new student who will start the course, what would it be?
