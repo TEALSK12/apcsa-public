@@ -18,7 +18,7 @@ short and ensure consistency across the docset.
 Authors
 -------
 - Christine Keefe (Curriculum Developer)
-- Nathaniel Granor (TEALS Coordinator)
+- Nathaniel Granor (TEALS Regional Lead)
 
 
 License
