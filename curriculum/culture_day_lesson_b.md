@@ -24,7 +24,7 @@ Coding is simply a technical skill.   Yet the process of software development, p
 * Impact of technology on society (social media, health and lifestyle, screen time, etc.)
 * Ethics (privacy, cyberbullying, security, etc.) 
 
-This list should be expanded and updated, from time to time, for currency.
+This list should be expanded and updated, from time to time, to be up to date.
 
 
 ## Materials/Preparation
