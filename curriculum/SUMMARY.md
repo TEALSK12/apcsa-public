@@ -120,6 +120,7 @@
 
 ## Unit 10: Post-AP Exam Projects (4–5 weeks)
 * [SpaceBattleArena](http://mikeware.github.io/SpaceBattleArena/)
+* [TEALS Minecraft Modding]
 
 ## Appendix
 * [About This Curriculum](About.md)
