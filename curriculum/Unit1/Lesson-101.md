@@ -90,9 +90,23 @@ Procedure
 
 #### Content - Collaboration Tools for programming
 
-In this activity you will learn the correct procedures for using a USB drive to store and transport your programs. The USB drive also provides an opportunity for you to collaborate with others and share your programs.
+1. Using WS 1.1.2, model the steps for:
+
+   - Opening Eclipse and a workspace
+   - Creating and saving a program
+   - Ejecting the USB (if applicable)
+   
+2. Have students demonstrate the Plug In and Un-Plug procedures for you before you move on to the
+   Practice-It exercise.
+
+If your classroom has a projector hooked up to the teacher’s computer, project each step as you
+model it for the students.
 
 Can you think of other ways that you might collaborate with others in this course as you create and share programs? What methods are used in the field of programming when there are a number of programmers working on developing the same software application?
+
+Wait until all students have completed a step before moving on to another step.
+
+Expect this exercise to take 10 minutes or longer.
 
 ---
 
@@ -108,21 +122,6 @@ Practice-It is a place that will allow you to practice and refine your computer 
 Throughout this course you will create a wide range of programs, and you will want to extend projects and add your own creative touch to each one. As you do this, it’s important to carefully evaluate and build on the skills that you have. Resources like Practice-It can help you develop further as a programmer, which will allow you to create even more engaging software applications.
 
 ---
-
-1. Using WS 1.1.2, model the steps for:
-   - Opening Eclipse and a workspace
-   - Creating and saving a program
-   - Ejecting the USB (if applicable)
-
-2. Have students demonstrate the Plug In and Un-Plug procedures for you before you move on to the
-   Practice-It exercise.
-
-If your classroom has a projector hooked up to the teacher’s computer, project each step as you
-model it for the students.
-
-Wait until all students have completed a step before moving on to another step.
-
-Expect this exercise to take 10 minutes or longer.
 
 ### Practice-It \[10 minutes\]
 
