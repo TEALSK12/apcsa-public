@@ -62,9 +62,9 @@ going to learn how this program is built today.
 
 #### Content - Debugging Tools
 
-As you continue to program in Eclipse you will notice some of the debugging tools that are available to you. One of these tools is the syntax colouring whereby syntax errors will be highlighted or underlined a specific colour. This draws the programmer’s attention to h error and allows for quicker fixes.
+As you continue to program in Eclipse you will notice some of the debugging tools that are available to you. One of these tools is the syntax coloring whereby syntax errors will be highlighted or underlined a specific color. This draws the programmer’s attention to h error and allows for quicker fixes.
 
-Even though these tools exist, it is till important for you to get good at identifying syntax and other errors. This will speed up the development process and will result in fewer errors in the final program.
+Even though these tools exist, it is still important for you to get good at identifying syntax and other errors. This will speed up the development process and will result in fewer errors in the final program.
 
 ---
 
