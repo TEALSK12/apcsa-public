@@ -102,7 +102,7 @@ Procedure
 If your classroom has a projector hooked up to the teacher’s computer, project each step as you
 model it for the students.
 
-Can you think of other ways that you might collaborate with others in this course as you create and share programs? What methods are used in the field of programming when there are a number of programmers working on developing the same software application?
+Can you think of other ways that you might collaborate with others in this course as you create and share programs? What methods are used in the field of programming when there are several of programmers working on developing the same software application?
 
 Wait until all students have completed a step before moving on to another step.
 
