@@ -25,7 +25,7 @@ Materials & Prep
 - **Projector and computer**
 - **Student Computers** with Eclipse installed
 - **Classroom copies** of [WS 1.1.1] and [WS 1.1.2]
-- **USB Drives** for each student (if applicable to school)
+- **USB Drives or Network Drives** for each student (if applicable to school)
 - **Handout/Slide Deck** demonstrating file submission procedure
 
 If your school does not have a designated IT specialist available to install Eclipse on the
@@ -132,7 +132,7 @@ Expect this exercise to take 10 minutes or longer.
 2. Have all students submit a Practice-It problem to demonstrate that they know how to use
    Practice-It.
 
-Wait until all students have completed a step before moving on to another step.
+Wait until all students have completed this step before moving on to another step.
 
 If you have extra time in class, introduce a “Scavenger Hunt” on Practice-It, and have students find:
    - Where their account information is located
