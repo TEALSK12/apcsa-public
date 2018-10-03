@@ -54,7 +54,7 @@ The chart in this activity is a flow chart that represents, organizes and commun
 
 Flow charts can be used to show control in a loop, to show user input, to show processing and output, and to show conditional statements and decisions.
 
-There are a number of flow chart creation programs available online, these can help you manage the complexity of your programs during the design stages.
+There are several flow chart creation programs available online, these can help you manage the complexity of your programs during the design stages.
 
 ---
 
