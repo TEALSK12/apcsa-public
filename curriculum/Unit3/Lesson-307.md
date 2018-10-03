@@ -194,7 +194,7 @@ Proper Java syntax and thorough comments are required.
 
 One of the best ways to effectively design and develop for end-users is to include them in the design and development processes. Computer programmers do this by interviewing the end-users at the beginning of the process. This allows the programmer to understand what the user is looking for and it helps create an initial plan for design ideas.
 
-When it’s time for the program to be tested, it is often good practice to have the end-user test the software. This allows them to comment and provide feedback on different parts of the program before it is totally complete. The programmer should take notes related to the end-user’s questions and concerns about the program, and also the things that they love.
+When it’s time for the program to be tested, it is often good practice to have the end-user test the software. This allows them to comment and provide feedback on different parts of the program before it is totally complete. The programmer should take notes related to the end-user’s questions and concerns about the program, and about the things that they love.
 
 ---
 
