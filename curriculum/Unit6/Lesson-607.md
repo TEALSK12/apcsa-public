@@ -44,17 +44,17 @@ Pacing Guide: Day 2
 
 Pacing Guide: Day 3
 -------------------
-| Section                                                         | Total Time
-|-----------------------------------------------------------------|-----------
-| **Programming Project II**<br>                                  | Full class
-| **Homework:**<br>_Take the Chapter 4 quiz. Grade your answers._ | TONIGHT
+| Section                                                               | Total Time
+|-----------------------------------------------------------------------|-----------
+| **Programming Project II**<br>_(Project 9.3 from the textbook)_       | Full class
+| **Homework:**<br>_Take the Chapter 4 quiz. Grade your answers._       | TONIGHT
 
 
 Pacing Guide: Day 4
 -------------------
 | Section                                                                | Total Time
 |------------------------------------------------------------------------|-----------
-| **Programming Project II**<br>                                         | Full class
+| **Programming Project III**<br>_(Exercise 9.3 from the textbook)_      | Full class
 | **Homework:**<br>_Read and outline Chapter 3 in Barron’s review book._ | TONIGHT
 
 
@@ -141,6 +141,12 @@ In this project your will interview an end-user in order to determine their inte
 |---|---|
 | Grand Total| 19 points |
 
+#### Programming Project III
+
+Have students submit answers to Exercise 9.3 in their textbooks. This assignment will be submitted
+on paper. As written, students are not given some code that implements GroceryBill, Employee, and
+Item. If you wish to make this an electronic assignment, you should consider providing students with
+some starter code.
 
 Accommodation and Differentiation
 ---------------------------------
@@ -150,6 +156,12 @@ and translating the math. You can also introduce and reinforce useful vocabulary
 physical examples of these shapes. If you are having trouble finding prisms, cones, and cylinders,
 you can make these items out of paper by printing out templates and following the instructions at
 this website: ([**http://tinyurl.com/asz6e69**](http://tinyurl.com/asz6e69))
+
+To help students process Programming Project III, you may want to read through exercise 9.3 in the
+textbook with the class, breaking down the problem into its parts as a whole group. In ELL
+classrooms, you should bring in physical samples of grocery receipts and pass them around or view
+them on the projector. Have students point out the different parts of the receipt as they relate to
+the assignment.
 
 Remind students to always draw a structure diagram, sketch out their plan using pseudocode, and
 include comments to remind themselves (and you!) of what each section of code is for.
