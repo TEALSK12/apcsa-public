@@ -78,7 +78,7 @@ popular with your class. Invoke an air of mystery and don’t offer an explanati
 
 This activity will take you through the process of designing superclasses and subclasses. As you do so, consider carefully how your superclass could be reused and repurposed, later, by another programmer to create something different.
 
-Many of the programs you create could be altered, remixed and tweaked to create new and innovative software that is slightly different than the original. This is a great thing about Object Oriented Programming. Much of the code and be reused and repurposed to create things we haven’t even thought of yet.
+Many of the programs you create could be altered, remixed and tweaked to create new and innovative software that is slightly different than the original. This is a great thing about Object Oriented Programming. Much of the code can be reused and repurposed to create things we haven’t even thought of yet.
 
 ---
 
