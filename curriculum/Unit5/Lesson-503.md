@@ -221,7 +221,7 @@ Teacher Prior CS Knowledge
 Misconceptions
 --------------
 Students adding void return type to constructor definition. Students are in the habit of specifying
-a return type for methods. The one case where the return type is not need is when defining the
+a return type for methods. The one case where the return type is not needed is when defining the
 class’ constructor. If a return type is specified, the method is treated as a method of the class
 and not as a constructor. The code will compile but the constructor will never be called.
 
