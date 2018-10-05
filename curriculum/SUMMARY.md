@@ -119,8 +119,15 @@
 * [Lesson 9.00: Reviewing for the AP Exam](Unit9/Lesson-900.md)
 
 ## Unit 10: Post-AP Exam Projects (4–5 weeks)
+* [Character Clash](finalproject/CharacterClashProject.md)
 * [SpaceBattleArena](http://mikeware.github.io/SpaceBattleArena/)
-* [TEALS Minecraft Modding]
+* [TEALS Minecraft Modding](https://tealsk12.github.io/teals-minecraft/)
+
+## Culture Days (4 days)
+* [Culture Day Lesson A: Video/Reading](culturedays/culture_day_lesson_a.md)
+* [Culture Day Lesson B: Student Research Project/Presentation](culturedays/culture_day_lesson_b.md)
+* [Culture Day Lesson C: My Skills and Interests Journal](culturedays/culture_day_lesson_c.md)
+* [Culture Day Lesson D: Interview with People in Technology](culturedays/culture_day_lesson_d.md)
 
 ## Appendix
 * [About This Curriculum](About.md)
