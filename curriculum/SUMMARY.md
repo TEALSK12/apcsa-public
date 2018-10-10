@@ -14,7 +14,7 @@
 * [Lesson 1.08: Finding & Fixing Errors](Unit1/Lesson-108.md)
 * [Lesson 1.09: Review](Unit1/Lesson-109.md)
 * [Lesson 1.99: (Unit 1 Test)](Curriculum-Map.md#199)
-* [Lesson 1 XX: Open Ended Programming Project](Unit 1/Lesson-107 Alternative)
+* [Lesson 1.XX: Open Ended Programming Project](Unit 1/Lesson-107 Alternative)
 
 ## Unit 2: Working with Data & Basic Control Flow (3 weeks)
 * [Lesson 2.00: Test Review & Reteach](Unit2/Lesson-200.md)
@@ -53,7 +53,7 @@
 * [Lesson 3.18: Review](Unit3/Lesson-318.md)
 * [Lesson 3.99: (Unit 3 test)](Curriculum-Map.md#399)
   * [Test 2 Guide](Unit3/Test-2-Guide.md)
-* [Lesson 3.XX: Programming Project] (FracCalc Alternative) (Curriculum-Map.md#3xx)
+* [Lesson 3.XX: Programming Project](FracCalc Alternative) (Curriculum-Map.md#3xx)
 
 ## Unit 4: Arrays, Lists, & Files (4 weeks)
 * [Lesson 4.00: Test Review & Reteach](Unit4/Lesson-400.md)
@@ -68,7 +68,7 @@
 * [Lesson 4.09: Magpie Lab (5 Days)](Unit4/Lesson-409.md)
 * [Lesson 4.10: Review](Unit4/Lesson-410.md)
 * [Lesson 4.99: (Unit 4 test)](Curriculum-Map.md#499)
-* [Lesson 4 xx: Programming Project] (Magpie Alternative)
+* [Lesson 4 xx: Programming Project](Magpie Alternative)
 
 ## Unit 5: Object-Oriented Programming (4 weeks)
 * [Lesson 5.00: Test Review & Reteach](Unit5/Lesson-500.md)
