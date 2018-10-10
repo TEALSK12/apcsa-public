@@ -24,8 +24,8 @@ Computers are great at doing repetitive tasks.  In computational thinking, we us
 
 In daily life, human beings enjoy repetition and patterns in many areas of life and nature.   For the written word, repetition is useful for the learning of songs or poetry.  It's a literary technique.   Repetition enhances significance and meaning.
 
-Consider the national anthem of USA https://usa.usembassy.de/government-anthem.htm 
-Did you know that there is an English version, and a Spanish version?
+Consider the [national anthem of USA](https://en.wikipedia.org/wiki/The_Star-Spangled_Banner#Lyrics) 
+Did you know that there is an English version, and a [Spanish version](https://www.npr.org/templates/story/story.php?storyId=5369145)? 
 
 Imagine that you are creating a national anthem medley for your class to perform at a special event.  Your challenge is to include a combination of language versions.  How can you use static methods to design this musical piece?
 
