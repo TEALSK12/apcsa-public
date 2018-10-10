@@ -14,7 +14,7 @@
 * [Lesson 1.08: Finding & Fixing Errors](Unit1/Lesson-108.md)
 * [Lesson 1.09: Review](Unit1/Lesson-109.md)
 * [Lesson 1.99: (Unit 1 Test)](Curriculum-Map.md#199)
-* [Lesson 1.XX: Open Ended Programming Project](Unit 1/Lesson-107 Alternative)
+* [Lesson 1.XX: Open Ended Programming Project](Unit1/Lesson-1XX.md)
 
 ## Unit 2: Working with Data & Basic Control Flow (3 weeks)
 * [Lesson 2.00: Test Review & Reteach](Unit2/Lesson-200.md)
@@ -53,7 +53,7 @@
 * [Lesson 3.18: Review](Unit3/Lesson-318.md)
 * [Lesson 3.99: (Unit 3 test)](Curriculum-Map.md#399)
   * [Test 2 Guide](Unit3/Test-2-Guide.md)
-* [Lesson 3.XX: Programming Project](FracCalc Alternative) (Curriculum-Map.md#3xx)
+* [Lesson 3.XX: Programming Project(FracCalc Alternative)](Unit3/Lesson-3XX.md)
 
 ## Unit 4: Arrays, Lists, & Files (4 weeks)
 * [Lesson 4.00: Test Review & Reteach](Unit4/Lesson-400.md)
@@ -68,7 +68,7 @@
 * [Lesson 4.09: Magpie Lab (5 Days)](Unit4/Lesson-409.md)
 * [Lesson 4.10: Review](Unit4/Lesson-410.md)
 * [Lesson 4.99: (Unit 4 test)](Curriculum-Map.md#499)
-* [Lesson 4 xx: Programming Project](Magpie Alternative)
+* [Lesson 4 xx: Programming Project(Magpie Alternative)](Unit4/Lesson-4XX.md)
 
 ## Unit 5: Object-Oriented Programming (4 weeks)
 * [Lesson 5.00: Test Review & Reteach](Unit5/Lesson-500.md)
@@ -80,7 +80,7 @@
 * [Lesson 5.06: Picture Lab (9 Days)](Unit5/Lesson-506.md)
 * [Lesson 5.07: Review](Unit5/Lesson-507.md)
 * [Lesson 5.99: (Unit 5 test)](Curriculum-Map.md#599)
-* [Lesson 5 xx: Programming Project] (Picture Lab Alternative)
+* [Lesson 5 xx: Programming Project(Picture Lab Alternative)](Unit5/Lesson-5XX.md) 
 
 ## Unit 6: Inheritance & Polymorphism (4 weeks)
 * [Lesson 6.00: Test Review & Reteach](Unit6/Lesson-600.md)
