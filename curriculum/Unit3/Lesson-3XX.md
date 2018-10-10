@@ -36,8 +36,8 @@ How often do you still use, or when would you use, a hand-held calculator (or th
 
 ### Complexity and Creativity
 
-   This project is an alternative to the FracCalc project in the existing AP Computer Science course. 
-   Students should come up with the idea themselves, based on user-centred research, and ideate a calculator application to address the needs of a specific user group.  The "calculator application" could possibly involve several steps, such as solving the quadratic formula, or sharing the cost of a party. 
+This project is an alternative to the FracCalc project in the existing AP Computer Science course. 
+Students should come up with the idea themselves, based on user-centred research, and ideate a calculator application to address the needs of a specific user group.  The "calculator application" could possibly involve several steps, such as solving the quadratic formula, or sharing the cost of a party. 
    
 Students will follow applied design process to implement the idea.  You should talk to your teacher often to ensure that your progress is in-line with expectations.   
    
@@ -72,7 +72,7 @@ At this point, you will need to ask more specific questions:
 
 STEP 2 - DEFINING AND IDEATING
 
-Choose a design opportunity and point of view, make infereences about limitations and boundaries.  Take creative risks to indentify gaps to explore, generate a range of possibilities, prioritize ideas for prototyping.
+Choose a design opportunity and point of view, make inferences about limitations and boundaries.  Take creative risks to indentify gaps to explore, generate a range of possibilities, prioritize ideas for prototyping.
 
 Using the responses from your end-user interview, begin to develop a plan for your custom calculator.  Given the duration of the project, you should limit your calculator to do *an interesting calcuation* for a *specific end-user*.  At this point you will only be be to implement a text-based user interface (ie, no graphical elements, like buttons or scrollbars).  Keep it simple and easy to use. 
 
