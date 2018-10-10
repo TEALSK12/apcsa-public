@@ -24,8 +24,8 @@ Computers are great at doing repetitive tasks.  In computational thinking, we us
 
 In daily life, human beings enjoy repetition and patterns in many areas of life and nature.   For the written word, repetition is useful for the learning of songs or poetry.  It's a literary technique.   Repetition enhances significance and meaning.
 
-Consider the national anthem of Canada https://www.canada.ca/en/canadian-heritage/services/anthems-canada.html#a13 
-Did you know that there is an English version, a French version, and even a Bilingual Version?
+Consider the national anthem of USA https://usa.usembassy.de/government-anthem.htm 
+Did you know that there is an English version, and a Spanish version?
 
 Imagine that you are creating a national anthem medley for your class to perform at a special event.  Your challenge is to include a combination of language versions.  How can you use static methods to design this musical piece?
 
@@ -92,8 +92,8 @@ Reference the exercise above, where you write (ie, output, or print) similar let
 Examples of text-based output that have this characteristic:
 -  A standardized form, or letter
 -  Lyrics of a song or rhyme that has:
-    * Lnes that are repeated at each verse, e.g. "There Was an Old Lady"  (Reference text book Chapter 1, Project #2)
-    * New lines are added onto existing old lines, e.g. "Twelve Days of Christmas", "The House That Jack Built". (Reference text book Chapter 1, Project #3, #5.)  
+    * Lines that are repeated at each verse, e.g. "There Was an Old Lady"  (Reference text book Chapter 1, Project #2)
+    * New lines are added onto existing old lines, e.g. "Twelve Days of Christmas", "The House That Jack Built". (Reference text book      Chapter 1, Project #3, #5.)  
 -  Lyrics of a song that includes words (or sections) in different languages
 -  A cheer or chant for a school team
 -  A medley of different songs (verse and chorus) put together
