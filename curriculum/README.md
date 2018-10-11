@@ -10,11 +10,9 @@ This curriculum is based on and aligned with Professor Stuart Reges' course at t
 Washington, CSE 142. The course uses the textbook _Building Java Programs: A Back to Basics
 Approach_, by Stuart Reges and Marty Stepp. The course is aligned with the AP Computer Science A
 standards. TEALS has received AP Audit certification for previous versions of the course and
-syllabus. 
-
-The TEALS AP curriculum was approved by CollegeBoard so the partner schools may use the “claim
-identical” function of the AP Audit website to obviate the need for their own curriculum audit. 
-Specific intructions are available in the [AP CS A Sourse Audit Instructions].(need to make AP CS.... a link)
+syllabus. Since these materials are new in 2015–2016, TEALS will apply to have the new syllabus
+approved. Once the CollegeBoard approves the new syllabus, partner schools may use the “claim
+identical” function of the AP Audit website to obviate the need for their own curriculum audit.
 
 This curriculum uses principles of universal design for learning (UDL). The curriculum was written
 for and tested in classrooms with diverse learners; students with individualized education plans,
@@ -176,7 +174,7 @@ initial effort to win a day off.
 Video Tutorials
 ---------------
 - [Timing and Pacing] — Adjusting lessons and the curriculum map for the speed of your learners
-- [Projects and Labs] — Choosing whether your class completes the AP labs or the projects
+- [Projects and Labs] — Choosingn whether your class completes the AP labs or the projects
   (FracCalc/TextExcel)
 - [Supporting Visual-Spatial Learners] — Using the physical space in your classroom to enhance
   learning
@@ -289,13 +287,7 @@ learn more about teaching AP CS A. To participate in this process, we invite TEA
 independent teachers using this curriculum to submit edits and suggestions via the discussion forum
 on the TEALS dashboard, or to [APSquad@tealsk12.org](mailto:APSquad@tealsk12.org).
 
-### Printing GitBook
-----------------
-The AP CS A GitBook can be printed by navigating to 
-https://pdf.gitbook.cloud/preview?url=https://tealsk12.gitbook.io/apcsa/#. 
-However, the "Download" button does not work. There is workaround depending on the browser:
-- click on the document to enable the pdf menu to show and clicking the down arrow or "Save as Copy"
-- right click on the .pdf document and select "Save As"
+
 
 [20 Fun Free Tools for Interactive Classroom Collaboration]: http://tinyurl.com/k62tstg
 [AP Java Quick Reference]: http://apcentral.collegeboard.com/apc/public/repository/ap_comp_sci_a_quick_reference.pdf
