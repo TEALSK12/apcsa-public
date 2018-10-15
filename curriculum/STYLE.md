@@ -21,7 +21,7 @@ ensure this, the general rule is to use your best judgement to create good-looki
 
 ### Use native Unicode encoding where possible
 Unicode and UTF-8 encoding has freed us from the restrictions of the old ASCII character set. We are
-free to use Unicode characters natively in the Markdown source text, and _should_, whereever
+free to use Unicode characters natively in the Markdown source text, and _should_, wherever
 possible. For example, EM DASH (—), RIGHTWARDS ARROW (→), ALMOST EQUAL TO (≈), HORIZONTAL ELLILPSIS
 (…) and so forth. If you cannot for some reason enter Unicode characters easily in your editor, you
 can also use HTML character entity references such as `&mdash;` (&mdash;), `&rarr`; (&rarr;),
@@ -47,7 +47,7 @@ using a line like this:
 
 This keeps the text clean and easy to read, and also provides a way to define a URL only once for
 the entire document. Blocks of link definitions should be placed at the very bottom of a Markdown
-file, preceeded by three blank lines.
+file, preceded by three blank lines.
 
 
 ----------------------------------------------------------------------------------------------------

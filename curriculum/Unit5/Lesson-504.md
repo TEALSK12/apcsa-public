@@ -207,10 +207,10 @@ Videos
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c8-4>
 
 - CSE 142, _Encapsulation_ (35:38–45:58)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ef2111f-c799-4da9-b64a-2d876da98fb0&start=2138>
+  <https://www.youtube.com/watch?v=V3Gs1Ug82_E&start=2138>
 
 - CSE 142, _“this” notation_ (optional) (45:59–49:46)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ef2111f-c799-4da9-b64a-2d876da98fb0&start=2759>
+  <https://www.youtube.com/watch?v=V3Gs1Ug82_E&start=2759>
 
 
 Forum discussion

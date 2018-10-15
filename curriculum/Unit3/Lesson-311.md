@@ -133,7 +133,7 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c4-3>
 
 - CSE 142: _Factoring if/else Statements and Reasoning about Paths_ (18:40-34:05)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fc356a4a-92a2-4038-9b89-90ea0ffa4533&start=248>
+  <https://www.youtube.com/watch?v=0mqNzejWfSY&start=1120>
 
 
 Forum discussion

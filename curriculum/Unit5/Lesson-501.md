@@ -354,10 +354,10 @@ Videos
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c8-1>
 
 - CSE 142, _Intro Object Oriented Programming_ (11:26–19:53)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2071ef1c-2912-4b41-8052-d327180ea215&start=686>
+  <https://www.youtube.com/watch?v=0IGWknpGPhM&start=686>
 
 - CSE 142, _Class_ vs _Object_ (26:36–31:43)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2071ef1c-2912-4b41-8052-d327180ea215&start=686>
+  <https://www.youtube.com/watch?v=0IGWknpGPhM&start=1596>
 
 
 Forum discussion

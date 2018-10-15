@@ -233,16 +233,16 @@ Videos
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c8-3>
 
 - CSE 142, _Using vs building objects_ (1:41–7:36)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ef2111f-c799-4da9-b64a-2d876da98fb0&start=101>
+  <https://www.youtube.com/watch?v=V3Gs1Ug82_E&start=101>
 
 - CSE 142, _toString()_ (optional) (7:37–23:33)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ef2111f-c799-4da9-b64a-2d876da98fb0&start=457>
+  <https://www.youtube.com/watch?v=V3Gs1Ug82_E&start=457>
 
 - CSE 142, _Constructors_ (23:34–30:13)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ef2111f-c799-4da9-b64a-2d876da98fb0&start=1414>
+  <https://www.youtube.com/watch?v=V3Gs1Ug82_E&start=1414>
 
 - CSE 142, _Multiple Constructors_ (optional) (30:14–35:37)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ef2111f-c799-4da9-b64a-2d876da98fb0&start=1814>
+  <https://www.youtube.com/watch?v=V3Gs1Ug82_E&start=1814>
 
 
 Forum discussion

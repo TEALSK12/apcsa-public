@@ -189,7 +189,7 @@ Teaching Tips
 Misconceptions
 --------------
 When introducing the Java programming language, many students will think Java is synonymous with
-JavaScript. Although both are programing languages and many of the constructs are transferable
+JavaScript. Although both are programming languages and many of the constructs are transferable
 between the two languages, Java and JavaScript are two different languages. JavaScript is used today
 for both client side web browser scripting to web servers. Java is used to create platform
 independent apps meaning a program written in Java will run across a variety of operating systems.

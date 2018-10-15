@@ -171,7 +171,7 @@ Students do not forget it! If all else fails, you can use the image saved as Pos
 Video
 -----
 - CSE 142, Casting (18:39–31:29)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca84c6fe-878e-4bcf-92d4-a18edd3fef21&start=1119>
+  <https://www.youtube.com/watch?v=0eUm1RFGkWw&start=1119>
 
 - CS Homework Bytes, _Type Conversations, with Kristin_<br>
   <https://www.youtube.com/watch?v=y-4vMMeBcAc>

@@ -346,11 +346,11 @@ Video
 - BJP 9-1, _Inheritance: Interacting with the Superclass_<br>
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c9-1>
 
+- CSE 142, _Inheritance_ (23:28–35:06)<br>
+  <https://www.youtube.com/watch?v=WPdv8X291hE&start=1408>
+
 - CS Homework Bytes, _Inheritance, with Zach_<br>
   <https://www.youtube.com/watch?v=Alv2ApK_jdo>
-
-- CSE 142, _Inheritance_ (23:28–35:06)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8a0a0287-877b-42df-99fc-e9f551929bef&start=1408>
 
 
 Forum discussion

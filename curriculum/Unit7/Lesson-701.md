@@ -161,8 +161,8 @@ Video
 - BJP 13-1, _Binary Search_<br>
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c13-1>
 
-- CSE 143, _Binary Search_ (1:57–12:41)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=67aa1877-adc1-41d9-9bb6-1621cfa8a99e&start=107>
+- CSE 143, _Binary Search_ (3:36–12:41)<br>
+  <https://www.youtube.com/watch?v=eCo_cxfKelU&start=216>
 
 
 Forum discussion

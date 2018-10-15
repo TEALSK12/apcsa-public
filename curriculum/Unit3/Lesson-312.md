@@ -49,7 +49,7 @@ Procedure
      keep track of raised hands, and that you’ll call on each person until you encounter the correct
      answer.
 
-   - Read off the numbers, and keep track of who finshes early, and who finishes late. Ask students
+   - Read off the numbers, and keep track of who finishes early, and who finishes late. Ask students
      how they computed their answers.
 
      You’re looking for an answer from the “quick” students that they kept a running tally, and that
@@ -251,7 +251,7 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c4-4>
 
 - CSE 142, _Cumulative Sum_ (23:07-38:40)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c247411-e890-4835-8a79-bee6e74066c2&start=1387>
+  <https://www.youtube.com/watch?v=fo9_kOSs1Y8&start=1387>
 
 
 Forum discussion

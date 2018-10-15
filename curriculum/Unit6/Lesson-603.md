@@ -172,11 +172,11 @@ following is a chart of the differences:
 
 Video
 -----
-- CSE 143, _Interacting with Objects_ (2:46–30:39)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed2ec8fa-511a-43fe-9c51-7929dc4f10d8&start=166>
+- CSE 143, _Interacting with Objects_ (2:59–30:39)<br>
+  <https://www.youtube.com/watch?v=ewsM5Iak83g&start=179>
 
-- CSE 143, _Interacting walkthrough_ (30:40–40:10)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed2ec8fa-511a-43fe-9c51-7929dc4f10d8&start=1840>
+- CSE 143, _Interacting walkthrough_ (31:38–40:10)<br>
+  <https://www.youtube.com/watch?v=ewsM5Iak83g&start=1900>
 
 
 Forum discussion

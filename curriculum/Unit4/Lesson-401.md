@@ -253,7 +253,7 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c7-1>
 
 - CSE 142, _Arrays_ (1:35–26:06)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=14058dec-efd5-4db3-b841-9d836e92bfb4&start=95>
+  <https://www.youtube.com/watch?v=6M3KEfFpYiM&start=95>
 
 - CS Homework Bytes, _Arrays, with Ariel_<br>
   <https://www.youtube.com/watch?v=PFohS2HvCgs>

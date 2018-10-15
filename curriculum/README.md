@@ -10,9 +10,11 @@ This curriculum is based on and aligned with Professor Stuart Reges' course at t
 Washington, CSE 142. The course uses the textbook _Building Java Programs: A Back to Basics
 Approach_, by Stuart Reges and Marty Stepp. The course is aligned with the AP Computer Science A
 standards. TEALS has received AP Audit certification for previous versions of the course and
-syllabus. Since these materials are new in 2015–2016, TEALS will apply to have the new syllabus
-approved. Once the CollegeBoard approves the new syllabus, partner schools may use the “claim
+syllabus.
+
+The TEALS AP curriculum was approved by the CollegeBoard so partner schools may use the “claim
 identical” function of the AP Audit website to obviate the need for their own curriculum audit.
+Specific instructions are available in the [AP CS A Course Audit Instructions].
 
 This curriculum uses principles of universal design for learning (UDL). The curriculum was written
 for and tested in classrooms with diverse learners; students with individualized education plans,
@@ -23,9 +25,11 @@ the past, students who are gifted/talented, students who are otherwise “outsid
 Accessing the Curriculum
 ------------------------
 
-The AP Computer Science A Curriculum GitBook is located at [https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details](https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details)
+The AP Computer Science A Curriculum GitBook is located at
+https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details.
 
-For contributions to the curriculum, the AP Computer Science A GitHub repository is located at [https://github.com/TEALSK12/apcsa](https://github.com/TEALSK12/apcsa)
+For contributions to the curriculum, the AP Computer Science A GitHub repository is located at
+https://github.com/TEALSK12/apcsa.
 
 Using the curriculum
 --------------------
@@ -43,7 +47,7 @@ You may browse the [Curriculum Map] for an overview of the pacing, objectives, a
 
 ### Year Round Pacing
 
-The table-of-contents (included with Introduction materials) contains course-grained time estimates
+The table-of-contents (included with Introduction materials) contains coarse-grained time estimates
 on the scale of weeks and days so teachers can plan accordingly. Units 6 and 8 include extra days in
 the time-estimate so teachers can re-adjust their unit plans if they have shifted due to unexpected
 class cancellations or drift.
@@ -74,7 +78,7 @@ following daily structure:
   questions (though time has been scheduled in the Pacing Guide for one or both of these
   activities). You should choose your questions based on the topics you felt were most challenging
   or confusing for your students. A good source for short-answer and multiple choice questions is
-  \[SUGGESTED SOURCES\].
+  the [Barron's AP Computer Science A review book], which TEALS ships to each AP CS A volunteer.
 
 ### Scaffolding
 
@@ -174,7 +178,7 @@ initial effort to win a day off.
 Video Tutorials
 ---------------
 - [Timing and Pacing] — Adjusting lessons and the curriculum map for the speed of your learners
-- [Projects and Labs] — Choosingn whether your class completes the AP labs or the projects
+- [Projects and Labs] — Choosing whether your class completes the AP labs or the projects
   (FracCalc/TextExcel)
 - [Supporting Visual-Spatial Learners] — Using the physical space in your classroom to enhance
   learning
@@ -188,9 +192,8 @@ Digital Tools Associated with This Curriculum
 ### Integrated Design Environment (IDE) — Eclipse
 
 Coding in Java requires the Java Development Kit and a text editor or IDE. There are many Java IDEs
-available; at present time, most of the TEALS classrooms use Eclipse. Unit 1 includes directions for
-installing Eclipse. TEALS volunteer Gil Lund has prepared a video with a Hello World and walkthrough
-of some Eclipse: https://mix.office.com/watch/pje5izaj92jz/.
+available. Currently most of the TEALS classrooms use Eclipse. Unit 1 includes directions for
+installing Eclipse.
 
 ### Practice-It!
 
@@ -199,9 +202,8 @@ to complete Java exercises from the BJP textbook and get immediate feedback on t
 Detailed instructions for teacher and student registration on the site are included in Unit 1
 lessons.
 
-As of the 2015–2016 school year, TEALS classes do not have access to the Practice-It dashboard for
-tracking student progress on the exercises. Instead, instructors can use one of the following
-methods:
+AP CS A TEALS volunteers have been provided the documentation (on Canvas) for access to the
+Practice-It dashboard. As an alternative, other instructors can use one of the following methods:
 
 1. Students take screen shots of their total correct problems (a table is available on their home
    dashboard), and submit the screenshots by email or form submission on your chosen learning
@@ -225,7 +227,7 @@ encouraged to email the program's creator Alex Aiken directly, at
 
 
 ### Additional Resources
---------------------
+------------------------
 
 - The free web-based game Code Hunt (http://www.codehunt.com) offers opportunities for students to
   find and fix errors by “discovering the missing code segments.” Assignments/Levels are
@@ -257,7 +259,7 @@ encouraged to email the program's creator Alex Aiken directly, at
 - If you are stationed in a high-performing school, or in a school where many students have already
   mastered other programming languages, you may want to consider flipping (or inverting) your
   classroom. To learn more about the theory and practice of teaching in a flipped classroom,
-  Vanterbilt Univerisity offers a comprehensive introduction and links to practical
+  Vanderbilt University offers a comprehensive introduction and links to practical
   resources/examples here: http://cft.vanderbilt.edu/guides-sub-pages/flipping-the-classroom.
 
   You should still be able to use most of the resources offered in this curriculum, but you will
@@ -278,7 +280,16 @@ encouraged to email the program's creator Alex Aiken directly, at
   adjustments have been made for content, timing, and AP test prep.
 
 
-Giving feedback on the curriculum
+### Printing GitBook
+--------------------
+The AP CS A GitBook can be printed by navigating to 
+https://pdf.gitbook.cloud/preview?url=https://tealsk12.gitbook.io/apcsa/#. 
+However, the "Download" button does not work. There is workaround depending on the browser:
+- click on the document to enable the pdf menu to show and clicking the down arrow or "Save as Copy"
+- right click on the .pdf document and select "Save As"
+
+
+### Giving feedback on the curriculum
 ---------------------------------
 
 TEALS intends for this curriculum to be a starting point; it's our first attempt at a complete AP CS
@@ -291,6 +302,7 @@ on the TEALS dashboard, or to [APSquad@tealsk12.org](mailto:APSquad@tealsk12.org
 
 [20 Fun Free Tools for Interactive Classroom Collaboration]: http://tinyurl.com/k62tstg
 [AP Java Quick Reference]: http://apcentral.collegeboard.com/apc/public/repository/ap_comp_sci_a_quick_reference.pdf
+[Barron's AP Computer Science A review book]: https://www.amazon.com/dp/1438009194
 [Curriculum Map]: Curriculum-Map.md
 [Google Hangouts]: http://hangouts.google.com
 [Grudgeball]: https://www.youtube.com/watch?v=u_GzWwSrDlo
@@ -303,3 +315,4 @@ on the TEALS dashboard, or to [APSquad@tealsk12.org](mailto:APSquad@tealsk12.org
 [Timing and Pacing]: https://www.youtube.com/watch?v=LkGh03UZ724
 [Twiddla]: http://www.twiddla.com
 [Vyew]: http://www.vyew.com
+[AP CS A Course Audit Instructions]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/AP%20CS%20A%20Course%20Audit%20Instructions.docx

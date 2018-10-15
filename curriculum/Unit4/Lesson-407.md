@@ -266,10 +266,10 @@ Videos
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c10-2>
 
 - CSE 142, _ArrayList_ (6:40–25:29)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=efa0eeba-81bc-497c-a1ae-46cda247c563&start=400>
+  <https://www.youtube.com/watch?v=-CX7aZGrc_k&start=400>
 
 - CSE 142, _Wrapper Class_ (41:53–44:54)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=efa0eeba-81bc-497c-a1ae-46cda247c563&start=2510>
+  <https://www.youtube.com/watch?v=-CX7aZGrc_k&start=2510>
 
 
 Forum discussion

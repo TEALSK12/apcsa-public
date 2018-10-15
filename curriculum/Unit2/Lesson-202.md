@@ -47,7 +47,7 @@ Try to spice up the lesson by allowing students to work in pairs, or playing sof
 background to put students in the right headspace to settle down for work.
 
 Hook your class today by asking which of them are taking or have taken physics or chemistry. Ask
-students about working with Farenheit and Celsius temperatures—do they have to convert temperatures
+students about working with Fahrenheit and Celsius temperatures—do they have to convert temperatures
 in class? Which measurement are they more familiar with? Which do they use more often? Show students
 the online calculator and ask if they ever use such online tools, and tell students that they’re
 going to learn how this program is built today.
@@ -122,10 +122,10 @@ If you have students who are speeding through this lesson, you should encourage 
 
 - Complete Practice-It self-check problem “timesOperator.”
 
-- Challenge them to build their own program that converts Farenheit to Celsius (this version won’t
+- Challenge them to build their own program that converts Fahrenheit to Celsius (this version won’t
   take user input—yet!)
 
-- Have the student create a classroom poster diagraming the parts of variable declaration &
+- Have the student create a classroom poster diagramming the parts of variable declaration &
   assignment.
 
 If your class is struggling with learning syntax, you can split the lesson into 2 lessons, and/or
@@ -184,7 +184,7 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c2-2>
 
 - CSE 142, _Variables_ (5:12–12:48)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca84c6fe-878e-4bcf-92d4-a18edd3fef21&start=310>
+  <https://www.youtube.com/watch?v=0eUm1RFGkWw&start=310>
 
 - CS Homework Bytes, _Variable and Assignment, with Elizabeth_<br>
   <https://www.youtube.com/watch?v=fPqGiexXi_Y>

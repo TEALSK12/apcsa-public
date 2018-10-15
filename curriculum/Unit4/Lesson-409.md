@@ -8,7 +8,7 @@ Overview
   ArrayLists.
 
 ### Assessments — _Students will…_
-- **Complete** CollegeBoard’s AP CS A Magpie Chatbot Lab
+- **Complete** College Board’s AP CS A Magpie Chatbot Lab
 - **Answer** assessment questions on the fourth class exam
 
 ### Homework — _Students will…_

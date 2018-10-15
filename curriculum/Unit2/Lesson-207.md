@@ -113,16 +113,16 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c2-5>
 
 - CSE 142, _Managing Complexity: Problem Decomposition and Pseudocode_ (1:58–16:17)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3431711f-29f8-43a5-9855-4d09894ae29d&start=118>
+  <https://www.youtube.com/watch?v=xQPlOF9KpbM&start=118>
 
 - CSE 142, _Managing Complexity: Nested Loops_ (16:17–37:50)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3431711f-29f8-43a5-9855-4d09894ae29d&start=977>
+  <https://www.youtube.com/watch?v=xQPlOF9KpbM&start=977>
 
 - CSE 142, _Managing Complexity: Class Constant_ (Optional) (37:51–49:17)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3431711f-29f8-43a5-9855-4d09894ae29d&start=977>
+  <https://www.youtube.com/watch?v=xQPlOF9KpbM&start=2271>
 
 - CSE 142, _Managing Complexity: Review_ (Optional) (0:58–21:04)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=26cacdb4-6e47-405f-a788-912a9a158b41&start=58>
+  <https://www.youtube.com/watch?v=otR7yEbRZAs&start=58>
 
 
 Forum discussion

@@ -255,7 +255,7 @@ Teacher Prior CS Knowledge
   them.
 
 - When given a deck of random cards and asked to sort them, students usually come up with either
-  selection sort or insertion sort. However, the selectin sort used to sort the random cards is
+  selection sort or insertion sort. However, the selection sort used to sort the random cards is
   different from the actual algorithm used. Selection sort swaps the next smallest (or largest) item
   in the list. However, when students select the next smallest item, they insert it in the cards
   already sorted and shift the remaining cards down. You can implement a selection sort in this
@@ -275,14 +275,15 @@ Video
 - BJP 13-2, _Sorting_<br>
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c13-2>
 
-- CSE 143, _Bubble Sort_ (optional) (8:34–13:38)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1fdd364a-4d01-49cf-96b3-ce2f67b77dcf&start=514>
+- CSE 143, _Selection Sort_ (4:43:14–8:50)<br>
+  <https://www.youtube.com/watch?v=CTDtbbCKmSY&start=283>
 
-- CSE 143, _Insertion Sort_ (13:39–16:13)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1fdd364a-4d01-49cf-96b3-ce2f67b77dcf&start=819>
+- CSE 143, _Insertion Sort_ (9:26–12:00)<br>
+  <https://www.youtube.com/watch?v=CTDtbbCKmSY&start=566>
 
-- CSE 143, _Selection Sort_ (16:14–17:21)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1fdd364a-4d01-49cf-96b3-ce2f67b77dcf&start=974>
+- CSE 143, _Bubble Sort_ (optional) (14:04–16:18)<br>
+  <https://www.youtube.com/watch?v=CTDtbbCKmSY&start=844>
+
 
 
 Forum discussion

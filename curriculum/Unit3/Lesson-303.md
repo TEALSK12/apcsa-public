@@ -218,10 +218,10 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c3-2>
 
 - CSE 142, _Methods that Return Values_ (1:25-8:45)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dc713b99-c294-403f-82ee-52fc3323a19b&start=85>
+  <https://www.youtube.com/watch?v=kCqcmWk8qoY&start=85>
 
 - CSE 142: _Return value worked example_ (8:46-38:32)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dc713b99-c294-403f-82ee-52fc3323a19b&start=85>
+  <https://www.youtube.com/watch?v=kCqcmWk8qoY&start=526>
 
 
 Forum discussion

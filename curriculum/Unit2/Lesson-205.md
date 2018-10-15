@@ -194,7 +194,7 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c2-3>
 
 - CSE 142, _The for Loop_ (31:30–42:03)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca84c6fe-878e-4bcf-92d4-a18edd3fef21&start=1890>
+  <https://www.youtube.com/watch?v=0eUm1RFGkWw&start=1890>
 
 
 Forum discussion

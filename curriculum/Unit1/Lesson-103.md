@@ -215,7 +215,7 @@ respect to OOP.
 Video
 -----
 - CSE 142, _Hello World_ (29:24–36:09)<br>
-  https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dd78a77d-cd7a-4ff8-b853-5446801946fb&start=1765
+  https://www.youtube.com/watch?v=i2pQHeW5CeY&start=1765
 
 Forum discussion
 ---------------------------

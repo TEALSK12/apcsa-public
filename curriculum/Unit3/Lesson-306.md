@@ -154,7 +154,7 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c3-4>
 
 - CSE 142, _Scanner_ (0:21-23:06)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c247411-e890-4835-8a79-bee6e74066c2&start=21>
+  <https://www.youtube.com/watch?v=fo9_kOSs1Y8&start=21>
 
 
 Forum discussion

@@ -218,7 +218,7 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c9-2>
 
 - CSE 142, _Polymorphism_ (35:07–49:57)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8a0a0287-877b-42df-99fc-e9f551929bef&start=2107>
+  <https://www.youtube.com/watch?v=WPdv8X291hE&start=2107>
 
 
 Forum discussion

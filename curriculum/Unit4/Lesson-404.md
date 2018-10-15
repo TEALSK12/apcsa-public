@@ -116,19 +116,19 @@ The Java based calculator that uses median IVs and input EVs to calculate a Poke
 Video
 -----
 - CSE 142, _Array Initializer_ (3:26–5:43)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=206>
+  <https://www.youtube.com/watch?v=DieHL2VO83k&start=206>
 
 - CSE 142, _Passing array as parameter_ (5:44–9:05)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=344>
+  <https://www.youtube.com/watch?v=DieHL2VO83k&start=344>
 
 - CSE 142, _Arrays.toString()_ (21:19–25:27)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=1278>
+  <https://www.youtube.com/watch?v=DieHL2VO83k&start=1278>
 
 - CSE 142, _Values vs reference_ (25:28–39:18)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=1528>
+  <https://www.youtube.com/watch?v=DieHL2VO83k&start=1528>
 
 - CSE 142, _modifying array when passed as parameter_ (39:19–43:41)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acae034a-2b95-4eb3-b3f0-17a77a7b5ff3&start=2359>
+  <https://www.youtube.com/watch?v=DieHL2VO83k&start=2359>
 
 
 Forum discussion

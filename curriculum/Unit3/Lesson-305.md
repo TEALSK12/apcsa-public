@@ -181,7 +181,7 @@ Videos
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c3-3>
 
 - CSE 142, _Strings_ (18:40–33:05)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ca465e0-abac-4b46-b488-d4ba5c6c5aa6&start=1322>
+  <https://www.youtube.com/watch?v=Ezp8MU_J9mo&start=1322>
 
 - UW AP CS Prep, _Java String Processing_<br>
   <https://www.youtube.com/playlist?list=PL_bszZLe8OFfnueQ6fn7wNqu87k3X2Nin>

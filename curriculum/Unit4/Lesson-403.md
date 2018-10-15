@@ -228,7 +228,7 @@ Video
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c7-2>
 
 - CSE 142, _Random Access to Array_ (33:26-42:00)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=14058dec-efd5-4db3-b841-9d836e92bfb4&start=2006>
+  <https://www.youtube.com/watch?v=6M3KEfFpYiM&start=2006>
 
 
 Forum discussion

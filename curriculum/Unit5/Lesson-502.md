@@ -292,13 +292,13 @@ Videos
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c8-2>
 
 - CSE 142, _Object Oriented Programming State_ (19:54–26:25)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2071ef1c-2912-4b41-8052-d327180ea215&start=686>
+  <https://www.youtube.com/watch?v=0IGWknpGPhM&start=1194>
 
 - CSE 142, _Object Oriented Programming Behavior_ (31:44–42:44)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2071ef1c-2912-4b41-8052-d327180ea215&start=1905>
+  <https://www.youtube.com/watch?v=0IGWknpGPhM&start=1905>
 
 - CSE 142, _Object methods_ (45:32–49:41)<br>
-  <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2071ef1c-2912-4b41-8052-d327180ea215&start=2732>
+  <https://www.youtube.com/watch?v=0IGWknpGPhM&start=2732>
 
 
 Forum discussion
