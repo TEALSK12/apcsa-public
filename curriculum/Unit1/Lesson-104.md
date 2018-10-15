@@ -197,6 +197,31 @@ Teaching Tips
   - Random where you have a program that generates random groups where you keep generating so the
     two students that need to be separated are not in the same group.
 
+---
+
+#### Emphasize with students...
+
+#### Content - Self-documenting code
+
+Commenting your code is a very important step when programming. Adding descriptive comments to your code can help other programmers who might be collaborating on your project, or who might be updating your code at a later date.
+
+Comments will also come in very handy when you have to debug and fix errors in your program. With comments you can quickly see the function of each block of code and this will speed up the debugging process. Writing comments also clarifies your intention: some programmers realize errors in their code as they comment!
+
+---
+
+---
+
+#### Emphasize with students...
+
+#### Content - Debugging tools
+
+Debugging will play a very important part in the work you do as a computer programmer. As much as we like to think we can write code correctly the first time, this very rarely happens, even for experienced programmers. This is why debugging becomes a very important skill!
+
+The Eclipse IDE provides a number of tools to help you debug your programs. You will also learn about debugging skills and techniques such as outputting the contents of your variables to the screen to ensure appropriate values.
+
+All these tools and skills, when used together, will help you debug quicker and more effectively.
+
+---
 
 Misconceptions
 --------------

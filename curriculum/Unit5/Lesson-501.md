@@ -293,6 +293,13 @@ customized classes that they’ve built themselves.
    methods, and constructors they might use in the next class. Ask students to reflect on their
    current model and think of ways they could improve/change it.
 
+---
+
+#### Final Project
+         
+In your final project for this course you will be designing and programming a game similar to Pokemon. Each character will be implemented as an object so you will have to develop a good understanding of how these work.
+      
+--- 
 
 Accommodation and Differentiation
 ---------------------------------

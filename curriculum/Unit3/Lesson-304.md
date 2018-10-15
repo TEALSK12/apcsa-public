@@ -75,6 +75,20 @@ Student Programming Time \[45 minutes\]
 In an email, on the projector, or as a handout (WS 3.4), give students the following questions to
 work on individually, or in pairs.
 
+---
+
+#### Emphasize with students...
+
+#### Content  - Problem decomposition - Management of complexity
+
+By the end of this activity you will have created quite a complex program. But notice how the activity takes you through the smaller steps in building the program?
+
+The finished program is broken up into smaller steps, then they’re each completed individually. When they’re put together they create the larger program. This type of decomposition allows the programmer to manage complexity. Rather than considering the whole problem and program, the programmer can focus on each small component, then assemble them together at the end.
+
+Writing programs with methods allows us to divide the program up into smaller parts quite easily.
+
+---
+
 ----------------------------------------------------------------------------------------------------
 
 #### PROGRAMMING PROJECT
@@ -121,7 +135,6 @@ choose any 3 locations in Equestria.
 Extra credit: make this program compute 4 locations instead!
 
 ----------------------------------------------------------------------------------------------------
-
 
 Accommodation and Differentiation
 ---------------------------------

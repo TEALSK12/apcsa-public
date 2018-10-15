@@ -87,6 +87,16 @@ computer algorithms by playing Battleship.
 
 ### Student Activity 1: Battleship Linear Searching \[15 minutes\]
 
+---
+
+#### Emphasize with students...
+
+#### Big Ideas - Tools and technologies can be adapted for specific purposes
+
+When you first started looking at the linear and binary search algorithms, you probably didn’t consider how they could be used in a game of battleship. This is what many find so interesting about Computer Science. The algorithms and solutions can be adapted to solve a wide variety of problems!
+
+---
+
 1. On the projector or the board, review the rules for Battleships – A Linear Searching Game from
   the CS Unplugged activity. Distribute sheets 1A and 1B to student pairs (face down so students
   don’t see each other’s papers).

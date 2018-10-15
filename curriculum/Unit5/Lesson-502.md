@@ -215,6 +215,21 @@ class, for example Pikachu, Bulbasaur.)
      you call new Pokémon() anymore. Instead, your code just won’t compile.
 
 ### Student Practice: WS 5.2 \[25 minutes\]
+
+---
+
+#### Emphasize with students...
+
+#### Big Ideas - Personal design interests require the evaluation and refinement of skills
+
+This activity helps you develop specific classes and methods that will implement parts of a pokemon game. As you progress through the remainder of the course, you will learn more about the components required to create a full game.
+
+As you complete these tasks, think carefully about the skills you are developing. What components of the pokemon game implementation have been difficult for you to implement? What components seem easy? What can you do to improve your skills so that you can add extensions and additions to the program that go beyond the basic instructions?
+
+Constantly evaluating and refining your skills will allow you to create more complex programs and will allow you to be creative when it’s time to implement your final project in the course.
+
+---
+
 1. Remind students to use their textbooks, notes, classroom resources, and online aids to help them
    answer the questions on WS 5.2.
 

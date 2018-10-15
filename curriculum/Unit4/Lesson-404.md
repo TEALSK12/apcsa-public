@@ -105,6 +105,13 @@ and that the numbers in the array are between 0 and 99, inclusive. For example, 
 
 _Hint: Check out the Tally program in chapter 7 for some ideas on what code to use._
 
+---
+
+#### Final Project
+         
+The Java based calculator that uses median IVs and input EVs to calculate a Pokemon's stats on a given level provides you with an in depth look of how complex some calculations can get in these types of games. As you continue to think about your final project in the course, consider how you will use calculations to determine a characters health or attack values. 
+      
+---
 
 Video
 -----

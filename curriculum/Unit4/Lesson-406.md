@@ -52,6 +52,18 @@ lesson finishes early.
 
 ### Introduction/Review of Objects & String Processing \[10 minutes\]
 
+---
+
+#### Emphasize with students...
+
+#### Content - Advanced programming structures - Uses of pre-built data structures
+
+Multidimensional arrays have quite a few uses. They can serve as grids for seating plans or for board games such as chess and checkers. Some students enjoy recreating the game of battleship using two dimensional arrays.
+
+As you learn about their use, remember to consider how you might use multidimensional arrays in your future projects.
+
+---
+
 1. Two dimensional arrays come in handy when tracking certain types of data; adjust the explanation
    so it’s relevant to your students (a grocery store, a Starbucks, a farmer’s market).
 

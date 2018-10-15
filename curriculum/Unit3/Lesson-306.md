@@ -118,6 +118,15 @@ Procedure
 
    - If students need another example, work through the book example for mortgage payments, having
      students write more of the code than in the previous example.
+     
+---
+
+#### Final Project
+
+Pay close attention to the formulas used when calculating experience points and other values in the Pokemon game. The final project in this course will involve you creating a similar game to Pokemon, so these formulas will be very worthwhile to understand.
+
+---
+
 
 ### Student Practice \[35 minutes\]
 

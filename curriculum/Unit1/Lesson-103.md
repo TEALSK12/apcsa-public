@@ -176,6 +176,8 @@ CS curriculum. Students will be entering the AP CS course with varying degrees o
 framing mathematical challenges in this familiar framework is helpful for avoiding stereotype threat
 and math anxiety.
 
+In the final project of the course, students will be developing software that uses gameplay ideas similar to those in the Pokemon game.
+
 To learn more about the Pokemon storyline, game rules, underlying formulae, and characters, visit
 <http://bulbapedia.bulbagarden.net>.
 

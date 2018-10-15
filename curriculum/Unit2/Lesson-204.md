@@ -133,6 +133,18 @@ happening on the video.
 
 ### Activity 2 \[15 minutes\]
 
+---
+
+#### Emphasize with students...
+
+#### Content - Management of Complexity
+
+This activity will provide you with some experience with mixing variables and casting. As you create larger programs for other people, you will be manipulating different kinds of data and information. This will add complexity to your program, which is why it’s important to learn how to handle the variety of data types used in your program.
+
+Imagine you ask a user to enter their age, you would expect them to enter an integer such as “34” or “14”. But it might surprise you when a user types “Fifteen”, “Sixty-seven” or “9.5”. To avoid your program from crashing, you want to be able to add complexity to the program so that you can handle these errors effectively. 
+
+---
+
 1. Have students return to WS 2.4, starting on the unicorn/casting segment of the exercise.
 
 2. Work through 1 or 2 problems as a whole group before you leave students to their own devices.

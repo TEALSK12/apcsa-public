@@ -56,6 +56,18 @@ going to learn how this program is built today.
 
 ### Introduction and Worksheet Exercises \[25 minutes\]
 
+---
+
+#### Emphasize with students...
+
+#### Content - Debugging Tools
+
+As you continue to program in Eclipse you will notice some of the debugging tools that are available to you. One of these tools is the syntax coloring whereby syntax errors will be highlighted or underlined a specific color. This draws the programmer’s attention to the error and allows for quicker fixes.
+
+Even though these tools exist, it is still important for you to get good at identifying syntax and other errors. This will speed up the development process and will result in fewer errors in the final program.
+
+---
+
 1. Using WS 2.2, walk students through the proper way to declare a variable.
 
    - Be sure to spot-check for understanding by having students give you the definitions of **type**,
@@ -82,7 +94,7 @@ going to learn how this program is built today.
 
 At this point, your class may be raring to get started on the rest of the assignment without your
 help. If they are, great! Post the Practice-it questions on the board so they can continue to that
-assignment once they have completed the worksheet. If you class wants you to walk them through
+assignment once they have completed the worksheet. If your class wants you to walk them through
 string concatenation, go through the examples as above.
 
 ### Practice-It Exercises \[20 minutes\]

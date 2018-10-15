@@ -4,7 +4,8 @@ Lesson 2.09 — Programming Project
 Overview
 --------
 ### Objectives — _Students will be able to…_
-- **Plan and construct** a structured program containing nested loops.
+- **Ideate, plan and construct** a structured program containing nested loops.
+- **Share and evaluate** one another's code
 
 ### Assessments — _Students will…_
 - **Submit** a complete, functional program by the end of class.

@@ -122,6 +122,18 @@ students work together with the guidance of WS 5.3.1
 
 ### Student Work \[30 minutes\]
 
+---
+
+#### Empasize with students...
+
+#### Big Ideas - Tools and technologies can be adapted for specific purposes
+
+In this activity you and your classmates will be creating your own classes and objects. This is a great example of a how a technology like Object Oriented Programming can be adapted to serve a wide variety of purposes.
+
+As you learn about the other classes and objects created by your classmates, and as you compare it to your own, think carefully about how different people implement technology in different ways. Your classmates will probably present ideas that you had never thought of. That’s exciting!
+
+---
+
 1. If you have a sample (that you did yourself, or that you saved from previous students’ work),
    hold it up as an example for the class, but do not let students look too closely. The idea here
    is for students to see that there are different sheets of paper and steps to the project; you
@@ -209,7 +221,7 @@ Teacher Prior CS Knowledge
 Misconceptions
 --------------
 Students adding void return type to constructor definition. Students are in the habit of specifying
-a return type for methods. The one case where the return type is not need is when defining the
+a return type for methods. The one case where the return type is not needed is when defining the
 class’ constructor. If a return type is specified, the method is treated as a method of the class
 and not as a constructor. The code will compile but the constructor will never be called.
 

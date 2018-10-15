@@ -25,7 +25,7 @@ Materials & Prep
 - **Projector and computer**
 - **Student Computers** with Eclipse installed
 - **Classroom copies** of [WS 1.1.1] and [WS 1.1.2]
-- **USB Drives** for each student (if applicable to school)
+- **USB Drives or Network Drives** for each student (if applicable to school)
 - **Handout/Slide Deck** demonstrating file submission procedure
 
 If your school does not have a designated IT specialist available to install Eclipse on the
@@ -44,6 +44,17 @@ have not included a procedure for file submission. You should prepare a handout 
 assess understanding of your procedure. 10 minutes of this lesson have been reserved for you to
 teach these procedures.
 
+---
+
+#### Emphasize with students...
+
+#### Big Ideas - Tools and technologies can be adapted for specific purposes
+
+As you begin your journey in this course, think carefully about the tools you use to program. A carpenter, a bricklayer, a painter… all of these people need tools in order to create and build. In much the same way, a computer programmer requires tools to create and build programs.
+
+The Eclipse IDE is a tool that programmers can use to create computer software. Just like how a saw or a hammer or a paint brush can be used to create a wide variety of things, the Eclipse IDE can be used to create a wide variety of software applications.
+
+---
 
 Pacing Guide
 ------------
@@ -73,20 +84,44 @@ Procedure
 
 ### Plug-In & Un-Plug Procedure \[10 minutes\]
 
+---
+
+#### Emphasize with students...
+
+#### Content - Collaboration Tools for programming
+
 1. Using WS 1.1.2, model the steps for:
+
    - Opening Eclipse and a workspace
    - Creating and saving a program
    - Ejecting the USB (if applicable)
-
+   
 2. Have students demonstrate the Plug In and Un-Plug procedures for you before you move on to the
    Practice-It exercise.
 
 If your classroom has a projector hooked up to the teacher’s computer, project each step as you
 model it for the students.
 
+Can you think of other ways that you might collaborate with others in this course as you create and share programs? What methods are used in the field of programming when there are several of programmers working on developing the same software application?
+
 Wait until all students have completed a step before moving on to another step.
 
 Expect this exercise to take 10 minutes or longer.
+
+---
+
+---
+
+#### Emphasize with students...
+
+#### Big Ideas - Personal design interests require the evaluation and refinement of skills
+
+Practice-It is a place that will allow you to practice and refine your computer programming and computer science skills beyond the resources within this course. It’s important for you to use Practice-It, and to find other sources of computer programming help and information.
+
+
+Throughout this course you will create a wide range of programs, and you will want to extend projects and add your own creative touch to each one. As you do this, it’s important to carefully evaluate and build on the skills that you have. Resources like Practice-It can help you develop further as a programmer, which will allow you to create even more engaging software applications.
+
+---
 
 ### Practice-It \[10 minutes\]
 
@@ -96,7 +131,7 @@ Expect this exercise to take 10 minutes or longer.
 2. Have all students submit a Practice-It problem to demonstrate that they know how to use
    Practice-It.
 
-Wait until all students have completed a step before moving on to another step.
+Wait until all students have completed this step before moving on to another step.
 
 If you have extra time in class, introduce a “Scavenger Hunt” on Practice-It, and have students find:
    - Where their account information is located
