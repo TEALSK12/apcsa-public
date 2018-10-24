@@ -1,25 +1,25 @@
 Lesson 5.XX — Programming Project (PictureLab Alternative)
 ====================================================================================================
- ## Overview
+ ##Overview##
 This lesson is intended to be a smaller scale alternative (2-3 hours) to PictureLab from the original AP computer science course.  Starting from 2014-2015 the College Board announced that 20 hours of hands-on lab time may replace the original required labs (MagPie, PictureLab, Elevens). In this lesson document, we recommend some open-ended alternatives.
  --------
-### Objectives — _Students will be able to…_
+## Objectives — _Students will be able to…_
 - **Conduct user-centred research** to identify specific functions for a specialized application
 - **Plan and create** a calculator that perform specialized operations for an end-user
 - **Test, evaluate, and share** the end product
- ### Assessments — _Students will…_
+ ## Assessments — _Students will…_
 - **Apply** 2-dimentional arrays, traversal, binary representations of data (images, characters)
 - **Submit** a complete, functional program 
- ### Pacing Suggestion
+ ## Pacing Suggestion
 - The duration of this project is at the discretion of the teacher.  We recommend 2 hours for class time design and implementation, and   1-2 hours for out of class time to connect with end-user.
 - Project involves conducting research work (survey or interviews), and communicating with end-user, out of the classroom. 
  ## Implementation Details
- ### Complexity and Creativity
+ ## Complexity and Creativity
 Students should come up with the idea themselves, based on user-centred research, and ideate a specialized application to address the needs of a specific user group. 
    
 Students will follow applied design process to implement the idea.  You should talk to your teacher often to ensure that your progress is in-line with expectations.   
    
-### Documentation and Style
+## Documentation and Style
 As with all projects, your program must be well-written, well-documented, and readable.  Writing code with good style is always good idea. This will help you debug, pick up where you left off each day, and keep track of progress.
  --- 
  STEP 1 - UNDERSTANDING CONTEXT
@@ -43,8 +43,8 @@ As with all projects, your program must be well-written, well-documented, and re
   
 After you have some initial ideas, interview some potential end-user to clarify your project specifications.
  ---
-#### Emphasize with students...
- #### Big Ideas - personal design interests require the evalution and refinement of skills
+## Emphasize with students...
+ ## Big Ideas - personal design interests require the evalution and refinement of skills
  The possibilities are endless.
 We live in a world that operates on the written or spoken word.
 The computer and internet has forced us to digitize the words we use into zero's and one's for transmission purposes.  But at a higher level, most people are working with "strings"  (a collection of character symbols, making up a word). Sometimes words are easily understood and recognized,  sometimes it is not.  
