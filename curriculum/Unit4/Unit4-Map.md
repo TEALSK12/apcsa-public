@@ -30,6 +30,7 @@ classroom.
 | [4.09] 05|[Magpie Chatbot Lab] (day&nbsp;5)|Magpie Chatbot Lab Activity 5||Check and correct Barrons ch.6 questions
 | [4.10] |Review|Review questions [WS 4.10] practice test||Study
 | 4.99 |Unit 4 test|Test 3 Section I<br>Test 3 Section II||
+| [4.XX] |[Programming Project(Magpie Alternative)]|
 
 ## 4.00
 | [Lesson 4.00]   | _Test Review & Reteach_
@@ -179,6 +180,15 @@ classroom.
 | Unit 4 Test     | _Arrays, Lists & Files_
 |:----------------|:-----------------------
 | **In Class**    | Test 3 Section I<br>Test 3 Section II
+
+## 4.XX
+|  Lesson 4.XX    |_Programming Project(Magpie Alternative)_
+|:----------------|:------------------------
+| **Objectives**  | Students will be able to conduct user-centered research, plan and create, test evaluate and share
+| **Assessments** | Students will apply if-else, String methods to implement a software application and Submit a complete, functional program.
+| **In Class**    | 
+| **Reading**     | 
+| **Homework**    | Conduct user-centered research to find design opportunities and barriers.
 
 ## Abbreviations
 - **WS** — Worksheet
