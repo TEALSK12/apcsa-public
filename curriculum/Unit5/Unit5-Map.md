@@ -205,6 +205,7 @@ classroom.
 [5.05]: Lesson-505.md
 [5.06]: Lesson-506.md
 [5.07]: Lesson-507.md
+[5.XX]: Lesson-5XX.md
 [Curriculum Assets]: ../Assets.md
 [Lesson 5.00]: Lesson-500.md
 [Lesson 5.01]: Lesson-501.md
@@ -214,6 +215,7 @@ classroom.
 [Lesson 5.05]: Lesson-505.md
 [Lesson 5.06]: Lesson-506.md
 [Lesson 5.07]: Lesson-507.md
+[Lesson 5.XX]: Lesson-5XX.md
 [Picture Lab]: Assets.md#picturelab
 [Unit 5 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/Unit5.pptx
 [Unit 5 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/Unit%205%20Word%20Bank.docx
