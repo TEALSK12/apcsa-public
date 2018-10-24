@@ -35,6 +35,11 @@ classroom.
 | [3.18] |Review|(Review questions), [WS 3.18] practice test||Study |
 | 3.99 |Unit 3 test|[Test 2 Guide]<br>Test 2 Section I<br>Test 2 Section II|| |
 | 3.XX | [Frac Calc] | | | |
+| 3.XX1 | [Unit 3 Project Alternative]  | work on project | conduct research | Continue working on project |
+
+Students are expected to work on project in class.
+| **Reading**     | Students are expected to conduct research.
+| **Homework**    | Continue working on project.
 
 ## 3.00
 | [Lesson 3.00]   | _Test Review & Reteach_
@@ -222,6 +227,15 @@ classroom.
 |:----------------|:-----------
 | **In Class**    | [Frac Calc]
 
+## 3.XX1
+| [Unit 3 Project Alternative] | _Programming Project (FracCalc Alternative)_
+|:----------------|:-----------
+| **Objectives**  | Students will conduct user-centred research, plan and create, and test, evaluate, and share the end product.
+| **Assessments** | Students will submit project for end of Unit 3 assessment.
+| **In Class**    | Students are expected to work on project in class.
+| **Reading**     | Students are expected to conduct research.
+| **Homework**    | Continue working on project.
+
 ## Abbreviations
 - **WS** — Worksheet
 - **SC** — Self-Check problem (in the textbook)
@@ -254,6 +268,7 @@ classroom.
 [DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
 [Equestria]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Map%20of%20Equestria.pptx
 [Frac Calc]: ../Assets.md#fraccalc
+[Unit 3 Project Alternative]: Lesson-3XX1.md
 [Lesson 3.00]: Lesson-300.md
 [Lesson 3.01]: Lesson-301.md
 [Lesson 3.02]: Lesson-302.md

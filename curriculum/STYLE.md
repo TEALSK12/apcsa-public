@@ -22,7 +22,7 @@ ensure this, the general rule is to use your best judgement to create good-looki
 ### Use native Unicode encoding where possible
 Unicode and UTF-8 encoding has freed us from the restrictions of the old ASCII character set. We are
 free to use Unicode characters natively in the Markdown source text, and _should_, wherever
-possible. For example, EM DASH (—), RIGHTWARDS ARROW (→), ALMOST EQUAL TO (≈), HORIZONTAL ELLILPSIS
+possible. For example, EM DASH (—), RIGHTWARDS ARROW (→), ALMOST EQUAL TO (≈), HORIZONTAL ELLIPSIS
 (…) and so forth. If you cannot for some reason enter Unicode characters easily in your editor, you
 can also use HTML character entity references such as `&mdash;` (&mdash;), `&rarr`; (&rarr;),
 `&asymp;` (&asymp;), `&hellip;` (&hellip;), and so forth.

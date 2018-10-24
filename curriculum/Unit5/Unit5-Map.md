@@ -30,11 +30,11 @@ classroom.
 | [5.06] 09|[Picture Lab] (day 9)|Picture Lab Activity 9, cont.||Submit questions for review
 | [5.07]   |Review|Review question<br>[WS 5.7] Test practice||Study
 |  5.99    |(Unit 5 test)|Test 4 Section I<br>Test 4 Section II||
-
+| [5.XX]   |[Programming Project](PictureLab Alternative) |
 ## 5.00
 | [Lesson 5.00]   | _Test Review & Reteach_
 |:----------------|:-----------------------
-| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4.
+| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
 | **In Class**    | Review test
 | **Reading**     | 8.1
@@ -180,6 +180,15 @@ classroom.
 |:----------------|:-----------------------------
 | **In Class**    | Test 4 Section I<br>Test 4 Section II
 
+## 5.XX
+| [Lesson 5.XX]   | _Programming Project(PictureLab Alternative)_
+|:----------------|:---------------------------------------------
+| **Objectives**  | Students will be able to conduct user-centered research, plan and create, test, evaluate and share. 
+| **Assessments** | Apply 2-dimensional arrays, traversal, binary representations of data and submit a complete functional program.
+| **In Class**    | Project Design
+| **Reading**     |
+| **Homework**    | Conduct research work(survey or interviews) and communicating with end-user
+
 
 ## Abbreviations
 - **WS** — Worksheet
@@ -196,6 +205,7 @@ classroom.
 [5.05]: Lesson-505.md
 [5.06]: Lesson-506.md
 [5.07]: Lesson-507.md
+[5.XX]: Lesson-5XX.md
 [Curriculum Assets]: ../Assets.md
 [Lesson 5.00]: Lesson-500.md
 [Lesson 5.01]: Lesson-501.md
@@ -205,6 +215,7 @@ classroom.
 [Lesson 5.05]: Lesson-505.md
 [Lesson 5.06]: Lesson-506.md
 [Lesson 5.07]: Lesson-507.md
+[Lesson 5.XX]: Lesson-5XX.md
 [Picture Lab]: Assets.md#picturelab
 [Unit 5 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/Unit5.pptx
 [Unit 5 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/Unit%205%20Word%20Bank.docx
