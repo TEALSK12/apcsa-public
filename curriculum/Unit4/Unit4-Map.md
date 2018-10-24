@@ -168,7 +168,7 @@ classroom.
 | **Homework**    | Check and correct Barrons ch.6 questions
 
 ## 4.10
-|  Lesson 4.10    | _Review_
+| [Lesson 4.10]  | _Review_
 |:----------------|:--------
 | **Objectives**  | Students will identify weaknesses in their Unit 4 knowledge.
 | **Assessments** | Students will create a personalized list of review topics to guide tonight’s study session.
@@ -177,12 +177,12 @@ classroom.
 | **Homework**    | Study
 
 ## 4.99
-| Unit 4 Test     | _Arrays, Lists & Files_
+| [Unit 4 Test]   | _Arrays, Lists & Files_
 |:----------------|:-----------------------
 | **In Class**    | Test 3 Section I<br>Test 3 Section II
 
 ## 4.XX
-|  Lesson 4.XX    |_Programming Project(Magpie Alternative)_
+| [Lesson 4.XX]    |_Programming Project(Magpie Alternative)_
 |:----------------|:------------------------
 | **Objectives**  | Students will be able to conduct user-centered research, plan and create, test evaluate and share
 | **Assessments** | Students will apply if-else, String methods to implement a software application and Submit a complete, functional program.
@@ -209,6 +209,7 @@ classroom.
 [4.08]: Lesson-408.md
 [4.09]: Lesson-409.md
 [4.10]: Lesson-410.md
+[4.XX]: Lesson-4XX.md
 [Curriculum Assets]: ../Assets.md
 [Lesson 4.00]: Lesson-400.md
 [Lesson 4.01]: Lesson-401.md
@@ -221,6 +222,7 @@ classroom.
 [Lesson 4.08]: Lesson-408.md
 [Lesson 4.09]: Lesson-409.md
 [Lesson 4.10]: Lesson-410.md
+[Lesson 4.XX]: Lesson-4XX.md
 [Magpie Chatbot Lab]: ../Assets.md#magpie
 [Poster 4.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.1.pptx
 [Poster 4.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.2.pptx
