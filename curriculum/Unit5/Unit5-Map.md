@@ -30,7 +30,7 @@ classroom.
 | [5.06] 09|[Picture Lab] (day 9)|Picture Lab Activity 9, cont.||Submit questions for review
 | [5.07]   |Review|Review question<br>[WS 5.7] Test practice||Study
 |  5.99    |(Unit 5 test)|Test 4 Section I<br>Test 4 Section II||
-
+| [5.XX]   |[Programming Project(PictureLab Alternative)] |
 ## 5.00
 | [Lesson 5.00]   | _Test Review & Reteach_
 |:----------------|:-----------------------
@@ -179,6 +179,15 @@ classroom.
 | Unit 5 Test     | _Object Oriented Programming_
 |:----------------|:-----------------------------
 | **In Class**    | Test 4 Section I<br>Test 4 Section II
+
+## 5.XX
+| [Lesson 5.XX]   | _Programming Project(PictureLab Alternative)_
+|:----------------|:---------------------------------------------
+| **Objectives**  | Students will be able to conduct user-centered research, plan and create, test, evaluate and share. 
+| **Assessments** | Apply 2-dimensional arrays, traversal, binary representations of data and submit a complete functional program.
+| **In Class**    | Project Design
+| **Reading**     |
+| **Homework**    | Conduct research work(survey or interviews) and communicating with end-user
 
 
 ## Abbreviations
