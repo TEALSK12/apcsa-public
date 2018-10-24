@@ -64,13 +64,15 @@ Let your creative juices flow!
 
 Choose a design opportunity and point of view, make inferences about limitations and boundaries.  Take creative risks to indentify gaps to explore, generate a range of possibilities, prioritize ideas for prototyping.
 Using the responses from your end-user interview, begin to develop a plan for your custom application.  Given the duration of the project, you should limit your calculator to do *an interesting activity* for a *specific end-user*.  At this point you will only be be to implement a text-based user interface (ie, no graphical elements, like buttons or scrollbars).  Keep it simple and easy to use. 
- List:
+
+List:
    *	the types of calculator functions it will do:
-       * what will the user input be?
-       * what output will be?
-       *	what user interaction with the program will the user have?
-       * how do you start the activity?
-       * how does the activity end?
+   * what will the user input be?
+   * what output will be?
+   *	what user interaction with the program will the user have?
+   * how do you start the activity?
+   * how does the activity end?
+   
 Share these ideas with your end user. Record their comments, suggestions and feedback and note any changes that you may make as a result of this interview. Identify any issues or problems that might arise as you begin to program (what areas might require more information or programming solutions? Where can you find this information?) 
 
  ---
