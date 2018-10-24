@@ -22,6 +22,8 @@ classroom.
 | [1.08] | _Finding & Fixing Errors_             | Fix homework | Review ch 1 | Submit questions for review |
 | [1.09] | _Review_                              | Review questions<br>[WS 1.9]<br>Practice test | | Study |
 | [1.99] | _Unit 1 Test_                         | Test 0 Section I<br>Test 0 Section II | | |
+| [1.XX] |_Open Ended Programming Project(Lesson 1.07 Alternative)_ |
+           
 
 ## 1.01
 | [Lesson 1.01]   | _Using Eclipse & Practice-It_
@@ -108,6 +110,15 @@ classroom.
 | Unit 1 Test     | _Programming & Java_
 |:----------------|:--------------------
 | **In Class**    | Test 0 Section I<br>Test 0 Section II
+
+## 1.XX
+| [Lesson 1.XX]   | _Open Ended Programming Project(Lesson 1.07 Alternative)_
+|:----------------|:-------------------------------------------------------------
+| **Objectives**  | Students will be able to ideate and construct 
+| **Assessments** | Submit a complete, functional program by the end of class
+| **In Class**    | Check class notes for completion
+| **Reading**     |
+| **Homework**    | All students must turn in notes for each day of class
 
 ## Abbreviations
 - **WS** — Worksheet
