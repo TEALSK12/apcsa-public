@@ -114,7 +114,7 @@ classroom.
 ## 1.XX
 | [Lesson 1.XX]   | _Open Ended Programming Project(Lesson 1.07 Alternative)_
 |:----------------|:-------------------------------------------------------------
-| **Objectives**  | Students will be able to ideate and construct 
+| **Objectives**  | Students will be able to ideate and construct a program containing method calls and static methods.
 | **Assessments** | Submit a complete, functional program by the end of class
 | **In Class**    | Check class notes for completion
 | **Reading**     |
@@ -138,6 +138,7 @@ classroom.
 [1.08]: Lesson-108.md
 [1.09]: Lesson-109.md
 [1.99]: #199
+[1.XX]: Lesson-1XX.md
 [Curriculum Assets]: ../Assets.md
 [Lesson 1.01]: Lesson-101.md
 [Lesson 1.02]: Lesson-102.md
@@ -148,6 +149,7 @@ classroom.
 [Lesson 1.07]: Lesson-107.md
 [Lesson 1.08]: Lesson-108.md
 [Lesson 1.09]: Lesson-109.md
+[Lesson 1.XX]: Lesson-1XX.md
 [Unit 1 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/Unit1.pptx
 [Unit 1 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/Unit%201%20Word%20Bank.docx
 [WS 1.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.1.docx
