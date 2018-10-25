@@ -80,7 +80,7 @@
 * [Lesson 4.09: Magpie Lab (5 Days)](Unit4/Lesson-409.md)
 * [Lesson 4.10: Review](Unit4/Lesson-410.md)
 * [Lesson 4.99: (Unit 4 test)](Curriculum-Map.md#499)
-* [Lesson 4 xx: Programming Project(Magpie Alternative)](Unit4/Lesson-4XX.md)
+* [Lesson 4.XX: Programming Project(Magpie Alternative)](Unit4/Lesson-4XX.md)
 
 ## Unit 5: Object-Oriented Programming (4 weeks)
 * [Lesson 5.00: Test Review & Reteach](Unit5/Lesson-500.md)
@@ -92,7 +92,7 @@
 * [Lesson 5.06: Picture Lab (9 Days)](Unit5/Lesson-506.md)
 * [Lesson 5.07: Review](Unit5/Lesson-507.md)
 * [Lesson 5.99: (Unit 5 test)](Curriculum-Map.md#599)
-* [Lesson 5 xx: Programming Project(Picture Lab Alternative)](Unit5/Lesson-5XX.md) 
+* [Lesson 5.XX: Programming Project(Picture Lab Alternative)](Unit5/Lesson-5XX.md) 
 
 ## Unit 6: Inheritance & Polymorphism (4 weeks)
 * [Lesson 6.00: Test Review & Reteach](Unit6/Lesson-600.md)
