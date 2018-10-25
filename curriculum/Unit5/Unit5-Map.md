@@ -30,7 +30,7 @@ classroom.
 | [5.06] 09|[Picture Lab] (day 9)|Picture Lab Activity 9, cont.||Submit questions for review
 | [5.07]   |Review|Review question<br>[WS 5.7] Test practice||Study
 |  5.99    |(Unit 5 test)|Test 4 Section I<br>Test 4 Section II||
-| [5.XX]   |[Programming Project](PictureLab Alternative) |
+| [5.XX]   |[Programming Project](PictureLab Alternative) |||
 ## 5.00
 | [Lesson 5.00]   | _Test Review & Reteach_
 |:----------------|:-----------------------
