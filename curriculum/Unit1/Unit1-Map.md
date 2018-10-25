@@ -22,7 +22,7 @@ classroom.
 | [1.08] | _Finding & Fixing Errors_             | Fix homework | Review ch 1 | Submit questions for review |
 | [1.09] | _Review_                              | Review questions<br>[WS 1.9]<br>Practice test | | Study |
 | [1.99] | _Unit 1 Test_                         | Test 0 Section I<br>Test 0 Section II | | |
-| [1.XX] |_Open Ended Programming Project(Lesson 1.07 Alternative)_ |
+| [1.XX] | _Open Ended Programming Project(Lesson 1.07 Alternative)_ ||||
            
 
 ## 1.01
