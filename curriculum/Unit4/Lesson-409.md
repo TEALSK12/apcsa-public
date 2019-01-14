@@ -33,7 +33,7 @@ Pacing Guide: Day 1
 |----------------------------------------|----------------------:|
 | Student Activity 1 & 2                 | Full class - students |
 | Notebook checks                        | Full class - teacher  |
-| Homework:<br>_Read Ch. 6 in the Barron Review Book_ | TONIGHT  |
+| Homework:<br>_Read Ch 6 (8th: ch 7) in the Barron Review Book_ | TONIGHT  |
 
 Pacing Guide: Day 2
 -------------------
@@ -41,7 +41,7 @@ Pacing Guide: Day 2
 |------------------------------------------------|----------------------:|
 | Student Activity 2, continued                  | Full class - students |
 | Notebook checks                                | Full class - teacher  |
-| Homework:<br>_Complete practice questions \#1-18 in Barron_ | TONIGHT  |
+| Homework:<br>_Complete practice questions \#1-18 in Barron 6 (8th: ch 7)_ | TONIGHT  |
 
 Pacing Guide: Day 3
 -------------------
@@ -49,7 +49,7 @@ Pacing Guide: Day 3
 |-------------------------------------------------|----------------------:|
 | Student Activity 3                              | Full class - students |
 | Notebook checks (if not completed)              | Full class - teacher  |
-| Homework:<br>_Complete practice questions \#19-37 in Barron_ |  TONIGHT |
+| Homework:<br>_Complete practice questions \#19-37 in Barron 6 (8th: ch 7)_ |  TONIGHT |
 
 Pacing Guide: Day 4
 -------------------
@@ -57,7 +57,7 @@ Pacing Guide: Day 4
 |---------------------------------------|----------------------:|
 | Student Activity 4                    | Full class - students |
 | Notebook checks (if not completed)    | Full class - teacher  |
-| Homework:<br>_Check and correct answers in Barron_ |  TONIGHT |
+| Homework:<br>_Check and correct answers in Barron 6 (8th: ch 7)_ |  TONIGHT |
 
 Pacing Guide: Day 5
 -------------------
