@@ -19,8 +19,8 @@ classroom.
 | [8.04] |MergeSort|Implement mergeSort||SC 13.27-13.30<br>Notebook Check
 | [8.05] |Finding & Fixing Errors|Fix HW|Review ch 12.1, 12.2|Submit questions for review
 | [8.06] |Review||Study|
-| [8.07] |Quiz|[Quiz 8.5]|Barrons ch 7|
-| [8.08] |Quiz Review & Reteach|Review quiz||Barrons ch 7|
+| [8.07] |Quiz|[Quiz 8.5]|Barrons ch 7 (8th: ch 8)|
+| [8.08] |Quiz Review & Reteach|Review quiz||Barrons ch 7 (8th: ch 8)|
 
 ## 8.00
 | [Lesson 8.00]   | _Test Review & Reteach_
@@ -89,6 +89,7 @@ classroom.
 | Lesson 8.07     | _Review & Quiz_
 |:----------------|:---------------
 | **In Class**    | [Quiz 8.5]
+| **Reading**    | Barrons ch 7 (8th: ch 8)
 
 ## 8.08
 | [Lesson 8.08]   | _Quiz Review & Reteach_
@@ -97,7 +98,7 @@ classroom.
 | **Assessments** | Re-submit quiz answers with updated corrections for partial or full credit.
 | **In Class**    | Review quiz
 | **Reading**     |
-| **Homework**    | Barrons ch 7
+| **Homework**    | Barrons ch 7 (8th: ch 8)
 
 ## Abbreviations
 - **WS** — Worksheet
