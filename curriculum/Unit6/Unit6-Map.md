@@ -22,10 +22,10 @@ classroom.
 | [6.05] |Has-a Relationships|[WS 6.5]<br>ValueMeal exercise? |9.5|
 | [6.06] |Interfaces|[Interface examples]<br>[Poster 6.6]|9.6|Generate own class hierarchy like Financial hierarchy in book
 | [6.07] 01|Programming project (day 1)|PP 9.1, notebook checks||Outline ch 9
-| [6.07] 02|Programming project (day 2)|PP 9.1, outline checks|Read and outline Barrons ch 4|
-| [6.07] 03|Programming project (day 3)|PP 9.3||Barrons ch 4 exam, self-grade 
-| [6.07] 04|Programming project (day 4)|E 9.8|Read and outline Barrons ch 3|
-| [6.07] 05|Programming project (day 5)|Barrons ch 3 exam, outline checks|Review ch 9|Submit questions for review
+| [6.07] 02|Programming project (day 2)|PP 9.1, outline checks|Read and outline Barrons ch 4 (8th or later: ch 5)|
+| [6.07] 03|Programming project (day 3)|PP 9.3||Barrons ch 4 (8th or later: ch 5) exam, self-grade 
+| [6.07] 04|Programming project (day 4)|E 9.8|Read and outline Barrons ch 3 (8th or later: ch 4)|
+| [6.07] 05|Programming project (day 5)|Barrons ch 3 (8th or later: ch 4) exam, outline checks|Review ch 9|Submit questions for review
 | [6.08] |Finding & Fixing Errors|(Fix HW)|Review ch 9|Submit questions for review
 | [6.09] |Review|Review questions<br>[WS 6.5] Test practice||Study
 | 6.99 |Unit 6 test|[Test 5 Guide]<br>Test 5 Section I<br>Test 5 Section II||
@@ -118,7 +118,7 @@ classroom.
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | PP 9.1<br>Outline checks
-| **Reading**     | Read and outline Barrons ch 4
+| **Reading**     | Read and outline Barrons ch 4 (8th or later: ch 5)
 | **Homework**    |
 
 ## 6.07.3
@@ -128,7 +128,7 @@ classroom.
 | **Assessments** |
 | **In Class**    | PP 9.3
 | **Reading**     |
-| **Homework**    | Barrons ch 4 exam, self-grade
+| **Homework**    | Barrons ch 4 (8th or later: ch 5) exam, self-grade
 
 ## 6.07.4
 | [Lesson 6.07]   | _Programming project (Day 4)_
@@ -136,7 +136,7 @@ classroom.
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | EX 9.8
-| **Reading**     | Read and outline Barrons ch 3
+| **Reading**     | Read and outline Barrons ch 3 (8th or later: ch 4)
 | **Homework**    |
 
 ## 6.07.5
@@ -144,7 +144,7 @@ classroom.
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Barrons ch 3 exam<br>Outline checks
+| **In Class**    | Barrons ch 3  (8th or later: ch 4) exam, Outline checks
 | **Reading**     | Review ch 9
 | **Homework**    | Submit questions for review
 
