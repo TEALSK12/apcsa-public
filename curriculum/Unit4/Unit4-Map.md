@@ -23,11 +23,11 @@ classroom.
 | [4.06] |Nested Loop Algorithms & Rectangular Arrays|[WS 4.6]|10.1 up to Adding to and Removing from an ArrayList|SC [TBD]
 | [4.07] |ArrayList|Grudgeball<br>[Poster 4.7]||Outline ch 7 and 10.1
 | [4.08] |Finding & Fixing Errors|Fix HW|Review ch 7, 10.1 for Magpie lab|Submit questions for review
-| [4.09] 01|[Magpie Chatbot Lab] (day&nbsp;1)|Magpie Chatbot Lab Activity 1 & 2|Barrons ch 6|
-| [4.09] 02|[Magpie Chatbot Lab] (day&nbsp;2)|Magpie Chatbot Lab Activity 2|Barrons ch 6|
-| [4.09] 03|[Magpie Chatbot Lab] (day&nbsp;3)|Magpie Chatbot Lab Activity 3||Barrons ch 6 practice questions
-| [4.09] 04|[Magpie Chatbot Lab] (day&nbsp;4)|Magpie Chatbot Lab Activity 4||Check and correct Barrons ch.6 questions
-| [4.09] 05|[Magpie Chatbot Lab] (day&nbsp;5)|Magpie Chatbot Lab Activity 5||Check and correct Barrons ch.6 questions
+| [4.09] 01|[Magpie Chatbot Lab] (day&nbsp;1)|Magpie Chatbot Lab Activity 1 & 2|Barrons ch 6 (8th or later: ch 7)|
+| [4.09] 02|[Magpie Chatbot Lab] (day&nbsp;2)|Magpie Chatbot Lab Activity 2|Barrons ch 6 (8th or later: ch 7)|
+| [4.09] 03|[Magpie Chatbot Lab] (day&nbsp;3)|Magpie Chatbot Lab Activity 3||Barrons ch 6 (8th or later: ch 7)practice questions
+| [4.09] 04|[Magpie Chatbot Lab] (day&nbsp;4)|Magpie Chatbot Lab Activity 4||Check and correct Barrons ch 6 (8th or later: ch 7) questions
+| [4.09] 05|[Magpie Chatbot Lab] (day&nbsp;5)|Magpie Chatbot Lab Activity 5||Check and correct Barrons ch 6 (8th or later: ch 7) questions
 | [4.10] |Review|Review questions [WS 4.10] practice test||Study
 | 4.99 |Unit 4 test|Test 3 Section I<br>Test 3 Section II||
 | [4.XX] |[Programming Project](Magpie Alternative)|
@@ -128,7 +128,7 @@ classroom.
 | **Objectives**  | Students will complete a long-form lab, using if statements, algorithms, the Sting class, arrays, and ArrayLists.
 | **Assessments** | Students will complete the College Board’s AP CS A Magpie Chatbot Lab.<br>Students will answer assessment questions on the fourth class exam.
 | **In Class**    | Lab: [Magpie Chatbot Lab]<br>Magpie Chatbot Lab Activity 1 & 2
-| **Reading**     | Barrons ch 6
+| **Reading**     | Barrons ch 6 (8th or later: ch 7)
 | **Homework**    |
 
 ## 4.09.2
@@ -137,7 +137,7 @@ classroom.
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Magpie Chatbot Lab Activity 2
-| **Reading**     | Barrons ch 6
+| **Reading**     | Barrons ch 6 (8th or later: ch 7)
 | **Homework**    |
 
 ## 4.09.3
@@ -146,8 +146,8 @@ classroom.
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Magpie Chatbot Lab Activity 3
-| **Reading**     |
-| **Homework**    | Barrons ch 6 practice questions
+| **Reading**     | 
+| **Homework**    | Barrons ch 6 (8th or later: ch 7)practice questions
 
 ## 4.09.4
 | [Lesson 4.09]   | _Magpie Lab (Day 4)_
@@ -156,7 +156,7 @@ classroom.
 | **Assessments** |
 | **In Class**    | Magpie Chatbot Lab Activity 4
 | **Reading**     |
-| **Homework**    | Check and correct Barrons ch.6 questions
+| **Homework**    | Check and correct Barrons ch 6 (8th or later: ch 7) questions
 
 ## 4.09.5
 | [Lesson 4.09]   | _Magpie Lab (Day 5)_
@@ -165,7 +165,7 @@ classroom.
 | **Assessments** |
 | **In Class**    | Magpie Chatbot Lab Activity 5
 | **Reading**     |
-| **Homework**    | Check and correct Barrons ch.6 questions
+| **Homework**    | Check and correct Barrons ch 6 (8th or later: ch 7) questions
 
 ## 4.10
 | [Lesson 4.10]  | _Review_
