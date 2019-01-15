@@ -67,7 +67,7 @@ Pacing Guide: Day 5
 |-----------------------------------|-----------
 | **Student Activity 3, continued** | Full class
 | **Notebook Checks**               | During class
-| **Homework:**<br>_Read and highlight Chapter 8 of Barron’s_<br>(**OPTIONAL**) | TONIGHT
+| **Homework:**<br>_Read and highlight Chapter 8 (8th or later: ch 9) of Barron’s_<br>(**OPTIONAL**) | TONIGHT
 
 
 Pacing Guide: Day 6
@@ -76,7 +76,7 @@ Pacing Guide: Day 6
 |----------------------------|-----------
 | **Student Activity 4**     | Full class
 | **Grade student outlines** | During class
-| **Homework:**<br>_Take the Chapter 8 exam in Barron’s review book.<br>Grade your answers._ (**OPTIONAL**) | TONIGHT
+| **Homework:**<br>_Take the Chapter 8 (8th or later: ch 9) exam in Barron’s review book.<br>Grade your answers._ (**OPTIONAL**) | TONIGHT
 
 
 Pacing Guide: Day 7
