@@ -19,7 +19,7 @@ classroom.
 | [3.03] |Return Values|Practice-It SC 3.14 - 3.16||SC 3.17, E 3.1 |
 | [3.04] |Programming Project|[WS 3.4]<br>[Equestria]|3.3 up to “Interactive Programs and Scanner Objects”|SC 3.18, 3.19 |
 | [3.05] |Using Objects & String Processing|[WS 3.5]|3.3 “Interactive programming” and “Sample interactive program”|SC 3.19-3.21 |
-| [3.06] |Interactive Programs & Scanner Objects|Practice-It SC 3.24 - 3.26; E 3.12, 3.14, 3.15||Outline ch 3 (omit 3.4) |
+| [3.06] |Interactive Programs & Scanner Objects|Practice-It SC 3.24 - 3.26, (5th: 3.23 - 3.25); E 3.12, 3.14, 3.15||Outline ch 3 (omit 3.4) |
 | [3.07] |Pokémon Battle Programming Project|[WS 3.7]<br>LP Battle||Summarize notes since last exam |
 | [3.08] |Finding & Fixing Errors|Fix HW<br>webmaker.org|4.1 up to “nested if else statements”|SC 4.1-4.4 |
 | [3.09] |Relational Operators & if/else|[Operator Precedence]<br>Grudgeball|4.1 “Nested if/else” and “Flow of control”|SC 4.7-4.9; E 4.1-4.2 |
