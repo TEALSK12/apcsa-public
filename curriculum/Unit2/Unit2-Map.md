@@ -18,8 +18,8 @@ classroom.
 | [2.03] | String Concatenation & Increment<br>Decrement Operators | Grudgeball | Rest of 2.2 | SC 2.4<br>(4th, 5th: 2.5) |
 | [2.04] | Mixing Types & Casting	               | [WS 2.4]<br>[Poster 2.4]	| 2.3 up to “Nested for Loops" | finish [WS 2.4] |
 | [2.05] | for Loops	                           | [WS 2.5]<br>Practice-It SC 2.18,2.23, 2.24<br>(4th, 5th: 2.21,2.26,2.27) |	2.3 “Nested for Loops” | SC 2.19-2.21<br>(4th, 5th: 2.22-2.24) |
-| [2.06] | nested for Loops	                     | Practice-It SC 2.28-2.30<br>(4th, 5th: 2.31-2.33), E 2.5 | 2.4 “Scope” and “Pseudocode" | SC 2.26, 2.27<br>(4th: 2.29, 2.30),E 2.4 |
-| [2.07] | Scope & Pseudocode	                   | [WS 2.7]<br>Discuss PP 2.1 |	Read 2.4 “Class Constants” |SC 2.31-2.33<br>(4th 2.34-2.36)|
+| [2.06] | nested for Loops	                     | Practice-It SC 2.28-2.30<br>(4th, 5th: 2.31-2.33), E 2.5 | 2.4 “Scope” and “Pseudocode" | SC 2.26, 2.27<br>(4th, 5th: 2.29, 2.30),E 2.4 |
+| [2.07] | Scope & Pseudocode	                   | [WS 2.7]<br>Discuss PP 2.1 |	Read 2.4 “Class Constants” |SC 2.31-2.33<br>(4th, 5th: 2.34-2.36)|
 | [2.08] | Programming Project	                 | Start PP 2.4	   | | Outline ch 2 (omit 2.5) |
 | [2.09] | Programming Project	                 | Complete PP 2.4 | | \[_TBD practice question_\] |
 | [2.10] | Finding & Fixing Errors	             | Fix HW	       | Review ch 2 (omit 2.5)	| Submit questions for review |
