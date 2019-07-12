@@ -19,8 +19,8 @@ classroom.
 | [6.02] |Overriding Methods & Accessing Inherited Code|[WS 6.2]|Rest of 9.2 starting from “The Object Class.”|
 | [6.03] |Interacting with the Object Superclass|Practice-It SC 9.3, 9.4, 9.9, 9.10, E 9.4;[WS 6.3]<br>[Poster 6.3]|9.3 up to “Interpreting Inheritance Code.” |
 | [6.04] |Polymorphism|[WS 6.4.1]<br>[WS 6.4.2]<br>SC 9.11-9.17|Rest of 9.4 “Is-a Versus Has-a Relationships.”|SC 9.18, 9.20
-| [6.05] |Has-a Relationships|[WS 6.5]<br>ValueMeal exercise? |9.5|
-| [6.06] |Interfaces (optional)|[Interface examples]<br>[Poster 6.6]|9.6|Generate own class hierarchy like Financial hierarchy in book
+| [6.05] |Has-a Relationships|[WS 6.5]<br>ValueMeal exercise? |9.5 (Optional if covering Interfaces)|
+| [6.06] |Interfaces (optional)|[Interface examples]<br>[Poster 6.6]|9.6 (Optional if covering Abstract classes|Generate own class hierarchy like Financial hierarchy in book
 | [6.07] 01|Programming project (day 1)|PP 9.1, notebook checks||Outline ch 9
 | [6.07] 02|Programming project (day 2)|PP 9.1, outline checks|Read and outline Barrons ch 4 (8th or later: ch 5)|
 | [6.07] 03|Programming project (day 3)|PP 9.3||Barrons ch 4 (8th or later: ch 5) exam, self-grade 
@@ -91,7 +91,7 @@ classroom.
 | **Objectives**  | Students will be able to identify and explain why two classes have an is-a or a has-a relationship.<br>Students will be able to create a has-a relationship between two classes.
 | **Assessments** | Students will complete an AP Section II question “_Trio_”
 | **In Class**    | [WS 6.5]<br>ValueMeal exercise
-| **Reading**     | 9.5
+| **Reading**     | 9.5 (Optional if covering Interfaces)
 | **Homework**    |
 
 ## 6.06
@@ -100,7 +100,7 @@ classroom.
 | **Objectives**  | Students will implement and use interfaces.
 | **Assessments** | Students will complete an in-class competition.
 | **In Class**    | Interface examples<br>[Poster 6.6]
-| **Reading**     | 9.6
+| **Reading**     | 9.6 (Optional if covering Abstract classes)
 | **Homework**    | Generate own class hierarchy like Financial hierarchy in book
 
 ## 6.07.1
