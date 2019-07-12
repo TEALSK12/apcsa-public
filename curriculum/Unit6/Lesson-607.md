@@ -5,7 +5,7 @@ Overview
 --------
 ### Objectives — _Students will be able to…_
 
-- **Write** complex code that uses polymorphism, inheritance, and interfaces.
+- **Write** complex code that uses polymorphism and inheritance.
 - **Implement** the applied design stages as they create a program for an end-user.
 
 ### Assessments — _Students will…_
@@ -95,13 +95,13 @@ On the overhead or shared electronically, provide students with the following pr
 
 Write an inheritance hierarchy of three-dimensional shapes:
 
-1. Make a top-level shape interface that has methods for getting information such as the volume and
+1. Make a top-level shape class that has methods for getting information such as the volume and
    surface area of a three-dimensional shape.
 
-2. Then make classes and subclasses that implement various shapes such as cubes, rectangular
+2. Then make subclasses for various shapes such as cubes, rectangular
    prisms, spheres, triangular prisms, cones, and cylinders.
 
-3. Place common behavior in superclasses whenever possible, and use abstract classes as appropriate.
+3. Place common behavior in superclasses whenever possible.
 
 4. Add methods to the subclasses to represent the unique behavior of each three-dimensional shape,
    such as a method to get a sphere’s radius.
@@ -112,8 +112,8 @@ In this project your will interview an end-user in order to determine their inte
 
 1. Select an end-user (this can be a classmate, friend, teacher, relative, etc).
 2. Create a series of questions that will allow you to understand their interests. Have the user respond to the questions and record their responses.
-3. With the end-user, design a common superclass or interface that will store information related to their interests (ie: if the end-user is interested in sports then the superclass could include information common to any player regardless of sport, such as name, number, and salary).
-4. With the end-user, design a subclasses for specific elements, characters or players that fall under the superclass structure (ie: players of your favorite sports, such as basketball, soccer or tennis could have specific attributes under the athlete superclass). Be sure to place common behavior in superclasses whenever possible, and use abstract classes as appropriate. Place sport-specific information and behavior (such as kicking, vertical jump height, or speed) into subclasses whenever possible.
+3. With the end-user, design a common superclass that will store information related to their interests (ie: if the end-user is interested in sports then the superclass could include information common to any player regardless of sport, such as name, number, and salary).
+4. With the end-user, design a subclasses for specific elements, characters or players that fall under the superclass structure (ie: players of your favorite sports, such as basketball, soccer or tennis could have specific attributes under the athlete superclass). Be sure to place common behavior in superclasses whenever possible. Place sport-specific information and behavior (such as kicking, vertical jump height, or speed) into subclasses whenever possible.
 5. Add methods to the subclasses to represent the unique behavior of each athlete.
 6. Program the superclass and subclasses. Your program should provide the user with a menu that allows them to display different data based on user's input.
 7. Test the program with the end-user. Record their comments, suggestions and feedback and make any required changes.
