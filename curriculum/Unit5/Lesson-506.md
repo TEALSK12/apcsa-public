@@ -5,7 +5,7 @@ Overview
 --------
 ### Objectives — _Students will be able to…_
 - **Complete** a long-form lab, using two-dimensional arrays of objects, array traversing
-  algorithms, program analysis, binary numbers, inheritance, and interfaces.
+  algorithms, program analysis, binary numbers, and inheritance.
 
 ### Assessments — _Students will…_
 - **Complete** the Picture Lab

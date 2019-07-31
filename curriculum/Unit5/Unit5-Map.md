@@ -89,7 +89,7 @@ classroom.
 ## 5.06.1
 | [Lesson 5.06]   | _Picture Lab (Day 1)_
 |:----------------|:---------------------
-| **Objectives**  | Students will complete a long-form lab, using two dimensional arrays of objects, array traversing algorithms, program analysis, binary numbers, inheritance, and interfaces.
+| **Objectives**  | Students will complete a long-form lab, using two dimensional arrays of objects, array traversing algorithms, program analysis, binary numbers, and inheritance.
 | **Assessments** | Picture Lab
 | **In Class**    | Picture Lab Activity 1 & 2<br>Picture Lab
 | **Reading**     |

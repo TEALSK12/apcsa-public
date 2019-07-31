@@ -1,4 +1,4 @@
-Lesson 6.06 — Interfaces
+Lesson 6.06 — Interfaces (Optional)
 ====================================================================================================
 
 Overview
@@ -35,6 +35,9 @@ Pacing Guide
 | Class competition (small groups)                 |      20min |
 | Whole group review and competition judging/award |      15min |
 
+Note
+---------
+Interfaces was removed from the AP CS A exam starting in 2019-20.  This lesson is therefore options. Only teach this lesson if you feel you have sufficient time to cover the remaining topics before the exam.  Each class is different so use your judgement in estimating the time remaining.
 
 Procedure
 ---------
