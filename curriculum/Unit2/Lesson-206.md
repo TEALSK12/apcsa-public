@@ -162,7 +162,7 @@ public class Count1000 {
         for (int i = 0; i < 10; i++) {
             for (int j = 0; j < 10; j++) {
                 for (int q = 0; q < 10; q++) {
-                    System.out.println(i);
+                    System.out.println((i*100)+(j*10)+q+1);
                 }
             }
         }
