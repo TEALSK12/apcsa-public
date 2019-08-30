@@ -4,9 +4,9 @@ AP Computer Science A Curriculum Development
 This project contains the source for the TEALS AP Computer Science A Curriculum. Content can be
 browsed in the following ways:
 
-- [On GitBook] — The official source for the book
-- [On GitHub] — From the repository contents on GitHub
-- [Locally] – From a local clone of the development repository
+- [On GitBook][] — The official source for the book
+- [On GitHub][] — From the repository contents on GitHub
+- [Locally][] – From a local clone of the development repository
 
 
 Style Guidelines
@@ -23,8 +23,9 @@ Authors
 
 License
 -------
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0
-International] license. See [LICENSE.md] for the full license.
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International][] license.
+See [LICENSE.md][] for the full license.
 
 
 Acknowledgements
