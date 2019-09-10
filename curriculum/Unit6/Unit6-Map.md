@@ -26,6 +26,13 @@ classroom.
 | [6.07] 03|Programming project (day 3)|PP 9.3||Barrons ch 4 (8th or later: ch 5) exam, self-grade 
 | [6.07] 04|Programming project (day 4)|E 9.8|Read and outline Barrons ch 3 (8th or later: ch 4)|
 | [6.07] 05|Programming project (day 5)|Barrons ch 3 (8th or later: ch 4) exam, outline checks|Review ch 9|Submit questions for review
+| [6.07a] 01|Celebrity Lab (day 1)|Celebrity Lab Activity 1, notebook checks||Outline ch 9
+| [6.07a] 02|Celebrity Lab (day 2)|Celebrity Lab Activity 2, outline checks|Read and outline Barrons ch 4 (8th or later: ch 5)|
+| [6.07a] 03|Celebrity Lab (day 3)|Celebrity Lab Activity 3||Barrons ch 4 (8th or later: ch 5) exam, self-grade 
+| [6.07a] 04|Celebrity Lab (day 4)|Celebrity Lab Activity 4|Read and outline Barrons ch 3 (8th or later: ch 4)|
+| [6.07a] 05|Celebrity Lab (day 5)|Celebrity Lab Activity 5|Review ch 9|Submit questions for review
+| [6.07a] 06|Celebrity Lab (day 5)|Celebrity Lab Activity 5 (day 2)|Review ch 9|Submit questions for review
+| [6.07a] 07|Celebrity Lab (day 5)|Celebrity Lab Activity 5 (day 3), outline checks|Review ch 9|Submit questions for review
 | [6.08] |Finding & Fixing Errors|(Fix HW)|Review ch 9|Submit questions for review
 | [6.09] |Review|Review questions<br>[WS 6.5] Test practice||Study
 | 6.99 |Unit 6 test|[Test 5 Guide]<br>Test 5 Section I<br>Test 5 Section II||
@@ -148,6 +155,69 @@ classroom.
 | **Reading**     | Review ch 9
 | **Homework**    | Submit questions for review
 
+## 6.07a.1
+| [Lesson 6.07a]   | Celebrity Lab (Day 1)_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will complete a long-form lab, using classes, objects, two dimensional arrays of objects, array traversing algorithms, program analysis, while/for loops.
+| **Assessments** | Students will complete the College Board’s AP CS A Celebrity Lab.<br>Students will answer end of activity Check your understanding and open-ended activity.
+| **In Class**    | Celebrity Lab Activity 1<br>Notebook checks
+| **Reading**     |
+| **Homework**    | Outline ch 9
+
+## 6.07a.2
+| [Lesson 6.07a]   | Celebrity Lab (Day 2)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Celebrity Lab Activity 2<br>Outline checks
+| **Reading**     | Read and outline Barrons ch 4 (8th or later: ch 5)
+| **Homework**    |
+
+## 6.07a.3
+| [Lesson 6.07a]   | Celebrity Lab (Day 3)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Celebrity Lab Activity 3
+| **Reading**     |
+| **Homework**    | Barrons ch 4 (8th or later: ch 5) exam, self-grade
+
+## 6.07a.4
+| [Lesson 6.07a]   | Celebrity Lab (Day 4)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Celebrity Lab Activity 4
+| **Reading**     | Read and outline Barrons ch 3 (8th or later: ch 4)
+| **Homework**    |
+
+## 6.07a.5
+| [Lesson 6.07a]   | Celebrity Lab (Day 5)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Celebrity Lab Activity 5, Outline checks
+| **Reading**     | Review ch 9
+| **Homework**    | 
+
+## 6.07a.6
+| [Lesson 6.07a]   | Celebrity Lab (Day 6)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Celebrity Lab Activity 5 (day 2), Outline checks
+| **Reading**     | Review ch 9
+| **Homework**    | 
+
+## 6.07a.7
+| [Lesson 6.07a]   | Celebrity Lab (Day 7)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Celebrity Lab Activity 5 (day 3), Outline checks
+| **Reading**     | Review ch 9
+| **Homework**    | Submit questions for review
+
 ## 6.08
 | [Lesson 6.08]   | _Finding & Fixing Errors_
 |:----------------|:-------------------------
@@ -193,6 +263,7 @@ classroom.
 [6.05]: Lesson-605.md
 [6.06]: Lesson-606.md
 [6.07]: Lesson-607.md
+[6.07a]: Lesson-607a.md
 [6.08]: Lesson-608.md
 [6.09]: Lesson-609.md
 [Curriculum Assets]: ../Assets.md
@@ -205,6 +276,7 @@ classroom.
 [Lesson 6.05]: Lesson-605.md
 [Lesson 6.06]: Lesson-606.md
 [Lesson 6.07]: Lesson-607.md
+[Lesson 6.07a]: Lesson-607a.md
 [Lesson 6.08]: Lesson-608.md
 [Lesson 6.09]: Lesson-609.md
 [Poster 6.3]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Poster%206.3.pptx

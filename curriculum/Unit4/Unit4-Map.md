@@ -25,9 +25,15 @@ classroom.
 | [4.08] |Finding & Fixing Errors|Fix HW|Review ch 7, 10.1 for Magpie lab|Submit questions for review
 | [4.09] 01|[Magpie Chatbot Lab] (day&nbsp;1)|Magpie Chatbot Lab Activity 1 & 2|Barrons ch 6 (8th or later: ch 7)|
 | [4.09] 02|[Magpie Chatbot Lab] (day&nbsp;2)|Magpie Chatbot Lab Activity 2|Barrons ch 6 (8th or later: ch 7)|
-| [4.09] 03|[Magpie Chatbot Lab] (day&nbsp;3)|Magpie Chatbot Lab Activity 3||Barrons ch 6 (8th or later: ch 7)practice questions
-| [4.09] 04|[Magpie Chatbot Lab] (day&nbsp;4)|Magpie Chatbot Lab Activity 4||Check and correct Barrons ch 6 (8th or later: ch 7) questions
+| [4.09] 03|[Magpie Chatbot Lab] (day&nbsp;3)|Magpie Chatbot Lab Activity 3|Barrons ch 6 (8th or later: ch 7)|
+| [4.09] 04|[Magpie Chatbot Lab] (day&nbsp;4)|Magpie Chatbot Lab Activity 4||Barrons ch 6 (8th or later: ch 7)practice questions
 | [4.09] 05|[Magpie Chatbot Lab] (day&nbsp;5)|Magpie Chatbot Lab Activity 5||Check and correct Barrons ch 6 (8th or later: ch 7) questions
+| [4.09a] 01|[Steganography Lab] (day&nbsp;1)|Steganography Lab Activity 1|Barrons ch 6 (8th or later: ch 7)|
+| [4.09a] 02|[Steganography Lab] (day&nbsp;2)|Steganography Lab Activity 2|Barrons ch 6 (8th or later: ch 7)|
+| [4.09a] 03|[Steganography Lab] (day&nbsp;3)|Steganography Lab Activity 3|Barrons ch 6 (8th or later: ch 7)|
+| [4.09a] 04|[Steganography Lab] (day&nbsp;4)|Steganography Lab Activity 4|Barrons ch 6 (8th or later: ch 7)|
+| [4.09a] 05|[Steganography Lab] (day&nbsp;5)|Barrons ch 6 (8th or later: ch 7)practice questions
+| [4.09a] 06|[Steganography Lab] (day&nbsp;6)|Steganography Lab Activity 5 (day 2)||Check and correct Barrons ch 6 (8th or later: ch 7) questions
 | [4.10] |Review|Review questions [WS 4.10] practice test||Study
 | 4.99 |Unit 4 test|Test 3 Section I<br>Test 3 Section II||
 | [4.XX] |[Programming Project](Magpie Alternative)|
@@ -125,7 +131,7 @@ classroom.
 ## 4.09.1
 | [Lesson 4.09]   | _Magpie Lab (Day 1)_
 |:----------------|:--------------------
-| **Objectives**  | Students will complete a long-form lab, using if statements, algorithms, the Sting class, arrays, and ArrayLists.
+| **Objectives**  | Students will complete a long-form lab, using if statements, algorithms, the String class, arrays, and ArrayLists.
 | **Assessments** | Students will complete the College Board’s AP CS A Magpie Chatbot Lab.<br>Students will answer assessment questions on the fourth class exam.
 | **In Class**    | Lab: [Magpie Chatbot Lab]<br>Magpie Chatbot Lab Activity 1 & 2
 | **Reading**     | Barrons ch 6 (8th or later: ch 7)
@@ -146,8 +152,8 @@ classroom.
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Magpie Chatbot Lab Activity 3
-| **Reading**     | 
-| **Homework**    | Barrons ch 6 (8th or later: ch 7)practice questions
+| **Reading**     | Barrons ch 6 (8th or later: ch 7)
+| **Homework**    | 
 
 ## 4.09.4
 | [Lesson 4.09]   | _Magpie Lab (Day 4)_
@@ -156,7 +162,7 @@ classroom.
 | **Assessments** |
 | **In Class**    | Magpie Chatbot Lab Activity 4
 | **Reading**     |
-| **Homework**    | Check and correct Barrons ch 6 (8th or later: ch 7) questions
+| **Homework**    | Barrons ch 6 (8th or later: ch 7)practice questions
 
 ## 4.09.5
 | [Lesson 4.09]   | _Magpie Lab (Day 5)_
@@ -164,6 +170,60 @@ classroom.
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Magpie Chatbot Lab Activity 5
+| **Reading**     |
+| **Homework**    | Check and correct Barrons ch 6 (8th or later: ch 7) questions
+
+## 4.09a.1
+| [Lesson 4.09a]   | _Steganography Lab (Day 1)_
+|:----------------|:--------------------
+| **Objectives**  | Students will complete a long-form lab, using arithmetic expressions, methods, if statements, algorithms, while/for loops, arrays, and ArrayLists.
+| **Assessments** | Students will complete the College Board’s AP CS A Steganography Lab.<br>Students will answer end of activity Check your understanding and open-ended activity.
+| **In Class**    | Lab: [Steganography Lab]<br>Steganography Lab Activity 1
+| **Reading**     | Barrons ch 6 (8th or later: ch 7)
+| **Homework**    |
+
+## 4.09a.2
+| [Lesson 4.09a]   | _Steganography Lab (Day 2)_
+|:----------------|:--------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Steganography Lab Activity 2
+| **Reading**     | Barrons ch 6 (8th or later: ch 7)
+| **Homework**    |
+
+## 4.09a.3
+| [Lesson 4.09a]   | _Steganography Lab (Day 3)_
+|:----------------|:--------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Steganography Lab Activity 3
+| **Reading**     | 
+| **Homework**    | Barrons ch 6 (8th or later: ch 7)practice questions
+
+## 4.09a.4
+| [Lesson 4.09a]   | _Steganography Lab (Day 4)_
+|:----------------|:--------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Steganography Lab Activity 4
+| **Reading**     |
+| **Homework**    | Check and correct Barrons ch 6 (8th or later: ch 7) questions
+
+## 4.09a.5
+| [Lesson 4.09a]   | _Steganography Lab (Day 5)_
+|:----------------|:--------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Steganography Lab Activity 5
+| **Reading**     |
+| **Homework**    | Check and correct Barrons ch 6 (8th or later: ch 7) questions
+
+## 4.09a.6
+| [Lesson 4.09a]   | _Steganography Lab (Day 6)_
+|:----------------|:--------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Steganography Lab Activity 5 (day 2)
 | **Reading**     |
 | **Homework**    | Check and correct Barrons ch 6 (8th or later: ch 7) questions
 
@@ -208,6 +268,7 @@ classroom.
 [4.07]: Lesson-407.md
 [4.08]: Lesson-408.md
 [4.09]: Lesson-409.md
+[4.09a]: Lesson-409a.md
 [4.10]: Lesson-410.md
 [4.XX]: Lesson-4XX.md
 [Curriculum Assets]: ../Assets.md
@@ -221,6 +282,7 @@ classroom.
 [Lesson 4.07]: Lesson-407.md
 [Lesson 4.08]: Lesson-408.md
 [Lesson 4.09]: Lesson-409.md
+[Lesson 4.09a]: Lesson-409a.md
 [Lesson 4.10]: Lesson-410.md
 [Lesson 4.XX]: Lesson-4XX.md
 [Magpie Chatbot Lab]: ../Assets.md#magpie

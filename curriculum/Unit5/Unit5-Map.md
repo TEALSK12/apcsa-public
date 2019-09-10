@@ -28,6 +28,14 @@ classroom.
 | [5.06] 07|[Picture Lab] (day 7)|Picture Lab Activity 8|8.5|Finish Picture Lab Activity 8
 | [5.06] 08|[Picture Lab] (day 8)|Picture Lab Activity 9||Cont. Picture Lab Activity 9
 | [5.06] 09|[Picture Lab] (day 9)|Picture Lab Activity 9, cont.||Submit questions for review
+| [5.06a] 01|[Data Lab] (day 1)|Data Lab Activity 1<br>Data Lab||Summarize notes since last exam
+| [5.06a] 02|[Data Lab] (day 2)|Data Lab Activity 2, notebook checks||Outline ch 8
+| [5.06a] 03|[Data Lab] (day 3)|Data Lab Activity 3, notebook checks|Read and highlight Barrons ch 2, skip this keyword|
+| [5.06a] 04|[Data Lab] (day 4)|Data Lab Activity 3 (day 2), notebook checks||Barrons ch 2 exam, skip #20
+| [5.06a] 05|[Data Lab] (day 5)|Data Lab Activity 4, Barron's checks|Read and highlight Barrons ch 5|
+| [5.06a] 06|[Data Lab] (day 6)|Data Lab Activity 4 (day 2)||SC 8.28, 8.30
+| [5.06a] 07|[Data Lab] (day 7)|Data Lab Activity 4 (day 3)|8.5|Finish Data Lab Activity 8
+| [5.06a] 08|[Data Lab] (day 8)|Data Lab Activity 4 (day 4)||Cont. Data Lab Activity 9
 | [5.07]   |Review|Review question<br>[WS 5.7] Test practice||Study
 |  5.99    |(Unit 5 test)|Test 4 Section I<br>Test 4 Section II||
 | [5.XX]   |PictureLab Alternative |||
@@ -89,7 +97,7 @@ classroom.
 ## 5.06.1
 | [Lesson 5.06]   | _Picture Lab (Day 1)_
 |:----------------|:---------------------
-| **Objectives**  | Students will complete a long-form lab, using two dimensional arrays of objects, array traversing algorithms, program analysis, binary numbers, and inheritance.
+| **Objectives**  | Students will complete a long-form lab, using classes, objects, two dimensional arrays of objects, array traversing algorithms, program analysis and while/for loops.
 | **Assessments** | Picture Lab
 | **In Class**    | Picture Lab Activity 1 & 2<br>Picture Lab
 | **Reading**     |
@@ -167,6 +175,78 @@ classroom.
 | **Reading**     |
 | **Homework**    | Submit questions for review
 
+## 5.06a.1
+| [Lesson 5.06a]   | _Data Lab (Day 1)_
+|:----------------|:---------------------
+| **Objectives**  | Students will complete a long-form lab, using two dimensional arrays of objects, array traversing algorithms, program analysis, binary numbers, and inheritance.
+| **Assessments** | Students will complete the College Board’s AP CS A Data Lab.<br>Students will answer end of activity Check your understanding and open-ended activity.
+| **In Class**    | Data Lab Activity 1<br>Data Lab
+| **Reading**     |
+| **Homework**    | Summarize notes since last exam
+
+## 5.06a.2
+| [Lesson 5.06a]   | _Data Lab (Day 2)_
+|:----------------|:---------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Data Lab Activity 2<br>Notebook checks
+| **Reading**     |
+| **Homework**    | Outline ch 8
+
+## 5.06a.3
+| [Lesson 5.06a]   | _Data Lab (Day 3)_
+|:----------------|:---------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Data Lab Activity 3<br>Notebook checks
+| **Reading**     | Read and highlight Barrons ch 2, skip `this` keyword
+| **Homework**
+
+## 5.06a.4
+| [Lesson 5.06a]   | _Data Lab (Day 4)_
+|:----------------|:---------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Data Lab Activity 3 (day 2)<br>Notebook checks
+| **Reading**     |
+| **Homework**    | Barrons ch 2 exam (skip #20)
+
+## 5.06a.5
+| [Lesson 5.06a]   | _Data Lab (Day 5)_
+|:----------------|:---------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Data Lab Activity 4<br>Barron's checks
+| **Reading**     | Read and highlight Barrons ch 5
+| **Homework**    |
+
+## 5.06a.6
+| [Lesson 5.06a]   | _Data Lab (Day 6)_
+|:----------------|:---------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Data Lab Activity 4 (day 2)
+| **Reading**     |
+| **Homework**    | SC 8.28,30
+
+## 5.06a.7
+| [Lesson 5.06a]   | _Data Lab (Day 7)_
+|:----------------|:---------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Data Lab Activity 4 (day 3)
+| **Reading**     | 8.5
+| **Homework**    | Finish Data Lab Activity 8
+
+## 5.06a.8
+| [Lesson 5.06a]   | _Data Lab (Day 8)_
+|:----------------|:---------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Data Lab Activity 4 (day 4)
+| **Reading**     |
+| **Homework**    | Cont. Data Lab Activity 9
+
 ## 5.07
 | [Lesson 5.07]   | _Review_
 |:----------------|:--------
@@ -205,6 +285,7 @@ classroom.
 [5.04]: Lesson-504.md
 [5.05]: Lesson-505.md
 [5.06]: Lesson-506.md
+[5.06a]: Lesson-506a.md
 [5.07]: Lesson-507.md
 [5.XX]: Lesson-5XX.md
 [Curriculum Assets]: ../Assets.md
@@ -215,6 +296,7 @@ classroom.
 [Lesson 5.04]: Lesson-504.md
 [Lesson 5.05]: Lesson-505.md
 [Lesson 5.06]: Lesson-506.md
+[Lesson 5.06]: Lesson-506a.md
 [Lesson 5.07]: Lesson-507.md
 [Lesson 5.XX]: Lesson-5XX.md
 [Picture Lab]: Assets.md#picturelab
