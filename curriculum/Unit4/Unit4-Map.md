@@ -28,12 +28,12 @@ classroom.
 | [4.09] 03|[Magpie Chatbot Lab] (day&nbsp;3)|Magpie Chatbot Lab Activity 3|Barrons ch 6 (8th or later: ch 7)|
 | [4.09] 04|[Magpie Chatbot Lab] (day&nbsp;4)|Magpie Chatbot Lab Activity 4||Barrons ch 6 (8th or later: ch 7)practice questions
 | [4.09] 05|[Magpie Chatbot Lab] (day&nbsp;5)|Magpie Chatbot Lab Activity 5||Check and correct Barrons ch 6 (8th or later: ch 7) questions
-| [4.09a] 01|[Steganography Lab] (day&nbsp;1)|Steganography Lab Activity 1|Barrons ch 6 (8th or later: ch 7)|
-| [4.09a] 02|[Steganography Lab] (day&nbsp;2)|Steganography Lab Activity 2|Barrons ch 6 (8th or later: ch 7)|
-| [4.09a] 03|[Steganography Lab] (day&nbsp;3)|Steganography Lab Activity 3|Barrons ch 6 (8th or later: ch 7)|
-| [4.09a] 04|[Steganography Lab] (day&nbsp;4)|Steganography Lab Activity 4|Barrons ch 6 (8th or later: ch 7)|
-| [4.09a] 05|[Steganography Lab] (day&nbsp;5)|Steganography Lab Activity 5||Barrons ch 6 (8th or later: ch 7)practice questions
-| [4.09a] 06|[Steganography Lab] (day&nbsp;6)|Steganography Lab Activity 5 (day 2)||Check and correct Barrons ch 6 (8th or later: ch 7) questions
+| [4.09a] 01|Steganography Lab (day&nbsp;1)|Steganography Lab Activity 1|Barrons ch 6 (8th or later: ch 7)|
+| [4.09a] 02|Steganography Lab (day&nbsp;2)|Steganography Lab Activity 2|Barrons ch 6 (8th or later: ch 7)|
+| [4.09a] 03|Steganography Lab (day&nbsp;3)|Steganography Lab Activity 3|Barrons ch 6 (8th or later: ch 7)|
+| [4.09a] 04|Steganography Lab (day&nbsp;4)|Steganography Lab Activity 4|Barrons ch 6 (8th or later: ch 7)|
+| [4.09a] 05|Steganography Lab (day&nbsp;5)|Steganography Lab Activity 5||Barrons ch 6 (8th or later: ch 7)practice questions
+| [4.09a] 06|Steganography Lab (day&nbsp;6)|Steganography Lab Activity 5 (day 2)||Check and correct Barrons ch 6 (8th or later: ch 7) questions
 | [4.10] |Review|Review questions [WS 4.10] practice test||Study
 | 4.99 |Unit 4 test|Test 3 Section I<br>Test 3 Section II||
 | [4.XX] |[Programming Project](Magpie Alternative)|
@@ -178,7 +178,7 @@ classroom.
 |:----------------|:--------------------
 | **Objectives**  | Students will complete a long-form lab, using arithmetic expressions, methods, if statements, algorithms, while/for loops, arrays, and ArrayLists.
 | **Assessments** | Students will complete the College Board’s AP CS A Steganography Lab.<br>Students will answer end of activity Check your understanding and open-ended activity.
-| **In Class**    | Lab: [Steganography Lab]<br>Steganography Lab Activity 1
+| **In Class**    | Lab: Steganography Lab<br>Steganography Lab Activity 1
 | **Reading**     | Barrons ch 6 (8th or later: ch 7)
 | **Homework**    |
 

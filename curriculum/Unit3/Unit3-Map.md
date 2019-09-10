@@ -32,12 +32,12 @@ classroom.
 | [3.16]01 |Boolean Logic|Practice-It SC 5.27, 5.29<br>[WS 3.16] (RPS, Pig)<br>[DeMorgan’s Law]<BR>[Poster 3.16.1]<BR>[Poster 3.16.2]||Outline ch 5 (through 5.3) |
 | [3.16]02 |Boolean Logic (Day 2)||| |
 | [3.17] |Finding & Fixing Errors|(Fix HW)|Review ch 3-5|Submit questions for review |
-| [3.18]01|[Consumer Review Lab] (day&nbsp;1)|Consumer Review Lab Activity 1 & 2||
-| [3.18]02|[Consumer Review Lab] (day&nbsp;2)|Consumer Review Lab Activity 2||
-| [3.18]03|[Consumer Review Lab] (day&nbsp;3)|Consumer Review Lab Activity 3||
-| [3.18]04|[Consumer Review Lab] (day&nbsp;4)|Consumer Review Lab Activity 4||
-| [3.18]05|[Consumer Review Lab] (day&nbsp;5)|Consumer Review Lab Activity 5||
-| [3.18]06|[Consumer Review Lab] (day&nbsp;6)|Consumer Review Lab Activity 5 (day 2)||
+| [3.18]01|Consumer Review Lab (day&nbsp;1)|Consumer Review Lab Activity 1 & 2||
+| [3.18]02|Consumer Review Lab (day&nbsp;2)|Consumer Review Lab Activity 2||
+| [3.18]03|Consumer Review Lab (day&nbsp;3)|Consumer Review Lab Activity 3||
+| [3.18]04|Consumer Review Lab (day&nbsp;4)|Consumer Review Lab Activity 4||
+| [3.18]05|Consumer Review Lab (day&nbsp;5)|Consumer Review Lab Activity 5||
+| [3.18]06|Consumer Review Lab (day&nbsp;6)|Consumer Review Lab Activity 5 (day 2)||
 | [3.19] |Review|(Review questions), [WS 3.18] practice test||Study |
 | 3.99 |Unit 3 test|[Test 2 Guide]<br>Test 2 Section I<br>Test 2 Section II|| |
 | 3.XX | [Frac Calc] | | | |
@@ -218,7 +218,7 @@ Students are expected to work on project in class.
 |:----------------|:--------------------
 | **Objectives**  | Students will complete a long-form lab, using string literals, static methods, if statements, while loops, algorithms, and the String class.
 | **Assessments** | Students will complete the College Board’s AP CS A Consumer Review Lab.<br>Students will answer end of activty Check your understanding and complete Open-ended activity.
-| **In Class**    | Lab: [Consumer Review Lab]<br>Consumer Review Lab Activity 1
+| **In Class**    | Lab: Consumer Review Lab<br>Consumer Review Lab Activity 1
 | **Reading**     | 
 | **Homework**    |
 

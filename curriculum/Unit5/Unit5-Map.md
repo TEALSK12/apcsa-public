@@ -28,14 +28,14 @@ classroom.
 | [5.06] 07|[Picture Lab] (day 7)|Picture Lab Activity 8|8.5|Finish Picture Lab Activity 8
 | [5.06] 08|[Picture Lab] (day 8)|Picture Lab Activity 9||Cont. Picture Lab Activity 9
 | [5.06] 09|[Picture Lab] (day 9)|Picture Lab Activity 9, cont.||Submit questions for review
-| [5.06a] 01|[Data Lab] (day 1)|Data Lab Activity 1<br>Data Lab||Summarize notes since last exam
-| [5.06a] 02|[Data Lab] (day 2)|Data Lab Activity 2, notebook checks||Outline ch 8
-| [5.06a] 03|[Data Lab] (day 3)|Data Lab Activity 3, notebook checks|Read and highlight Barrons ch 2, skip this keyword|
-| [5.06a] 04|[Data Lab] (day 4)|Data Lab Activity 3 (day 2), notebook checks||Barrons ch 2 exam, skip #20
-| [5.06a] 05|[Data Lab] (day 5)|Data Lab Activity 4, Barron's checks|Read and highlight Barrons ch 5|
-| [5.06a] 06|[Data Lab] (day 6)|Data Lab Activity 4 (day 2)||SC 8.28, 8.30
-| [5.06a] 07|[Data Lab] (day 7)|Data Lab Activity 4 (day 3)|8.5|Finish Data Lab Activity 8
-| [5.06a] 08|[Data Lab] (day 8)|Data Lab Activity 4 (day 4)||Cont. Data Lab Activity 9
+| [5.06a] 01|Data Lab (day 1)|Data Lab Activity 1<br>Data Lab||Summarize notes since last exam
+| [5.06a] 02|Data Lab (day 2)|Data Lab Activity 2, notebook checks||Outline ch 8
+| [5.06a] 03|Data Lab (day 3)|Data Lab Activity 3, notebook checks|Read and highlight Barrons ch 2, skip this keyword|
+| [5.06a] 04|Data Lab (day 4)|Data Lab Activity 3 (day 2), notebook checks||Barrons ch 2 exam, skip #20
+| [5.06a] 05|Data Lab (day 5)|Data Lab Activity 4, Barron's checks|Read and highlight Barrons ch 5|
+| [5.06a] 06|Data Lab (day 6)|Data Lab Activity 4 (day 2)||SC 8.28, 8.30
+| [5.06a] 07|Data Lab (day 7)|Data Lab Activity 4 (day 3)|8.5|Finish Data Lab Activity 8
+| [5.06a] 08|Data Lab (day 8)|Data Lab Activity 4 (day 4)||Cont. Data Lab Activity 9
 | [5.07]   |Review|Review question<br>[WS 5.7] Test practice||Study
 |  5.99    |(Unit 5 test)|Test 4 Section I<br>Test 4 Section II||
 | [5.XX]   |PictureLab Alternative |||
