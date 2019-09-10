@@ -97,7 +97,7 @@ classroom.
 ## 5.06.1
 | [Lesson 5.06]   | _Picture Lab (Day 1)_
 |:----------------|:---------------------
-| **Objectives**  | Students will complete a long-form lab, using classes, objects, two dimensional arrays of objects, array traversing algorithms, program analysis and while/for loops.
+| **Objectives**  | Students will complete a long-form lab, using two dimensional arrays of objects, array traversing algorithms, program analysis, binary numbers, and inheritance.
 | **Assessments** | Picture Lab
 | **In Class**    | Picture Lab Activity 1 & 2<br>Picture Lab
 | **Reading**     |
@@ -178,7 +178,7 @@ classroom.
 ## 5.06a.1
 | [Lesson 5.06a]   | _Data Lab (Day 1)_
 |:----------------|:---------------------
-| **Objectives**  | Students will complete a long-form lab, using two dimensional arrays of objects, array traversing algorithms, program analysis, binary numbers, and inheritance.
+| **Objectives**  | Students will complete a long-form lab, using classes, objects, two dimensional arrays of objects, array traversing algorithms, program analysis and while/for loops.
 | **Assessments** | Students will complete the College Board’s AP CS A Data Lab.<br>Students will answer end of activity Check your understanding and open-ended activity.
 | **In Class**    | Data Lab Activity 1<br>Data Lab
 | **Reading**     |
