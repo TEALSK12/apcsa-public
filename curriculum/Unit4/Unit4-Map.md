@@ -32,7 +32,7 @@ classroom.
 | [4.09a] 02|[Steganography Lab] (day&nbsp;2)|Steganography Lab Activity 2|Barrons ch 6 (8th or later: ch 7)|
 | [4.09a] 03|[Steganography Lab] (day&nbsp;3)|Steganography Lab Activity 3|Barrons ch 6 (8th or later: ch 7)|
 | [4.09a] 04|[Steganography Lab] (day&nbsp;4)|Steganography Lab Activity 4|Barrons ch 6 (8th or later: ch 7)|
-| [4.09a] 05|[Steganography Lab] (day&nbsp;5)|Barrons ch 6 (8th or later: ch 7)practice questions
+| [4.09a] 05|[Steganography Lab] (day&nbsp;5)|Steganography Lab Activity 5||Barrons ch 6 (8th or later: ch 7)practice questions
 | [4.09a] 06|[Steganography Lab] (day&nbsp;6)|Steganography Lab Activity 5 (day 2)||Check and correct Barrons ch 6 (8th or later: ch 7) questions
 | [4.10] |Review|Review questions [WS 4.10] practice test||Study
 | 4.99 |Unit 4 test|Test 3 Section I<br>Test 3 Section II||
