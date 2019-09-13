@@ -1,0 +1,147 @@
+Lesson 5.06 — Data Lab
+====================================================================================================
+
+Overview
+--------
+### College Board 2019 Labs
+In the summer of 2019, the college board released 4 new labs.  Either the Picture Lab or Data Lab can be assigned after the completion of Unit 5.
+
+### Objectives — _Students will be able to…_
+- **Complete** a long-form lab, using two dimensional arrays of objects, array traversing algorithms, program analysis, binary numbers, and inheritance.
+
+### Assessments — _Students will…_
+- **Complete** the College Board’s AP CS A Data Lab.<br>Students will answer end of activity Check your understanding and open-ended activity.
+
+### Homework — _Students will…_
+- **A list of homework assignments is provided below. **
+
+
+Materials & Prep
+----------------
+- **Projector and computer**
+- **Data Lab** Teacher’s Guide
+- **Classroom copies** of the Data Lab Student Guide
+- **Associated Data Lab & Data Lab Extension** Files
+
+
+Read through the Teacher, Student, and Extension guides ahead of time to familiarize yourself with
+the parts of this long-form lab. Using the guides, complete the lab on your own to spot possible
+challenges for your students. Upload all student files onto each computer desktop for student
+access. Don’t give the finalClasses folder to your students—it contains sample answers!
+
+
+Pacing Guide: Day 1
+-------------------
+| Section                    | Total Time
+|----------------------------|-----------
+| **Student Activity 1**     | Full class
+| **Homework:**<br>_Summarize your notes in your notebooks.<br>Notebook checks in class tomorrow!_ | TONIGHT
+
+
+Pacing Guide: Day 2
+-------------------
+| Section                          | Total Time
+|----------------------------------|-----------
+| **Student Activity 2**           | Full class
+| **Notebook Checks**              | During class
+| **Homework:**<br>_Outline Chapter 8_ | TONIGHT
+
+
+Pacing Guide: Day 3
+-------------------
+| Section                | Total Time
+|------------------------|-----------
+| **Student Activity 3** | Full class
+| **Notebook Checks**    | During class
+| **Homework:**<br>_Read and highlight Chapter 2 of Barron’s review book.<br>Skip_ “The `this` Keyword”. | TONIGHT
+
+
+Pacing Guide: Day 4
+-------------------
+| Section                        | Total Time
+|--------------------------------|-----------
+| **Student Activity 3 (day 2)** | Full class
+| **Notebook Checks**            | During class
+| **Homework:**<br>_Take the Chapter 2 exam in Barron’s review book, skipping \#20.<br>Grade your answers._ | TONIGHT
+
+
+Pacing Guide: Day 5
+-------------------
+| Section                           | Total Time
+|-----------------------------------|-----------
+| **Student Activity 4**            | Full class
+| **Check Barron’s review books for highlighting note-taking,<br>and practice test completion and correction** | During class
+| **Homework:**<br>_Read and highlight Chapter 5 of Barron’s review book._ | TONIGHT
+
+
+Pacing Guide: Day 6
+-------------------
+
+| Section                        | Total Time
+|--------------------------------|-----------
+| **Student Activity 4 (day 2)** | Full class
+| **Homework:**<br>_Read BJP 8.5 and answer self-check questions 29–30_  | TONIGHT
+
+
+Pacing Guide: Day 7
+-------------------
+| Section                                         | Total Time
+|-------------------------------------------------|-----------
+| **Student Activity 4 (day 3)**                  | Full class
+| **Creating a collage**                          | During class
+| **Homework:**<br>_Finish up creating a collage_ | TONIGHT
+
+
+Pacing Guide: Day 8
+-------------------
+| Section                                                       | Total Time
+|---------------------------------------------------------------|-----------
+| **Student Activity 4 (day 4)**                                | Full class
+| **Simple edge detection algorithm and implementation**        | During class
+| **Homework:**<br>_Continue working on Simple edge detection._ | TONIGHT
+
+
+Procedure
+---------
+All guides, sample code, answer code, and example code may be found by logging into the College Board AP Audit side and downloading the Steganography Lab materials.
+
+### About Barron’s
+- Barron’s is an AP CS A review book that some schools provide students. If your school doesn’t
+  provide Barron’s there are many alternative homework assignments that can be found at
+  codingbat.com/java or practice-it.
+
+- Alternatively, you can save time spent on the lab by checking activities as homework.
+
+### General Project Notes
+1. To help students start the lab smoothly, start Activity 1 as a whole group.
+
+2. Encourage students to use their Tricky Code Cheat Sheets, 4 Commandments of Scope, notebooks,
+   textbooks, classroom posters, and homework assignments.
+
+3. Offer occasional time-checks to help keep students on pace.
+
+4. Grade notebooks and review books in between helping students so students can keep notebooks for
+   homework and studying in the evenings.
+
+
+Accommodation and Differentiation
+---------------------------------
+In ELL classrooms, read all directions aloud before breaking into individual practice, and allow up
+to twice the amount of time for completion of the lab.
+
+- To save time on the rest of the lab, don’t spend too much time reviewing binary numbers, and
+  restrict color exploration (Activity 2) to ~20 minutes.
+
+- Use the tactile exercises as suggested on page 6 of the Teacher’s guide (candy exercise and
+  exploring the digital camera).
+
+As needed, allow students to pair up to help each other with reading comprehension (but remind
+students that they each must submit their own code). Each day that you begin the lab, start with a
+quick survey of student concerns and questions.
+
+Assessment questions have been relocated to the practice exam, WS 5.7.
+
+
+Forum discussion
+----------------
+[Lesson 5.06a Data Lab (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-5/5-06a-data-lab)
