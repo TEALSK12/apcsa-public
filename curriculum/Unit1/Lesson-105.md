@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **Whiteboard and marker**
-- **Overly complicated diagram** (<http://tinyurl.com/y8a7cry>)
+- **Overly complicated diagram** (<https://tinyurl.com/y67z3cym>)
 
 
 Pacing Guide
