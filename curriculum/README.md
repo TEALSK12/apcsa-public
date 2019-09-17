@@ -43,7 +43,8 @@ We have provided classroom management tips and engagement tips for TEALS volunte
 the classroom setting. Experienced teachers and volunteers will likely choose to skip such details
 and focus on the step-by-step lecture notes.
 
-You may browse the [Curriculum Map] for an overview of the pacing, objectives, and assessments.
+The curriculum map for an overview of the pacing, objectives, and assessments is located at
+https://tealsk12.gitbook.io/intro-cs/curriculum_map
 
 ### Year Round Pacing
 
