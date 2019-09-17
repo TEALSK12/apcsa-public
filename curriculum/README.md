@@ -43,8 +43,7 @@ We have provided classroom management tips and engagement tips for TEALS volunte
 the classroom setting. Experienced teachers and volunteers will likely choose to skip such details
 and focus on the step-by-step lecture notes.
 
-The curriculum map for an overview of the pacing, objectives, and assessments is located at
-https://tealsk12.gitbook.io/intro-cs/curriculum_map
+You may browse the [Curriculum Map] for an overview of the pacing, objectives, and assessments.
 
 ### Year Round Pacing
 
@@ -304,7 +303,7 @@ on the TEALS dashboard, or to [APSquad@tealsk12.org](mailto:APSquad@tealsk12.org
 [20 Fun Free Tools for Interactive Classroom Collaboration]: http://tinyurl.com/k62tstg
 [AP Java Quick Reference]: http://apcentral.collegeboard.com/apc/public/repository/ap_comp_sci_a_quick_reference.pdf
 [Barron's AP Computer Science A review book]: https://www.amazon.com/dp/1438009194
-[Curriculum Map]: Curriculum-Map.md
+[Curriculum Map]: https://tealsk12.gitbook.io/intro-cs/curriculum_map
 [Google Hangouts]: http://hangouts.google.com
 [Grudgeball]: https://www.youtube.com/watch?v=u_GzWwSrDlo
 [Parson's Problems]: https://www.youtube.com/watch?v=11n-AsaCd9w
