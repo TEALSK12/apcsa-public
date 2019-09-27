@@ -32,7 +32,7 @@ classroom.
 | [3.16]01 |Boolean Logic|Practice-It SC 5.27, 5.29<br>[WS 3.16] (RPS, Pig)<br>[DeMorgan’s Law]<BR>[Poster 3.16.1]<BR>[Poster 3.16.2]||Outline ch 5 (through 5.3) |
 | [3.16]02 |Boolean Logic (Day 2)||| |
 | [3.17] |Finding & Fixing Errors|(Fix HW)|Review ch 3-5|Submit questions for review |
-| [3.18]01|Consumer Review Lab (day&nbsp;1)|Consumer Review Lab Activity 1 & 2||
+| [3.18]01|Consumer Review Lab (day&nbsp;1)|Consumer Review Lab Activity 1||
 | [3.18]02|Consumer Review Lab (day&nbsp;2)|Consumer Review Lab Activity 2||
 | [3.18]03|Consumer Review Lab (day&nbsp;3)|Consumer Review Lab Activity 3||
 | [3.18]04|Consumer Review Lab (day&nbsp;4)|Consumer Review Lab Activity 4||
