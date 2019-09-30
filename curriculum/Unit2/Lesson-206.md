@@ -96,23 +96,6 @@ this project is a good one to start with (a ‘loop’ badge, perhaps?).
    - Ask students how many lines Java will output (9), and walk through the loop showing flow of
      control and directing a student to produce the output.
 
-     ``` Java
-     public class Count1000 {
-         public static void main (String[] args) {
-             for (int i = 1; i < 1000; i++) {
-                 System.out.println(i);
-             }
-         }
-     }
-     ```
-
-4. Tweak different parts of the code and ask students to predict how it will change your output.
-   - Change the continuation test to `i <= 1000`.
-   - Change the variable `i` to `x`.
-   - Change the update to `i += 2` (or `x += 2`, depending on which code you have up there).
-   - If any of these examples stump your class (and they will), take them through the loop, one step
-     at a time, writing down sample output to find the new pattern.
-
 ### Practice-It Activity \[30 minutes\]
 
 Depending on the mood and frustration levels in the class, you may choose to have students work in
