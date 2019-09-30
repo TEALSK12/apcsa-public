@@ -64,7 +64,7 @@
 * [Lesson 3.18: Review](Unit3/Lesson-318.md)
 * [Lesson 3.99: (Unit 3 test)](Curriculum-Map.md#399)
   * [Test 2 Guide](Unit3/Test-2-Guide.md)
-* [Lesson 3.XX: Frac Calc](Curriculum-Map.md#3xx)
+* [Lesson 3.XX: Frac Calc](Assets.md)
 * [Lesson 3.XX1: Programming Project(FracCalc Alternative)](Unit3/Lesson-3XX1.md)
 
 ## Unit 4: Arrays, Lists, & Files (4 weeks)
