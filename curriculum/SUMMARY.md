@@ -91,6 +91,7 @@
 * [Lesson 5.04: Encapsulation](Unit5/Lesson-504.md)
 * [Lesson 5.05: Finding & Fixing Errors](Unit5/Lesson-505.md)
 * [Lesson 5.06: Picture Lab (9 Days)](Unit5/Lesson-506.md)
+* [Lesson 5.06a: Data Lab](Unit5/Lesson-506a.md)
 * [Lesson 5.07: Review](Unit5/Lesson-507.md)
 * [Lesson 5.99: (Unit 5 test)](Curriculum-Map.md#599)
 * [Lesson 5.XX: Programming Project(Picture Lab Alternative)](Unit5/Lesson-5XX.md) 
