@@ -78,6 +78,7 @@
 * [Lesson 4.07: ArrayList](Unit4/Lesson-407.md)
 * [Lesson 4.08: Finding & Fixing Errors](Unit4/Lesson-408.md)
 * [Lesson 4.09: Magpie Lab (5 Days)](Unit4/Lesson-409.md)
+* [Lesson 4.09a: Steganography Lab](Unit4/Lesson-409a.md)
 * [Lesson 4.10: Review](Unit4/Lesson-410.md)
 * [Lesson 4.99: (Unit 4 test)](Curriculum-Map.md#499)
 * [Lesson 4.XX: Programming Project(Magpie Alternative)](Unit4/Lesson-4XX.md)
