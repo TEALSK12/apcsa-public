@@ -105,6 +105,7 @@
 * [Lesson 6.05: Has-a Relationships](Unit6/Lesson-605.md)
 * [Lesson 6.06: Interfaces](Unit6/Lesson-606.md)
 * [Lesson 6.07: Programming Project (5 Days)](Unit6/Lesson-607.md)
+* [Lesson 6.07a: Celebrity Lab](Unit6/Lesson-607a.md)
 * [Lesson 6.08: Finding & Fixing Errors](Unit6/Lesson-608.md)
 * [Lesson 6.09: Review](Unit6/Lesson-609.md)
 * [Lesson 6.99: (Unit 6 test)](Curriculum-Map.md#699)
