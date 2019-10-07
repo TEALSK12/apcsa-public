@@ -349,7 +349,7 @@ Students are expected to work on project in class.
 [Lesson 3.16]: Lesson-316.md
 [Lesson 3.17]: Lesson-317.md
 [Lesson 3.18]: Lesson-318.md
-[Lesson 3.18]: Lesson-319.md
+[Lesson 3.19]: Lesson-319.md
 [Consumer Review Lab]: Lesson-318.md
 [Operator Precedence]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Operator%20Precedence.pptx
 [Poster 3.16.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Poster%203.16.1.pdf
