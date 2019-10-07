@@ -9,7 +9,7 @@ classroom.
 - [Unit 3 Slides]
 - [Unit 3 Word Bank]
 - [Curriculum Assets]
-- [Frac Calc]
+- [Consumer Review Lab]
 
 | **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|
@@ -29,19 +29,19 @@ classroom.
 | [3.13] |while Loops|Practice-It SC 5.1 - 5.4, E 5.2<br>[WS 3.13]|5.1 ”Random numbers”|E 5.2 |
 | [3.14] |Random Numbers|Practice-It SC 5.5-5.7; E 5.4, 5.5|5.2|PP 5.1 |
 | [3.15] |Fencepost & Sentinel Loops|[WS 3.15] Teach mini-lessons|5.3|E 5.6, 5.8 |
-| [3.16]01 |Boolean Logic|Practice-It SC 5.27, 5.29<br>[WS 3.16] (RPS, Pig)<br>[DeMorgan’s Law]<BR>[Poster 3.16.1]<BR>[Poster 3.16.2]||Outline ch 5 (through 5.3) |
-| [3.16]02 |Boolean Logic (Day 2)||| |
+| [3.16].1 |Boolean Logic|Practice-It SC 5.27, 5.29<br>[WS 3.16] (RPS, Pig)<br>[DeMorgan’s Law]<BR>[Poster 3.16.1]<BR>[Poster 3.16.2]||Outline ch 5 (through 5.3) |
+| [3.16].2 |Boolean Logic (Day 2)||| |
 | [3.17] |Finding & Fixing Errors|(Fix HW)|Review ch 3-5|Submit questions for review |
-| [3.18]01|Consumer Review Lab (day&nbsp;1)|Consumer Review Lab Activity 1||
-| [3.18]02|Consumer Review Lab (day&nbsp;2)|Consumer Review Lab Activity 2||
-| [3.18]03|Consumer Review Lab (day&nbsp;3)|Consumer Review Lab Activity 3||
-| [3.18]04|Consumer Review Lab (day&nbsp;4)|Consumer Review Lab Activity 4||
-| [3.18]05|Consumer Review Lab (day&nbsp;5)|Consumer Review Lab Activity 5||
-| [3.18]06|Consumer Review Lab (day&nbsp;6)|Consumer Review Lab Activity 5 (day 2)||
+| [3.18].1|Consumer Review Lab (day&nbsp;1)|Consumer Review Lab Activity 1||
+| [3.18].2|Consumer Review Lab (day&nbsp;2)|Consumer Review Lab Activity 2||
+| [3.18].3|Consumer Review Lab (day&nbsp;3)|Consumer Review Lab Activity 3||
+| [3.18].4|Consumer Review Lab (day&nbsp;4)|Consumer Review Lab Activity 4||
+| [3.18].5|Consumer Review Lab (day&nbsp;5)|Consumer Review Lab Activity 5||
+| [3.18].6|Consumer Review Lab (day&nbsp;6)|Consumer Review Lab Activity 5 (day 2)||
 | [3.19] |Review|(Review questions), [WS 3.18] practice test||Study |
 | 3.99 |Unit 3 test|[Test 2 Guide]<br>Test 2 Section I<br>Test 2 Section II|| |
-| 3.XX | [Frac Calc] | | | |
-| 3.XX1 | [Unit 3 Project Alternative]  | work on project | conduct research | Continue working on project |
+| 3.XX | Alternative Project: [Frac Calc] | | | |
+| 3.XX1 | Alternative Project: [Calculator] | work on project | conduct research | Continue working on project |
 
 Students are expected to work on project in class.
 | **Reading**     | Students are expected to conduct research.
@@ -285,10 +285,10 @@ Students are expected to work on project in class.
 ## 3.XX
 | Unit 3 Project  | _Frac Calc_
 |:----------------|:-----------
-| **In Class**    | [Frac Calc]
+| **In Class**    | [Alternative Project: Frac Calc]
 
 ## 3.XX1
-| [Unit 3 Project Alternative] | _Programming Project (FracCalc Alternative)_
+| [Unit 3 Alternattive Project: Calculator] | _Programming Project (FracCalc Alternative)_
 |:----------------|:-----------
 | **Objectives**  | Students will conduct user-centred research, plan and create, and test, evaluate, and share the end product.
 | **Assessments** | Students will submit project for end of Unit 3 assessment.
@@ -323,13 +323,13 @@ Students are expected to work on project in class.
 [3.16]: Lesson-316.md
 [3.17]: Lesson-317.md
 [3.18]: Lesson-318.md
-[3.18]: Lesson-319.md
+[3.19]: Lesson-319.md
 [Algorithm for Solving Problems]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx
 [Curriculum Assets]: ../Assets.md
 [DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
 [Equestria]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Map%20of%20Equestria.pptx
 [Frac Calc]: ../Assets.md#fraccalc
-[Unit 3 Project Alternative]: Lesson-3XX1.md
+[Calculator]: Lesson-3XX1.md
 [Lesson 3.00]: Lesson-300.md
 [Lesson 3.01]: Lesson-301.md
 [Lesson 3.02]: Lesson-302.md
@@ -350,6 +350,7 @@ Students are expected to work on project in class.
 [Lesson 3.17]: Lesson-317.md
 [Lesson 3.18]: Lesson-318.md
 [Lesson 3.18]: Lesson-319.md
+[Consumer Review Lab]: Lesson-318.md
 [Operator Precedence]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Operator%20Precedence.pptx
 [Poster 3.16.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Poster%203.16.1.pdf
 [Poster 3.16.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Poster%203.16.2.pdf
