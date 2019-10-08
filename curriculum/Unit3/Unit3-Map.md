@@ -283,12 +283,12 @@ Students are expected to work on project in class.
 | **In Class**    | Test 2 Section I<br>Test 2 Section II
 
 ## 3.XX
-| Unit 3 Project  | _Frac Calc_
+| Unit 3 Alternative Project  | _Frac Calc_
 |:----------------|:-----------
-| **In Class**    | [Alternative Project: Frac Calc]
+| **In Class**    | [Frac Calc]
 
 ## 3.XX1
-| [Unit 3 Alternattive Project: Calculator] | _Programming Project (FracCalc Alternative)_
+| Unit 3 Alternative Project | [Consumer Review Lab] | _Programming Project (FracCalc Alternative)_
 |:----------------|:-----------
 | **Objectives**  | Students will conduct user-centred research, plan and create, and test, evaluate, and share the end product.
 | **Assessments** | Students will submit project for end of Unit 3 assessment.
@@ -349,7 +349,7 @@ Students are expected to work on project in class.
 [Lesson 3.16]: Lesson-316.md
 [Lesson 3.17]: Lesson-317.md
 [Lesson 3.18]: Lesson-318.md
-[Lesson 3.18]: Lesson-319.md
+[Lesson 3.19]: Lesson-319.md
 [Consumer Review Lab]: Lesson-318.md
 [Operator Precedence]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Operator%20Precedence.pptx
 [Poster 3.16.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Poster%203.16.1.pdf
