@@ -76,7 +76,7 @@ Procedure
      before creating our class?
 
      ``` Java
-     import java.util.\*;
+     import java.util.*;
      ```
 
 3. Now we create our class and main method (have students tell you what to do):
