@@ -103,3 +103,5 @@ are working. Return notebooks by the end of class so students may use them to st
 Forum discussion
 ---------------------------
 [Lesson 2.10 Finding & Fixing Errors (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-2/2-10-finding-fixing-errors)
+
+[College Board AP Classroom]: https://myap.collegeboard.org/login
