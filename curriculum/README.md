@@ -296,7 +296,7 @@ TEALS intends for this curriculum to be a starting point; it's our first attempt
 A curriculum. We'll continue evolving and adapting the curriculum and associated materials as we
 learn more about teaching AP CS A. To participate in this process, we invite TEALS team members and
 independent teachers using this curriculum to submit edits and suggestions via the discussion forum
-on the TEALS dashboard, or to [APSquad@tealsk12.org](mailto:APSquad@tealsk12.org).
+on the TEALS dashboard or in this [Github repository issues page](https://github.com/TEALSK12/apcsa-public/issues).
 
 
 
