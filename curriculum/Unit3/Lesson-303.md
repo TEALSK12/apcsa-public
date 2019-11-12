@@ -127,6 +127,10 @@ book.
 
 - There is special notation needed for the methods in the Math class, because you have to tell Java
   to go and use the method in another class. We call this “dot notation.”
+  
+- The Math class is an Application Program Interface (API). APIs are libraries that provide fuctionality to simplify complex programming tasks.
+
+- Documentation for APIs and libraries are essential to understanding the attributes and behaviors of an object of a class. Java's Javadoc describes many of the Java APIs.  For example, the Math API: https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
 
 - If you wanted to generate a random number to use in a formula for your Pokemon game (to add a
   little chance to a battle, lets say), you would create a method:
