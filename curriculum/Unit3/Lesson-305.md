@@ -77,7 +77,7 @@ original worksheet).
 
 #### Content - Advanced programming structures
         
-This activity introduces the concept of objects and classes. This means we are going into some more advanced and complex programming ideas and structures. As you learn about these things, its important to read through the instructions carefully and to think about the code that you are writing in your programs.
+This activity introduces the concept of objects and classes. This means we are going into some more advanced and complex programming ideas and structures. As you learn about these things, it's important to read through the instructions carefully and to think about the code that you are writing in your programs.
 
 Using advanced programming structures can be tricky, but it will allow you to create some very cool projects!
 
@@ -128,7 +128,7 @@ Using advanced programming structures can be tricky, but it will allow you to cr
    all topics and allow students to do all Round Robin exercises at the end of the introduction.)
 
 In reviewing substring, indexOf, toUpperCase, toLowerCase, and equals methods, work through some
-additional examples on the board if needed. If providing the students the complete worksheet (with
+additional examples on the board if needed. If providing students the complete worksheet (with
 notes), encourage them to highlight, circle, or transcribe the definitions or syntax examples into
 their notebook.
 
@@ -162,7 +162,7 @@ text isn’t found. (Answer: `-1` is never a valid index into a String.)
 
    d. Exercise 4 questions (the last set of 4 questions) should take ~1 minute each.
 
-   Adjust the timing on these questions as needed, but try to keep a brisk pace. Part of the
+   Adjust the timing on these questions as needed but try to keep a brisk pace. Part of the
    engagement factor is the sense of urgency.
 
 ### Paper selection and grade announcement \[3 minutes\]
@@ -198,9 +198,9 @@ Procedure Day 2
 ---------
 The AP CS A curriculum is circular in nature where topics are introduced and then reintroduced later in
 the semester.  The Integer and Double classes are introduced here as part of the using classes lesson.
-Students will use them when in a subsquent unit on ArrayLists when it will be necessary to create Integer
+Students will use them when in a subsequent unit on ArrayLists when it will be necessary to create Integer
 and Double objects to store primitives in an ArrayList.  Autoboxing and unboxing is introduced here to 
-simplify the need for explicity calling the constructors.
+simplify the need for explicitly calling the constructors.
 
 The Math class is introduced here with the inclusion of the Random class.
 
