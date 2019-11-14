@@ -230,8 +230,6 @@ customized classes that they’ve built themselves.
 
    - A class contains several key components:
 
-     - Slides 1-9, 15-16 of [Anatomy of a Java Class] can be used to introduce this topic
-
      - **Fields** — which outline what data (state) the object will hold
 
      - **Methods** — which determine the behavior of each object
@@ -239,7 +237,11 @@ customized classes that they’ve built themselves.
      - **Constructors** — code that initializes each object as its being constructed with the new
        keyword
 
-     - Have students navigate to [5.1. Anatomy of a Java Class], view the Activity 1 video and complete Activities 2-6.
+     - See CS Awesome [Unit 5 Lesson 01 Anatomy of a Java Class Lesson Plan]
+     
+     - Slides 1-9, 15-16 of [Anatomy of a Java Class] can be used to introduce this topic
+     
+     - Have students navigate to CS Awesome [5.1. Anatomy of a Java Class], view the Activity 1 video and complete Activities 2-6.
      
    - A class uses encapsulation to protect the object’s data from outside access (by the client
      code). You do this by making each field private.
