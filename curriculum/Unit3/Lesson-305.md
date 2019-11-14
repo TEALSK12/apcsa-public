@@ -22,7 +22,7 @@ Materials & Prep
 - **Whiteboard and** **markers**
 - **Classroom copies** of [WS 3.5]
 - Day 2
-- Teacher access to CS Awesome **[Unit 2 Lesson 8 Wrapper Classes - Integer and Double Lesson Plan]** 
+- Teacher access to CS Awesome **[Unit 2 Lesson 8 Wrapper Classes - Integer and Double Lesson Plan]** (sign up at https://sites.google.com/css.edu/csawesome/teacher-materials)
 - Teacher access to CS Awesome **[Unit 2 Lesson 9 Using The Math Class Lesson Plan]** 
 - Access to Dr. Nguyen **[Math Class And Wrapper Classes]** slide deck
 - Access to CS Awesome **[Lesson 2.8 Wrapper Classes - Integer and Double]** 
