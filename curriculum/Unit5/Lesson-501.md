@@ -21,7 +21,7 @@ Materials & Prep
 - **Classroom copies** of [WS 5.1.1]
 - **Classroom copies** of the textbook (or just section 8.1)
 - **Bookmarks on student computers (or emailed links) to Bulbapedia**
-- Teacher access to CS Awesome **[Unit 5 Lesson 01 Anatomy of a Java Class Lesson Plan]** 
+- Teacher access to CS Awesome **[Unit 5 Lesson 01 Anatomy of a Java Class Lesson Plan]** (sign up at https://sites.google.com/css.edu/csawesome/teacher-materials)
 - Access to Dr. Nguyen **[Anatomy of a Java Class]** slide deck
 - Access to CS Awesome **[5.1. Anatomy of a Java Class]** 
 
