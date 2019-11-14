@@ -22,11 +22,11 @@ Materials & Prep
 - **Whiteboard and** **markers**
 - **Classroom copies** of [WS 3.5]
 - Day 2
-- Teacher access to **[Unit 2 Lesson 8 Wrapper Classes - Integer and Double Lesson Plan]** 
-- Teacher access to **[Unit 2 Lesson 9 Using The Math Class Lesson Plan]** 
-- **[Math Class And Wrapper Classes]** slide deck
-- Access to **[Lesson 2.8 Wrapper Classes - Integer and Double]** 
-- Access to **[2.9. Using the Math Class]** 
+- Teacher access to CS Awesome **[Unit 2 Lesson 8 Wrapper Classes - Integer and Double Lesson Plan]** 
+- Teacher access to CS Awesome **[Unit 2 Lesson 9 Using The Math Class Lesson Plan]** 
+- Access to Dr. Nguyen **[Math Class And Wrapper Classes]** slide deck
+- Access to CS Awesome **[Lesson 2.8 Wrapper Classes - Integer and Double]** 
+- Access to CS Awesome **[2.9. Using the Math Class]** 
 
 
 The handouts for this lesson include notes as well as exercises. If you are working on developing
