@@ -25,6 +25,12 @@ Materials & Prep
 - **Roll of tape/glue stick** for each group
 - **1 large, 1 medium, and 2 small sticky notes** for each group
 - **1 blank sheet of paper** for each group
+- Teacher access to CS Awesome **[Unit 5 Lesson 07 Static Variables and Methods Lesson Plan]** (sign up at https://sites.google.com/css.edu/csawesome/teacher-materials)
+<!--
+Not available as of 11/14/19
+  - Access to Dr. Nguyen **[Static Variables and Methods]** slide deck
+-->
+- Access to CS Awesome **[5.7. Static Variables and Methods]** 
 
 Most teachers will either already have these materials on hand, or be able to borrow them from
 another teacher or the main office. You should try to give your classroom teacher at least 1 week
@@ -119,6 +125,18 @@ students work together with the guidance of WS 5.3.1
    auto-initialize your objects to zero values like it does for the Array class. The array class has
    its own constructor that says “set all initial values to zero-equivalents.” You will always need
    to write your own constructor to initialize your new objects.
+   
+3. Introduce the keyboard ``` static ``` from the Chapter 8.2. The topic is introduced here since it requires the concept of ``` this ``` covered in Chapter 8.3 in last night's reading assignment.
+
+   - See CS Awesome [Unit 5 Lesson 07 Static Variables and Methods Lesson Plan]
+   
+   <!--
+   Not available as of 11/14/19
+   - Slides [Writing Methods] can be used to review this topic.
+   -->
+      
+   - Have students navigate to CS Awesome [5.7. Static Variables and Methods] and complete Activity 1-4.
+
 
 ### Student Work \[30 minutes\]
 
@@ -252,3 +270,9 @@ Forum discussion
 
 [WS 5.3.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.3.1.docx
 [WS 5.3.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.3.2.docx
+[Unit 5 Lesson 07 Static Variables and Methods Lesson Plan]: https://docs.google.com/document/d/1X42zMw7DOvkiu2bCEhaBi6y5MO3LZ6lxnoofuqE51KU/edit?usp=drive_web
+<!--
+Not available as of 11/14/19
+[Static Variables and Methods]: https://longbaonguyen.github.io/courses/apcsa/lectureXX.ppt
+-->
+[5.7. Static Variables and Methods]: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/topic-5-7-static-vars-methods.html
