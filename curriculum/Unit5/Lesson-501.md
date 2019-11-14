@@ -239,7 +239,7 @@ customized classes that they’ve built themselves.
      - **Constructors** — code that initializes each object as its being constructed with the new
        keyword
 
-     - Have students navigate to [5.1. Anatomy of a Java Class] and complete the view the video and complete Activity 2-6.
+     - Have students navigate to [5.1. Anatomy of a Java Class], view the Activity 1 video and complete Activities 2-6.
      
    - A class uses encapsulation to protect the object’s data from outside access (by the client
      code). You do this by making each field private.
