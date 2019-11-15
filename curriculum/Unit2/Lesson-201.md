@@ -56,7 +56,7 @@ Begin with a brief lecture about data types.
   different types of data that Java can work with.
 
 - **Type** (or data type): a name for a category of data values that are all related  
-  - ** Primative data types**:  Store the actual value in the variable
+  - **Primative data types**:  Store the actual value in the variable
 
     - **Type int** describes all whole numbers, or integers (have students name some examples)
       -int variables take up 8 bits of space in memory (see chart in slide deck)
@@ -134,7 +134,13 @@ Begin with a brief lecture about data types.
      - 239 / 10 evaluates to 23 (have students do this one to see if they catch the int)
      - Still moving left-to-right, now 23 \* 5 evaluates to 3, and 2 \* 2 evaluates to 4
      - 26 + 3 – 4 evaluates to 25
-
+ 
+ 6. Quick way to round doubles. We just showed that when doing division we drop the decimals so here is a quick way to round doubles:
+    - for positive numbers:
+      - (int) (x + 0.5)     
+    - for negative numbers:
+      - (int) (x - 0.5)
+   
 ### Evaluating Expressions Activity \[20 minutes\]
 
 1. Depending on your class size, have students form pairs or small groups
