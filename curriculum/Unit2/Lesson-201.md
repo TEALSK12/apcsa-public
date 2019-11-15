@@ -56,7 +56,7 @@ Begin with a brief lecture about data types.
   different types of data that Java can work with.
 
 - **Type** (or data type): a name for a category of data values that are all related  
-  - ** Primative data types:  Store the actual value in the variable
+  - ** Primative data types**:  Store the actual value in the variable
 
     - **Type int** describes all whole numbers, or integers (have students name some examples)
       -int variables take up 8 bits of space in memory (see chart in slide deck)
@@ -70,7 +70,7 @@ Begin with a brief lecture about data types.
     - **Type boolean** describes logical values—this means true or false. There are no other
       values in type boolean.
       
-  -** Refrence data types: store the location in memory of the object the code is referring to
+  - **Refrence data types**: store the location in memory of the object the code is referring to
       -A String variable would be an example of a reference data type 
 
 - An **expression** is a simple value, or a set of operations (an equation) that produces a
