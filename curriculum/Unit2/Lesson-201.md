@@ -55,7 +55,8 @@ Begin with a brief lecture about data types.
 - To write a more complicated program like a calculator, we need to familiarize ourselves with the
   different types of data that Java can work with.
 
-- **Type** (or data type): a name for a category of data values that are all related
+- **Type** (or data type): a name for a category of data values that are all related  Primative and reference
+
 
   - **Type int** describes all whole numbers, or integers (have students name some examples)
 
