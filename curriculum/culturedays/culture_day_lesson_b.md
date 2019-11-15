@@ -23,6 +23,8 @@ Coding is simply a technical skill.   Yet the process of software development, p
 * New and emerging technologies (AI, Machine Learning, robotics, cryptocurrencies, etc.)
 * Impact of technology on society (social media, health and lifestyle, screen time, etc.)
 * Ethics (privacy, cyberbullying, security, etc.) 
+* Legal issues from new technology (intellectual property, facial recognition discrimination, etc.)
+* Software reliability and limitation (https://www.cigniti.com/blog/37-software-failures-inadequate-software-testing/)
 
 This list should be expanded and updated, from time to time, to be up to date.
 
