@@ -55,17 +55,23 @@ Begin with a brief lecture about data types.
 - To write a more complicated program like a calculator, we need to familiarize ourselves with the
   different types of data that Java can work with.
 
-- **Type** (or data type): a name for a category of data values that are all related
+- **Type** (or data type): a name for a category of data values that are all related  
+  - **Primative data types**:  Store the actual value in the variable
 
-  - **Type int** describes all whole numbers, or integers (have students name some examples)
+    - **Type int** describes all whole numbers, or integers (have students name some examples)
+      -int variables take up 8 bits of space in memory (see chart in slide deck)
+      -Remember to talk about data overflow and what happens if you put too large a value into an int
 
-  - **Type double** describes all numbers with decimal points (have students give some examples)
+    - **Type double** describes all numbers with decimal points (have students give some examples)
+      - double variables take up 64 bits of space in memory (see chart in slide deck)
+      - You can remember if something is a double because there are numbers on both sides of a
+        decimal point (like 2 numbers, double numbers)
 
-    - You can remember if something is a double because there are numbers on both sides of a
-      decimal point (like 2 numbers, double numbers)
-
-  - **Type boolean** describes logical values—this means true or false. There are no other
-    values in type boolean.
+    - **Type boolean** describes logical values—this means true or false. There are no other
+      values in type boolean.
+      
+  - **Refrence data types**: store the location in memory of the object the code is referring to
+      -A String variable would be an example of a reference data type 
 
 - An **expression** is a simple value, or a set of operations (an equation) that produces a
   value.
@@ -128,7 +134,13 @@ Begin with a brief lecture about data types.
      - 239 / 10 evaluates to 23 (have students do this one to see if they catch the int)
      - Still moving left-to-right, now 23 \* 5 evaluates to 3, and 2 \* 2 evaluates to 4
      - 26 + 3 – 4 evaluates to 25
-
+ 
+ 6. Quick way to round doubles. We just showed that when doing division we drop the decimals so here is a quick way to round doubles:
+    - for positive numbers:
+      - (int) (x + 0.5)     
+    - for negative numbers:
+      - (int) (x - 0.5)
+   
 ### Evaluating Expressions Activity \[20 minutes\]
 
 1. Depending on your class size, have students form pairs or small groups
