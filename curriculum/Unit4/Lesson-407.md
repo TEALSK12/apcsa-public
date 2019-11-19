@@ -189,6 +189,20 @@ spongebob.clear();
 This removes all elements from the list and leaves null values at each index (it’s an empty array
 now).
 
+##### Enhanced for each loop
+``` Java
+ArrayList<Integer> intList = new ArrayList<Integer>();
+intList.add(95);
+intList.add(85);
+int total = 0;
+for (Integer value: intList)
+{
+    total = total + value;
+}
+System.out.println(total);
+```
+
+Changing the size of an ArrayList while traversing it using an enhanced for loop can result in a ConcurrentModificationException being thrown. Therefore, when using an enhanced for loop to traverse an ArrayList, you should not add or remove elements.
 
 ----------------------------------------------------------------------------------------------------
 
