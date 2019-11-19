@@ -88,6 +88,8 @@ tested during the game.
      `ArrayList<String> spongebob = new ArrayList<String>`**`()`**`;`
 
    - Whenever you see empty parentheses, it means that you’re not using parameters.
+   
+   - The ArrayList constructor ArrayList<>() constructs an empty list. 
 
 4. Using Poster 4.7, review some of the methods you can use to manipulate ArrayLists. Add some
    `spongebob` elements to your `ArrayList`:
@@ -146,6 +148,13 @@ tested during the game.
 System.out.println(spongebob.get(3));
 ```
 
+##### Index Out of Bounds Exception
+``` Java
+Exception in thread "main" java.lang.IndexOutOfBoundsException:
+```
+
+Since the indices for an ArrayList start at 0 and end at the number of elements  - 1, accessing an index value outside of this range will result in an ArrayIndexOutOfBoundsException being thrown.
+
 ##### To get the number of elements in the ArrayList and print it
 ``` Java
 System.out.println(spongebob.size());
@@ -179,6 +188,21 @@ spongebob.clear();
 
 This removes all elements from the list and leaves null values at each index (it’s an empty array
 now).
+
+##### Enhanced for each loop
+``` Java
+ArrayList<Integer> intList = new ArrayList<Integer>();
+intList.add(95);
+intList.add(85);
+int total = 0;
+for (Integer value: intList)
+{
+    total = total + value;
+}
+System.out.println(total);
+```
+
+Changing the size of an ArrayList while traversing it using an enhanced for loop can result in a ConcurrentModificationException being thrown. Therefore, when using an enhanced for loop to traverse an ArrayList, you should not add or remove elements.
 
 ----------------------------------------------------------------------------------------------------
 
