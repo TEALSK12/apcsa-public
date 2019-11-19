@@ -140,6 +140,10 @@ strategy. Concepts/skills will be covered at different levels of complexity in r
 needs of each learner. Your tiered group assignments will probably end up changing from one exercise
 to another, since students’ needs and strengths vary with instructional objectives and task types.
 
+Additional Resources
+--------------------
+- CS Awesome Array Algorithms
+<https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/topic-6-4-array-algorithms.html>
 
 Video
 -----
