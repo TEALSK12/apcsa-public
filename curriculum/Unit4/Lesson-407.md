@@ -148,6 +148,13 @@ tested during the game.
 System.out.println(spongebob.get(3));
 ```
 
+##### Index Out of Bounds Exception
+``` Java
+Exception in thread "main" java.lang.IndexOutOfBoundsException:
+```
+
+Since the indices for an ArrayList start at 0 and end at the number of elements  - 1, accessing an index value outside of this range will result in an ArrayIndexOutOfBoundsException being thrown.
+
 ##### To get the number of elements in the ArrayList and print it
 ``` Java
 System.out.println(spongebob.size());
@@ -181,6 +188,7 @@ spongebob.clear();
 
 This removes all elements from the list and leaves null values at each index (it’s an empty array
 now).
+
 
 ----------------------------------------------------------------------------------------------------
 
