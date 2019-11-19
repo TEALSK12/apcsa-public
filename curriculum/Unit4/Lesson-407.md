@@ -88,6 +88,8 @@ tested during the game.
      `ArrayList<String> spongebob = new ArrayList<String>`**`()`**`;`
 
    - Whenever you see empty parentheses, it means that you’re not using parameters.
+   
+   - The ArrayList constructor ArrayList<>() constructs an empty list. 
 
 4. Using Poster 4.7, review some of the methods you can use to manipulate ArrayLists. Add some
    `spongebob` elements to your `ArrayList`:
