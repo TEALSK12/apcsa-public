@@ -165,6 +165,16 @@ The steps are:
 
 A useful animation of insertion sort can be found on Wikipedia here: (<http://tinyurl.com/ldw8bj6>).
 
+#### Comparison of Sorting Algorithms
+
+Going indepth on every sorting algorithm is beyond the scope of this course.  This is an introduction on comparing sorting algorithms.  
+
+1. Start a discussion on the insertion sort algorithm above on how would you measure the amount of resources used.  Lead the students to:
+execution time, memory, number of swaps.
+
+2. What would the resources used be if the array was in reverse order for the selection sort vs insertion sort?  What if the array was already sorted? What is the average execution time?  Algorithms are classified by the worse case execution time.  For both selection and insertion sort, they are n-squared algoritms.
+
+3. Introduce the concept of non-n squared algorithms in the following video: https://www.youtube.com/watch?v=ZZuD6iUe3Pc.  A faster sorting algorithm, Merge Sort, will be introduced in the recursion Unit.
 
 Accommodation and Differentiation
 ---------------------------------
