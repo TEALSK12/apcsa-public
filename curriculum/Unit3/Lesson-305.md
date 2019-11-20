@@ -26,7 +26,7 @@ Materials & Prep
 - Teacher access to CS Awesome **[Unit 2 Lesson 9 Using The Math Class Lesson Plan]** 
 - Access to Dr. Nguyen **[Math Class And Wrapper Classes]** slide deck
 - Access to CS Awesome **[Lesson 2.8 Wrapper Classes - Integer and Double]** 
-- Access to CS Awesome **[2.9. Using the Math Class]** 
+- Access to CS Awesome **[Lesson 2.9. Using the Math Class]** 
 
 
 The handouts for this lesson include notes as well as exercises. If you are working on developing
@@ -212,7 +212,7 @@ find the lesson plan and activities to check for student understanding. The teac
 joining the [Teaching CSAwesome google group] and navigating to [Unit 2] and selecting [Unit 2 Lesson 8 Wrapper Classes - Integer and Double Lesson Plan]. The slide deck for this lesson and Using the Math Class are located on [Dr. Long Nguyen] GitHub at [Math Class And Wrapper Classes]
 
 ### Introduction of Using the Math Class \[10 minutes\]
-The student lesson for Part 2 uses CS Awesomes [2.9. Using the Math Class].  There you will
+The student lesson for Part 2 uses CS Awesomes [Lesson 2.9. Using the Math Class].  There you will
 find the lesson plan and activities to check for student understanding. The teacher lesson plans are accessible by
 joining the [Teaching CSAwesome google group] and navigating to [Unit 2] and selecting [Unit 2 Lesson 9 Using The Math Class Lesson Plan].
 
@@ -238,6 +238,6 @@ Forum discussion
 [Dr. Long Nguyen]: https://longbaonguyen.github.io/
 [Math Class And Wrapper Classes]: https://longbaonguyen.github.io/courses/apcsa/lecture7.ppt
 [Lesson 2.8 Wrapper Classes - Integer and Double]: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-8-IntegerDouble.html
-[2.9. Using the Math Class]: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-9-Math.html
+[Lesson 2.9. Using the Math Class]: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-9-Math.html
 [Unit 2 Lesson 8 Wrapper Classes - Integer and Double Lesson Plan]: https://docs.google.com/document/d/1ewEzB4VZbhmJWiuZSHZkzftXs-sumpVPYemS_h3zCys/edit
 [Unit 2 Lesson 9 Using The Math Class Lesson Plan]: https://docs.google.com/document/d/1mS8wU0lk89oQUh41DQ-pr-RcX7Z6_PjN2MvebGLlVzQ/edit#heading=h.h9j0e8nxmv2f
