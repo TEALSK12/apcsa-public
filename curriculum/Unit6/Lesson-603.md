@@ -22,6 +22,9 @@ Materials & Prep
 - **Classroom copies** of [WS 6.3], [Poster 6.3]
 - **Poster 6.3**
 - **Empty & washed, or non-refrigerated, drink bottles**, with labels affixed (**optional**)
+- Teacher access to CS Awesome **[Unit 3 Lesson 07 Comparing Objects Lesson Plan]** Sign up at [CS Awesome AP CSA Java Curriculum]
+- Access to Dr. Nguyen **[Compound Boolean Expressions and Comparing Objects]** slide deck
+- Access to CS Awesome **[3.7. Comparing Objects]** 
 
 Poster 6.3 is set to print a movie-sized poster of 15” x 20”. If you do not want to print a poster
 this size, access the .pptx version of the poster, and reset the page size to legal, ledger, or
@@ -103,7 +106,15 @@ method.
          return name.equals(other.name) && (ounces == other.ounces);
      }
      ```
+     
+5. Comparing Objects with  *==* and *!=*
 
+     - See CS Awesome [Unit 3 Lesson 07 Comparing Objects Lesson Plan]
+     
+     - Slides 22-25 of [Compound Boolean Expressions and Comparing Objects] can be used to introduce this topic
+     
+     - Have students navigate to CS Awesome [3.7. Comparing Objects], view the Activity 1 video and complete Activities 1-7.
+     
 ### Student Practice: Practice-It \[15 minutes\]
 1. Have students work individually or in pairs to complete the following Practice-It questions:
 
@@ -170,11 +181,6 @@ following is a chart of the differences:
 | **Execution**        | Run Time                             | Compile Time
 
 
-Additional Resources
---------------------
-- CS Awesome Referencing With null, == and !=
-<https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-7-comparing-objects.html>
-
 Video
 -----
 - CSE 143, _Interacting with Objects_ (2:59–30:39)<br>
@@ -191,3 +197,11 @@ Forum discussion
 
 [WS 6.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/WS%206.3.docx
 [Poster 6.3]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Poster%206.3.pptx
+
+[Dr. Long Nguyen]: https://longbaonguyen.github.io/
+[Teaching CSAwesome google group]: https://groups.google.com/forum/#!forum/teaching-csawesome
+[CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials
+
+[Unit 3 Lesson 07 Comparing Objects Lesson Plan]: https://docs.google.com/document/d/1kgYFJeXqGsM5tef0zhkJE2VQyy7g2Pi2cN-ErrN7XNA/edit?usp=drive_web
+[Compound Boolean Expressions and Comparing Objects]: https://longbaonguyen.github.io/courses/apcsa/lecture9.ppt
+[3.7. Comparing Objects]: https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-7-comparing-objects.html
