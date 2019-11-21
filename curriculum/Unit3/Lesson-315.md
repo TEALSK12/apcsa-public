@@ -120,9 +120,12 @@ up in the past, with their answers, are listed below:
 
 Additional Resources
 --------------------
-- CS Awesome DeMorgan's Laws
+- CS Awesome Compare and Contrast Boolean Expressions
 <https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-6-DeMorgan.html>
-
+- CS Awesome Using Truth Tables
+<https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-5-compound-ifs.html#truth-tables>
+- CS Awesome Equal Boolean Statements Evaluate to the Same Value
+<https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-6-DeMorgan.html>
 
 Video
 -----
