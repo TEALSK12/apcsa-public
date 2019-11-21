@@ -118,6 +118,11 @@ up in the past, with their answers, are listed below:
    _Put an example up on the board (or have the student instructors do so), and trace the flow of
    control before and after rearranging the loop body._
 
+Additional Resources
+--------------------
+- CS Awesome DeMorgan's Laws
+<https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-6-DeMorgan.html>
+
 
 Video
 -----
