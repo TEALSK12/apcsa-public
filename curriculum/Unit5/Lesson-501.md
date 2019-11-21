@@ -21,7 +21,7 @@ Materials & Prep
 - **Classroom copies** of [WS 5.1.1]
 - **Classroom copies** of the textbook (or just section 8.1)
 - **Bookmarks on student computers (or emailed links) to Bulbapedia**
-- Teacher access to CS Awesome **[Unit 5 Lesson 01 Anatomy of a Java Class Lesson Plan]** (sign up at https://sites.google.com/css.edu/csawesome/teacher-materials)
+- Teacher access to CS Awesome **[Unit 5 Lesson 01 Anatomy of a Java Class Lesson Plan]** Sign up at [CS Awesome AP CSA Java Curriculum]
 - Access to Dr. Nguyen **[Anatomy of a Java Class]** slide deck
 - Access to CS Awesome **[5.1. Anatomy of a Java Class]** 
 
@@ -375,6 +375,11 @@ Forum discussion
 
 
 [WS 5.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.1.1.pdf
+
+[Dr. Long Nguyen]: https://longbaonguyen.github.io/
+[Teaching CSAwesome google group]: https://groups.google.com/forum/#!forum/teaching-csawesome
+[CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials
+
 [Unit 5 Lesson 01 Anatomy of a Java Class Lesson Plan]: https://docs.google.com/document/d/1x4n_pde03dlV_5zyDvvs-SNcCvZi4awnRc5vVgEflaQ/edit?usp=drive_web
 [Anatomy of a Java Class]: https://longbaonguyen.github.io/courses/apcsa/lecture13.ppt
 [5.1. Anatomy of a Java Class]: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/topic-5-1-parts-of-class.html
