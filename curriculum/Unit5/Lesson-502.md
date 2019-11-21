@@ -20,7 +20,7 @@ Materials & Prep
 - **Projector and computer**
 - **Whiteboard and** **markers**
 - **Classroom copies** of [WS 5.2]
-- Teacher access to CS Awesome **[Lesson 5.6: Writing Methods Class Lesson Plan]** (sign up at https://sites.google.com/css.edu/csawesome/teacher-materials)
+- Teacher access to CS Awesome **[Lesson 5.6: Writing Methods Class Lesson Plan]** Sign up at [CS Awesome AP CSA Java Curriculum]
 <!--
 Not available as of 11/14/19
   - Access to Dr. Nguyen **[Writing Methods]** slide deck
@@ -319,6 +319,9 @@ Forum discussion
 ----------------
 [Lesson 5.02 Object State & Behavior (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-5/5-02-object-state-behavior)
 
+[Dr. Long Nguyen]: https://longbaonguyen.github.io/
+[Teaching CSAwesome google group]: https://groups.google.com/forum/#!forum/teaching-csawesome
+[CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials
 
 [WS 5.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.2.docx
 [Lesson 5.6: Writing Methods Class Lesson Plan]: https://docs.google.com/document/d/1cjzzkbT6Y6zrUxqdw0QOiIzTu-AlHplEVZnlVH_wxcE/edit?usp=drive_web
