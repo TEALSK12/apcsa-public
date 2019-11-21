@@ -341,12 +341,6 @@ Object oriented concepts common mistakes:
 <http://interactivepython.org/runestone/static/JavaReview/OOBasics/ooMistakes.html>
 
 
-Additional Resources
---------------------
-- CS Awesome Object Aliasing
-<https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-7-comparing-objects.html>
-
-
 Video
 -----
 - BJP 9-1, _Inheritance: Interacting with the Superclass_<br>
