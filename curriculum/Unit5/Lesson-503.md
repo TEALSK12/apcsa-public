@@ -25,7 +25,7 @@ Materials & Prep
 - **Roll of tape/glue stick** for each group
 - **1 large, 1 medium, and 2 small sticky notes** for each group
 - **1 blank sheet of paper** for each group
-- Teacher access to CS Awesome **[Unit 5 Lesson 07 Static Variables and Methods Lesson Plan]** (sign up at https://sites.google.com/css.edu/csawesome/teacher-materials)
+- Teacher access to CS Awesome **[Unit 5 Lesson 07 Static Variables and Methods Lesson Plan]** Sign up at [CS Awesome AP CSA Java Curriculum]
 <!--
 Not available as of 11/14/19
   - Access to Dr. Nguyen **[Static Variables and Methods]** slide deck
@@ -270,6 +270,11 @@ Forum discussion
 
 [WS 5.3.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.3.1.docx
 [WS 5.3.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.3.2.docx
+
+[Dr. Long Nguyen]: https://longbaonguyen.github.io/
+[Teaching CSAwesome google group]: https://groups.google.com/forum/#!forum/teaching-csawesome
+[CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials
+
 [Unit 5 Lesson 07 Static Variables and Methods Lesson Plan]: https://docs.google.com/document/d/1X42zMw7DOvkiu2bCEhaBi6y5MO3LZ6lxnoofuqE51KU/edit?usp=drive_web
 <!--
 Not available as of 11/14/19
