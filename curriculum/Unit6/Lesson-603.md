@@ -170,6 +170,11 @@ following is a chart of the differences:
 | **Execution**        | Run Time                             | Compile Time
 
 
+Additional Resources
+--------------------
+- CS Awesome Referencing With null, == and !=
+<https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-7-comparing-objects.html>
+
 Video
 -----
 - CSE 143, _Interacting with Objects_ (2:59–30:39)<br>
