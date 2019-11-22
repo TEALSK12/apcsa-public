@@ -74,8 +74,31 @@ Procedure
          i++;
      }
      ```
+4. Introduce tracing while loops by using a trace table:
+   - Columns represent variables 
+   - Rows represents values variables during each iteration
+  
+   ``` Java
+   int n = 172;
+   int sum = n;
+   while (n<0) {
+      int digit = n % 10;
+      sum = sum + digit;
+      n = n / 10;
+   }
+   System.out.println (sum);
+   ```
+   
+   - Trace the above code using the trace table below.
+   
+   | n | sum | digit | output |
+   |---|-----|-------|--------|
+   |||||
+   |||||
+   |||||
+   |||||
 
-4. Invite students to Think-pair-share on the following example:
+5. Invite students to Think-pair-share on the following example:
 
    ``` Java
    int n = 91;
