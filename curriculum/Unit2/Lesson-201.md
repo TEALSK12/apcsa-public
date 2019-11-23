@@ -59,17 +59,26 @@ Begin with a brief lecture about data types.
   - **Primative data types**:  Store the actual value in the variable
 
     - **Type int** describes all whole numbers, or integers (have students name some examples)
-      -int variables take up 8 bits of space in memory (see chart in slide deck)
+      -int variables take up 4 Bytes of space in memory (see chart below)
       -Remember to talk about data overflow and what happens if you put too large a value into an int
 
     - **Type double** describes all numbers with decimal points (have students give some examples)
-      - double variables take up 64 bits of space in memory (see chart in slide deck)
+      - double variables take up 8 Bytes of space in memory (see chart below)
       - You can remember if something is a double because there are numbers on both sides of a
         decimal point (like 2 numbers, double numbers)
 
     - **Type boolean** describes logical values—this means true or false. There are no other
       values in type boolean.
       
+      Pacing Guide
+------------
+| Data Type                                | Total Size |          Range of Values          |
+|------------------------------------------|------------|-----------------------------------|
+| Integer                                  |   4 Bytes  | -2,147,483,648 to 2,147,483, 647  |
+| double                                   |   8 Bytes  |  approximately 15 significant     |
+|                                          |            |  decimal digits                   |
+| boolean                                  |   1 bit    |  true or false                    |
+
   - **Refrence data types**: store the location in memory of the object the code is referring to
       -A String variable would be an example of a reference data type 
 
