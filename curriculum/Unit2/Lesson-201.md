@@ -74,7 +74,7 @@ Begin with a brief lecture about data types.
 ------------
 | Data Type                                | Total Size |          Range of Values          |
 |------------------------------------------|------------|-----------------------------------|
-| Integer                                  |   4 Bytes  | -2,147,483,648 to 2,147,483, 647  |
+| int                                      |   4 Bytes  | -2,147,483,648 to 2,147,483, 647  |
 | double                                   |   8 Bytes  |  approximately 15 significant     |
 |                                          |            |  decimal digits                   |
 | boolean                                  |   1 bit    |  true or false                    |
