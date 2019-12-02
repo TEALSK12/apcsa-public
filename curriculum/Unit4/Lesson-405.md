@@ -216,20 +216,6 @@ physical space, so make sure that all groups are working along with their array 
    students who understand the task may continue working independently. Otherwise, encourage peer
    tutoring, or using the textbook or notebooks for help.
 
-Procedure Day 2
----------
-This lesson continues with array algorithms with examples from the College Board AP CS A examps free response questions using
-CS Awesome's Lesson 6.4 Array Algorithms.
-
-### Bell-work and Attendance \[5 minutes\]
-
-### CS Awesome Array Algoritms 6.4  \[10 minutes\]
-The student lesson for Part 2 uses CS Awesomes [Lesson 6.4: Array Algorithms].  There you will
-find the lesson plan and activities to check for student understanding. The teacher lesson plans are accessible by
-joining the [Teaching CSAwesome google group] and navigating to [6.4. Array Algorithms]. The slide deck for this lesson and Using the Math Class are located on [Dr. Long Nguyen] GitHub at [For Loops]
-
-
-
 ### Error-Checking Algorithm \[10 minutes\]
 At the end of class, if time permits, have students draft an algorithm for error-checking (see below
 for details).
@@ -254,6 +240,18 @@ To adjust for reading/comprehension challenges in the ELL classroom, consider ha
 in small groups with the array whiteboards instead of answering questions within Practice It. Give
 each group/student a print out with the questions, and have them turn in the worksheets at the end
 of class.
+
+Procedure Day 2
+---------
+This lesson continues with array algorithms with examples from the College Board AP CS A examps free response questions using
+CS Awesome's Lesson 6.4 Array Algorithms.
+
+### Bell-work and Attendance \[5 minutes\]
+
+### CS Awesome Array Algoritms 6.4  \[35-40 minutes\]
+The student lesson for Part 2 uses CS Awesomes [Lesson 6.4: Array Algorithms].  There you will
+find the lesson plan and activities to check for student understanding. The teacher lesson plans are accessible by
+joining the [Teaching CSAwesome google group] and navigating to [6.4. Array Algorithms]. The slide deck for this lesson are located on [Dr. Long Nguyen] GitHub at [For Loops]
 
 
 Video
