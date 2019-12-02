@@ -218,13 +218,8 @@ physical space, so make sure that all groups are working along with their array 
 
 Procedure Day 2
 ---------
-The AP CS A curriculum is circular in nature where topics are introduced and then reintroduced later in
-the semester.  The Integer and Double classes are introduced here as part of the using classes lesson.
-Students will use them when in a subsequent unit on ArrayLists when it will be necessary to create Integer
-and Double objects to store primitives in an ArrayList.  Autoboxing and unboxing is introduced here to 
-simplify the need for explicitly calling the constructors.
-
-The Math class is introduced here with the inclusion of the Random class.
+This lesson continues with array algorithms with examples from the College Board AP CS A examps free response questions using
+CS Awesome's Lesson 6.4 Array Algorithms.
 
 ### Bell-work and Attendance \[5 minutes\]
 
