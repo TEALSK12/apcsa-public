@@ -120,6 +120,9 @@ There are several flow chart creation programs available online, these can help 
    - If any of these examples stump your class (and they will), take them through the loop, one
      step at a time, writing down sample output to find the new pattern.
 
+   Loops can be also analyzed to determine how many times they run. This is called run-time analysis or a statement execution count. 
+   For each of the above examples, ask how many times each loop executes.
+   
 ### Practice-It Activity \[35 minutes\]
 
 1. Depending on the mood and frustration levels in the class, you may choose to have students work
