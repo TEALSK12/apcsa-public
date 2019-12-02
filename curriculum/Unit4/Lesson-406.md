@@ -271,7 +271,7 @@ student. If your students are finishing faster than the time intervals indicated
 of time allotted to maintain a sense of urgency/keep students on task. If finished early, offer a
 Programming Challenge while you grade the sample worksheet.
 
-Procedure Day 1
+Procedure Day 2
 ---------
 
 ### Bell-work and Attendance \[5 minutes\]
