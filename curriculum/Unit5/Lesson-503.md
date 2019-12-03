@@ -126,7 +126,7 @@ students work together with the guidance of WS 5.3.1
 3. Introduce the keyboard ``` static ``` from the Chapter 8.2. The topic is introduced here since it requires the concept of ``` this ``` covered in Chapter 8.3 in last night's reading assignment.
 
    - See CS Awesome [Unit 5 Lesson 07 Static Variables and Methods Lesson Plan]
-   - Slides [Variables, Scope and Semantics] can be used to review this topic.
+   - The slide deck for this lesson are located on [Dr. Long Nguyen] GitHub at [Variables, Scope and Semantics] and can be used to review this topic.
    - Have students navigate to CS Awesome [5.7. Static Variables and Methods] and complete Activity 1-4.
 
 
