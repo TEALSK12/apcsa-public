@@ -235,7 +235,7 @@ Forum discussion
 
 
 [WS 3.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.5.docx
-[Dr. Long Nguyen]: https://longbaonguyen.github.io/
+[Dr. Long Nguyen]: https://longbaonguyen.github.io/courses/apcsa/apjava.html
 [Math Class And Wrapper Classes]: https://longbaonguyen.github.io/courses/apcsa/lecture7.ppt
 [Lesson 2.8 Wrapper Classes - Integer and Double]: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-8-IntegerDouble.html
 [Lesson 2.9. Using the Math Class]: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-9-Math.html
