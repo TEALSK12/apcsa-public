@@ -140,6 +140,9 @@ As you complete this activity, think carefully about how arrays could be used in
    `------------------'---'---'---'---'
    ```
 
+    - Now that students can create an array of integers, ask the students how would they create an array of temeratures 
+    and calculate the average temperature? What intermediate step would be needed before calculating the average temperature?
+
 3. Briefly touch on other types of arrays and common errors.
 
    - You can have arrays of almost anything: `String`, `double`, `boolean`, _etc._ Examples of an
