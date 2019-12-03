@@ -239,7 +239,8 @@ customized classes that they’ve built themselves.
 
      - See CS Awesome [Unit 5 Lesson 01 Anatomy of a Java Class Lesson Plan]
      
-     - Slides 1-9, 15-16 of [Anatomy of a Java Class] can be used to introduce this topic
+     - The slide deck for this lesson and Using the enhanced for and array algorithms are located on [Dr. Long Nguyen] GitHub 
+     at [Anatomy of a Java Class]. Slides 1-9, 15-16 of can be used to introduce this topic
      
      - Have students navigate to CS Awesome [5.1. Anatomy of a Java Class], view the Activity 1 video and complete Activities 2-6.
      
