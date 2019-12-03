@@ -179,7 +179,7 @@ class, for example Pikachu, Bulbasaur.)
    }
    ```
    - See CS Awesome [Lesson 5.6: Writing Methods Class Lesson Plan]
-   - Slides [Writing Methods] can be used to review this topic      
+   - The slide deck for this lesson and Using the enhanced for and array algorithms are located on [Dr. Long Nguyen] GitHub at [Writing Methods] and can be used to review this topic      
    - Have students navigate to CS Awesome [5.6. Writing Methods] and complete Activity 1-4
    
 6. Since we know that all instances of our Pokémon class will have initial values to their stats, we
