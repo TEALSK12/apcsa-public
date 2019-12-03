@@ -112,6 +112,9 @@ lecture content will be tested during the game.
 
 - You can only use a relational operator on primitive data types! (Ask students which types are
   included, which ones are excluded.)
+  
+- Review the mod % operator.  Ask the students how they could use the mod operator to check for if a numbe is an odd or even number.
+  Follow up with can a similiar algorithm be used to check if any number is evenly divisible by another.
 
 ### Activity: Grudgeball \[35 minutes\] \[Optional\]
 
