@@ -376,7 +376,7 @@ Forum discussion
 
 [WS 5.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.1.1.pdf
 
-[Dr. Long Nguyen]: https://longbaonguyen.github.io/
+[Dr. Long Nguyen]: https://longbaonguyen.github.io/courses/apcsa/apjava.html
 [Teaching CSAwesome google group]: https://groups.google.com/forum/#!forum/teaching-csawesome
 [CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials
 
