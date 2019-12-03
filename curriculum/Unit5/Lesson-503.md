@@ -26,10 +26,7 @@ Materials & Prep
 - **1 large, 1 medium, and 2 small sticky notes** for each group
 - **1 blank sheet of paper** for each group
 - Teacher access to CS Awesome **[Unit 5 Lesson 07 Static Variables and Methods Lesson Plan]** Sign up at [CS Awesome AP CSA Java Curriculum]
-<!--
-Not available as of 11/14/19
-  - Access to Dr. Nguyen **[Static Variables and Methods]** slide deck
--->
+- Access to Dr. Nguyen **[Variables, Scope and Semantics]** slide deck
 - Access to CS Awesome **[5.7. Static Variables and Methods]** 
 
 Most teachers will either already have these materials on hand, or be able to borrow them from
@@ -129,12 +126,7 @@ students work together with the guidance of WS 5.3.1
 3. Introduce the keyboard ``` static ``` from the Chapter 8.2. The topic is introduced here since it requires the concept of ``` this ``` covered in Chapter 8.3 in last night's reading assignment.
 
    - See CS Awesome [Unit 5 Lesson 07 Static Variables and Methods Lesson Plan]
-   
-   <!--
-   Not available as of 11/14/19
-   - Slides [Writing Methods] can be used to review this topic.
-   -->
-      
+   - Slides [Variables, Scope and Semantics] can be used to review this topic.
    - Have students navigate to CS Awesome [5.7. Static Variables and Methods] and complete Activity 1-4.
 
 
@@ -276,8 +268,5 @@ Forum discussion
 [CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials
 
 [Unit 5 Lesson 07 Static Variables and Methods Lesson Plan]: https://docs.google.com/document/d/1X42zMw7DOvkiu2bCEhaBi6y5MO3LZ6lxnoofuqE51KU/edit?usp=drive_web
-<!--
-Not available as of 11/14/19
-[Static Variables and Methods]: https://longbaonguyen.github.io/courses/apcsa/lectureXX.ppt
--->
+[Variables, Scope and Semantics]: https://longbaonguyen.github.io/courses/apcsa/lecture15.ppt
 [5.7. Static Variables and Methods]: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/topic-5-7-static-vars-methods.html
