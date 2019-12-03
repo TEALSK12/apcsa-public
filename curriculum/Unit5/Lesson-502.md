@@ -21,10 +21,7 @@ Materials & Prep
 - **Whiteboard and** **markers**
 - **Classroom copies** of [WS 5.2]
 - Teacher access to CS Awesome **[Lesson 5.6: Writing Methods Class Lesson Plan]** Sign up at [CS Awesome AP CSA Java Curriculum]
-<!--
-Not available as of 11/14/19
-  - Access to Dr. Nguyen **[Writing Methods]** slide deck
--->
+- Access to Dr. Nguyen **[Writing Methods]** slide deck
 - Access to CS Awesome **[5.6. Writing Methods]** 
 
 You should read the introduction on the Bulbepedia website so you understand the main ideas behind
@@ -182,13 +179,8 @@ class, for example Pikachu, Bulbasaur.)
    }
    ```
    - See CS Awesome [Lesson 5.6: Writing Methods Class Lesson Plan]
-   
-   <!--
-   Not available as of 11/14/19
-   - Slides [Writing Methods] can be used to review this topic.
-   -->
-      
-   - Have students navigate to CS Awesome [5.6. Writing Methods] and complete Activity 1-4.
+   - Slides [Writing Methods] can be used to review this topic      
+   - Have students navigate to CS Awesome [5.6. Writing Methods] and complete Activity 1-4
    
 6. Since we know that all instances of our Pokémon class will have initial values to their stats, we
    could create a constructor to initialize all of our values.
@@ -319,14 +311,11 @@ Forum discussion
 ----------------
 [Lesson 5.02 Object State & Behavior (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-5/5-02-object-state-behavior)
 
-[Dr. Long Nguyen]: https://longbaonguyen.github.io/
+[Dr. Long Nguyen]: https://longbaonguyen.github.io/courses/apcsa/apjava.html
 [Teaching CSAwesome google group]: https://groups.google.com/forum/#!forum/teaching-csawesome
 [CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials
 
 [WS 5.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.2.docx
 [Lesson 5.6: Writing Methods Class Lesson Plan]: https://docs.google.com/document/d/1cjzzkbT6Y6zrUxqdw0QOiIzTu-AlHplEVZnlVH_wxcE/edit?usp=drive_web
-<!--
-Not available as of 11/14/19
-[Writing Methods]: https://longbaonguyen.github.io/courses/apcsa/lectureXX.ppt
--->
+[Writing Methods]: https://longbaonguyen.github.io/courses/apcsa/lecture14.ppt
 [5.6. Writing Methods]: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/topic-5-6-writing-methods.html
