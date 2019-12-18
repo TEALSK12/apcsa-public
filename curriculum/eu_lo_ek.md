@@ -296,7 +296,7 @@ required to perform the learning objective.
 | [VAR-1.E.2](#VAR-1.E.2) | String objects are immutable, meaning that String methods do not change the String object. |
 | [VAR-1.E.3](#VAR-1.E.3) | String objects can be concatenated using the + or += operator, resulting in a new String object. |
 | [VAR-1.E.4](#VAR-1.E.4) | Primitive values can be concatenated with a String object. This causes implicit conversion of the values to String objects. |
-| [VAR-1.E.5](#VAR-1.E.5) | Escape sequences start with a \ and have a special meaning in Java. Escape sequences used in this course include \", \\, and \n. |
+| [VAR-1.E.5](#VAR-1.E.5) | Escape sequences start with a \ and have a special meaning in Java. Escape sequences used in this course include \", \\, and \n. |
 | [VAR-1.F](#VAR-1.F) | For wrapper classes: a. Create Integer objects. b. Call Integer methods. c. Create Double objects. d. Call Double methods. |
 | [VAR-1.F.1](#VAR-1.F.1) | The Integer class and Double class are part of the java.lang package. |
 | [VAR-1.F.2](#VAR-1.F.2) | The following Integer methods and constructors (including what they do and when they are used) are part of the Java Quick Reference: Integer(int value) Constructs a new Integer object that represents the specified int value Integer.MIN_VALUE: The minimum value represented by an int or Integer |
