@@ -43,10 +43,6 @@ classroom.
 | 3.XX | Alternative Project: [Frac Calc] | | | |
 | 3.XX1 | Alternative Project: [Calculator] | work on project | conduct research | Continue working on project |
 
-Students are expected to work on project in class.
-| **Reading**     | Students are expected to conduct research.
-| **Homework**    | Continue working on project.
-
 ## 3.00
 | [Lesson 3.00]   | _Test Review & Reteach_
 |:----------------|:-----------------------
@@ -288,8 +284,9 @@ Students are expected to work on project in class.
 | **In Class**    | [Frac Calc]
 
 ## 3.XX1
-| Unit 3 Alternative Project | [Consumer Review Lab] | _Programming Project (FracCalc Alternative)_
+| Unit 3 Alternative Project | _Programming Project (FracCalc Alternative)_
 |:----------------|:-----------
+| **Guide**       | [Consumer Review Lab]
 | **Objectives**  | Students will conduct user-centred research, plan and create, and test, evaluate, and share the end product.
 | **Assessments** | Students will submit project for end of Unit 3 assessment.
 | **In Class**    | Students are expected to work on project in class.
