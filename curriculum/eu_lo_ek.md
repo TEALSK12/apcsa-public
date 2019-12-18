@@ -206,7 +206,7 @@ required to perform the learning objective.
 | [MOD-2.A.5](#MOD-2.A.5) | Constructors are designated public. |
 | [MOD-2.A.6](#MOD-2.A.6) | Access to behaviors can be internal or external to the class. Therefore, methods can be designated as either public or private. |
 | [MOD-2.B](#MOD-2.B) | Define instance variables for the attributes to be initialized through the constructors of a class. |
-| [MOD-2.B.1](#MOD-2.B.1) | An object's state refers to its attributes and their values at a given time and is defined by instance variables belonging to the object. This creates a has-a relationship between the object and its instance variables. |
+| [MOD-2.B.1](#MOD-2.B.1) | An object's state refers to its attributes and their values at a given time and is defined by instance variables belonging to the object. This creates a has-a relationship between the object and its instance variables. |
 | [MOD-2.B.2](#MOD-2.B.2) | Constructors are used to set the initial state of an object, which should include initial values for all instance variables. |
 | [MOD-2.B.3](#MOD-2.B.3) | Constructor parameters are local variables to the constructor and provide data to initialize instance variables. |
 | [MOD-2.B.4](#MOD-2.B.4) | When a mutable object is a constructor parameter, the instance variable should be initialized with a copy of the referenced object. In this way, the instance variable is not an alias of the original object, and methods are prevented from modifying the state of the original object. |
