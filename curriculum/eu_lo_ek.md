@@ -491,7 +491,7 @@ Computer use and the creation of programs have an impact on personal security. T
 --
 Some objects or concepts are so frequently represented that programmers can draw upon existing code that has already been tested, enabling them to write solutions more quickly and with a greater degree of confidence.
 
-[MOD-1.A](#MOD-1.A)
+[MOD-1.A](#MOD-1-A)
 --
 Call System class methods to generate output to the console.
 
