@@ -66,7 +66,7 @@ required to perform the learning objective.
 --
 The way variables and operators are sequenced and combined in an expression determines the computed result.
 
-[CON-1](#CON-1) The way variables and operators are sequenced and combined in an expression determines the computed result. |
+[CON-1.A](#CON-1.A) Evaluate arithmetic expressions in a program code.
 
 | Enduring Understanding Learning Objective Essential Knowledge | Description |
 |:-------|:--------------------------------------|
