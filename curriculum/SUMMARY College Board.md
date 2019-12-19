@@ -57,16 +57,16 @@
 * [Lesson 3.05: Using Objects & String Processing](Unit3/Lesson-305.md)
 * [Lesson 3.06: Interactive Programs & Scanner Objects](Unit3/Lesson-306.md)
 * [Lesson 3.07: Pokémon Battle Programming Project](Unit3/Lesson-307.md)
+* [Lesson 3.08: Finding & Fixing Errors](Unit3/Lesson-308.md)
 * [Lesson 5.01: Object Oriented Programming](Unit5/Lesson-501.md)
 * [Lesson 5.02: Object State & Behavior](Unit5/Lesson-502.md)
 * [Lesson 5.03: Object Initialization: Constructors](Unit5/Lesson-503.md)
 * [Lesson 5.04: Encapsulation](Unit5/Lesson-504.md)
-* [Lesson 5.05: Finding & Fixing Errors](Unit5/Lesson-505.md)
+
 
 
 ## [CB Unit 3: Boolean Expressions and if Statements](Unit3/Unit3-Map-CB.md)
 
-* [Lesson 3.08: Finding & Fixing Errors](Unit3/Lesson-308.md)
 * [Lesson 3.09: Relational Operators & if/else](Unit3/Lesson-309.md)
 * [Lesson 3.10: Nested if/else Statements](Unit3/Lesson-310.md)
 
@@ -89,6 +89,7 @@
 ## [CB Unit 5: Writing Classes](Unit5/Unit5-Map-CB.md)
 
 * [Lesson 4.00: Test Review & Reteach](Unit4/Lesson-400.md)
+* [Lesson 5.05: Finding & Fixing Errors](Unit5/Lesson-505.md)
 * [Lesson 5.06: Picture Lab (9 Days)](Unit5/Lesson-506.md)
 * [Lesson 5.06a: Data Lab](Unit5/Lesson-506a.md)
 * [Lesson 5.07: Review](Unit5/Lesson-507.md)

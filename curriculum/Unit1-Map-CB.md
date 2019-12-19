@@ -1,5 +1,6 @@
-CB Unit 1: Programming & Java (2 weeks)
+CB Unit 1: Programming & Java
 ====================================================================================================
+
 The following curriculum map is a day-by-day listing of the AP Computer Science course in
 chronological order. Each row represents one day of class, based on a medium-paced class. Readings
 from the textbook and homework assignments are included on the day when they should be assigned.

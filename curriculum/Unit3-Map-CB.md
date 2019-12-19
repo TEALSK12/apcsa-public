@@ -13,19 +13,8 @@ classroom.
 
 | **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    | Enduring Understanding | Learning Objective | Essential Knowledge |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|:-|:-|:-|
-| [3.08] |Finding & Fixing Errors|Fix HW, webmaker.org|4.1 up to “nested if else statements”|SC 4.1-4.4 |
 | [3.09] |Relational Operators & if/else|[Operator Precedence], Grudgeball|4.1 “Nested if/else” and “Flow of control”|SC 4.7-4.9; E 4.1-4.2 |
 | [3.10] |Nested if/else Statements|[WS 3.10] Teach mini-lessons, Practice-It SC 4.5, 4.6, E 4.3|4.1, “Factoring if/else statements” and “Testing multiple conditions”|E 4.4, 4.5 | 
-
-
-## 3.08
-| [Lesson 3.08]   | _Finding & Fixing Errors_
-|:----------------|:-------------------------
-| **Objectives**  | Students will find errors and correct their previously submitted homework and classwork assignment.
-| **Assessments** | Students will re-submit all homework assignments with corrected answers.
-| **In Class**    | Fix homework<br>webmaker.org
-| **Reading**     | 4.1 up to “_Nested If/Else Statements_”
-| **Homework**    | SC 4.1–4
 
 ## 3.09
 | [Lesson 3.09]   | _Relational Operators & if/else_
@@ -54,7 +43,6 @@ classroom.
 
 
 
-[3.08]: Lesson-308.md
 [3.09]: Lesson-309.md
 [3.10]: Lesson-310.md
 [Algorithm for Solving Problems]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx
@@ -63,7 +51,6 @@ classroom.
 [Equestria]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Map%20of%20Equestria.pptx
 [Frac Calc]: ../Assets.md#fraccalc
 [Calculator]: Lesson-3XX1.md
-[Lesson 3.08]: Lesson-308.md
 [Lesson 3.09]: Lesson-309.md
 [Lesson 3.10]: Lesson-310.md
 [WS 3.10]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.10.docx

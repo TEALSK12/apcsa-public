@@ -13,6 +13,8 @@ classroom.
 
 | **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    | Enduring Understanding | Learning Objective | Essential Knowledge |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|:-|:-|:-|
+| [4.00] |Test Review & Reteach|Review test|7.1 up to Arrays and Methods|Test corrections
+| [5.05]   |Finding & Fixing Errors|Fix HW|Review ch 8 for Picture Lab|Submit questions for review
 | [5.06] 01|[Picture Lab] (day 1)|Picture Lab Activity 1 & 2<br>Picture Lab||Summarize notes since last exam
 | [5.06] 02|[Picture Lab] (day 2)|Picture Lab Activity 3 & 4, notebook checks||Outline ch 8
 | [5.06] 03|[Picture Lab] (day 3)|Picture Lab Activity 5, notebook checks|Read and highlight Barrons ch 2, skip this keyword|
@@ -33,6 +35,15 @@ classroom.
 | [5.07]   |Review|Review question<br>[WS 5.7] Test practice||Study
 |  5.99    |(Unit 5 test)|Test 4 Section I<br>Test 4 Section II||
 | [5.XX]   |PictureLab Alternative |||
+
+## 4.00
+| [Lesson 4.00]   | _Test Review & Reteach_
+|:----------------|:-----------------------
+| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 3.
+| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
+| **In Class**    | Review test
+| **Reading**     | 7.1 up to “_Arrays and Methods_”
+| **Homework**    | Test corrections
 
 ## 5.06.1
 | [Lesson 5.06]   | _Picture Lab (Day 1)_
@@ -217,13 +228,14 @@ classroom.
 - **PP** — Programming Project (in the textbook)
 
 
-
+[4.00]: Lesson-400.md
 [5.06]: Lesson-506.md
 [5.06a]: Lesson-506a.md
 [5.07]: Lesson-507.md
 [5.XX]: Lesson-5XX.md
 [Curriculum Assets]: ../Assets.md
-d
+
+[Lesson 4.00]: Lesson-400.md
 [Lesson 5.06]: Lesson-506.md
 [Lesson 5.06a]: Lesson-506a.md
 [Lesson 5.07]: Lesson-507.md
