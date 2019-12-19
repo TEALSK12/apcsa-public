@@ -296,7 +296,7 @@ classroom.
 [Lesson 5.04]: Lesson-504.md
 [Lesson 5.05]: Lesson-505.md
 [Lesson 5.06]: Lesson-506.md
-[Lesson 5.06]: Lesson-506a.md
+[Lesson 5.06a]: Lesson-506a.md
 [Lesson 5.07]: Lesson-507.md
 [Lesson 5.XX]: Lesson-5XX.md
 [Picture Lab]: Assets.md#picturelab
