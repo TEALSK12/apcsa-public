@@ -107,7 +107,7 @@ classroom.
 - **PP** — Programming Project (in the textbook)
 
 
-[8.00]: Unit8/Lesson-800.md
+[8.00]: Lesson-800.md
 [8.01]: Lesson-801.md
 [8.02]: Lesson-802.md
 [8.03]: Lesson-803.md
