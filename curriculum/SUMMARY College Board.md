@@ -97,7 +97,7 @@
 
 ## [CB Unit 6: Array](Unit6/Unit6-Map-CB.md)
 
-* [Lesson 6.00: Test Review & Reteach](Unit6/Lesson-600.md)
+* [Lesson 5.00: Test Review & Reteach](Unit5/Lesson-500.md)
 * [Lesson 4.01: Array Basics](Unit4/Lesson-401.md)
 * [Lesson 4.02: For-Each Loop & Arrays Class](Unit4/Lesson-402.md)
 * [Lesson 4.03: Printing, Searching, & Testing for Equality (2 Days)](Unit4/Lesson-403.md)
@@ -126,7 +126,6 @@
 
 ## [CB Unit 9: Inheritance](Unit9/Unit9-Map-CB.md)
 
-* [Lesson 5.00: Test Review & Reteach](Unit5/Lesson-500.md)
 * [Lesson 6.01: Inheritance Basics (2 Days)](Unit6/Lesson-601.md)
 * [Lesson 6.02: Overriding Methods & Accessing Inherited Code](Unit6/Lesson-602.md)
 * [Lesson 6.03: Interacting with the Object Superclass](Unit6/Lesson-603.md)
@@ -143,6 +142,7 @@
 
 ## [CB Unit 10: Recursion](UnitA/UnitA-Map-CB.md)
 
+* [Lesson 6.00: Test Review & Reteach](Unit6/Lesson-600.md)
 * [Lesson 7.00: Test Review & Reteach](Unit7/Lesson-700.md)
 * [Lesson 8.00: Test Review & Reteach](Unit8/Lesson-800.md)
 * [Lesson 8.01: Thinking Recursively](Unit8/Lesson-801.md)
