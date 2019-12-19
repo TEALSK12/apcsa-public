@@ -1,11 +1,9 @@
-Unit 5: Writing Classes
+CB Unit 5: Writing Classes
 ====================================================================================================
 The following curriculum map is a day-by-day listing of the AP Computer Science course in
-chronological order. Each row represents one day of class, based on a medium-paced class. Readings
-from the textbook and homework assignments are included on the day when they should be assigned.
-Refer to the Introduction document for information about how to adjust this pacing for your specific
-classroom.
+chronological order. The order has been adapted to follow the College Board AP CS A Curriculium. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook. 
 
+- [Unit 4 Slides]
 - [Unit 5 Slides]
 - [Unit 5 Word Bank]
 - [Curriculum Assets]
@@ -228,20 +226,21 @@ classroom.
 - **PP** — Programming Project (in the textbook)
 
 
-[4.00]: Lesson-400.md
-[5.06]: Lesson-506.md
-[5.06a]: Lesson-506a.md
-[5.07]: Lesson-507.md
-[5.XX]: Lesson-5XX.md
+[4.00]: Unit4/Lesson-400.md
+[5.06]: Unit5/Lesson-506.md
+[5.06a]: Unit5/Lesson-506a.md
+[5.07]: Unit5/Lesson-507.md
+[5.XX]: Unit5/Lesson-5XX.md
 [Curriculum Assets]: ../Assets.md
 
-[Lesson 4.00]: Lesson-400.md
-[Lesson 5.06]: Lesson-506.md
-[Lesson 5.06a]: Lesson-506a.md
-[Lesson 5.07]: Lesson-507.md
-[Lesson 5.XX]: Lesson-5XX.md
-[Picture Lab]: Assets.md#picturelab
+[Lesson 4.00]: Unit4/Lesson-400.md
+[Lesson 5.06]: Unit5/Lesson-506.md
+[Lesson 5.06a]: Unit5/Lesson-506a.md
+[Lesson 5.07]: Unit5/Lesson-507.md
+[Lesson 5.XX]: Unit5/Lesson-5XX.md
+[Picture Lab]: ../Assets.md#picturelab
 [Unit 5 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/Unit5.pptx
+[Unit 4 Slides]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Unit4.pptx
 [Unit 5 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/Unit%205%20Word%20Bank.docx
 [WS 5.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.1.1.pdf
 [WS 5.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.2.docx

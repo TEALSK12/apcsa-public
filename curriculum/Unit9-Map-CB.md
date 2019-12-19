@@ -1,184 +1,250 @@
-CB Unit 4: Iteration
+CB Unit 9: Inheritance
 ====================================================================================================
 The following curriculum map is a day-by-day listing of the AP Computer Science course in
 chronological order. The order has been adapted to follow the College Board AP CS A Curriculium. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook. 
 
-- [Unit 3 Slides]
-- [Unit 3 Word Bank]
+- [Unit 5 Slides]
+- [Unit 6 Slides]
+- [Unit 6 Word Bank]
 - [Curriculum Assets]
-- [Consumer Review Lab]
+- [Text Excel]
 
 | **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|
-| [3.11] |Reducing Redundancy|(Refactoring com petition)|Read 4.2|Outline ch 4 (omit 4.4, 4.5) |
-| [3.12] |Cumulative Algorithms|Tally code on board,Collaborative Programming Exercise [WS 3.12]|5.1 skip “do/while loops”|PP 4.2 |
-| [3.13] |while Loops|Practice-It SC 5.1 - 5.4, E 5.2<br>[WS 3.13]|5.1 ”Random numbers”|E 5.2 |
-| [3.14] |Random Numbers|Practice-It SC 5.5-5.7; E 5.4, 5.5|5.2|PP 5.1 |
-| [3.15] |Fencepost & Sentinel Loops|[WS 3.15] Teach mini-lessons|5.3|E 5.6, 5.8 |
-| [3.16].1 |Boolean Logic|Practice-It SC 5.27, 5.29<br>[WS 3.16] (RPS, Pig)<br>[DeMorgan’s Law]<BR>[Poster 3.16.1]<BR>[Poster 3.16.2]||Outline ch 5 (through 5.3) |
-| [3.16].2 |Boolean Logic (Day 2)||| |
-| [3.17] |Finding & Fixing Errors|(Fix HW)|Review ch 3-5|Submit questions for review |
-| [3.18].1|Consumer Review Lab (day&nbsp;1)|Consumer Review Lab Activity 1||
-| [3.18].2|Consumer Review Lab (day&nbsp;2)|Consumer Review Lab Activity 2||
-| [3.18].3|Consumer Review Lab (day&nbsp;3)|Consumer Review Lab Activity 3||
-| [3.18].4|Consumer Review Lab (day&nbsp;4)|Consumer Review Lab Activity 4||
-| [3.18].5|Consumer Review Lab (day&nbsp;5)|Consumer Review Lab Activity 5||
-| [3.18].6|Consumer Review Lab (day&nbsp;6)|Consumer Review Lab Activity 5 (day 2)||
-| [3.19] |Review|(Review questions), [WS 3.18] practice test||Study |
-| 3.99 |Unit 3 test|[Test 2 Guide]<br>Test 2 Section I<br>Test 2 Section II|| |
-| 3.XX | Alternative Project: [Frac Calc] | | | |
-| 3.XX1 | Alternative Project: [Calculator] | work on project | conduct research | Continue working on project |
+| [5.00]   |Test Review & Reteach|Review test|8.1|Test corrections
+| [6.01] 01|Inheritance Basics (day 1)|[WS 6.1] Start class poster<br>[Example 6.1]|"9.2 up to ""Dividend Stock Behavior"""|Collect images
+| [6.01] 02|Inheritance Basics (day 2)|Finish class poster, discuss||
+| [6.02] |Overriding Methods & Accessing Inherited Code|[WS 6.2]|Rest of 9.2 starting from “The Object Class.”|
+| [6.03] |Interacting with the Object Superclass|Practice-It SC 9.3, 9.4, 9.9, 9.10, E 9.4;[WS 6.3]<br>[Poster 6.3]|9.3 up to “Interpreting Inheritance Code.” |
+| [6.04] |Polymorphism|[WS 6.4.1]<br>[WS 6.4.2]<br>SC 9.11-9.17|Rest of 9.4 “Is-a Versus Has-a Relationships.”|SC 9.18, 9.20
+| [6.05] |Has-a Relationships|[WS 6.5]<br>ValueMeal exercise? |9.5 (Optional if covering Interfaces)|
+| [6.06] |Interfaces (optional)|[Interface examples]<br>[Poster 6.6]|9.6 (Optional if covering Abstract classes|Generate own class hierarchy like Financial hierarchy in book
+| [6.07] 01|Programming project (day 1)|PP 9.1, notebook checks||Outline ch 9
+| [6.07] 02|Programming project (day 2)|PP 9.1, outline checks|Read and outline Barrons ch 4 (8th or later: ch 5)|
+| [6.07] 03|Programming project (day 3)|PP 9.3||Barrons ch 4 (8th or later: ch 5) exam, self-grade 
+| [6.07] 04|Programming project (day 4)|E 9.8|Read and outline Barrons ch 3 (8th or later: ch 4)|
+| [6.07] 05|Programming project (day 5)|Barrons ch 3 (8th or later: ch 4) exam, outline checks|Review ch 9|Submit questions for review
+| [6.07a] 01|Celebrity Lab (day 1)|Celebrity Lab Activity 1, notebook checks||Outline ch 9
+| [6.07a] 02|Celebrity Lab (day 2)|Celebrity Lab Activity 2, outline checks|Read and outline Barrons ch 4 (8th or later: ch 5)|
+| [6.07a] 03|Celebrity Lab (day 3)|Celebrity Lab Activity 3||Barrons ch 4 (8th or later: ch 5) exam, self-grade 
+| [6.07a] 04|Celebrity Lab (day 4)|Celebrity Lab Activity 4|Read and outline Barrons ch 3 (8th or later: ch 4)|
+| [6.07a] 05|Celebrity Lab (day 5)|Celebrity Lab Activity 5|Review ch 9|Submit questions for review
+| [6.07a] 06|Celebrity Lab (day 5)|Celebrity Lab Activity 5 (day 2)|Review ch 9|Submit questions for review
+| [6.07a] 07|Celebrity Lab (day 5)|Celebrity Lab Activity 5 (day 3), outline checks|Review ch 9|Submit questions for review
+| [6.08] |Finding & Fixing Errors|(Fix HW)|Review ch 9|Submit questions for review
+| [6.09] |Review|Review questions<br>[WS 6.5] Test practice||Study
+| 6.99 |Unit 6 test|[Test 5 Guide]<br>Test 5 Section I<br>Test 5 Section II||
+| 6.XX |[Text Excel]|[Text Excel Student Guide A]<br>[Text Excel Student Guide B]<br>[Text Excel Student Guide C]<br>[Text Excel Teacher Guide]||
 
-## 3.11
-| [Lesson 3.11]   | _Reducing Redundancy_
-|:----------------|:---------------------
-| **Objectives**  | Students will simplify code and reduce redundancy by factoring if/else statements and testing multiple conditions simultaneously.
-| **Assessments** | Students will complete a class competition.
-| **In Class**    | Refactoring competition
-| **Reading**     | 4.2
-| **Homework**    | Outline ch 4 (omit 4.4, 4.5)
-
-## 3.12
-| [Lesson 3.12]   | _Cumulative Algorithms_
+## 5.00
+| [Lesson 5.00]   | _Test Review & Reteach_
 |:----------------|:-----------------------
-| **Objectives**  | Students will find and correct syntax errors in conditional cumulative algorithms.
-| **Assessments** | Students will write, modify, and correct programs written by others.
-| **In Class**    | Tally code on board<br>Collaborative Programming Exercise [WS 3.12]
-| **Reading**     | 5.1 (skip “_Do/While Loops_”)
-| **Homework**    | PP 4.2
+| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
+| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
+| **In Class**    | Review test
+| **Reading**     | 8.1
+| **Homework**    | Test corrections
 
-## 3.13
-| [Lesson 3.13]   | _while Loops_
-|:----------------|:-------------
-| **Objectives**  | Students will trace while loops to predict (1) the number of times the body executes and (2) the output of the code.<br>Students will be able to differentiate between while loops, if statements, and for loops.
-| **Assessments** | Students will complete Practice-It questions.
-| **In Class**    | Practice-It<br>SC 5.1–4<br>E 5.2<br>[WS 3.13]
-| **Reading**     | 5.1 “_Random Numbers_”
-| **Homework**    | EX 5.2
-
-## 3.14
-| [Lesson 3.14]   | _Random Numbers_
-|:----------------|:----------------
-| **Objectives**  | Students will be able to write expressions that generate a random integer between any two values.
-| **Assessments** | Students will complete Practice-It questions.
-| **In Class**    | Practice-It<br>SC 5.5–7<br>E 5.4–5
-| **Reading**     | 5.2
-| **Homework**    | PP 5.1
-
-## 3.15
-| [Lesson 3.15]   | _Fencepost & Sentinel Loops_
+## 6.01.1
+| [Lesson 6.01]   | _Inheritance Basics (Day 1)_
 |:----------------|:----------------------------
-| **Objectives**  | Students will be able to describe when to use fencepost and sentinel loops.<br>Students will use proper syntax to construct these control structures.
-| **Assessments** | Students will teach a mini-lesson explaining the relationship between parameters and values stored in memory.
-| **In Class**    | [WS 3.15] Teach mini-lessons
-| **Reading**     | 5.3
-| **Homework**    | EX 5.6,8
+| **Objectives**  | Students will correctly define inheritance<br>Students will use proper syntax to extend a class.<br>Students will illustrate is-a relationships.<br>Students will properly implement constructors of derived classes using super.
+| **Assessments** | Students will complete a Class Hierarchy Poster as indicated in WS 6.1.
+| **In Class**    | [WS 6.1]<br>Start class poster<br>[Example 6.1]
+| **Reading**     | 9.2 up to “_Dividend Stock Behavior_”
+| **Homework**    | Collect images
 
-## 3.16.1
-| [Lesson 3.16]   | _Boolean Logic (Day 1)_
-|:----------------|:-----------------------
-| **Objectives**  | Students will work in pairs to write a game that plays Rock Paper Scissors.
-| **Assessments** | Students will submit a program at the end of 2 or 3 class periods.
-| **In Class**    | Practice-It<br>SC 5.27, 5.29<br>[WS 3.16] (RPS, Pig)<br>[DeMorgan’s Law]<br>[Poster 3.16.1]<br>[Poster 3.16.2]
+## 6.01.2
+| [Lesson 6.01]   | _Inheritance Basics (Day 2)_
+|:----------------|:----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Finish class poster<br>Discussion
 | **Reading**     |
-| **Homework**    | Outline ch 5 (through 5.3)
+| **Homework**    |
 
-## 3.16.2
-| [Lesson 3.16]   | _Boolean Logic (Day 2)_
-|:----------------|:-----------------------
+## 6.02
+| [Lesson 6.02]   | _Overriding Methods & Accessing Inherited Code_
+|:----------------|:-----------------------------------------------
+| **Objectives**  | Students will replace superclass behavior by writing overriding methods in the subclass.<br>Students will write subclass methods that access superclass methods.
+| **Assessments** | Students will add code to their Class Posters from the previous lesson.
+| **In Class**    | [WS 6.2]
+| **Reading**     | Rest of 9.2 starting from “_The Object Class_”
+| **Homework**    |
 
-## 3.17
-| [Lesson 3.17]   | _Finding & Fixing Errors_
+## 6.03
+| [Lesson 6.03]   | _Interacting with the Object Superclass_
+|:----------------|:----------------------------------------
+| **Objectives**  | Students will replace superclass behavior by writing overriding methods in the subclass.<br>Students will write subclass methods that access superclass methods.
+| **Assessments** | Students will complete Practice-It questions<br>Students will complete a worksheet.
+| **In Class**    | Practice-It<br>SC 9.3–4,9–10<br>E 9.4<br>[WS 6.3]<br>[Poster 6.3]
+| **Reading**     | 9.3 up to “_Interpreting Inheritance Code_”
+| **Homework**    |
+
+## 6.04
+| [Lesson 6.04]   | _Polymorphism_
+|:----------------|:--------------
+| **Objectives**  | Students will define polymorphism.<br>Students will trace the execution of methods through a class hierarchy and predict output.
+| **Assessments** | Students will complete a Tracing Inheritance guide and complete worksheet 6.4.
+| **In Class**    | [WS 6.4.1]<br>[WS 6.4.2]<br>SC 9.11–17
+| **Reading**     | Rest of 9.4 “_Is-a Versus Has-a Relationships_”
+| **Homework**    | SC 9.18,20
+
+## 6.05
+| [Lesson 6.05]   | _Has-a Relationships_
+|:----------------|:---------------------
+| **Objectives**  | Students will be able to identify and explain why two classes have an is-a or a has-a relationship.<br>Students will be able to create a has-a relationship between two classes.
+| **Assessments** | Students will complete an AP Section II question “_Trio_”
+| **In Class**    | [WS 6.5]<br>ValueMeal exercise
+| **Reading**     | 9.5 (Optional if covering Interfaces)
+| **Homework**    |
+
+## 6.06
+| [Lesson 6.06]   | _Interfaces (Optional)_
+|:----------------|:------------
+| **Objectives**  | Students will implement and use interfaces.
+| **Assessments** | Students will complete an in-class competition.
+| **In Class**    | Interface examples<br>[Poster 6.6]
+| **Reading**     | 9.6 (Optional if covering Abstract classes)
+| **Homework**    | Generate own class hierarchy like Financial hierarchy in book
+
+## 6.07.1
+| [Lesson 6.07]   | _Programming project (Day 1)_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will write complex code that uses polymorphism, and inheritance.
+| **Assessments** | Students will submit a program electronically.
+| **In Class**    | PP 9.1<br>Notebook checks
+| **Reading**     |
+| **Homework**    | Outline ch 9
+
+## 6.07.2
+| [Lesson 6.07]   | _Programming project (Day 2)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | PP 9.1<br>Outline checks
+| **Reading**     | Read and outline Barrons ch 4 (8th or later: ch 5)
+| **Homework**    |
+
+## 6.07.3
+| [Lesson 6.07]   | _Programming project (Day 3)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | PP 9.3
+| **Reading**     |
+| **Homework**    | Barrons ch 4 (8th or later: ch 5) exam, self-grade
+
+## 6.07.4
+| [Lesson 6.07]   | _Programming project (Day 4)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | EX 9.8
+| **Reading**     | Read and outline Barrons ch 3 (8th or later: ch 4)
+| **Homework**    |
+
+## 6.07.5
+| [Lesson 6.07]   | _Programming project (Day 5)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Barrons ch 3  (8th or later: ch 4) exam, Outline checks
+| **Reading**     | Review ch 9
+| **Homework**    | Submit questions for review
+
+## 6.07a.1
+| [Lesson 6.07a]   | Celebrity Lab (Day 1)_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will complete a long-form lab, using classes, objects, two dimensional arrays of objects, array traversing algorithms, program analysis, while/for loops.
+| **Assessments** | Students will complete the College Board’s AP CS A Celebrity Lab.<br>Students will answer end of activity Check your understanding and open-ended activity.
+| **In Class**    | Celebrity Lab Activity 1<br>Notebook checks
+| **Reading**     |
+| **Homework**    | Outline ch 9
+
+## 6.07a.2
+| [Lesson 6.07a]   | Celebrity Lab (Day 2)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Celebrity Lab Activity 2<br>Outline checks
+| **Reading**     | Read and outline Barrons ch 4 (8th or later: ch 5)
+| **Homework**    |
+
+## 6.07a.3
+| [Lesson 6.07a]   | Celebrity Lab (Day 3)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Celebrity Lab Activity 3
+| **Reading**     |
+| **Homework**    | Barrons ch 4 (8th or later: ch 5) exam, self-grade
+
+## 6.07a.4
+| [Lesson 6.07a]   | Celebrity Lab (Day 4)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Celebrity Lab Activity 4
+| **Reading**     | Read and outline Barrons ch 3 (8th or later: ch 4)
+| **Homework**    |
+
+## 6.07a.5
+| [Lesson 6.07a]   | Celebrity Lab (Day 5)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Celebrity Lab Activity 5, Outline checks
+| **Reading**     | Review ch 9
+| **Homework**    | 
+
+## 6.07a.6
+| [Lesson 6.07a]   | Celebrity Lab (Day 6)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Celebrity Lab Activity 5 (day 2), Outline checks
+| **Reading**     | Review ch 9
+| **Homework**    | 
+
+## 6.07a.7
+| [Lesson 6.07a]   | Celebrity Lab (Day 7)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Celebrity Lab Activity 5 (day 3), Outline checks
+| **Reading**     | Review ch 9
+| **Homework**    | Submit questions for review
+
+## 6.08
+| [Lesson 6.08]   | _Finding & Fixing Errors_
 |:----------------|:-------------------------
 | **Objectives**  | Students will find errors in their returned homework assignments, and correct their code.
 | **Assessments** | Students will re-submit all homework assignments with corrected answers.
 | **In Class**    | Fix homework
-| **Reading**     | Review ch 3–5
+| **Reading**     | Review ch 9
 | **Homework**    | Submit questions for review
 
-## 3.18.1
-| [Lesson 3.18]   | _Consumer Review Lab (Day 1)_
-|:----------------|:--------------------
-| **Objectives**  | Students will complete a long-form lab, using string literals, static methods, if statements, while loops, algorithms, and the String class.
-| **Assessments** | Students will complete the College Board’s AP CS A Consumer Review Lab.<br>Students will answer end of activty Check your understanding and complete Open-ended activity.
-| **In Class**    | Lab: Consumer Review Lab<br>Consumer Review Lab Activity 1
-| **Reading**     | 
-| **Homework**    |
-
-## 3.18.2
-| [Lesson 3.18]   | _Consumer Review Lab (Day 2)_
-|:----------------|:--------------------
-| **Objectives**  |
-| **Assessments** |
-| **In Class**    | Consumer Review Lab Activity 2
-| **Reading**     | 
-| **Homework**    |
-
-## 3.18.3
-| [Lesson 3.18]   | _Consumer Review Lab (Day 3)_
-|:----------------|:--------------------
-| **Objectives**  |
-| **Assessments** |
-| **In Class**    | Consumer Review Lab Activity 3
-| **Reading**     | 
-| **Homework**    |
-
-## 3.18.4
-| [Lesson 3.18]   | _Consumer Review Lab (Day 4)_
-|:----------------|:--------------------
-| **Objectives**  |
-| **Assessments** |
-| **In Class**    | Consumer Review Lab Activity 5
-| **Reading**     | 
-| **Homework**    |
-
-## 3.18.5
-| [Lesson 3.18]   | _Consumer Review Lab (Day 5)_
-|:----------------|:--------------------
-| **Objectives**  |
-| **Assessments** |
-| **In Class**    | Consumer Review Lab Activity 5
-| **Reading**     | 
-| **Homework**    |
-
-## 3.18.6
-| [Lesson 3.18]   | _Consumer Review Lab (Day 6)_
-|:----------------|:--------------------
-| **Objectives**  |
-| **Assessments** |
-| **In Class**    | Consumer Review Lab Activity 5 (day 2)
-| **Reading**     | 
-| **Homework**    |
-
-## 3.19
-| [Lesson 3.19]   | _Review_
+## 6.09
+| [Lesson 6.09]   | _Review_
 |:----------------|:--------
-| **Objectives**  | Students will identify weaknesses in their Unit 3 knowledge.
+| **Objectives**  | Students will identify weaknesses in their Unit 6 knowledge.
 | **Assessments** | Students will create a personalized list of review topics to guide tonight’s study session.
-| **In Class**    | Review questions<br>[WS 3.18] Practice Test
+| **In Class**    | Review questions<br>[WS 6.5]<br>Test practice
 | **Reading**     |
 | **Homework**    | Study
 
-## 3.99
-| Unit 3 Test     | _Advanced Data & Control Flow_
+## 6.99
+| Unit 6 Test     | _Inheritance and Polymorphism_
 |:----------------|:------------------------------
-| **Guide**       | [Test 2 Guide]
-| **In Class**    | Test 2 Section I<br>Test 2 Section II
+| **Guide**       | [Test 5 Guide]
+| **In Class**    | Test 5 Section I<br>Test 5 Section II
 
-## 3.XX
-| Unit 3 Alternative Project  | _Frac Calc_
-|:----------------|:-----------
-| **In Class**    | [Frac Calc]
+## 6.XX
+| Unit 6 Project  | _Text Excel_
+|:----------------|:------------
+| **In Class**    | [Text Excel]<br>[Text Excel Student Guide A]<br>[Text Excel Student Guide B]<br>[Text Excel Student Guide C]<br>[Text Excel Teacher Guide]
 
-## 3.XX1
-| Unit 3 Alternative Project | _Programming Project (FracCalc Alternative)_
-|:----------------|:-----------
-| **Guide**       | [Consumer Review Lab] |
-| **Objectives**  | Students will conduct user-centred research, plan and create, and test, evaluate, and share the end product.
-| **Assessments** | Students will submit project for end of Unit 3 assessment.
-| **In Class**    | Students are expected to work on project in class.
-| **Reading**     | Students are expected to conduct research.
-| **Homework**    | Continue working on project.
 
 ## Abbreviations
 - **WS** — Worksheet
@@ -186,47 +252,49 @@ chronological order. The order has been adapted to follow the College Board AP C
 - **EX** — Exercise (in the textbook)
 - **PP** — Programming Project (in the textbook)
 
-[3.11]: Unit3/Lesson-311.md
-[3.12]: Unit3/Lesson-312.md
-[3.13]: Unit3/Lesson-313.md
-[3.14]: Unit3/Lesson-314.md
-[3.15]: Unit3/Lesson-315.md
-[3.16]: Unit3/Lesson-316.md
-[3.17]: Unit3/Lesson-317.md
-[3.18]: Unit3/Lesson-318.md
-[3.19]: Unit3/Lesson-319.md
-[Algorithm for Solving Problems]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx
+[5.00]: Unit5/Lesson-500.md
+[6.00]: Unit6/Lesson-600.md
+[6.01]: Unit6/Lesson-601.md
+[6.02]: Unit6/Lesson-602.md
+[6.03]: Unit6/Lesson-603.md
+[6.04]: Unit6/Lesson-604.md
+[6.05]: Unit6/Lesson-605.md
+[6.06]: Unit6/Lesson-606.md
+[6.07]: Unit6/Lesson-607.md
+[6.07a]: Unit6/Lesson-607a.md
+[6.08]: Unit6/Lesson-608.md
+[6.09]: Unit6/Lesson-609.md
 [Curriculum Assets]: ../Assets.md
-[DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
-[Equestria]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Map%20of%20Equestria.pptx
-[Frac Calc]: ../Assets.md#fraccalc
-[Calculator]: Unit3/Lesson-3XX1.md
-[Lesson 3.11]: Unit3/Lesson-311.md
-[Lesson 3.12]: Unit3/Lesson-312.md
-[Lesson 3.13]: Unit3/Lesson-313.md
-[Lesson 3.14]: Unit3/Lesson-314.md
-[Lesson 3.15]: Unit3/Lesson-315.md
-[Lesson 3.16]: Unit3/Lesson-316.md
-[Lesson 3.17]: Unit3/Lesson-317.md
-[Lesson 3.18]: Unit3/Lesson-318.md
-[Lesson 3.19]: Unit3/Lesson-319.md
-[Consumer Review Lab]: Unit3/Lesson-318.md
-[Operator Precedence]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Operator%20Precedence.pptx
-[Poster 3.16.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Poster%203.16.1.pdf
-[Poster 3.16.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Poster%203.16.2.pdf
-[Test 2 Guide]: Test-2-Guide.md
-[Unit 3 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Unit3.pptx
-[Unit 3 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Unit%203%20Word%20Bank.docx
-[WS 3.10]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.10.docx
-[WS 3.12]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.12.docx
-[WS 3.13]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.13.docx
-[WS 3.15]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.15.docx
-[WS 3.16]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.16.docx
-[WS 3.18]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.18.docx
-[WS 3.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.4.docx
-[WS 3.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.5.docx
-[WS 3.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.7.docx
-
+[Example 6.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Example%206.1.jpg
+[Lesson 5.00]: Unit5/Lesson-500.md
+[Lesson 6.00]: Unit6/Lesson-600.md
+[Lesson 6.01]: Unit6/Lesson-601.md
+[Lesson 6.02]: Unit6/Lesson-602.md
+[Lesson 6.03]: Unit6/Lesson-603.md
+[Lesson 6.04]: Unit6/Lesson-604.md
+[Lesson 6.05]: Unit6/Lesson-605.md
+[Lesson 6.06]: Unit6/Lesson-606.md
+[Lesson 6.07]: Unit6/Lesson-607.md
+[Lesson 6.07a]: Unit6/Lesson-607a.md
+[Lesson 6.08]: Unit6/Lesson-608.md
+[Lesson 6.09]: Unit6/Lesson-609.md
+[Unit 5 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/Unit5.pptx
+[Poster 6.3]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Poster%206.3.pptx
+[Poster 6.6]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Poster%206.6.pptx
+[Test 5 Guide]: Test-5-Guide.md
+[Text Excel Student Guide A]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Text%20Excel%20A%20Student%20Guide.docx
+[Text Excel Student Guide B]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Text%20Excel%20B%20Student%20Guide.docx
+[Text Excel Student Guide C]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Text%20Excel%20C%20Student%20Guide.docx
+[Text Excel Teacher Guide]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Text%20Excel%20Teacher%20Guide.docx
+[Text Excel]: Assets.md#textexcel
+[Unit 6 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Unit6.pptx
+[Unit 6 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Unit%206%20Word%20Bank.docx
+[WS 6.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/WS%206.1.docx
+[WS 6.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/WS%206.2.docx
+[WS 6.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/WS%206.3.docx
+[WS 6.4.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/WS%206.4.1.docx
+[WS 6.4.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/WS%206.4.2.docx
+[WS 6.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/WS%206.5.docx
 
 [CON-1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1
 [CON-1.A]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1a

@@ -20,7 +20,7 @@
 * [Test Review (3 weeks)](Unit9/Unit9-Map.md)
 * [Post-AP Exam Projects (4–5 weeks)](UnitA/UnitA-Map.md)
 
-## [CB Unit 1: Primitive Types](Unit1/Unit1-Map-CB.md)
+## [CB Unit 1: Primitive Types](Unit1-Map-CB.md)
 
 * [Lesson 1.01: Using Eclipse & Practice It](Unit1/Lesson-101.md)
 * [Lesson 1.02: Algorithms & Computational Thinking](Unit1/Lesson-102.md)
@@ -47,7 +47,7 @@
 * [Lesson 2.11: Review](Unit2/Lesson-211.md)
 * [Lesson 2.99: (Unit 2 Test)](Curriculum-Map.md#299)
 
-## [CB Unit 2: Using Objects](Unit2/Unit2-Map-CB.md)
+## [CB Unit 2: Using Objects](Unit2-Map-CB.md)
 
 * [Lesson 3.00: Test Review & Reteach](Unit3/Lesson-300.md)
 * [Lesson 3.01: Parameters](Unit3/Lesson-301.md)
@@ -65,12 +65,12 @@
 
 
 
-## [CB Unit 3: Boolean Expressions and if Statements](Unit3/Unit3-Map-CB.md)
+## [CB Unit 3: Boolean Expressions and if Statements](Unit3-Map-CB.md)
 
 * [Lesson 3.09: Relational Operators & if/else](Unit3/Lesson-309.md)
 * [Lesson 3.10: Nested if/else Statements](Unit3/Lesson-310.md)
 
-## [CB Unit 4: Iteration](Unit4/Unit4-Map-CB.md)
+## [CB Unit 4: Iteration](Unit4-Map-CB.md)
 
 * [Lesson 3.11: Reducing Redundancy](Unit3/Lesson-311.md)
 * [Lesson 3.12: Cumulative Algorithms](Unit3/Lesson-312.md)
@@ -86,7 +86,7 @@
 * [Lesson 3.XX: Frac Calc](Assets.md)
 * [Lesson 3.XX1: Programming Project(FracCalc Alternative)](Unit3/Lesson-3XX1.md)
 
-## [CB Unit 5: Writing Classes](Unit5/Unit5-Map-CB.md)
+## [CB Unit 5: Writing Classes](Unit5-Map-CB.md)
 
 * [Lesson 4.00: Test Review & Reteach](Unit4/Lesson-400.md)
 * [Lesson 5.05: Finding & Fixing Errors](Unit5/Lesson-505.md)
@@ -96,7 +96,7 @@
 * [Lesson 5.99: (Unit 5 test)](Curriculum-Map.md#599)
 * [Lesson 5.XX: Programming Project(Picture Lab Alternative)](Unit5/Lesson-5XX.md) 
 
-## [CB Unit 6: Array](Unit6/Unit6-Map-CB.md)
+## [CB Unit 6: Array](Unit6-Map-CB.md)
 
 * [Lesson 6.00: Test Review & Reteach](Unit6/Lesson-600.md)
 * [Lesson 4.01: Array Basics](Unit4/Lesson-401.md)
@@ -105,7 +105,7 @@
 * [Lesson 4.04: Reference Semantics](Unit4/Lesson-404.md)
 * [Lesson 4.05: Shifting Values & Arrays of Objects](Unit4/Lesson-405.md)
 
-## [CB Unit 7: ArrayList](Unit7/Unit7-Map-CB.md)
+## [CB Unit 7: ArrayList](Unit7-Map-CB.md)
 
 * [Lesson 4.07: ArrayList](Unit4/Lesson-407.md)
 * [Lesson 7.01: Searching Algorithms](Unit7/Lesson-701.md)
@@ -115,7 +115,7 @@
 * [Lesson 7.99: (Unit 7 test)](Curriculum-Map.md#799)
   * [Test 6 Guide](Unit7/Test-6-Guide.md)
 
-## [CB Unit 8: 2D Array](Unit8/Unit8-Map-CB.md)
+## [CB Unit 8: 2D Array](Unit8-Map-CB.md)
 
 * [Lesson 8.00: Test Review & Reteach](Unit8/Lesson-800.md)
 * [Lesson 4.06: Nested Loop Algorithms & Rectangular Arrays](Unit4/Lesson-406.md)
@@ -126,7 +126,7 @@
 * [Lesson 4.99: (Unit 4 test)](Curriculum-Map.md#499)
 * [Lesson 4.XX: Programming Project(Magpie Alternative)](Unit4/Lesson-4XX.md)
 
-## [CB Unit 9: Inheritance](Unit9/Unit9-Map-CB.md)
+## [CB Unit 9: Inheritance](Unit9-Map-CB.md)
 
 * [Lesson 5.00: Test Review & Reteach](Unit5/Lesson-500.md)
 * [Lesson 6.01: Inheritance Basics (2 Days)](Unit6/Lesson-601.md)
@@ -143,8 +143,7 @@
   * [Test 5 Guide](Unit6/Test-5-Guide.md)
 * [Lesson 6.XX: Text Excel](Curriculum-Map.md#6xx)
 
-## [CB Unit 10: Recursion](UnitA/UnitA-Map-CB.md)
-
+## [CB Unit 10: Recursion](Unit10-Map-CB.md)
 
 * [Lesson 7.00: Test Review & Reteach](Unit7/Lesson-700.md)
 * [Lesson 8.01: Thinking Recursively](Unit8/Lesson-801.md)
@@ -156,7 +155,7 @@
 * [Lesson 8.07: (Unit 8 quiz)](Curriculum-Map.md#807)
 * [Lesson 8.08: Quiz Review & Reteach](Unit8/Lesson-808.md)
 
-## AP Test Review (3 weeks)
+## [AP Test Review (3 weeks)](Unit9/Unit9-Map.md)
 
 * [Lesson 9.00: Reviewing for the AP Exam](Unit9/Lesson-900.md)
 
@@ -196,7 +195,7 @@
 
 # Part II - Building Java Programs TextBook Ordering 
 
-## Unit 1: Programming & Java (2 weeks)
+## [Unit 1: Programming & Java (2 weeks)](Unit1/Unit1-Map.md)
 
 * [Lesson 1.01: Using Eclipse & Practice It](Unit1/Lesson-101.md)
 * [Lesson 1.02: Algorithms & Computational Thinking](Unit1/Lesson-102.md)
@@ -210,7 +209,7 @@
 * [Lesson 1.99: (Unit 1 Test)](Curriculum-Map.md#199)
 * [Lesson 1.XX: Open Ended Programming Project](Unit1/Lesson-1XX.md)
 
-## Unit 2: Working with Data & Basic Control Flow (3 weeks)
+## [Unit 2: Working with Data & Basic Control Flow (3 weeks)](Unit2/Unit2-Map.md)
 
 * [Lesson 2.00: Test Review & Reteach](Unit2/Lesson-200.md)
 * [Lesson 2.01: Basic Data Concepts](Unit2/Lesson-201.md)
@@ -226,7 +225,7 @@
 * [Lesson 2.11: Review](Unit2/Lesson-211.md)
 * [Lesson 2.99: (Unit 2 Test)](Curriculum-Map.md#299)
 
-## Unit 3: Advanced Data & Control Flow (4 weeks)
+## [Unit 3: Advanced Data & Control Flow (4 weeks)](Unit3/Unit3-Map.md)
 
 * [Lesson 3.00: Test Review & Reteach](Unit3/Lesson-300.md)
 * [Lesson 3.01: Parameters](Unit3/Lesson-301.md)
@@ -253,7 +252,7 @@
 * [Lesson 3.XX: Frac Calc](Assets.md)
 * [Lesson 3.XX1: Programming Project(FracCalc Alternative)](Unit3/Lesson-3XX1.md)
 
-## Unit 4: Arrays, Lists, & Files (4 weeks)
+## [Unit 4: Arrays, Lists, & Files (4 weeks)](Unit4/Unit4-Map.md)
 
 * [Lesson 4.00: Test Review & Reteach](Unit4/Lesson-400.md)
 * [Lesson 4.01: Array Basics](Unit4/Lesson-401.md)
@@ -270,7 +269,7 @@
 * [Lesson 4.99: (Unit 4 test)](Curriculum-Map.md#499)
 * [Lesson 4.XX: Programming Project(Magpie Alternative)](Unit4/Lesson-4XX.md)
 
-## Unit 5: Object-Oriented Programming (4 weeks)
+## [Unit 5: Object-Oriented Programming (4 weeks)](Unit5/Unit5-Map.md)
 
 * [Lesson 5.00: Test Review & Reteach](Unit5/Lesson-500.md)
 * [Lesson 5.01: Object Oriented Programming](Unit5/Lesson-501.md)
@@ -284,7 +283,7 @@
 * [Lesson 5.99: (Unit 5 test)](Curriculum-Map.md#599)
 * [Lesson 5.XX: Programming Project(Picture Lab Alternative)](Unit5/Lesson-5XX.md) 
 
-## Unit 6: Inheritance & Polymorphism (4 weeks)
+## [Unit 6: Inheritance & Polymorphism (4 weeks)](Unit6/Unit6-Map.md)
 
 * [Lesson 6.00: Test Review & Reteach](Unit6/Lesson-600.md)
 * [Lesson 6.01: Inheritance Basics (2 Days)](Unit6/Lesson-601.md)
@@ -301,7 +300,7 @@
   * [Test 5 Guide](Unit6/Test-5-Guide.md)
 * [Lesson 6.XX: Text Excel](Curriculum-Map.md#6xx)
 
-## Unit 7: Searching & Sorting (3 weeks)
+## [Unit 7: Searching & Sorting (3 weeks)](Unit7/Unit7-Map.md)
 
 * [Lesson 7.00: Test Review & Reteach](Unit7/Lesson-700.md)
 * [Lesson 7.01: Searching Algorithms](Unit7/Lesson-701.md)
@@ -311,7 +310,7 @@
 * [Lesson 7.99: (Unit 7 test)](Curriculum-Map.md#799)
   * [Test 6 Guide](Unit7/Test-6-Guide.md)
 
-## Unit 8: Recursion (2 weeks)
+## [Unit 8: Recursion (2 weeks)](Unit8/Unit8-Map.md)
 
 * [Lesson 8.00: Test Review & Reteach](Unit8/Lesson-800.md)
 * [Lesson 8.01: Thinking Recursively](Unit8/Lesson-801.md)
@@ -324,7 +323,7 @@
 * [Lesson 8.08: Quiz Review & Reteach](Unit8/Lesson-808.md)
 
 
-## Unit 9: AP Test Review (3 weeks)
+## [Unit 9: AP Test Review (3 weeks)](Unit9/Unit9-Map.md)
 
 * [Lesson 9.00: Reviewing for the AP Exam](Unit9/Lesson-900.md)
 

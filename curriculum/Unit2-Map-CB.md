@@ -1,10 +1,7 @@
-Unit 2: Using Objects
+CB Unit 2: Using Objects
 ====================================================================================================
 The following curriculum map is a day-by-day listing of the AP Computer Science course in
-chronological order. Each row represents one day of class, based on a medium-paced class. Readings
-from the textbook and homework assignments are included on the day when they should be assigned.
-Refer to the Introduction document for information about how to adjust this pacing for your specific
-classroom.
+chronological order. The order has been adapted to follow the College Board AP CS A Curriculium. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook. 
 
 - [Unit 3 Slides]
 - [Unit 3 Word Bank]
@@ -167,30 +164,30 @@ classroom.
 
 
 
-[3.00]: Lesson-300.md
-[3.01]: Lesson-301.md
-[3.02]: Lesson-302.md
-[3.03]: Lesson-303.md
-[3.04]: Lesson-304.md
-[3.05]: Lesson-305.md
-[3.06]: Lesson-306.md
-[3.07]: Lesson-307.md
-[3.08]: Lesson-308.md
+[3.00]: Unit3/Lesson-300.md
+[3.01]: Unit3/Lesson-301.md
+[3.02]: Unit3/Lesson-302.md
+[3.03]: Unit3/Lesson-303.md
+[3.04]: Unit3/Lesson-304.md
+[3.05]: Unit3/Lesson-305.md
+[3.06]: Unit3/Lesson-306.md
+[3.07]: Unit3/Lesson-307.md
+[3.08]: Unit3/Lesson-308.md
 
 [Algorithm for Solving Problems]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx
 [Curriculum Assets]: ../Assets.md
 [DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
 [Equestria]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Map%20of%20Equestria.pptx
-[Calculator]: Lesson-3XX1.md
-[Lesson 3.00]: Lesson-300.md
-[Lesson 3.01]: Lesson-301.md
-[Lesson 3.02]: Lesson-302.md
-[Lesson 3.03]: Lesson-303.md
-[Lesson 3.04]: Lesson-304.md
-[Lesson 3.05]: Lesson-305.md
-[Lesson 3.06]: Lesson-306.md
-[Lesson 3.07]: Lesson-307.md
-[Lesson 3.08]: Lesson-308.md
+[Calculator]: Unit3/Lesson-3XX1.md
+[Lesson 3.00]: Unit3/Lesson-300.md
+[Lesson 3.01]: Unit3/Lesson-301.md
+[Lesson 3.02]: Unit3/Lesson-302.md
+[Lesson 3.03]: Unit3/Lesson-303.md
+[Lesson 3.04]: Unit3/Lesson-304.md
+[Lesson 3.05]: Unit3/Lesson-305.md
+[Lesson 3.06]: Unit3/Lesson-306.md
+[Lesson 3.07]: Unit3/Lesson-307.md
+[Lesson 3.08]: Unit3/Lesson-308.md
 
 [Unit 3 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Unit3.pptx
 [Unit 3 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Unit%203%20Word%20Bank.docx
@@ -203,18 +200,18 @@ classroom.
 [WS 3.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.4.docx
 [WS 3.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.5.docx
 [WS 3.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.7.docx
-[5.00]: Lesson-500.md
-[5.01]: Lesson-501.md
-[5.02]: Lesson-502.md
-[5.03]: Lesson-503.md
-[5.04]: Lesson-504.md
+[5.00]: Unit5/Lesson-500.md
+[5.01]: Unit5/Lesson-501.md
+[5.02]: Unit5/Lesson-502.md
+[5.03]: Unit5/Lesson-503.md
+[5.04]: Unit5/Lesson-504.md
 
 [Curriculum Assets]: ../Assets.md
-[Lesson 5.00]: Lesson-500.md
-[Lesson 5.01]: Lesson-501.md
-[Lesson 5.02]: Lesson-502.md
-[Lesson 5.03]: Lesson-503.md
-[Lesson 5.04]: Lesson-504.md
+[Lesson 5.00]: Unit5/Lesson-500.md
+[Lesson 5.01]: Unit5/Lesson-501.md
+[Lesson 5.02]: Unit5/Lesson-502.md
+[Lesson 5.03]: Unit5/Lesson-503.md
+[Lesson 5.04]: Unit5/Lesson-504.md
 
 [Unit 5 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/Unit5.pptx
 [Unit 5 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/Unit%205%20Word%20Bank.docx

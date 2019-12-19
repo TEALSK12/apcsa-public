@@ -2,10 +2,7 @@ CB Unit 1: Programming & Java
 ====================================================================================================
 
 The following curriculum map is a day-by-day listing of the AP Computer Science course in
-chronological order. Each row represents one day of class, based on a medium-paced class. Readings
-from the textbook and homework assignments are included on the day when they should be assigned.
-Refer to the Introduction document for information about how to adjust this pacing for your specific
-classroom.
+chronological order. The order has been adapted to follow the College Board AP CS A Curriculium. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook. 
 
 - [Unit 1 Slides]
 - [Unit 1 Word Bank]
