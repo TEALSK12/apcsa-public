@@ -36,6 +36,22 @@ mention that you're willing to do the work yourself. If the idea is sound, we'll
 light before you commit any effort or time.
 
 
+Previewing Locally
+------------------
+
+To view this GitBook locally for previewing changes, first install the gitbook-cli tool:
+
+    npm install gitbook-cli -g
+
+Then from the repository root run:
+
+    gitbook serve
+
+For complete instructions, see the [GitBook website][]. 
+
+> Note: this method of previewing won't contain all the TEALS styling on the main site, but will give you a rough approximation before making a submission.
+
+
 How to Submit a Pull Request (Advanced)
 ---------------------------------------
 The following steps outline the easiest way to submit a PR:
@@ -95,3 +111,4 @@ Hopefully, all went well, and you've helped to make our curriculum even better -
 [main code page]:   https://github.com/TEALSK12/apcsa-public
 [style guidelines]: STYLE.md
 [submit an issue]:  https://github.com/TEALSK12/apcsa-public/issues
+[GitBook website]:    https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md
