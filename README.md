@@ -9,8 +9,20 @@ curriculum materials and assets.
 
 For questions, contact [Kenney Chan][].
 
+Previewing Locally
+------------------
 
+To view this GitBook locally for previewing changes, first install the gitbook-cli tool:
+
+> npm install gitbook-cli -g
+
+Then from the repository root run:
+
+> gitbook serve
+
+For complete instructions, see the [GitBook website][].
 
 [AP CS A Curriculum]: https://tealsk12.gitbooks.io/ap-computer-science-a/content/
 [apcsa-instructor]:   https://github.com/TEALSK12/apcsa-instructor/
 [Kenney Chan]:        mailto:kencha@microsoft.com
+[GitBook website]:    https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md
