@@ -1,44 +1,43 @@
-CB Unit 3: Advanced Data & Control Flow
-====================================================================================================
+# CB Unit 3: Advanced Data & Control Flow
+
 The following curriculum map is a day-by-day listing of the AP Computer Science course in
-chronological order. The order has been adapted to follow the College Board AP CS A Curriculium. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook. 
+chronological order. The order has been adapted to follow the College Board AP CS A Curriculum. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook.
 
 - [Unit 3 Slides]
 - [Unit 3 Word Bank]
 - [Curriculum Assets]
 
-
-| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    | Enduring Understanding | Learning Objective | Essential Knowledge |
-|:-------|:--------------------------------------|:---------------|:----------------|:----------------|:-|:-|:-|
-| [3.09] |Relational Operators & if/else|[Operator Precedence], Grudgeball|4.1 “Nested if/else” and “Flow of control”|SC 4.7-4.9; E 4.1-4.2 |
-| [3.10] |Nested if/else Statements|[WS 3.10] Teach mini-lessons, Practice-It SC 4.5, 4.6, E 4.3|4.1, “Factoring if/else statements” and “Testing multiple conditions”|E 4.4, 4.5 | 
+| LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential Knowledge |
+| :------- | :-- | :-- | :----- | :---- | :- | :- | :- |
+| [3.09] |Relational Operators & if/else | [Operator Precedence], Grudgeball | 4.1 “Nested if/else” and “Flow of control” | SC 4.7-4.9; E 4.1-4.2 | [CON-1.E.1] [CON-1.H] [CON-2.A]
+| [3.10] | Nested if/else Statements|[WS 3.10] Teach mini-lessons, Practice-It SC 4.5, 4.6, E 4.3|4.1, “Factoring if/else statements” and “Testing multiple conditions” | E4.4, 4.5 | [CON-1.E.1] [CON-1.H] [CON-2.A] ||
 
 ## 3.09
-| [Lesson 3.09]   | _Relational Operators & if/else_
+
+| [Lesson 3.09]   | _Relational Operators & if/else_ |
 |:----------------|:--------------------------------
-| **Objectives**  | Students will be able to evaluate relational expressions, predict and trace the flow of an if statement.
-| **Assessments** | Students will evaluate relational expressions and practice correct if statement syntax during a game of grudgeball.
-| **In Class**    | [Operator Precedence]<br>Grudgeball
-| **Reading**     | 4.1 “_Nested If/Else_” and “_Flow of Control_”
-| **Homework**    | SC 4.7–9<br>E 4.1–2
+| **Objectives**  | Students will be able to evaluate relational expressions, predict and trace the flow of an if statement. |
+| **Assessments** | Students will evaluate relational expressions and practice correct if statement syntax during a game of Grudgeball. |
+| **In Class** | [Operator Precedence] Grudgeball |
+| **Reading**     | 4.1 “_Nested If/Else_” and “_Flow of Control_” |
+| **Homework**    | SC 4.7–9 E 4.1–2 |
 
 ## 3.10
-| [Lesson 3.10]   | _Nested if/else Statements_
-|:----------------|:---------------------------
-| **Objectives**  | Students will will be able to choose which if statements to use for different problems<br>Students will use correct syntax for the different if statements.
-| **Assessments** | Students will teach a mini-lesson on sequential or nested if statements.<br>Students will submit several Practice-It questions.
-| **In Class**    | [WS 3.10] Teach mini-lessons<br>Practice-It<br>SC 4.5–6<br>E 4.3
-| **Reading**     | 4.1, “_Factoring If/Else Statements_” and “_Testing Multiple Conditions_”
-| **Homework**    | EX 4.4–5
 
+| [Lesson 3.10]   | _Nested if/else Statements_ |
+|:----------------|:--------------------------- |
+| **Objectives**  | Students will will be able to choose which if statements to use for different problems Students will use correct syntax for the different if statements. |
+| **Assessments** | Students will teach a mini-lesson on sequential or nested if statements. Students will submit several Practice-It questions. |
+| **In Class** | [WS 3.10] Teach mini-lessons Practice-It SC 4.5–6 E 4.3 |
+| **Reading** | 4.1, “_Factoring If/Else Statements_” and “_Testing Multiple Conditions_” |
+| **Homework** | EX 4.4–5 |
 
 ## Abbreviations
+
 - **WS** — Worksheet
 - **SC** — Self-Check problem (in the textbook)
 - **EX** — Exercise (in the textbook)
 - **PP** — Programming Project (in the textbook)
-
-
 
 [3.09]: Unit3/Lesson-309.md
 [3.10]: Unit3/Lesson-310.md
@@ -57,7 +56,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 [Test 2 Guide]: Test-2-Guide.md
 [Unit 3 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Unit3.pptx
 [Unit 3 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Unit%203%20Word%20Bank.docx
-
 
 [CON-1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1
 [CON-1.A]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1a
@@ -343,4 +341,3 @@ chronological order. The order has been adapted to follow the College Board AP C
 [VAR-2.G.1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-2g1
 [VAR-2.G.2]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-2g2
 [VAR-2.G.3]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-2g3
-
