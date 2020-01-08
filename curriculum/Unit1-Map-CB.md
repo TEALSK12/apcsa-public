@@ -2,7 +2,7 @@ CB Unit 1: Programming & Java
 ====================================================================================================
 
 The following curriculum map is a day-by-day listing of the AP Computer Science course in
-chronological order. The order has been adapted to follow the College Board AP CS A Curriculium. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook. 
+chronological order. The order has been adapted to follow the College Board AP CS A Curriculum. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook. 
 
 - [Unit 1 Slides]
 - [Unit 1 Word Bank]
@@ -12,63 +12,63 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 | **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    | Enduring Understanding | Learning Objective | Essential Knowledge |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|:-|:-|:-|
-| [1.01] | _Using Eclipse & Practice-It_         | [WS 1.1.1]<br>[WS 1.1.2] | | Explore Pokémon (pokemon.com, console, web site) |
-| [1.02] | _Algorithms & Computational Thinking_ | PB&J | 1.2 | Reflect on PB&J assignment<br>Continue exploring Pokémon | 
-| [1.03] | _String & Console Output_             | Practice-It<br>SC 1.6–9, 1.11–14<br>LP Welcome | 1.3 | EX 1.1–5 |[MOD-1], [VAR-1] | [MOD-1.A], [VAR-1.A] | [MOD-1.A.1], [MOD-1.A.2], [VAR-1.A.1] 
+| [1.01] | _Using Eclipse & Practice-It_         | [WS 1.1.1] [WS 1.1.2] | | Explore Pokémon (pokemon.com, console, web site) |
+| [1.02] | _Algorithms & Computational Thinking_ | PB&J | 1.2 | Reflect on PB&J assignment Continue exploring Pokémon | 
+| [1.03] | _String & Console Output_             | Practice-It SC 1.6–9, 1.11–14 LP Welcome | 1.3 | EX 1.1–5 |[MOD-1], [VAR-1] | [MOD-1.A], [VAR-1.A] | [MOD-1.A.1], [MOD-1.A.2], [VAR-1.A.1] 
 | [1.04] | _Common Errors & Comments_            | [WS 1.4] | 1.4 | EX 1.6–9|[MOD-2]|[MOD-2.C]|[MOD-2.C.1],[MOD-2.C.1]|
-| [1.05] | _Static Methods & Method Calls_       | Practice-It<br>SC 1.22, 1.23, 1.26, 1.29 | 1.5 | EX 1.11, 1.12, 1.14, 1.16 |[MOD-2]|[MOD-2.G]|[MOD-2.G.1],[MOD-2.G.2]
-| [1.06] | _Static Methods & Method Calls_       | LP StarFigures<br>LP PikachuChatter | | Outline ch 1<br>PP 1.1, 1.3 |[MOD-2]|[MOD-2.G]|[MOD-2.G.1],[MOD-2.G.2]
+| [1.05] | _Static Methods & Method Calls_       | Practice-It SC 1.22, 1.23, 1.26, 1.29 | 1.5 | EX 1.11, 1.12, 1.14, 1.16 |[MOD-2]|[MOD-2.G]|[MOD-2.G.1],[MOD-2.G.2]
+| [1.06] | _Static Methods & Method Calls_       | LP StarFigures LP PikachuChatter | | Outline ch 1 PP 1.1, 1.3 |[MOD-2]|[MOD-2.G]|[MOD-2.G.1],[MOD-2.G.2]
 | [1.07] | _Programming Project_                 | PP 1.2, 1.5 | | Note check (add summaries if needed) |
 | [1.08] | _Finding & Fixing Errors_             | Fix homework | Review ch 1 | Submit questions for review |
-| [1.09] | _Review_                              | Review questions<br>[WS 1.9]<br>Practice test | | Study |
-| [1.99] | _Unit 1 Test_                         | Test 0 Section I<br>Test 0 Section II | | |
+| [1.09] | _Review_                              | Review questions [WS 1.9] Practice test | | Study |
+| [1.99] | _Unit 1 Test_                         | Test 0 Section I Test 0 Section II | | |
 | [1.XX] | _Lesson 1.07 Alternative_  | Ideate and Construct Project  |  |  |
 | [2.00] | Test Review & Reteach	               | Review test	| 2.1 except for “Mixing types and Casting”	| Test corrections |
-| [2.01] | Basic Data Concepts	                 | [WS 2.1]	      | 2.2 up to “String Concatenation” | SC 2.1-2.3<br> (4th, 5th : 2.1,2.3,2.4)|
-| [2.02] | Declaring & Assigning Variables	     | [WS 2.2]<br>Practice-It SC 2.7, 2.11<br>(4th, 5th: 2.8, 2.13) E 2.1 | Rest of 2.2 | SC 2.5,2.6,2.9, 2.12-2.15<br>(4th, 5th: 2.6,2.7,2.1,2.14-2.17) |
-| [2.03] | String Concatenation & Increment<br>Decrement Operators | Grudgeball | Rest of 2.2 | SC 2.4<br>(4th, 5th: 2.5) |
-| [2.04] | Mixing Types & Casting	               | [WS 2.4]<br>[Poster 2.4]	| 2.3 up to “Nested for Loops" | finish [WS 2.4] |
-| [2.05] | for Loops	                           | [WS 2.5]<br>Practice-It SC 2.18,2.23, 2.24<br>(4th, 5th: 2.21,2.26,2.27) |	2.3 “Nested for Loops” | SC 2.19-2.21<br>(4th, 5th: 2.22-2.24) |
-| [2.06] | nested for Loops	                     | Practice-It SC 2.28-2.30<br>(4th, 5th: 2.31-2.33), E 2.5 | 2.4 “Scope” and “Pseudocode" | SC 2.26, 2.27<br>(4th, 5th: 2.29, 2.30),E 2.4 |
-| [2.07] | Scope & Pseudocode	                   | [WS 2.7]<br>Discuss PP 2.1 |	Read 2.4 “Class Constants” |SC 2.31-2.33<br>(4th, 5th: 2.34-2.36)|
+| [2.01] | Basic Data Concepts	                 | [WS 2.1]	      | 2.2 up to “String Concatenation” | SC 2.1-2.3  (4th, 5th : 2.1,2.3,2.4)|
+| [2.02] | Declaring & Assigning Variables	     | [WS 2.2] Practice-It SC 2.7, 2.11 (4th, 5th: 2.8, 2.13) E 2.1 | Rest of 2.2 | SC 2.5,2.6,2.9, 2.12-2.15 (4th, 5th: 2.6,2.7,2.1,2.14-2.17) |
+| [2.03] | String Concatenation & Increment Decrement Operators | Grudgeball | Rest of 2.2 | SC 2.4 (4th, 5th: 2.5) |
+| [2.04] | Mixing Types & Casting	               | [WS 2.4] [Poster 2.4]	| 2.3 up to “Nested for Loops" | finish [WS 2.4] |
+| [2.05] | for Loops	                           | [WS 2.5] Practice-It SC 2.18,2.23, 2.24 (4th, 5th: 2.21,2.26,2.27) |	2.3 “Nested for Loops” | SC 2.19-2.21 (4th, 5th: 2.22-2.24) |
+| [2.06] | nested for Loops	                     | Practice-It SC 2.28-2.30 (4th, 5th: 2.31-2.33), E 2.5 | 2.4 “Scope” and “Pseudocode" | SC 2.26, 2.27 (4th, 5th: 2.29, 2.30),E 2.4 |
+| [2.07] | Scope & Pseudocode	                   | [WS 2.7] Discuss PP 2.1 |	Read 2.4 “Class Constants” |SC 2.31-2.33 (4th, 5th: 2.34-2.36)|
 | [2.08] | Programming Project	                 | Start PP 2.4	   | | Outline ch 2 (omit 2.5) |
 | [2.09] | Programming Project	                 | Complete PP 2.4 | | \[_TBD practice question_\] |
 | [2.10] | Finding & Fixing Errors	             | Fix HW	       | Review ch 2 (omit 2.5)	| Submit questions for review |
-| [2.11] | Review	(Review questions)             | [WS 2.11]<br>practice test |	| Study |
-| [2.99] | (Unit 2 Test) | Test 1 Section I<br>Test 1 Section II | | |
+| [2.11] | Review	(Review questions)             | [WS 2.11] practice test |	| Study |
+| [2.99] | (Unit 2 Test) | Test 1 Section I Test 1 Section II | | |
 
 ## 1.01
 | [Lesson 1.01]   | _Using Eclipse & Practice-It_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will be able to open Eclipse, create and save a file in Eclipse, and use Practice-It.
-| **Assessments** | Students will demonstrate Plug-In and Un-Plug procedures for the teacher.<br>Students will log in and submit a sample problem in Practice-It.
-| **In Class**    | [WS 1.1.1]<br>[WS 1.1.2]
+| **Assessments** | Students will demonstrate Plug-In and Un-Plug procedures for the teacher. Students will log in and submit a sample problem in Practice-It.
+| **In Class**    | [WS 1.1.1] [WS 1.1.2]
 | **Reading**     |
 | **Homework**    | Explore Pokémon (pokemon.com, console, web site)
 
 ## 1.02
 | [Lesson 1.02]   | _Algorithms & Computational Thinking_
 |:----------------|:-------------------------------------
-| **Objectives**  | Students will be able to define algorithms, programs, hardware, software, and operating systems.<br>Students will be able to describe the relationships between these concepts and components.
+| **Objectives**  | Students will be able to define algorithms, programs, hardware, software, and operating systems. Students will be able to describe the relationships between these concepts and components.
 | **Assessments** | Students will write sample algorithms, assemble and debug a program that directs the instructor to make a peanut butter & jelly sandwich.
 | **In Class**    | PB&J
 | **Reading**     | 1.2
-| **Homework**    | Reflect on PB&J assignment<br>Continue exploring Pokémon
+| **Homework**    | Reflect on PB&J assignment Continue exploring Pokémon
 
 ## 1.03
 | [Lesson 1.03]   | _String & Console Output_
 |:----------------|:-------------------------
-| **Objectives**  | Students will correctly assemble a complete program that uses a class header, body, and main method.<br>Students will correctly use print, println, and escape sequences.
-| **Assessments** | Students will create a starter Pokémon program<br>Students will complete several Practice-It questions.
-| **In Class**    | Practice-It<br>SC 1.6–9, 1.11–14<br>LP Welcome
+| **Objectives**  | Students will correctly assemble a complete program that uses a class header, body, and main method. Students will correctly use print, println, and escape sequences.
+| **Assessments** | Students will create a starter Pokémon program Students will complete several Practice-It questions.
+| **In Class**    | Practice-It SC 1.6–9, 1.11–14 LP Welcome
 | **Reading**     | 1.3
 | **Homework**    | EX 1.1–5
 
 ## 1.04
 | [Lesson 1.04]   | _Common Errors & Comments_
 |:----------------|:--------------------------
-| **Objectives**  | Students will create simple programs with comments<br>Students will be able to list and apply the steps necessary for avoiding syntax errors.
-| **Assessments** | Students will complete a worksheet (WS 1.4).<br>Students will develop a personal check-list for spotting syntax errors.
+| **Objectives**  | Students will create simple programs with comments Students will be able to list and apply the steps necessary for avoiding syntax errors.
+| **Assessments** | Students will complete a worksheet (WS 1.4). Students will develop a personal check-list for spotting syntax errors.
 | **In Class**    | [WS 1.4]
 | **Reading**     | 1.4
 | **Homework**    | EX 1.6–9
@@ -76,20 +76,20 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 1.05
 | [Lesson 1.05]   | _Static Methods & Method Calls_
 |:----------------|:-------------------------------
-| **Objectives**  | Students will use procedural decomposition to plan complex programs using structure diagrams.<br>Students will manage complexity by using method calls.
+| **Objectives**  | Students will use procedural decomposition to plan complex programs using structure diagrams. Students will manage complexity by using method calls.
 | **Assessments** | Students will complete Practice-It problems.
-| **In Class**    | Practice-It<br>SC 1.22, 1.23, 1.26, 1.29
+| **In Class**    | Practice-It SC 1.22, 1.23, 1.26, 1.29
 | **Reading**     | 1.5
 | **Homework**    | EX 1.11, 1.12, 1.14, 1.16
 
 ## 1.06
 | [Lesson 1.06]   | _Static Methods & Method Calls_
 |:----------------|:-------------------------------
-| **Objectives**  | Students will use structure diagrams to plan complex programs.<br>Students will manage complexity by using method calls.
+| **Objectives**  | Students will use structure diagrams to plan complex programs. Students will manage complexity by using method calls.
 | **Assessments** | Students will complete Practice-It problems, students will write a structured Pikachu program.
-| **In Class**    | LP StarFigures<br>LP PikachuChatter
+| **In Class**    | LP StarFigures LP PikachuChatter
 | **Reading**     |
-| **Homework**    | Outline ch 1<br>PP 1.1, 1.3
+| **Homework**    | Outline ch 1 PP 1.1, 1.3
 
 ## 1.07
 | [Lesson 1.07]   | _Programming Project_
@@ -114,14 +114,14 @@ chronological order. The order has been adapted to follow the College Board AP C
 |:----------------|:--------
 | **Objectives**  | Students will identify weaknesses in their Unit 1 knowledge.
 | **Assessments** | Students will create a personalized list of review topics to guide tonight’s study session.
-| **In Class**    | Review questions<br>[WS 1.9]<br>Practice test
+| **In Class**    | Review questions [WS 1.9] Practice test
 | **Reading**     |
 | **Homework**    | Study
 
 ## 1.99
 | Unit 1 Test     | _Programming & Java_
 |:----------------|:--------------------
-| **In Class**    | Test 0 Section I<br>Test 0 Section II
+| **In Class**    | Test 0 Section I Test 0 Section II
 
 ## 1.XX
 | [Lesson 1.XX]   | _Open Ended Programming Project(Lesson 1.07 Alternative)_
@@ -144,8 +144,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 2.01
 | [Lesson 2.01]   | _Basic Data Concepts_
 |:----------------|:---------------------
-| **Objectives**  | Students will be able to identify and categorize data types.<br>Students will identify operators and operands, and will correctly apply rules or precedence.
-| **Assessments** | Using operator/operand expression sets, students will use rules of precedence to correctly write code that yields a given answer.<br>Using operator/operand expression sets, students will create their own expressions and predict the output.
+| **Objectives**  | Students will be able to identify and categorize data types. Students will identify operators and operands, and will correctly apply rules or precedence.
+| **Assessments** | Using operator/operand expression sets, students will use rules of precedence to correctly write code that yields a given answer. Using operator/operand expression sets, students will create their own expressions and predict the output.
 | **In Class**    | [WS 2.1]
 | **Reading**     | 2.2 up to “_String Concatenation_”
 | **Homework**    | SC 2.1–3 (4th: 2.1, 2.3, 2.4)
@@ -155,7 +155,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 |:----------------|:---------------------------------
 | **Objectives**  | Students will be able to identify, declare, and assign variables.
 | **Assessments** | Students will write a program that converts temperature from Fahrenheit to Celsius.
-| **In Class**    | [WS 2.2]<br>Practice-It<br>SC 2.7, 2.11 (4th: 2.8, 2.13)<br>E 2.1
+| **In Class**    | [WS 2.2] Practice-It SC 2.7, 2.11 (4th: 2.8, 2.13) E 2.1
 | **Reading**     | Rest of 2.2
 | **Homework**    | SC 2.5, 2.6, 2.9, 2.12–15 (4th: 2.6, 2.7, 2.10, 2.14–17)
 
@@ -171,36 +171,36 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 2.04
 | [Lesson 2.04]   | _Mixing Types & Casting_
 |:----------------|:------------------------
-| **Objectives**  | Students will be able to describe which types automatically convert into others when appearing together in expressions, and predict how an expression with mixed types will evaluate.<br>Students will be able to convert types by casting.
-| **Assessments** | Students will use “_Zombie Rules_” of precedence to correctly write code that yields a given answer<br>Students will create their own expressions & predict output by completing and trading worksheets.
-| **In Class**    | [WS 2.4]<br>[Poster 2.4]
+| **Objectives**  | Students will be able to describe which types automatically convert into others when appearing together in expressions, and predict how an expression with mixed types will evaluate. Students will be able to convert types by casting.
+| **Assessments** | Students will use “_Zombie Rules_” of precedence to correctly write code that yields a given answer Students will create their own expressions & predict output by completing and trading worksheets.
+| **In Class**    | [WS 2.4] [Poster 2.4]
 | **Reading**     | 2.3 up to “_Nested for Loops_”
 | **Homework**    | Finish [WS 2.4]
 
 ## 2.05
 | [Lesson 2.05]   | _for Loops_
 |:----------------|:-----------
-| **Objectives**  | Students will trace loops to predict program behavior<br>Students will construct loops to execute simple tasks.
+| **Objectives**  | Students will trace loops to predict program behavior Students will construct loops to execute simple tasks.
 | **Assessments** | Students will trace and construct loops in Practice-It problems.
-| **In Class**    | [WS 2.5]<br>Practice-It<br>SC 2.18, 2.23, 2.24 (4th: 2.21, 2.26, 2.27)
+| **In Class**    | [WS 2.5] Practice-It SC 2.18, 2.23, 2.24 (4th: 2.21, 2.26, 2.27)
 | **Reading**     | 2.3 “_Nested for Loops_”
 | **Homework**    | SC 2.19–21 (4th: 2.22–24)
 
 ## 2.06
 | [Lesson 2.06]   | _Nested for Loops_
 |:----------------|:------------------
-| **Objectives**  | Students will trace nested loops to predict program behavior<br>Students will construct loops to execute simple tasks.
+| **Objectives**  | Students will trace nested loops to predict program behavior Students will construct loops to execute simple tasks.
 | **Assessments** | Students will trace and construct nested loops in Practice-It problems.
-| **In Class**    | Practice-It<br>SC 2.28–30 (4th: 2.31–33)<br>E 2.5
+| **In Class**    | Practice-It SC 2.28–30 (4th: 2.31–33) E 2.5
 | **Reading**     | 2.4 “_Scope_” and “_Pseudocode_”
-| **Homework**    | SC 2.26, 2.27 (4th: 2.29, 2.30)<br>E 2.4
+| **Homework**    | SC 2.26, 2.27 (4th: 2.29, 2.30) E 2.4
 
 ## 2.07
 | [Lesson 2.07]   | _Scope & Pseudocode_
 |:----------------|:--------------------
 | **Objectives**  | Students will be able to identify the scope of a variable and identify common scope errors.
 | **Assessments** | Students will complete a worksheet.
-| **In Class**    | [WS 2.7]<br>Discuss PP 2.1
+| **In Class**    | [WS 2.7] Discuss PP 2.1
 | **Reading**     | Read 2.4 “_Class Constants_”
 | **Homework**    | SC 2.31–33 (4th 2.34–36)
 
@@ -236,14 +236,14 @@ chronological order. The order has been adapted to follow the College Board AP C
 |:----------------|:--------
 | **Objectives**  | Students will identify weaknesses in their Unit 1 knowledge.
 | **Assessments** | Students will create a personalized list of review topics to guide tonight’s study session.
-| **In Class**    | Review questions<br>[WS 2.11]<br>Practice test
+| **In Class**    | Review questions [WS 2.11] Practice test
 | **Reading**     |
 | **Homework**    | Study
 
 ## 2.99
 | Unit 2 Test     | _Working with Data & Basic Control Flow_
 |:----------------|:----------------------------------------
-| **In Class**    | Test 1 Section I<br>Test 1 Section II
+| **In Class**    | Test 1 Section I Test 1 Section II
 
 
 ## Abbreviations

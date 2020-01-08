@@ -9,8 +9,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential Knowledge |
 | :------- | :-- | :-- | :----- | :---- | :- | :- | :- |
-| [3.09] |Relational Operators & if/else | [Operator Precedence], Grudgeball | 4.1 “Nested if/else” and “Flow of control” | SC 4.7-4.9; E 4.1-4.2 | [CON-1.E.1] [CON-1.H] [CON-2.A]
-| [3.10] | Nested if/else Statements|[WS 3.10] Teach mini-lessons, Practice-It SC 4.5, 4.6, E 4.3|4.1, “Factoring if/else statements” and “Testing multiple conditions” | E4.4, 4.5 | [CON-1.E.1] [CON-1.H] [CON-2.A] ||
+| [3.09] |Relational Operators & if/else | [Operator Precedence], Grudgeball | 4.1 “Nested if/else” and “Flow of control” | SC 4.7-4.9; E 4.1-4.2 | [CON-1], [CON-2] |  [CON-1.E], [CON-1.H], [CON-2.A], [CON-2.B] |  [CON-1.E.1], [CON-1.E.2], [CON-2.A.1], [CON-2.A.2], [CON-2.A.3], [CON-2.A.3], [CON-2.A.4], [CON-2.A.5] |
+| [3.10] | Nested if/else Statements|[WS 3.10] Teach mini-lessons, Practice-It SC 4.5, 4.6, E 4.3|4.1, “Factoring if/else statements” and “Testing multiple conditions” | E4.4, 4.5 | [CON-1], [CON-2] |  [CON-1.E], [CON-1.H], [CON-2.A], [CON-2.B], | [CON-1.E.1], [CON-1.E.2], [CON-2.A.1], [CON-2.A.2], [CON-2.A.3], [CON-2.A.3], [CON-2.A.4], [CON-2.A.5] |
 
 ## 3.09
 
