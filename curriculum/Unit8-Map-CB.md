@@ -9,10 +9,10 @@ chronological order. The order has been adapted to follow the College Board AP C
 - [Curriculum Assets]
 - [Magpie Chatbot Lab]
 
-| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
-|:-------|:--------------------------------------|:---------------|:----------------|:----------------|
+| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    | Enduring Understanding | Learning Objective | Essential Knowledge |
+|:-------|:--------------------------------------|:---------------|:----------------|:----------------|:-|:-|:-|
 | [8.00] |Test Review & Reteach|Review test|12.1 up to “Structure of recursive solutions”|Test corrections
-| [4.06] |Nested Loop Algorithms & Rectangular Arrays|[WS 4.6]|10.1 up to Adding to and Removing from an ArrayList|SC [TBD]
+| [4.06] |Nested Loop Algorithms & Rectangular Arrays|[WS 4.6]|10.1 up to Adding to and Removing from an ArrayList|SC [TBD]| [VAR-2], [CON-2] | [VAR-2.F], [VAR-2.G], [CON-2.N] | [VAR-2.F.1], [VAR-2.F.2], [VAR-2.F.3], [VAR-2.F.4], [VAR-2.G.1], [CON-2.N.2] |
 | [4.08] |Finding & Fixing Errors|Fix HW|Review ch 7, 10.1 for Magpie lab|Submit questions for review
 | [4.09] 01|[Magpie Chatbot Lab] (day&nbsp;1)|Magpie Chatbot Lab Activity 1 & 2|Barrons ch 6 (8th or later: ch 7)|
 | [4.09] 02|[Magpie Chatbot Lab] (day&nbsp;2)|Magpie Chatbot Lab Activity 2|Barrons ch 6 (8th or later: ch 7)|
