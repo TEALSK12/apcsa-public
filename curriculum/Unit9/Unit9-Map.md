@@ -12,8 +12,17 @@ Unit 9: AP Test Review (3 weeks)
 | **Reading**     |
 | **Homework**    |
 
-
+## 9.01
+| [Lesson 9.01]   | _Mock AP exam_
+|:----------------|:---------------------------
+| **Objectives**  | Students will participate in a mock AP exam.
+| **Assessments** | 
+| **In Class**    |
+| **Reading**     |
+| **Homework**    |
 
 [9.00]: Lesson-900.md
+[9.01]: Lesson-901.md
 [Curriculum Assets]: ../Assets.md
 [Lesson 9.00]: Lesson-900.md
+[Lesson 9.01]: Lesson-901.md

@@ -93,11 +93,17 @@ to convince students of the pace and commitment level required for the class.
 3. Point out to students that anything they would cut and paste to save time on creating would make
    a good unit to turn into a “static method”
 
-   **Static method** — a block of Java statements that is given its own name (ask students to point
+   - **Static method** — a block of Java statements that is given its own name (ask students to point
    to a Java statement)
-
+   
    - Has the same structure we’re familiar with from the main method we already wrote, but we
      give it a different name than “main”.
+     
+   - A method call interrupts the sequential execution of statements, causing the program to first execute 
+   the statements in the method or constructor before continuing. 
+   
+   - Once the last statement in the method or constructor has executed or a return statement is executed, 
+   flow of control is returned to the point immediately following where the method or constructor was called. 
 
 4. Ask students what simple unit we should build into a static method (have them refer to the
    structure diagram), and have them suggest a name for the method.

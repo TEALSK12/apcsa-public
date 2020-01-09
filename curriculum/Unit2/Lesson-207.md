@@ -86,6 +86,9 @@ ask the class to explain to you how/why you know that scope a begins and ends wh
 
 3. Review answers as a whole group. Make sure to call the variables boxed in Exercise 1 “local
    variables,” and ask students to explain what makes them localized.
+   
+4. Point out to local variables can be declared in the body of constructors and methods. 
+   These variables may only be used within the constructor or method and cannot be declared to be public or private.
 
 ### Introduction to pseudocode \[5 minutes\]
 Using an example that was popular during the last week of class, show students how to plan a program
