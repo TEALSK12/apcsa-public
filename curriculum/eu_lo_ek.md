@@ -283,6 +283,18 @@ If the Boolean expression evaluates to false initially, the loop body is not exe
 --
 Executing a return statement inside an iteration statement will halt the loop and exit the method or constructor.
 
+[CON-2.D](#CON-2.D)
+--
+For algorithms in the context of a particular specification that does not require the use of traversals
+
+[CON-2.D.1](#CON-2.D.1)
+--
+There are standard algorithms to Identify if an integer is or is not evenly divisible by another integer, Identify the individual digits in an integer, Determine the frequency with which a specific criterion is met.
+
+[CON-2.D.2](#CON-2.D.2)
+--
+There are standard algorithms to determine a minimum or maximum value, Compute a sum, average or mode.
+
 [CON-2.E](#CON-2.E)
 --
 Represent iterative processes using a for loop
