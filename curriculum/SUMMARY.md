@@ -136,6 +136,7 @@
 
 ## Unit 9: AP Test Review (3 weeks)
 * [Lesson 9.00: Reviewing for the AP Exam](Unit9/Lesson-900.md)
+* [Lesson 9.01: Mock AP Exam](Unit9/Lesson-90.md)
 
 ## Unit 10: Post-AP Exam Projects (4–5 weeks)
 * [Character Clash](finalproject/CharacterClashProject.md)
