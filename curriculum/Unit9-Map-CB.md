@@ -9,8 +9,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 - [Curriculum Assets]
 - [Text Excel]
 
-| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
-|:-------|:--------------------------------------|:---------------|:----------------|:----------------|
+| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    | Enduring Understanding | Learning Objective | Essential Knowledge |
+|:-------|:--------------------------------------|:---------------|:----------------|:----------------|:-|:-|:-|
 | [5.00]   |Test Review & Reteach|Review test|8.1|Test corrections
 | [6.01] 01|Inheritance Basics (day 1)|[WS 6.1] Start class poster<br>[Example 6.1]|"9.2 up to ""Dividend Stock Behavior"""|Collect images
 | [6.01] 02|Inheritance Basics (day 2)|Finish class poster, discuss||
