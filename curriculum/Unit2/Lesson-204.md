@@ -71,8 +71,8 @@ happening on the video.
    - The same sort of thing happens if we put together different types in an expression (_aka_
      “**mixing types**”):
 
-     - If an int is placed in an expression with a double, Java converts it to a double. (It gets
-       infected and becomes a double.)
+     - If an int is placed in an expression with a double, Java converts it to a double. 
+       (int values are automatically cast (widened) to double values.)
 
      - If a double or int is placed in an expression with a String, Java converts it to a String.
        (The werewolf double gets bitten by the zombie String, and is now also a zombie String.)
