@@ -11,8 +11,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 | **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    | Enduring Understanding | Learning Objective | Essential knowledge |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|:----- |:-- |:-- |
-| [6.00] |Test Review & Reteach|(Review test)|9.1|Test corrections
-to Arrays and Methods|Test corrections
+| [6.00] |Test Review & Reteach|(Review test)|9.1|Test corrections to Arrays and Methods|Test corrections
 | [4.01] |Array Basics|[WS 4.1]<br>[Poster 4.2]|7.1 For-Each Loop and The Arrays Class|SC 7.1, 7.7, 7.9
 | [4.02] |For-Each Loop & Arrays Class|[WS 4.2]|7.2 up to Reversing an Array|SC 7.12-7.14
 | [4.03] |Printing, Searching, & Testing for Equality|[WS 4.3] Mini-lessons||SC 7.14-7.17, E 7.3
