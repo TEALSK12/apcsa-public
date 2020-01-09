@@ -9,8 +9,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 - [Curriculum Assets]
 - [Magpie Chatbot Lab]
 
-| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
-|:-------|:--------------------------------------|:---------------|:----------------|:----------------|
+| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    | Enduring Understanding | Learning Objective | Essential knowledge |
+|:-------|:--------------------------------------|:---------------|:----------------|:----------------|:----- |:-- |:-- |
 | [6.00] |Test Review & Reteach|(Review test)|9.1|Test corrections
 to Arrays and Methods|Test corrections
 | [4.01] |Array Basics|[WS 4.1]<br>[Poster 4.2]|7.1 For-Each Loop and The Arrays Class|SC 7.1, 7.7, 7.9
