@@ -8,8 +8,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 - [Unit 8 Word Bank]
 - [Curriculum Assets]
 
-| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
-|:-------|:--------------------------------------|:---------------|:----------------|:----------------|
+| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    | Enduring Understanding | Learning Objective | Essential Knowledge |
+|:-------|:--------------------------------------|:---------------|:----------------|:----------------|:-|:-|:-|
 | [7.00] |Test Review & Reteach|Review test|13.1 up to “Sorting”|Test corrections
 | [8.01] |Thinking Recursively|Tower of Hanoi game|Rest of 12.1|
 | [8.02] |Writing Recursive Solutions|Grudgeball<br>SC 12.1 - 12.4|12.2|SC 12.5, 12.7-12.9, E 12.1
