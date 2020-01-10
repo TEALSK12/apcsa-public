@@ -11,10 +11,10 @@ chronological order. The order has been adapted to follow the College Board AP C
 |  LP  |  Title                              |  In Class    |  Reading      |  Homework     | Enduring Understanding | Learning Objective | Essential Knowledge |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|:-|:-|:-|
 | [7.00] |Test Review & Reteach|Review test|13.1 up to “Sorting”|Test corrections
-| [8.01] |Thinking Recursively|Tower of Hanoi game|Rest of 12.1||[CON-2]|[CON-2.O]|[CON-3.O.1],[CON-3.O.2],[CON-3.O.3],[CON-3.O.4],[CON-3.O.5]
-| [8.02] |Writing Recursive Solutions|Grudgeball SC 12.1 - 12.4|12.2|SC 12.5, 12.7-12.9, E 12.1|[CON-2]|[CON-2.O]|[CON-3.O.1],[CON-3.O.2],[CON-3.O.3],[CON-3.O.4],[CON-3.O.5]
-| [8.03] |Mechanics of Recursion|[WS 8.3] [Teacher Demo 8.3]|13.4?|SC 12.6, 12.10, E 12.3|[CON-2]|[CON-2.O]|[CON-3.O.1],[CON-3.O.2],[CON-3.O.3],[CON-3.O.4],[CON-3.O.5]
-| [8.04] |MergeSort|Implement mergeSort||SC 13.27-13.30 Notebook Check|[CON-2]|[CON-2.P],[CON-2.Q]|[CON-3.P.1],[CON-3.P.2],[CON-3.P.3],[CON-3.P.4],[CON-3.Q.1]
+| [8.01] |Thinking Recursively|Tower of Hanoi game|Rest of 12.1||[CON-2]|[CON-2.O]|[CON-2.O.1],[CON-2.O.2],[CON-2.O.3],[CON-2.O.4],[CON-2.O.5]
+| [8.02] |Writing Recursive Solutions|Grudgeball SC 12.1 - 12.4|12.2|SC 12.5, 12.7-12.9, E 12.1|[CON-2]|[CON-2.O]|[CON-2.O.1],[CON-2.O.2],[CON-2.O.3],[CON-2.O.4],[CON-2.O.5]
+| [8.03] |Mechanics of Recursion|[WS 8.3] [Teacher Demo 8.3]|13.4?|SC 12.6, 12.10, E 12.3|[CON-2]|[CON-2]|[CON-2.O]|[CON-2.O.1],[CON-2.O.2],[CON-2.O.3],[CON-2.O.4],[CON-2.O.5]
+| [8.04] |MergeSort|Implement mergeSort||SC 13.27-13.30 Notebook Check|[CON-2]|[CON-2.P],[CON-2.Q]|[CON-2.P.1],[CON-2.P.2],[CON-2.P.3],[CON-2.P.4],[CON-2.Q.1]
 | [8.05] |Finding & Fixing Errors|Fix HW|Review ch 12.1, 12.2|Submit questions for review
 | [8.06] |Review||Study|
 | [8.07] |Quiz|[Quiz 8.5]|Barrons ch 7 (8th or later: ch 8)|
