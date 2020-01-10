@@ -1,7 +1,7 @@
-CB Unit 5: Writing Classes
-====================================================================================================
+# CB Unit 5: Writing Classes
+
 The following curriculum map is a day-by-day listing of the AP Computer Science course in
-chronological order. The order has been adapted to follow the College Board AP CS A Curriculium. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook. 
+chronological order. The order has been adapted to follow the College Board AP CS A Curriculum. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook.
 
 - [Unit 4 Slides]
 - [Unit 5 Slides]
@@ -9,11 +9,11 @@ chronological order. The order has been adapted to follow the College Board AP C
 - [Curriculum Assets]
 - [Picture Lab]
 
-| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    | Enduring Understanding | Learning Objective | Essential Knowledge |
+|   LP   |   Title                               |   In Class     |   Reading       |   Homework      | Enduring Understanding | Learning Objective | Essential Knowledge |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|:-|:-|:-|
 | [4.00] |Test Review & Reteach|Review test|7.1 up to Arrays and Methods|Test corrections
 | [5.05]   |Finding & Fixing Errors|Fix HW|Review ch 8 for Picture Lab|Submit questions for review
-| [5.06] 01|[Picture Lab] (day 1)|Picture Lab Activity 1 & 2<br>Picture Lab||Summarize notes since last exam
+| [5.06] 01|[Picture Lab] (day 1)|Picture Lab Activity 1 & 2  Picture Lab||Summarize notes since last exam
 | [5.06] 02|[Picture Lab] (day 2)|Picture Lab Activity 3 & 4, notebook checks||Outline ch 8
 | [5.06] 03|[Picture Lab] (day 3)|Picture Lab Activity 5, notebook checks|Read and highlight Barrons ch 2, skip this keyword|
 | [5.06] 04|[Picture Lab] (day 4)|Picture Lab Activity 5 & 6, notebook checks||Barrons ch 2 exam, skip #20
@@ -22,7 +22,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [5.06] 07|[Picture Lab] (day 7)|Picture Lab Activity 8|8.5|Finish Picture Lab Activity 8
 | [5.06] 08|[Picture Lab] (day 8)|Picture Lab Activity 9||Cont. Picture Lab Activity 9
 | [5.06] 09|[Picture Lab] (day 9)|Picture Lab Activity 9, cont.||Submit questions for review
-| [5.06a] 01|Data Lab (day 1)|Data Lab Activity 1<br>Data Lab||Summarize notes since last exam
+| [5.06a] 01|Data Lab (day 1)|Data Lab Activity 1  Data Lab||Summarize notes since last exam
 | [5.06a] 02|Data Lab (day 2)|Data Lab Activity 2, notebook checks||Outline ch 8
 | [5.06a] 03|Data Lab (day 3)|Data Lab Activity 3, notebook checks|Read and highlight Barrons ch 2, skip this keyword|
 | [5.06a] 04|Data Lab (day 4)|Data Lab Activity 3 (day 2), notebook checks||Barrons ch 2 exam, skip #20
@@ -30,11 +30,12 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [5.06a] 06|Data Lab (day 6)|Data Lab Activity 4 (day 2)||SC 8.28, 8.30
 | [5.06a] 07|Data Lab (day 7)|Data Lab Activity 4 (day 3)|8.5|Finish Data Lab Activity 8
 | [5.06a] 08|Data Lab (day 8)|Data Lab Activity 4 (day 4)||Cont. Data Lab Activity 9
-| [5.07]   |Review|Review question<br>[WS 5.7] Test practice||Study
-|  5.99    |(Unit 5 test)|Test 4 Section I<br>Test 4 Section II||
+| [5.07]   |Review|Review question  [WS 5.7] Test practice||Study
+|  5.99    |(Unit 5 test)|Test 4 Section I  Test 4 Section II||
 | [5.XX]   |PictureLab Alternative |||
 
 ## 4.00
+
 | [Lesson 4.00]   | _Test Review & Reteach_
 |:----------------|:-----------------------
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 3.
@@ -44,51 +45,57 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | Test corrections
 
 ## 5.06.1
+
 | [Lesson 5.06]   | _Picture Lab (Day 1)_
 |:----------------|:---------------------
 | **Objectives**  | Students will complete a long-form lab, using two dimensional arrays of objects, array traversing algorithms, program analysis, binary numbers, and inheritance.
 | **Assessments** | Picture Lab
-| **In Class**    | Picture Lab Activity 1 & 2<br>Picture Lab
+| **In Class**    | Picture Lab Activity 1 & 2  Picture Lab
 | **Reading**     |
 | **Homework**    | Summarize notes since last exam
 
 ## 5.06.2
+
 | [Lesson 5.06]   | _Picture Lab (Day 2)_
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Picture Lab Activity 3 & 4<br>Notebook checks
+| **In Class**    | Picture Lab Activity 3 & 4  Notebook checks
 | **Reading**     |
 | **Homework**    | Outline ch 8
 
 ## 5.06.3
+
 | [Lesson 5.06]   | _Picture Lab (Day 3)_
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Picture Lab Activity 5<br>Notebook checks
+| **In Class**    | Picture Lab Activity 5  Notebook checks
 | **Reading**     | Read and highlight Barrons ch 2, skip `this` keyword
 | **Homework**
 
 ## 5.06.4
+
 | [Lesson 5.06]   | _Picture Lab (Day 4)_
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Picture Lab Activity 5 & 6<br>Notebook checks
+| **In Class**    | Picture Lab Activity 5 & 6  Notebook checks
 | **Reading**     |
 | **Homework**    | Barrons ch 2 exam (skip #20)
 
 ## 5.06.5
+
 | [Lesson 5.06]   | _Picture Lab (Day 5)_
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Picture Lab Activity 6<br>Barron's checks
+| **In Class**    | Picture Lab Activity 6  Barron's checks
 | **Reading**     | Read and highlight Barrons ch 5
 | **Homework**    |
 
 ## 5.06.6
+
 | [Lesson 5.06]   | _Picture Lab (Day 6)_
 |:----------------|:---------------------
 | **Objectives**  |
@@ -98,6 +105,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | SC 8.28,30
 
 ## 5.06.7
+
 | [Lesson 5.06]   | _Picture Lab (Day 7)_
 |:----------------|:---------------------
 | **Objectives**  |
@@ -107,6 +115,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | Finish Picture Lab Activity 8
 
 ## 5.06.8
+
 | [Lesson 5.06]   | _Picture Lab (Day 8)_
 |:----------------|:---------------------
 | **Objectives**  |
@@ -116,6 +125,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | Cont. Picture Lab Activity 9
 
 ## 5.06.9
+
 | [Lesson 5.06]   | _Picture Lab (Day 9)_
 |:----------------|:---------------------
 | **Objectives**  |
@@ -125,51 +135,57 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | Submit questions for review
 
 ## 5.06a.1
+
 | [Lesson 5.06a]   | _Data Lab (Day 1)_
 |:----------------|:---------------------
 | **Objectives**  | Students will complete a long-form lab, using classes, objects, two dimensional arrays of objects, array traversing algorithms, program analysis and while/for loops.
-| **Assessments** | Students will complete the College Board’s AP CS A Data Lab.<br>Students will answer end of activity Check your understanding and open-ended activity.
-| **In Class**    | Data Lab Activity 1<br>Data Lab
+| **Assessments** | Students will complete the College Board’s AP CS A Data Lab.  Students will answer end of activity Check your understanding and open-ended activity.
+| **In Class**    | Data Lab Activity 1  Data Lab
 | **Reading**     |
 | **Homework**    | Summarize notes since last exam
 
 ## 5.06a.2
+
 | [Lesson 5.06a]   | _Data Lab (Day 2)_
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Data Lab Activity 2<br>Notebook checks
+| **In Class**    | Data Lab Activity 2  Notebook checks
 | **Reading**     |
 | **Homework**    | Outline ch 8
 
 ## 5.06a.3
+
 | [Lesson 5.06a]   | _Data Lab (Day 3)_
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Data Lab Activity 3<br>Notebook checks
+| **In Class**    | Data Lab Activity 3  Notebook checks
 | **Reading**     | Read and highlight Barrons ch 2, skip `this` keyword
 | **Homework**
 
 ## 5.06a.4
+
 | [Lesson 5.06a]   | _Data Lab (Day 4)_
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Data Lab Activity 3 (day 2)<br>Notebook checks
+| **In Class**    | Data Lab Activity 3 (day 2)  Notebook checks
 | **Reading**     |
 | **Homework**    | Barrons ch 2 exam (skip #20)
 
 ## 5.06a.5
+
 | [Lesson 5.06a]   | _Data Lab (Day 5)_
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Data Lab Activity 4<br>Barron's checks
+| **In Class**    | Data Lab Activity 4  Barron's checks
 | **Reading**     | Read and highlight Barrons ch 5
 | **Homework**    |
 
 ## 5.06a.6
+
 | [Lesson 5.06a]   | _Data Lab (Day 6)_
 |:----------------|:---------------------
 | **Objectives**  |
@@ -179,6 +195,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | SC 8.28,30
 
 ## 5.06a.7
+
 | [Lesson 5.06a]   | _Data Lab (Day 7)_
 |:----------------|:---------------------
 | **Objectives**  |
@@ -188,6 +205,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | Finish Data Lab Activity 8
 
 ## 5.06a.8
+
 | [Lesson 5.06a]   | _Data Lab (Day 8)_
 |:----------------|:---------------------
 | **Objectives**  |
@@ -197,34 +215,37 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | Cont. Data Lab Activity 9
 
 ## 5.07
+
 | [Lesson 5.07]   | _Review_
 |:----------------|:--------
 | **Objectives**  | Students will identify weaknesses in their Unit 5 knowledge.
 | **Assessments** | Students will create a personalized list of review topics to guide tonight’s study session.
-| **In Class**    | Review questions<br>[WS 5.7]<br>Test practice
+| **In Class**    | Review questions  [WS 5.7]  Test practice
 | **Reading**     |
 | **Homework**    | Study
 
 ## 5.99
+
 | Unit 5 Test     | _Object Oriented Programming_
 |:----------------|:-----------------------------
-| **In Class**    | Test 4 Section I<br>Test 4 Section II
+| **In Class**    | Test 4 Section I  Test 4 Section II
 
 ## 5.XX
+
 | [Lesson 5.XX]   | _Programming Project(PictureLab Alternative)_
 |:----------------|:---------------------------------------------
-| **Objectives**  | Students will be able to conduct user-centered research, plan and create, test, evaluate and share. 
+| **Objectives**  | Students will be able to conduct user-centered research, plan and create, test, evaluate and share.
 | **Assessments** | Apply 2-dimensional arrays, traversal, binary representations of data and submit a complete functional program.
 | **In Class**    | Project Design
 | **Reading**     |
 | **Homework**    | Conduct research work(survey or interviews) and communicating with end-user
 
 ## Abbreviations
+
 - **WS** — Worksheet
 - **SC** — Self-Check problem (in the textbook)
 - **EX** — Exercise (in the textbook)
 - **PP** — Programming Project (in the textbook)
-
 
 [4.00]: Unit4/Lesson-400.md
 [5.06]: Unit5/Lesson-506.md

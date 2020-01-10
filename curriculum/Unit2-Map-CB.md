@@ -1,7 +1,7 @@
-CB Unit 2: Using Objects
-====================================================================================================
+# CB Unit 2: Using Objects
+
 The following curriculum map is a day-by-day listing of the AP Computer Science course in
-chronological order. The order has been adapted to follow the College Board AP CS A Curriculium. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook. 
+chronological order. The order has been adapted to follow the College Board AP CS A Curriculum. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook.
 
 - [Unit 3 Slides]
 - [Unit 3 Word Bank]
@@ -10,25 +10,25 @@ chronological order. The order has been adapted to follow the College Board AP C
 - [Curriculum Assets]
 - [Picture Lab]
 
-| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    | Enduring Understanding | Learning Objective | Essential Knowledge |
+|  LP  |  Title                              |  In Class    |  Reading      |  Homework     | Enduring Understanding | Learning Objective | Essential Knowledge |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|:-|:-|:-|
 | [3.00] |Test Review & Reteach|[Algorithm for Solving Problems]|3.1 up to “Limitations of Parameters”|Test corrections |
 | [3.01] |Parameters|Practice-It SC 3.1 - 3.3|"3.1 “Limitations of Parameters”, “Multiple Parameters”, ""Parameters versus Constants"""|SC 3.4-3.7 |
 | [3.02] |Limitations of Parameters & Multiple Parameters|(Art project)|"3.1 “Overloading Methods”, 3.2 ""Methods That Return Values"""|Jazz up art project and program |
 | [3.03] |Return Values|Practice-It SC 3.14 - 3.16||SC 3.17, E 3.1 |
-| [3.04] |Programming Project|[WS 3.4]<br>[Equestria]|3.3 up to “Interactive Programs and Scanner Objects”|SC 3.18, 3.19 |
+| [3.04] |Programming Project|[WS 3.4]  [Equestria]|3.3 up to “Interactive Programs and Scanner Objects”|SC 3.18, 3.19 |
 | [3.05] |Using Objects & String Processing|[WS 3.5]|3.3 “Interactive programming” and “Sample interactive program”|SC 3.19-3.21 |
 | [3.06] |Interactive Programs & Scanner Objects|Practice-It SC 3.24 - 3.26, (5th: 3.23 - 3.25); E 3.12, 3.14, 3.15||Outline ch 3 (omit 3.4) |
-| [3.07] |Pokémon Battle Programming Project|[WS 3.7]<br>LP Battle||Summarize notes since last exam |
+| [3.07] |Pokémon Battle Programming Project|[WS 3.7]  LP Battle||Summarize notes since last exam |
 | [3.08] |Finding & Fixing Errors|Fix HW, webmaker.org|4.1 up to “nested if else statements”|SC 4.1-4.4 |
 | [5.00]   |Test Review & Reteach|Review test|8.1|Test corrections
-| [5.01]   |Object Oriented Programming|Practice-It SC 8.1-8.5<br>[WS 5.1.1]|8.2 up to “Mutators and Accessors.”|
+| [5.01]   |Object Oriented Programming|Practice-It SC 8.1-8.5  [WS 5.1.1]|8.2 up to “Mutators and Accessors.”|
 | [5.02]   |Object State & Behavior|[WS 5.2]|8.3 up to “The Keyword this.”|SC 8.9-8.11, 8.13-8.16
-| [5.03]   |Object Initialization: Constructors|[WS 5.3.1]<br>[WS 5.3.2]|8.4|
+| [5.03]   |Object Initialization: Constructors|[WS 5.3.1]  [WS 5.3.2]|8.4|
 | [5.04]   |Encapsulation|[WS 5.4] Mini-lessons||SC 8.22-8.28
 
-
 ## 3.00
+
 | [Lesson 3.00]   | _Test Review & Reteach_
 |:----------------|:-----------------------
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 2.
@@ -38,78 +38,87 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | Test corrections
 
 ## 3.01
+
 | [Lesson 3.01]   | _Parameters_
 |:----------------|:------------
-| **Objectives**  | Students will correctly construct formal and actual parameters (arguments).<br>Students will predict the output of programs that use parameters.
-| **Assessments** | Students will teach a mini-lesson explaining the relationship between parameters and values stored in memory.<br>Students will submit Practice-It questions.
-| **In Class**    | Practice-It<br>SC 3.1–3
+| **Objectives**  | Students will correctly construct formal and actual parameters (arguments).  Students will predict the output of programs that use parameters.
+| **Assessments** | Students will teach a mini-lesson explaining the relationship between parameters and values stored in memory.  Students will submit Practice-It questions.
+| **In Class**    | Practice-It  SC 3.1–3
 | **Reading**     | 3.1 “_Limitations of Parameters_”, “_Multiple Parameters_”, “_Parameters versus Constants_”
 | **Homework**    | SC 3.4–7
 
 ## 3.02
+
 | [Lesson 3.02]   | _Limitations of Parameters & Multiple Parameters_
 |:----------------|:-------------------------------------------------
 | **Objectives**  | Students will modify programs using parameters and class constants to create original artworks.
 | **Assessments** | Students will complete an art project and “artist statement” justifying their programming choices.
 | **In Class**    | Art project
-| **Reading**     | 3.1 “_Overloading Methods_”<br>3.2 “_Methods That Return Values_”
+| **Reading**     | 3.1 “_Overloading Methods_”  3.2 “_Methods That Return Values_”
 | **Homework**    | Jazz up art project and program
 
 ## 3.03
+
 | [Lesson 3.03]   | _Return Values_
 |:----------------|:---------------
 | **Objectives**  | Students will write a program that returns values.
 | **Assessments** | Students will complete Practice-It questions and write a program to meet a Pokémon Challenge.
-| **In Class**    | Practice-It<br>SC 3.14–16
+| **In Class**    | Practice-It  SC 3.14–16
 | **Reading**     |
-| **Homework**    | SC 3.17<br>E 3.1
+| **Homework**    | SC 3.17  E 3.1
 
 ## 3.04
+
 | [Lesson 3.04]   | _Programming Project_
 |:----------------|:---------------------
 | **Objectives**  | Students will write a program that uses parameters, the math class, and returns values.
 | **Assessments** | Students will submit an Equestria program by the end of class.
-| **In Class**    | [WS 3.4]<br>[Equestria]
+| **In Class**    | [WS 3.4]  [Equestria]
 | **Reading**     | 3.3 up to “_Interactive Programs and Scanner Objects_”
 | **Homework**    | SC 3.18–19
 
 ## 3.05
+
 | [Lesson 3.05]   | _Using Objects & String Processing_
 |:----------------|:-----------------------------------
-| **Objectives**  | Students will be able to differentiate between primitive and object types.<br>Students will apply 0-indexing and string processing techniques to predict the output of a program.
+| **Objectives**  | Students will be able to differentiate between primitive and object types.  Students will apply 0-indexing and string processing techniques to predict the output of a program.
 | **Assessments** | Students will complete WS 3.5
 | **In Class**    | [WS 3.5]
 | **Reading**     | 3.3 “_Interactive Programming_” and “_Sample Interactive Program_”
 | **Homework**    | SC 3.19–21
 
 ## 3.06
+
 | [Lesson 3.06]   | _Interactive Programs & Scanner Objects_
 |:----------------|:----------------------------------------
 | **Objectives**  | Students will write programs that accept user input using a scanner object.
 | **Assessments** | Students will complete Practice-It problems.
-| **In Class**    | Practice-It<br>SC 3.24–26<br>E 3.12,14,15
+| **In Class**    | Practice-It  SC 3.24–26  E 3.12,14,15
 | **Reading**     |
 | **Homework**    | Outline ch 3 (omit 3.4)
 
 ## 3.07
+
 | [Lesson 3.07]   | _Pokémon Battle Programming Project_
 |:----------------|:------------------------------------
 | **Objectives**  | Students will write a program that requests user input and returns data.
 | **Assessments** | Students will write a program that calculates damage done to Pokémon in a battle.
-| **In Class**    | [WS 3.7]<br>LP Battle
+| **In Class**    | [WS 3.7]  LP Battle
 | **Reading**     |
 | **Homework**    | Summarize notes since last exam
 
 ## 3.08
+
 | [Lesson 3.08]   | _Finding & Fixing Errors_
 |:----------------|:-------------------------
 | **Objectives**  | Students will find errors and correct their previously submitted homework and classwork assignment.
 | **Assessments** | Students will re-submit all homework assignments with corrected answers.
-| **In Class**    | Fix homework<br>webmaker.org
+| **In Class**    | Fix homework  webmaker.org
 | **Reading**     | 4.1 up to “_Nested If/Else Statements_”
 | **Homework**    | SC 4.1–4
 
 ## 5.00
+
 | [Lesson 5.00]   | _Test Review & Reteach_
 |:----------------|:-----------------------
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
@@ -119,50 +128,51 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | Test corrections
 
 ## 5.01
+
 | [Lesson 5.01]   | _Object Oriented Programming_
 |:----------------|:-----------------------------
-| **Objectives**  | Students will be able to describe the relationship between classes, objects, and client code.<br>Students will be able to predict the output of the code that uses objects.
+| **Objectives**  | Students will be able to describe the relationship between classes, objects, and client code.  Students will be able to predict the output of the code that uses objects.
 | **Assessments** | Students will complete Practice-It questions.
-| **In Class**    | Practice-It<br>SC 8.1–5<br>[WS 5.1.1]
+| **In Class**    | Practice-It  SC 8.1–5  [WS 5.1.1]
 | **Reading**     | 8.2 up to “_Mutators and Accessors_”
 | **Homework**    |
 
 ## 5.02
+
 | [Lesson 5.02]   | _Object State & Behavior_
 |:----------------|:-------------------------
-| **Objectives**  | Students will be able to describe classes, objects, and client code.<br>Students will be able to predict the output of the code that uses objects.
+| **Objectives**  | Students will be able to describe classes, objects, and client code.  Students will be able to predict the output of the code that uses objects.
 | **Assessments** | Students will complete WS 5.2 individually or in pairs.
 | **In Class**    | [WS 5.2]
 | **Reading**     | 8.3 up to “_The Keyword_ this”
 | **Homework**    | SC 8.9–11,13–16
 
 ## 5.03
+
 | [Lesson 5.03]   | _Object Initialization: Constructors_
 |:----------------|:-------------------------------------
-| **Objectives**  | Students will be able to describe and create classes, objects, and client code.<br>Students will be able to predict the output of the code that uses objects.
+| **Objectives**  | Students will be able to describe and create classes, objects, and client code.  Students will be able to predict the output of the code that uses objects.
 | **Assessments** | Students will complete Practice-It questions.
-| **In Class**    | [WS 5.3.1]<br>[WS 5.3.2]
+| **In Class**    | [WS 5.3.1]  [WS 5.3.2]
 | **Reading**     | 8.4
 | **Homework**    |
 
 ## 5.04
+
 | [Lesson 5.04]   | _Encapsulation_
 |:----------------|:---------------
 | **Objectives**  | Students will be able to manipulate single-dimension arrays using a variety of array transversal algorithms.
-| **Assessments** | Students will teach a mini-lesson on printing, searching/replacing, testing for equality, reversing an array, or string traversal.<br>Students will complete a quiz at the end of Day 2.
+| **Assessments** | Students will teach a mini-lesson on printing, searching/replacing, testing for equality, reversing an array, or string traversal.  Students will complete a quiz at the end of Day 2.
 | **In Class**    | [WS 5.4] Teach mini-lessons
 | **Reading**     |
 | **Homework**    | SC 8.22–28
 
-
-
 ## Abbreviations
+
 - **WS** — Worksheet
 - **SC** — Self-Check problem (in the textbook)
 - **EX** — Exercise (in the textbook)
 - **PP** — Programming Project (in the textbook)
-
-
 
 [3.00]: Unit3/Lesson-300.md
 [3.01]: Unit3/Lesson-301.md

@@ -1,7 +1,7 @@
-CB Unit 6: Array
-====================================================================================================
+# CB Unit 6: Array
+
 The following curriculum map is a day-by-day listing of the AP Computer Science course in
-chronological order. The order has been adapted to follow the College Board AP CS A Curriculium. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook. 
+chronological order. The order has been adapted to follow the College Board AP CS A Curriculum. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook.
 
 - [Unit 4 Slides]
 - [Unit 6 Slides]
@@ -9,17 +9,18 @@ chronological order. The order has been adapted to follow the College Board AP C
 - [Curriculum Assets]
 - [Magpie Chatbot Lab]
 
-| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    | Enduring Understanding | Learning Objective | Essential knowledge |
+|   LP   |   Title                               |   In Class     |   Reading       |   Homework      | Enduring Understanding | Learning Objective | Essential knowledge |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|:----- |:-- |:-- |
 | [6.00] |Test Review & Reteach|(Review test)|9.1|Test corrections to Arrays and Methods, Test corrections
-| [4.01] |Array Basics|[WS 4.1]<br>[Poster 4.2]|7.1 For-Each Loop and The Arrays Class|SC 7.1, 7.7, 7.9
+| [4.01] |Array Basics|[WS 4.1]  [Poster 4.2]|7.1 For-Each Loop and The Arrays Class|SC 7.1, 7.7, 7.9
 | [4.02] |For-Each Loop & Arrays Class|[WS 4.2]|7.2 up to Reversing an Array|SC 7.12-7.14
 | [4.03] |Printing, Searching, & Testing for Equality|[WS 4.3] Mini-lessons||SC 7.14-7.17, E 7.3
 | [4.03] |Printing, Searching, & Testing for Equality (Day 2)||7.3|SC 7.19-7.21
-| [4.04] |Reference Semantics|[WS 4.4]<br>7.4 up to Command-Line Arguments|E 7.9, 7.10
+| [4.04] |Reference Semantics|[WS 4.4]  7.4 up to Command-Line Arguments|E 7.9, 7.10
 | [4.05] |Shifting Values & Arrays of Objects|SC 7.22, 7.23, 7.25, 7.26, 7.30; E 7.16|7.4 Nested Arrays, 7.5 Rectangular Two Dimensional Arrays|SC 7.27-7.29, E 7.14
 
 ## 6.00
+
 | [Lesson 6.00]   | _Test Review & Reteach_
 |:----------------|:-----------------------
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 5.
@@ -29,15 +30,17 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | Test corrections
 
 ## 4.01
+
 | [Lesson 4.01]   | _Array Basics_
 |:----------------|:--------------
 | **Objectives**  | Students will define, populate, and access arrays.
 | **Assessments** | Students will complete manipulatives exercises on WS 4.1.1
-| **In Class**    | [WS 4.1]<br>[Poster 4.2]
+| **In Class**    | [WS 4.1]  [Poster 4.2]
 | **Reading**     | 7.1 “_For-Each Loop_” and “_The Arrays Class_”
 | **Homework**    | SC 7.1,7,9
 
 ## 4.02
+
 | [Lesson 4.02]   | _For-Each Loop & Arrays Class_
 |:----------------|:------------------------------
 | **Objectives**  | Students will define, populate, and access arrays.
@@ -47,15 +50,17 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | SC 7.12–14
 
 ## 4.03.1
+
 | [Lesson 4.03]   | _Printing, Searching, & Testing for Equality (Day 1)_
 |:----------------|:-----------------------------------------------------
 | **Objectives**  | Students will be able to manipulate single-dimension arrays using a variety of array transversal algorithms.
-| **Assessments** | Students will teach a mini-lesson on printing, searching/replacing, testing for equality, reversing an array, or string traversal.<br>Students will complete a quiz at the end of Day 2.
+| **Assessments** | Students will teach a mini-lesson on printing, searching/replacing, testing for equality, reversing an array, or string traversal.  Students will complete a quiz at the end of Day 2.
 | **In Class**    | [WS 4.3] Teach mini-lessons
 | **Reading**     |
-| **Homework**    | SC 7.14–17<br>E 7.3
+| **Homework**    | SC 7.14–17  E 7.3
 
 ## 4.03.2
+
 | [Lesson 4.03]   | _Printing, Searching, & Testing for Equality (Day 2)_
 |:----------------|:-----------------------------------------------------
 | **Objectives**  |
@@ -65,30 +70,31 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | SC 7.19–21
 
 ## 4.04
+
 | [Lesson 4.04]   | _Reference Semantics_
 |:----------------|:---------------------
 | **Objectives**  | Students will be able to compare and contrast how primitives and arrays are treated when passed as parameters.
-| **Assessments** | Students will complete graphic organizers and a worksheet.<br>Some students will complete a Pokémon Challenge for extra credit.
+| **Assessments** | Students will complete graphic organizers and a worksheet.  Some students will complete a Pokémon Challenge for extra credit.
 | **In Class**    | [WS 4.4]
 | **Reading**     | 7.4 up to “_Command-Line Arguments_”
 | **Homework**    | EX 7.9–10
 
 ## 4.05
+
 | [Lesson 4.05]   | _Shifting Values & Arrays of Objects_
 |:----------------|:-------------------------------------
 | **Objectives**  | Students will be able to shift elements within an array and construct arrays of objects.
 | **Assessments** | Students will complete Practice-It questions and model memory manipulation using array whiteboards.
-| **In Class**    | SC 7.22,23,25,26,30<br>E 7.16
-| **Reading**     | 7.4 “_Nested Arrays_”<br>7.5 “_Rectangular Two Dimensional Arrays_”
-| **Homework**    | SC 7.27–29<br>E 7.14
-
+| **In Class**    | SC 7.22,23,25,26,30  E 7.16
+| **Reading**     | 7.4 “_Nested Arrays_”  7.5 “_Rectangular Two Dimensional Arrays_”
+| **Homework**    | SC 7.27–29  E 7.14
 
 ## Abbreviations
+
 - **WS** — Worksheet
 - **SC** — Self-Check problem (in the textbook)
 - **EX** — Exercise (in the textbook)
 - **PP** — Programming Project (in the textbook)
-
 
 [6.00]: Unit6/Lesson-600.md
 [4.00]: Unit4/Lesson-400.md
@@ -120,7 +126,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 [WS 4.3]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/WS%204.3.docx
 [WS 4.4]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/WS%204.4.docx
 [WS 4.6]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/WS%204.6.docx
-
 
 [CON-1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1
 [CON-1.A]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1a

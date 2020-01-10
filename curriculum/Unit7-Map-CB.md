@@ -19,7 +19,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [7.03] 03|[Elevens Lab] (day 3)| Elevens Lab Activity 2 (end)||Summarize notes since last exam
 | [7.03] 04|[Elevens Lab] (day 4)| Elevens Lab Activity 3 (begin), notebook checks||Outline ch 13
 | [7.03] 05|[Elevens Lab] (day 5)| Elevens Lab Activity 3 (end), notebook checks|Read and outline Barrons ch 8|
-| [7.03] 06|[Elevens Lab] (day 6)| Elevens Lab Activity 4||Barrons ch 8 exam, self-grade 
+| [7.03] 06|[Elevens Lab] (day 6)| Elevens Lab Activity 4||Barrons ch 8 exam, self-grade
 | [7.03] 07|[Elevens Lab] (day 7)| Elevens Lab Activity 5 (begin), Barron's checks||
 | [7.03] 08|[Elevens Lab] (day 8)| Elevens Lab Activity 5 (end)||
 | [7.03] 09|[Elevens Lab] (day 9)| Elevens Lab Activity 6||(Fix HW)
@@ -266,7 +266,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 [Unit 4 Slides]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Unit4.pptx
 [Unit 7 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit7/Unit%207%20Word%20Bank.docx
 [WS 7.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit7/WS%207.1.docx
-
 
 [CON-1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1
 [CON-1.A]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1a
