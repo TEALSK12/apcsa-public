@@ -447,6 +447,10 @@ When applying sequential/linear search algorithms to 2D arrays, each row must be
 --
 All standard 1D array algorithms can be applied to 2D array objects
 
+[CON-2.O](#CON-2.O)
+--
+Determine the result of executing recursive methods.
+
 [CON-2.O.1](#CON-2.O.1)
 --
 A recursive method is a method that calls itself.
@@ -466,6 +470,34 @@ Parameter values capture the progress of a recursive process, much like loop con
 [CON-2.O.5](#CON-2.O.5)
 --
 Any recursive solution can be replicated through the use of an iterative approach. EXCLUSION STATEMENT(EK CON-2.O.5): Writing recursive program code is outside the scope of the course and AP Exam.
+
+[CON-2.P](#CON-2.P)
+--
+Apply recursive search algorithms to information in String, 1D array, or ArrayList objects.
+
+[CON-2.P.1](#CON-2.P.1)
+--
+Data must be in sorted order to use the binary search algorithm.
+
+[CON-2.P.2](#CON-2.P.2)
+--
+The binary search algorithm starts at the middle of a sorted array or ArrayList and eliminates half of the array or ArrayList in each iteration until the desired value is found or all elements have been eliminated.
+
+[CON-2.P.3](#CON-2.P.3)
+--
+Binary search is more efficient than sequential/linear search.
+
+[CON-2.P.4](#CON-2.P.4)
+--
+The binary search algorithm can be written recursively.
+
+[CON-2.Q](#CON-2.Q)
+--
+Apply recursive algorithms to sort elements of array or ArrayList objects.
+
+[CON-2.Q.1](#CON-2.Q.1)
+--
+Merge sort is a recursive sorting algorithm that can be used to sort elements in an array or ArrayList.
 
 [IOC-1](#IOC-1)
 --
