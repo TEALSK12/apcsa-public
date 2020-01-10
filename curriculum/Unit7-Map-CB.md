@@ -1,7 +1,7 @@
-CB Unit 7: ArrayList
-====================================================================================================
+# CB Unit 7: ArrayList
+
 The following curriculum map is a day-by-day listing of the AP Computer Science course in
-chronological order. The order has been adapted to follow the College Board AP CS A Curriculium. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook. .
+chronological order. The order has been adapted to follow the College Board AP CS A Curriculum. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook. .
 
 - [Unit 4 Slides]
 - [Unit 7 Slides]
@@ -9,10 +9,10 @@ chronological order. The order has been adapted to follow the College Board AP C
 - [Curriculum Assets]
 - [Elevens Lab]
 
-| **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    | Enduring Understanding | Learning Objective | Essential Knowledge |
+| LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential Knowledge |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|:-|:-|:-|
-| [4.07] |ArrayList|Grudgeball<br>[Poster 4.7]||Outline ch 7 and 10.1| [VAR-2], [CON-2] | [VAR-2.D], [VAR-2.E], [CON-2.J] | [VAR-2.D.1], [VAR-2.D.2], [VAR-2.D.3], [VAR-2.D.4], [VAR-2.D.5], [VAR-2.D.6], [VAR-2.D.7], [VAR-2.E.1], [VAR-2.E.2], [VAR-2.E.3], [VAR-2.E.4], [CON-2.J.1], [CON-2.J.2] |
-| [7.01] |Searching Algorithms|(CS Unplugged Battleship)<br>[WS 7.1]|13.1 “Sorting”|SC 2, E 13.1-13.3 (not in practice-it, use textbook) | [CON-2] | [CON-2.K] | [CON-2.K.1], [CON-2.K.2] |
+| [4.07] |ArrayList|Grudge Ball [Poster 4.7]||Outline ch 7 and 10.1| [VAR-2], [CON-2] | [VAR-2.D], [VAR-2.E], [CON-2.J] | [VAR-2.D.1], [VAR-2.D.2], [VAR-2.D.3], [VAR-2.D.4], [VAR-2.D.5], [VAR-2.D.6], [VAR-2.D.7], [VAR-2.E.1], [VAR-2.E.2], [VAR-2.E.3], [VAR-2.E.4], [CON-2.J.1], [CON-2.J.2] |
+| [7.01] |Searching Algorithms|(CS Unplugged Battleship) [WS 7.1]|13.1 “Sorting”|SC 2, E 13.1-13.3 (not in practice-it, use textbook) | [CON-2] | [CON-2.K] | [CON-2.K.1], [CON-2.K.2] |
 | [7.02] |Sorting Algorithms||13.1 “Shuffling”|| [CON-2] | [CON-2.L], [CON-2.M] | [CON-2.L.1], [CON-2.M.1]|
 | [7.03] 01|[Elevens Lab] (day 1)| Elevens Lab Activity 1|"13.3 skip ""Recursive Binary Search"""|SC 13.16-13.18 (not in practice-it, use textbook, 13.21, 13.22
 | [7.03] 02|[Elevens Lab] (day 2)| Elevens Lab Activity 2 (begin)||
@@ -31,27 +31,30 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [7.03] 15|[Elevens Lab] (day 15)| Elevens Lab Activity 11 (begin)||
 | [7.03] 16|[Elevens Lab] (day 16)| Elevens Lab Activity 11 (end)||
 | [7.04]|Review|Review questions||Study
-| 7.99|Unit 7 test|[Test 6 Guide]<br>Test 6 Section I<br>Test 6 Section II||
+| 7.99|Unit 7 test|[Test 6 Guide] Test 6 Section I Test 6 Section II||
 
 ## 4.07
+
 | [Lesson 4.07]   | _ArrayList_
 |:----------------|:-----------
-| **Objectives**  | Students will construct code using ArrayList<br>Students will predict the output of methods that take arrays as parameters and/or return arrays.
+| **Objectives**  | Students will construct code using ArrayList Students will predict the output of methods that take arrays as parameters and/or return arrays.
 | **Assessments** | Students will evaluate statements and predict output during a game of Grudgeball.
-| **In Class**    | Grudgeball<br>[Poster 4.7]
+| **In Class**    | Grudgeball [Poster 4.7]
 | **Reading**     |
 | **Homework**    | Outline ch 7 and 10.1
 
 ## 7.01
+
 | [Lesson 7.01]   | _Searching Algorithms_
 |:----------------|:----------------------
 | **Objectives**  | Students will compare and contrast the different search algorithms.
 | **Assessments** | Students will complete some short answer questions.
-| **In Class**    | CS Unplugged Battleship<br>[WS 7.1]
+| **In Class**    | CS Unplugged Battleship [WS 7.1]
 | **Reading**     | 13.1 “_Sorting_”
-| **Homework**    | SC 13.4–6<br>E 13.1–3
+| **Homework**    | SC 13.4–6 E 13.1–3
 
 ## 7.02
+
 | [Lesson 7.02]   | _Sorting Algorithms_
 |:----------------|:--------------------
 | **Objectives**  | Students will compare and contrast different sorting methods and evaluate their relative speed and efficiency.
@@ -61,6 +64,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    |
 
 ## 7.03.1
+
 | [Lesson 7.03]   | _Elevens lab (Day 1)_
 |:----------------|:---------------------
 | **Objectives**  | Students will complete a long-form lab, demonstrating effective use of object oriented program design, program implementation and analysis, and standard data structures and algorithms.
@@ -70,6 +74,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | SC 13.16–21,23–24
 
 ## 7.03.2
+
 | [Lesson 7.03]   | _Elevens lab (Day 2)_
 |:----------------|:---------------------
 | **Objectives**  |
@@ -79,6 +84,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    |
 
 ## 7.03.3
+
 | [Lesson 7.03]   | _Elevens lab (Day 3)_
 |:----------------|:---------------------
 | **Objectives**  |
@@ -88,24 +94,27 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | Summarize notes since last exam
 
 ## 7.03.4
+
 | [Lesson 7.03]   | _Elevens lab (Day 4)_
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 3 (begin)<br>Notebook checks
+| **In Class**    | Elevens Lab Activity 3 (begin) Notebook checks
 | **Reading**     |
 | **Homework**    | Outline ch 13
 
 ## 7.03.5
+
 | [Lesson 7.03]   | _Elevens lab (Day 5)_
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 3 (end)<br>Notebook checks
+| **In Class**    | Elevens Lab Activity 3 (end) Notebook checks
 | **Reading**     | Read and outline Barrons ch 8
 | **Homework**    |
 
 ## 7.03.6
+
 | [Lesson 7.03]   | _Elevens lab (Day 6)_
 |:----------------|:---------------------
 | **Objectives**  |
@@ -115,15 +124,17 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | Barrons ch 8 exam, self-grade
 
 ## 7.03.7
+
 | [Lesson 7.03]   | _Elevens lab (Day 7)_
 |:----------------|:---------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 5 (begin)<br>Barron's checks
+| **In Class**    | Elevens Lab Activity 5 (begin) Barron's checks
 | **Reading**     |
 | **Homework**    |
 
 ## 7.03.8
+
 | [Lesson 7.03]   | _Elevens lab (Day 8)_
 |:----------------|:---------------------
 | **Objectives**  |
@@ -133,6 +144,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    |
 
 ## 7.03.9
+
 | [Lesson 7.03]   | _Elevens lab (Day 9)_
 |:----------------|:---------------------
 | **Objectives**  |
@@ -142,6 +154,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | Fix homework
 
 ## 7.03.10
+
 | [Lesson 7.03]   | _Elevens lab (Day 10)_
 |:----------------|:----------------------
 | **Objectives**  |
@@ -151,42 +164,47 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | Fix homework
 
 ## 7.03.11
+
 | [Lesson 7.03]   | _Elevens lab (Day 11)_
 |:----------------|:----------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 8<br>Re-grade fixed homework
+| **In Class**    | Elevens Lab Activity 8 Re-grade fixed homework
 | **Reading**     |
 | **Homework**    |
 
 ## 7.03.12
+
 | [Lesson 7.03]   | _Elevens lab (Day 12)_
 |:----------------|:----------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 9 (begin)<br>Re-grade fixed homework
+| **In Class**    | Elevens Lab Activity 9 (begin) Re-grade fixed homework
 | **Reading**     |
 | **Homework**    |
 
 ## 7.03.13
+
 | [Lesson 7.03]   | _Elevens lab (Day 13)_
 |:----------------|:----------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 9 (end)<br>Re-grade fixed homework
+| **In Class**    | Elevens Lab Activity 9 (end) Re-grade fixed homework
 | **Reading**     |
 | **Homework**    | Submit questions for review
 
 ## 7.03.14
+
 | [Lesson 7.03]   | _Elevens lab (Day 14)_
 |:----------------|:----------------------
 | **Objectives**  |
 | **Assessments** |
-| **In Class**    | Elevens Lab Activity 10<br>Re-grade fixed homework
+| **In Class**    | Elevens Lab Activity 10 Re-grade fixed homework
 | **Reading**     |
 | **Homework**    |
 
 ## 7.03.15
+
 | [Lesson 7.03]   | _Elevens lab (Day 15)_
 |:----------------|:----------------------
 | **Objectives**  |
@@ -196,6 +214,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    |
 
 ## 7.03.16
+
 | [Lesson 7.03]   | _Elevens lab (Day 16)_
 |:----------------|:----------------------
 | **Objectives**  |
@@ -205,6 +224,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    |
 
 ## 7.04
+
 | [Lesson 7.04]   | _Review_
 |:----------------|:--------
 | **Objectives**  | Students will identify weaknesses in their Unit 7 knowledge.
@@ -214,12 +234,14 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Homework**    | Study
 
 ## 7.99
+
 | Unit 7 Test     | _Searching & Sorting_
 |:----------------|:---------------------
 | **Guide**       | [Test 6 Guide]
-| **In Class**    | Test 6 Section I<br>Test 6 Section II
+| **In Class**    | Test 6 Section I Test 6 Section II
 
 ## Abbreviations
+
 - **WS** — Worksheet
 - **SC** — Self-Check problem (in the textbook)
 - **EX** — Exercise (in the textbook)
@@ -515,10 +537,14 @@ chronological order. The order has been adapted to follow the College Board AP C
 [VAR-2.D.3]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-2d3
 [VAR-2.D.4]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-2d4
 [VAR-2.D.5]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-2d5
+[VAR-2.D.6]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-2d6
+[VAR-2.D.7]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-2d7
+
 [VAR-2.E]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-2e
 [VAR-2.E.1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-2e1
 [VAR-2.E.2]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-2e2
 [VAR-2.E.3]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-2e3
+[VAR-2.E.4]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-2e4
 [VAR-2.F]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-2f
 [VAR-2.F.1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-2f1
 [VAR-2.F.1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-2f1

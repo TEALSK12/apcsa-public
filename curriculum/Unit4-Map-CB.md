@@ -13,7 +13,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  [3.12]   | Cumulative Algorithms  | Tally code on board,Collaborative Programming Exercise [WS 3.12]  | 5.1 skip “do/while loops”  | PP 4.2 | [CON-2]  | [CON-2.C], [CON-2.D] [CON-2.E] | [CON-2.C.1], [CON-2.C.2], [CON-2.C.3], [CON-2.C.4] [CON-2.E.4] |
 |  [3.13]   | while Loops  | Practice-It SC 5.1 - 5.4, E 5.2 [WS 3.13]  | 5.1 ”Random numbers”  | E 5.2 | [CON-2]  | [CON-2.C], [CON-2.D] [CON-2.E] | [CON-2.C.1], [CON-2.C.2], [CON-2.C.3], [CON-2.C.4] [CON-2.E.4] |
 | [3.14] | Random Numbers  | Practice-It SC 5.5-5.7; E 5.4, 5.5  | 5.2  | PP 5.1   | [CON-2] | [CON-2.D] [CON-2.E] | [CON-2.E.5] |
-|  [3.15]   | Fencepost & Sentinel Loops  | [WS 3.15] Tea  Chap mini-lessons  | 5.3  | E 5.6, 5.8   |
+|  [3.15]   | Fencepost & Sentinel Loops  | [WS 3.15] Tea  Chap mini-lessons  | 5.3  | E 5.6, 5.8   | CON-1 | CON-1.F |
 |  [3.16].1   | Boolean Logic  | Practice-It SC 5.27, 5.29 [WS 3.16] (RPS, Pig) [DeMorgan’s Law] [Poster 3.16.1] [Poster 3.16.2]  |   | Outline   Chap 5 (through 5.3)   |
 |  [3.16].2   | Boolean Logic (Day 2)  |   |   |    |
 |  [3.17]   | Finding & Fixing Errors  | (Fix HW)  | Review   Chap 3-5  | Submit questions for review   |
@@ -300,6 +300,9 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 [CON-2.C.3]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-2c3
 [CON-2.C.4]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-2c4
 [CON-2.C.5]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-2c5
+[CON-2.D]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-2d
+[CON-2.D.1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-2d1
+[CON-2.D.2]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-2d2
 [CON-2.E]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-2e
 [CON-2.E.1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-2e1
 [CON-2.E.2]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-2e2
