@@ -11,38 +11,78 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 |   LP   |   Title                               |   In Class     |   Reading       |   Homework      | Enduring Understanding | Learning Objective | Essential Knowledge |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|:-|:-|:-|
-| [4.00] |Test Review & Reteach|Review test|7.1 up to Arrays and Methods|Test corrections
-| [5.05]   |Finding & Fixing Errors|Fix HW|Review ch 8 for Picture Lab|Submit questions for review
-| [5.06] 01|[Picture Lab] (day 1)|Picture Lab Activity 1 & 2  Picture Lab||Summarize notes since last exam
-| [5.06] 02|[Picture Lab] (day 2)|Picture Lab Activity 3 & 4, notebook checks||Outline ch 8
-| [5.06] 03|[Picture Lab] (day 3)|Picture Lab Activity 5, notebook checks|Read and highlight Barrons ch 2, skip this keyword|
-| [5.06] 04|[Picture Lab] (day 4)|Picture Lab Activity 5 & 6, notebook checks||Barrons ch 2 exam, skip #20
-| [5.06] 05|[Picture Lab] (day 5)|Picture Lab Activity 6, Barron's checks|Read and highlight Barrons ch 5|
-| [5.06] 06|[Picture Lab] (day 6)|Picture Lab Activity 7||SC 8.28, 8.30
-| [5.06] 07|[Picture Lab] (day 7)|Picture Lab Activity 8|8.5|Finish Picture Lab Activity 8
-| [5.06] 08|[Picture Lab] (day 8)|Picture Lab Activity 9||Cont. Picture Lab Activity 9
-| [5.06] 09|[Picture Lab] (day 9)|Picture Lab Activity 9, cont.||Submit questions for review
-| [5.06a] 01|Data Lab (day 1)|Data Lab Activity 1  Data Lab||Summarize notes since last exam
-| [5.06a] 02|Data Lab (day 2)|Data Lab Activity 2, notebook checks||Outline ch 8
-| [5.06a] 03|Data Lab (day 3)|Data Lab Activity 3, notebook checks|Read and highlight Barrons ch 2, skip this keyword|
-| [5.06a] 04|Data Lab (day 4)|Data Lab Activity 3 (day 2), notebook checks||Barrons ch 2 exam, skip #20
-| [5.06a] 05|Data Lab (day 5)|Data Lab Activity 4, Barron's checks|Read and highlight Barrons ch 5|
-| [5.06a] 06|Data Lab (day 6)|Data Lab Activity 4 (day 2)||SC 8.28, 8.30
-| [5.06a] 07|Data Lab (day 7)|Data Lab Activity 4 (day 3)|8.5|Finish Data Lab Activity 8
-| [5.06a] 08|Data Lab (day 8)|Data Lab Activity 4 (day 4)||Cont. Data Lab Activity 9
-| [5.07]   |Review|Review question  [WS 5.7] Test practice||Study
-|  5.99    |(Unit 5 test)|Test 4 Section I  Test 4 Section II||
-| [5.XX]   |PictureLab Alternative |||
+| [5.00]   |Test Review & Reteach|Review test|8.1|Test corrections| | | |
+| [5.01]   |Object Oriented Programming|Practice-It SC 8.1-8.5<br>[WS 5.1.1]|8.2 up to “Mutators and Accessors.”| | | |
+| [5.02]   |Object State & Behavior|[WS 5.2]|8.3 up to “The Keyword this.”|SC 8.9-8.11, 8.13-8.16| | | |
+| [5.03]   |Object Initialization: Constructors|[WS 5.3.1]<br>[WS 5.3.2]|8.4| | | |
+| [5.04]   |Encapsulation|[WS 5.4] Mini-lessons||SC 8.22-8.28| | | |
+| [5.05]   |Finding & Fixing Errors|Fix HW|Review ch 8 for Picture Lab|Submit questions for review| | | |
+| [5.06] 01|[Picture Lab] (day 1)|Picture Lab Activity 1 & 2  Picture Lab||Summarize notes since last exam| | | |
+| [5.06] 02|[Picture Lab] (day 2)|Picture Lab Activity 3 & 4, notebook checks||Outline ch 8| | | |
+| [5.06] 03|[Picture Lab] (day 3)|Picture Lab Activity 5, notebook checks|Read and highlight Barrons ch 2, skip this keyword| | | |
+| [5.06] 04|[Picture Lab] (day 4)|Picture Lab Activity 5 & 6, notebook checks||Barrons ch 2 exam, skip #20| | | |
+| [5.06] 05|[Picture Lab] (day 5)|Picture Lab Activity 6, Barron's checks|Read and highlight Barrons ch 5| | | |
+| [5.06] 06|[Picture Lab] (day 6)|Picture Lab Activity 7||SC 8.28, 8.30| | | |
+| [5.06] 07|[Picture Lab] (day 7)|Picture Lab Activity 8|8.5|Finish Picture Lab Activity 8| | | |
+| [5.06] 08|[Picture Lab] (day 8)|Picture Lab Activity 9||Cont. Picture Lab Activity 9| | | |
+| [5.06] 09|[Picture Lab] (day 9)|Picture Lab Activity 9, cont.||Submit questions for review| | | |
+| [5.06a] 01|Data Lab (day 1)|Data Lab Activity 1  Data Lab||Summarize notes since last exam| | | |
+| [5.06a] 02|Data Lab (day 2)|Data Lab Activity 2, notebook checks||Outline ch 8| | | |
+| [5.06a] 03|Data Lab (day 3)|Data Lab Activity 3, notebook checks|Read and highlight Barrons ch 2, skip this keyword| | | |
+| [5.06a] 04|Data Lab (day 4)|Data Lab Activity 3 (day 2), notebook checks||Barrons ch 2 exam, skip #20| | | |
+| [5.06a] 05|Data Lab (day 5)|Data Lab Activity 4, Barron's checks|Read and highlight Barrons ch 5| | | |
+| [5.06a] 06|Data Lab (day 6)|Data Lab Activity 4 (day 2)||SC 8.28, 8.30| | | |
+| [5.06a] 07|Data Lab (day 7)|Data Lab Activity 4 (day 3)|8.5|Finish Data Lab Activity 8| | | |
+| [5.06a] 08|Data Lab (day 8)|Data Lab Activity 4 (day 4)||Cont. Data Lab Activity 9| | | |
+| [5.07]   |Review|Review question  [WS 5.7] Test practice||Study| | | |
+|  5.99    |(Unit 5 test)|Test 4 Section I  Test 4 Section II|| | | |
+| [5.XX]   |PictureLab Alternative ||| | | |
 
-## 4.00
 
-| [Lesson 4.00]   | _Test Review & Reteach_
+## 5.00
+| [Lesson 5.00]   | _Test Review & Reteach_
 |:----------------|:-----------------------
-| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 3.
+| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
 | **In Class**    | Review test
-| **Reading**     | 7.1 up to “_Arrays and Methods_”
+| **Reading**     | 8.1
 | **Homework**    | Test corrections
+
+## 5.01
+| [Lesson 5.01]   | _Object Oriented Programming_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will be able to describe the relationship between classes, objects, and client code.<br>Students will be able to predict the output of the code that uses objects.
+| **Assessments** | Students will complete Practice-It questions.
+| **In Class**    | Practice-It<br>SC 8.1–5<br>[WS 5.1.1]
+| **Reading**     | 8.2 up to “_Mutators and Accessors_”
+| **Homework**    |
+
+## 5.02
+| [Lesson 5.02]   | _Object State & Behavior_
+|:----------------|:-------------------------
+| **Objectives**  | Students will be able to describe classes, objects, and client code.<br>Students will be able to predict the output of the code that uses objects.
+| **Assessments** | Students will complete WS 5.2 individually or in pairs.
+| **In Class**    | [WS 5.2]
+| **Reading**     | 8.3 up to “_The Keyword_ this”
+| **Homework**    | SC 8.9–11,13–16
+
+## 5.03
+| [Lesson 5.03]   | _Object Initialization: Constructors_
+|:----------------|:-------------------------------------
+| **Objectives**  | Students will be able to describe and create classes, objects, and client code.<br>Students will be able to predict the output of the code that uses objects.
+| **Assessments** | Students will complete Practice-It questions.
+| **In Class**    | [WS 5.3.1]<br>[WS 5.3.2]
+| **Reading**     | 8.4
+| **Homework**    |
+
+## 5.04
+| [Lesson 5.04]   | _Encapsulation_
+|:----------------|:---------------
+| **Objectives**  | Students will be able to manipulate single-dimension arrays using a variety of array transversal algorithms.
+| **Assessments** | Students will teach a mini-lesson on printing, searching/replacing, testing for equality, reversing an array, or string traversal.<br>Students will complete a quiz at the end of Day 2.
+| **In Class**    | [WS 5.4] Teach mini-lessons
+| **Reading**     |
+| **Homework**    | SC 8.22–28
 
 ## 5.06.1
 
