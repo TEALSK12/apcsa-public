@@ -13,7 +13,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|:-|:-|:-|
 | [1.01] | _Using Eclipse & Practice-It_         | [WS 1.1.1] [WS 1.1.2] | | Explore Pokémon (pokemon.com, console, web site) |
 | [1.02] | _Algorithms & Computational Thinking_ | PB&J | 1.2 | Reflect on PB&J assignment Continue exploring Pokémon |[VAR-1]|[VAR-1.G]|[VAR-1.G.4]|
-
 | [1.03] | _String & Console Output_             | Practice-It SC 1.6–9, 1.11–14 LP Welcome | 1.3 | EX 1.1–5 |[MOD-1], [VAR-1] | [MOD-1.A], [VAR-1.A] | [MOD-1.A.1], [MOD-1.A.2], [VAR-1.A.1]
 | [1.04] | _Common Errors & Comments_            | [WS 1.4] | 1.4 | EX 1.6–9|[MOD-2]|[MOD-2.C]|[MOD-2.C.1],[MOD-2.C.2]|
 | [1.05] | _Static Methods & Method Calls_       | Practice-It SC 1.22, 1.23, 1.26, 1.29 | 1.5 | EX 1.11, 1.12, 1.14, 1.16 |[MOD-2]|[MOD-2.G]|[MOD-2.G.1],[MOD-2.G.2][MOD-2.H.2]|
