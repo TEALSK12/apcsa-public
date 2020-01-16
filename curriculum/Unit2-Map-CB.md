@@ -23,7 +23,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [3.08] |Finding & Fixing Errors|Fix HW, webmaker.org|4.1 up to “nested if else statements”|SC 4.1-4.4 |
 | [5.00]   |Test Review & Reteach|Review test|8.1|Test corrections
 | [5.01]   |Object Oriented Programming|Practice-It SC 8.1-8.5  [WS 5.1.1]|8.2 up to “Mutators and Accessors.”| |[MOD-1], [VAR-1]| [MOD-1.B], [VAR-1.D]|[MOD-1.B.1], [MOD-1.B.2], [VAR-1.D]|
-| [5.02]   |Object State & Behavior|[WS 5.2]|8.3 up to “The Keyword this.”|SC 8.9-8.11, 8.13-8.16 |[MOD-1], [VAR-1]|[MOD-1.E], [MOD-1.F][MOD-1.G], [VAR-1.E]|[MOD-1.E.1], [MOD-1.E], [MOD-1.F.1], [MOD-1.F.2], [MOD-1.F], [MOD-1.G], [VAR-1.E.11]|
+| [5.02]   |Object State & Behavior|[WS 5.2]|8.3 up to “The Keyword this.”|SC 8.9-8.11, 8.13-8.16 |[MOD-1], [VAR-1]|[MOD-1.E], [MOD-1.F][MOD-1.G], [VAR-1.E]|[MOD-1.E.1], [MOD-1.E], [MOD-1.F.1], [MOD-1.F.2], [MOD-1.F.3], [MOD-1.G.1], [VAR-1.E.11]|
 | [5.03]   |Object Initialization: Constructors|[WS 5.3.1]  [WS 5.3.2]|8.4||[MOD-1], [VAR-1] |[MOD-1.C], [MOD-1.D], [MOD-1.E], [MOD-1.F][VAR-1.D]|[MOD-1.C.1], [MOD-1.C.2], [MOD-1.C.3], [MOD-1.C.4], [MOD-1.C.5], [MOD-1.C], [MOD-1.D.1], [MOD-1.D.2], [MOD-1.D.3], [MOD-1.D.4], [MOD-1.E.7], [MOD-1.F.1], [VAR-1.D]|
 | [5.04]   |Encapsulation|[WS 5.4] Mini-lessons||SC 8.22-8.28|[MOD-1] [VAR-1]|[MOD-1.E], [VAR-1.D]|[MOD-1.E.8], [VAR-1.D.1]|
 
@@ -350,6 +350,13 @@ chronological order. The order has been adapted to follow the College Board AP C
 [MOD-1.C.2]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1c2
 [MOD-1.C.3]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1c3
 [MOD-1.C.4]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1c4
+[MOD-1.C.5]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1c5
+[MOD-1.C.6]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1c6
+[MOD-1.D]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1d
+[MOD-1.D.1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1d1
+[MOD-1.D.2]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1d2
+[MOD-1.D.3]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1d3
+[MOD-1.D.4]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1d4
 [MOD-1.E]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1e
 [MOD-1.E.1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1e1
 [MOD-1.E.2]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1e2
@@ -363,6 +370,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 [MOD-1.F.1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1f1
 [MOD-1.F.2]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1f2
 [MOD-1.F.3]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1f3
+[MOD-1.G]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1g
+[MOD-1.G.1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1g1
 [MOD-1.H]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1h
 [MOD-1.H.1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-1h1
 [MOD-2]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-2
@@ -454,13 +463,18 @@ chronological order. The order has been adapted to follow the College Board AP C
 [VAR-1.C.2]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1c2
 [VAR-1.C.3]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1c3
 [VAR-1.C.4]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1c4
+[VAR-1.D]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1d
+[VAR-1.D.1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1d1
+[VAR-1.D.2]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1d2
 [VAR-1.E]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1e
 [VAR-1.E.1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1e1
 [VAR-1.E.10]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1e10
+[VAR-1.E.11]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1e11
 [VAR-1.E.12]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1e12
 [VAR-1.E.12.i]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1e12i
 [VAR-1.E.12.ii]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1e12ii
 [VAR-1.E.12.iii]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1e12iii
+[VAR-1.E.13]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1e13
 [VAR-1.E.2]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1e2
 [VAR-1.E.3]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1e3
 [VAR-1.E.4]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1e4
