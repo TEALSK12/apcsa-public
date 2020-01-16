@@ -659,6 +659,14 @@ Values provided in the parameter list need to correspond to the order and type i
 --
 Methods are said to be overloaded when there are multiple methods with the same name but a different signature.
 
+[MOD-1.G](#MOD-1.G)
+--
+Call non-static non-void methods with or without parameters.
+
+[MOD-1.G.1](#MOD-1.G.1)
+--
+Non-void methods return a value that is the same type as the return type in the signature. To use the return value when calling a non-void method, it must be stored in a variable or used as part of an expression.
+
 [MOD-1.H](#MOD-1.H)
 --
 Call static methods
