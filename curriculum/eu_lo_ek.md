@@ -579,6 +579,14 @@ A parameter is a value that is passed into a constructor. These are often referr
 --
 Constructors are said to be overloaded when there are multiple
 
+[MOD-1.C.5](#MOD-1.C.5)
+--
+The actual parameters passed to a constructor must be compatible with the types identified in the formal parameter list.
+
+[MOD-1.C.5](#MOD-1.C.6)
+--
+Parameters are passed using call by value. Call by value initializes the formal parameters with copies of the actual parameters.
+
 [MOD-1.D](#MOD-1.D)
 --
 For creating objects: a. Create objects by calling constructors without parameters. b. Create objects by calling constructors with parameters.
