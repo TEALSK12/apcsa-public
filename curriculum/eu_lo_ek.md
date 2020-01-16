@@ -1031,6 +1031,18 @@ The memory associated with a variable of a primitive type holds an actual primit
 --
 When a variable is declared final, its value cannot be changed once it is initialized.
 
+[VAR-1.D](#VAR-1.D)
+--
+Define variables of the correct types to represent reference data.
+
+[VAR-1.D.1](#VAR-1.D.1)
+--
+The keyword null is a special value used to indicate that a reference is not associated with any object.
+
+[VAR-1.D.2](#VAR-1.D.2)
+--
+The memory associated with a variable of a reference type holds an object reference value or, if there is no object, null. This value is the memory address of the referenced object.
+
 [VAR-1.E](#VAR-1.E)
 --
 For String class: a. Create String objects. b. Call String methods.
