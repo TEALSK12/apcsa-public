@@ -1071,6 +1071,10 @@ int length() returns the number of characters in a String object.
 --
 String
 
+[VAR-1.E.13](#VAR-1.E.13)
+--
+A string identical to the single element substring at position index can be created by calling substring(index, index + 1).
+
 [VAR-1.E.2](#VAR-1.E.2)
 --
 String objects are immutable, meaning that String methods do not change the String object.
