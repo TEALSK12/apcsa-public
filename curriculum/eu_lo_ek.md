@@ -1055,6 +1055,10 @@ String objects can be created using string literals or by calling the String cla
 --
 A String object has index values from 0 to length. Attempting to access indices outside this range will result in an IndexOutOfBoundsException.
 
+[VAR-1.E.11](#VAR-1.E.11)
+--
+A String object can be concatenated with an object reference, which implicitly calls the referenced object’s toString method.
+
 [VAR-1.E.12](#VAR-1.E.12)
 --
 The following String methods and constructors (including what they do and when they are used) are part of the AP Java Subset:
