@@ -12,11 +12,11 @@ chronological order. The order has been adapted to follow the College Board AP C
 |   LP   |   Title                               |   In Class     |   Reading       |   Homework      | Enduring Understanding | Learning Objective | Essential Knowledge |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|:-|:-|:-|
 | [5.00]   |Test Review & Reteach|Review test|8.1|Test corrections| | | |
-| [5.01]   |Object Oriented Programming|Practice-It SC 8.1-8.5<br>[WS 5.1.1]|8.2 up to “Mutators and Accessors.”|[MOD-2] |[MOD-2.D][MOD-2.E][MOD-2.G] |[MOD-2.D.6][MOD-2.D.7][MOD-2.E][MOD-2.G]|
-| [5.02]   |Object State & Behavior|[WS 5.2]|8.3 up to “The Keyword this.”|SC 8.9-8.11, 8.13-8.16|[MOD-2][VAR-1]|[MOD-2.G][VAR-1.G]|[MOD-2.G.5][VAR-1.G.1][VAR-1.G.2]|
-| [5.03]   |Object Initialization: Constructors|[WS 5.3.1]<br>[WS 5.3.2]|8.4|[MOD-2]|[MOD-2.A][MOD-2.B][VAR-1.H]|[MOD-2.A.1][MOD-2.A.5][MOD-2.A][MOD-2.B.2][MOD-2.B.3][MOD-2.B.5][VAR-1.H.1][VAR-1.H.2]|
-| [5.04]   |Encapsulation|[WS 5.4] Mini-lessons||SC 8.22-8.28|[MOD-2][MOD-3]|[MOD-2.A][MOD-2.F][MOD-3.A]|[MOD-2.A.2][MOD-2.A.4][MOD-2.A.6][MOD-2.D.1][MOD-2.E.2][MOD-2.F.1][MOD-3.A.1][MOD-3.A.2][MOD-3.A.3][MOD-3.A.4]|
-| [5.05]   |Finding & Fixing Errors|Fix HW|Review ch 8 for Picture Lab|Submit questions for review|[MOD-2][MOD-3] |[MOD-2.A][MOD-3.A] |[MOD-2.A.4][MOD-3.A.1][MOD-3.A.2][MOD-3.A.3][MOD-3.A.4]|
+| [5.01]   |Object Oriented Programming|Practice-It SC 8.1-8.5<br>[WS 5.1.1]|8.2 up to “Mutators and Accessors.”||[MOD-2] |[MOD-2.D],[MOD-2.E],[MOD-2.G] |[MOD-2.D.6][MOD-2.D.7],[MOD-2.E],[MOD-2.G]|
+| [5.02]   |Object State & Behavior|[WS 5.2]|8.3 up to “The Keyword this.”|SC 8.9-8.11, 8.13-8.16|[MOD-2],[VAR-1]|[MOD-2.G],[VAR-1.G]|[MOD-2.G.5],[VAR-1.G.1],[VAR-1.G.2]|
+| [5.03]   |Object Initialization: Constructors|[WS 5.3.1]<br>[WS 5.3.2]|8.4||[MOD-2]|[MOD-2.A][MOD-2.B],[VAR-1.H]|[MOD-2.A.1],[MOD-2.A.5],[MOD-2.A],[MOD-2.B.2],[MOD-2.B.3][MOD-2.B.5],[VAR-1.H.1],[VAR-1.H.2]|
+| [5.04]   |Encapsulation|[WS 5.4] Mini-lessons||SC 8.22-8.28|[MOD-2],[MOD-3]|[MOD-2.A],[MOD-2.F],[MOD-3.A]|[MOD-2.A.2],[MOD-2.A.4],[MOD-2.A.6],[MOD-2.D.1],[MOD-2.E.2][MOD-2.F.1],[MOD-3.A.1],[MOD-3.A.2],[MOD-3.A.3],[MOD-3.A.4]|
+| [5.05]   |Finding & Fixing Errors|Fix HW|Review ch 8 for Picture Lab|Submit questions for review|[MOD-2][MOD-3] |[MOD-2.A],[MOD-3.A] |[MOD-2.A.4],[MOD-3.A.1],[MOD-3.A.2][MOD-3.A.3],[MOD-3.A.4]|
 | [5.06] 01|[Picture Lab] (day 1)|Picture Lab Activity 1 & 2  Picture Lab||Summarize notes since last exam| | | |
 | [5.06] 02|[Picture Lab] (day 2)|Picture Lab Activity 3 & 4, notebook checks||Outline ch 8| | | |
 | [5.06] 03|[Picture Lab] (day 3)|Picture Lab Activity 5, notebook checks|Read and highlight Barrons ch 2, skip this keyword| | | |
@@ -490,6 +490,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [MOD-2.H]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-2h
 [MOD-2.H.1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-2h1
 [MOD-3]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-3
+[MOD-3.A]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-3a
 [MOD-3.A.1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-3a1
 [MOD-3.A.2]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-3a2
 [MOD-3.A.3]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#mod-3a3

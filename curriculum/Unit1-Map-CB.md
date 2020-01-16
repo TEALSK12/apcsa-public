@@ -23,10 +23,10 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [1.99] | _Unit 1 Test_                         | Test 0 Section I Test 0 Section II | | |
 | [1.XX] | _Lesson 1.07 Alternative_  | Ideate and Construct Project  |  |  |
 | [2.00] | Test Review & Reteach            | Review test | 2.1 except for “Mixing types and Casting” | Test corrections |
-| [2.01] | Basic Data Concepts                 | [WS 2.1]      | 2.2 up to “String Concatenation” | SC 2.1-2.3  (4th, 5th : 2.1,2.3,2.4)|[CON-1], [VAR-1]|CON-1.A], [CON-1.B], [VAR-1.B|[CON-1.A.1], [CON-1.A.2],[CON-1.A.3],[CON-1.A.4],[CON-1.A.5], [CON-1.A.6],[CON-1.A.7],[CON-1.A.8], [CON-1.B.2], [CON-1.B.3], [VAR-1.B.1], [VAR-1.B.2], [VAR-1.B.3], [VAR-1.C.2], [VAR-1.C.3]|
-| [2.02] | Declaring & Assigning Variables    | [WS 2.2] Practice-It SC 2.7, 2.11 (4th, 5th: 2.8, 2.13) E 2.1 | Rest of 2.2 | SC 2.5,2.6,2.9, 2.12-2.15 (4th, 5th: 2.6,2.7,2.1,2.14-2.17) |[CON-1], [VAR-1]|[CON-1.A], [CON-1.B], [VAR-1.B]| [CON-1.A.8], [CON-1.B], [CON-1.B.1], [VAR-1.C]|
+| [2.01] | Basic Data Concepts                 | [WS 2.1]      | 2.2 up to “String Concatenation” | SC 2.1-2.3  (4th, 5th : 2.1,2.3,2.4)|[CON-1], [VAR-1]|[CON-1.A], [CON-1.B], [VAR-1.B]|[CON-1.A.1], [CON-1.A.2],[CON-1.A.3],[CON-1.A.4],[CON-1.A.5], [CON-1.A.6],[CON-1.A.7],[CON-1.A.8], [CON-1.B.2], [CON-1.B.3], [VAR-1.B.1], [VAR-1.B.2], [VAR-1.B.3], [VAR-1.C.2], [VAR-1.C.3]|
+| [2.02] | Declaring & Assigning Variables    | [WS 2.2] Practice-It SC 2.7, 2.11 (4th, 5th: 2.8, 2.13) E 2.1 | Rest of 2.2 | SC 2.5,2.6,2.9, 2.12-2.15 (4th, 5th: 2.6,2.7,2.1,2.14-2.17) |[CON-1], [VAR-1]|[CON-1.A], [CON-1.B], [VAR-1.B]| [CON-1.A.8], [CON-1.B.1], [VAR-1.B.1]|
 | [2.03] | String Concatenation & Increment Decrement Operators | Grudgeball | Rest of 2.2 | SC 2.4 (4th, 5th: 2.5) |[CON-1]|[CON-1.B]|[CON-1.B.4], [CON-1.B.5]|
-| [2.04] | Mixing Types & Casting               | [WS 2.4] [Poster 2.4] | 2.3 up to “Nested for Loops" | finish [WS 2.4] |[CON-1]|[CON-1.C]| [CON-1.C], [CON-1.C.1], [CON-1.C.2], [CON-1.C.4]|
+| [2.04] | Mixing Types & Casting               | [WS 2.4] [Poster 2.4] | 2.3 up to “Nested for Loops" | finish [WS 2.4] |[CON-1]|[CON-1.C]|[CON-1.C.1], [CON-1.C.2], [CON-1.C.4]|
 | [2.05] | for Loops                         | [WS 2.5] Practice-It SC 2.18,2.23, 2.24 (4th, 5th: 2.21,2.26,2.27) | 2.3 “Nested for Loops” | SC 2.19-2.21 (4th, 5th: 2.22-2.24) |
 | [2.06] | nested for Loops                   | Practice-It SC 2.28-2.30 (4th, 5th: 2.31-2.33), E 2.5 | 2.4 “Scope” and “Pseudocode" | SC 2.26, 2.27 (4th, 5th: 2.29, 2.30),E 2.4 |
 | [2.07] | Scope & Pseudocode                   | [WS 2.7] Discuss PP 2.1 | Read 2.4 “Class Constants” |SC 2.31-2.33 (4th, 5th: 2.34-2.36) |
@@ -349,7 +349,11 @@ chronological order. The order has been adapted to follow the College Board AP C
 [CON-1.A.5]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1a5
 [CON-1.A.6]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1a6
 [CON-1.A.7]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1a7
+[CON-1.A.8]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1a8
 [CON-1.B]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1b
+[CON-1.B.1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1b1
+[CON-1.B.2]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1b2
+[CON-1.B.3]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1b3
 [CON-1.B.4]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1b4
 [CON-1.B.5]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1b5
 [CON-1.C]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1c
@@ -555,6 +559,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [VAR-1.A]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1a
 [VAR-1.A.1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1a1
 [VAR-1.B]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1b
+[VAR-1.B.1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1b1
 [VAR-1.B.2]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1b2
 [VAR-1.B.3]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1b3
 [VAR-1.C]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#var-1c
