@@ -579,6 +579,26 @@ A parameter is a value that is passed into a constructor. These are often referr
 --
 Constructors are said to be overloaded when there are multiple
 
+[MOD-1.D](#MOD-1.D)
+--
+For creating objects: a. Create objects by calling constructors without parameters. b. Create objects by calling constructors with parameters.
+
+[MOD-1.D.1](#MOD-1.D.1)
+--
+Every object is created using the keyword new followed by a call to one of the class’s constructors.
+
+[MOD-1.D.2](#MOD-1.D.2)
+--
+A class contains constructors that are invoked to create objects. They have the same name as the class.
+
+[MOD-1.D.3](#MOD-1.D.3)
+--
+Existing classes and class libraries can be utilized as appropriate to create objects.
+
+[MOD-1.D.4](#MOD-1.D.4)
+--
+Parameters allow values to be passed to the constructor to establish the initial state of the object.
+
 [MOD-1.E](#MOD-1.E)
 --
 Call non-static void methods without parameters.
