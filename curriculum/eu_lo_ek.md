@@ -99,9 +99,25 @@ Operators can be used to construct compound expressions.
 --
 During evaluation, operands are associated with operators according to operator precedence to determine how they are grouped.
 
+[CON-1.A.8](#CON-1.A.8)
+--
+An attempt to divide an integer by zero will result in an ArithmeticException to occur.
+
 [CON-1.B](#CON-1.B)
 --
 Evaluate what is stored in a variable as a result of an expression with an assignment statement.
+
+[CON-1.B.1](#CON-1.B.1)
+--
+The assignment operator (=) allows a program to initialize or change the value stored in a variable. The value of the expression on the right is stored in the variable on the left.
+
+[CON-1.B.2](#CON-1.B.2)
+--
+During execution, expressions are evaluated to produce a single value.
+
+[CON-1.B.3](#CON-1.B.3)
+--
+The value of an expression has a type based on the evaluation of the expression.
 
 [CON-1.B.4](#CON-1.B.4)
 --
@@ -863,6 +879,10 @@ Static variables belong to the class, with all objects of a class sharing a sing
 --
 When multiple classes contain common attributes and behaviors, programmers create a new class containing the shared attributes and behaviors forming a hierarchy. Modifications made at the highest level of the hierarchy apply to the subclasses
 
+[MOD-3.A](#MOD-3.A)
+--
+Designate private visibility of instance variables to encapsulate the attributes of an object.
+
 [MOD-3.A.1](#MOD-3.A.1)
 --
 Data encapsulation is a technique in which the implementation details of a class are kept hidden from the user.
@@ -1001,7 +1021,11 @@ A string literal is enclosed in double quotes.
 
 [VAR-1.B](#VAR-1.B)
 --
-IdVAR-1.B.1 A type is a set of values (a domain) and a set of operations on them
+Identify the most appropriate data type category for a particular specification.
+
+[VAR-1.B.1](#VAR-1.B.1)
+--
+A type is a set of values (a domain) and a set of operations on them
 
 [VAR-1.B.2](#VAR-1.B.2)
 --
