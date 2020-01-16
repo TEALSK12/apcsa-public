@@ -579,6 +579,34 @@ A parameter is a value that is passed into a constructor. These are often referr
 --
 Constructors are said to be overloaded when there are multiple
 
+[MOD-1.C.5](#MOD-1.C.5)
+--
+The actual parameters passed to a constructor must be compatible with the types identified in the formal parameter list.
+
+[MOD-1.C.5](#MOD-1.C.6)
+--
+Parameters are passed using call by value. Call by value initializes the formal parameters with copies of the actual parameters.
+
+[MOD-1.D](#MOD-1.D)
+--
+For creating objects: a. Create objects by calling constructors without parameters. b. Create objects by calling constructors with parameters.
+
+[MOD-1.D.1](#MOD-1.D.1)
+--
+Every object is created using the keyword new followed by a call to one of the class’s constructors.
+
+[MOD-1.D.2](#MOD-1.D.2)
+--
+A class contains constructors that are invoked to create objects. They have the same name as the class.
+
+[MOD-1.D.3](#MOD-1.D.3)
+--
+Existing classes and class libraries can be utilized as appropriate to create objects.
+
+[MOD-1.D.4](#MOD-1.D.4)
+--
+Parameters allow values to be passed to the constructor to establish the initial state of the object.
+
 [MOD-1.E](#MOD-1.E)
 --
 Call non-static void methods without parameters.
@@ -630,6 +658,14 @@ Values provided in the parameter list need to correspond to the order and type i
 [MOD-1.F.3](#MOD-1.F.3)
 --
 Methods are said to be overloaded when there are multiple methods with the same name but a different signature.
+
+[MOD-1.G](#MOD-1.G)
+--
+Call non-static non-void methods with or without parameters.
+
+[MOD-1.G.1](#MOD-1.G.1)
+--
+Non-void methods return a value that is the same type as the return type in the signature. To use the return value when calling a non-void method, it must be stored in a variable or used as part of an expression.
 
 [MOD-1.H](#MOD-1.H)
 --
@@ -995,6 +1031,18 @@ The memory associated with a variable of a primitive type holds an actual primit
 --
 When a variable is declared final, its value cannot be changed once it is initialized.
 
+[VAR-1.D](#VAR-1.D)
+--
+Define variables of the correct types to represent reference data.
+
+[VAR-1.D.1](#VAR-1.D.1)
+--
+The keyword null is a special value used to indicate that a reference is not associated with any object.
+
+[VAR-1.D.2](#VAR-1.D.2)
+--
+The memory associated with a variable of a reference type holds an object reference value or, if there is no object, null. This value is the memory address of the referenced object.
+
 [VAR-1.E](#VAR-1.E)
 --
 For String class: a. Create String objects. b. Call String methods.
@@ -1006,6 +1054,10 @@ String objects can be created using string literals or by calling the String cla
 [VAR-1.E.10](#VAR-1.E.10)
 --
 A String object has index values from 0 to length. Attempting to access indices outside this range will result in an IndexOutOfBoundsException.
+
+[VAR-1.E.11](#VAR-1.E.11)
+--
+A String object can be concatenated with an object reference, which implicitly calls the referenced object’s toString method.
 
 [VAR-1.E.12](#VAR-1.E.12)
 --
@@ -1022,6 +1074,10 @@ int length() returns the number of characters in a String object.
 [VAR-1.E.12.iii](#VAR-1.E.12.iii)
 --
 String
+
+[VAR-1.E.13](#VAR-1.E.13)
+--
+A string identical to the single element substring at position index can be created by calling substring(index, index + 1).
 
 [VAR-1.E.2](#VAR-1.E.2)
 --
