@@ -9,8 +9,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 - [Curriculum Assets]
 - [Magpie Chatbot Lab]
 
-|   LP   |   Title                               |   In Class     |   Reading       |   Homework      | Enduring Understanding | Learning Objective | Essential knowledge |
-|:-------|:--------------------------------------|:---------------|:----------------|:----------------|:----- |:-- |:-- |
+| LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
+| :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
 | [6.00] |Test Review & Reteach|(Review test)|9.1|Test corrections to Arrays and Methods, Test corrections
 | [4.01] |Array Basics|[WS 4.1]  [Poster 4.2]|7.1 For-Each Loop and The Arrays Class|SC 7.1, 7.7, 7.9|[VAR-2]|[VAR-2.A][VAR-2.B]|[VAR-2.A.1][VAR-2.A.2][VAR-2.A.4][VAR-2.A.5][VAR-2.A.6][VAR-2.A.7][VAR-2.B.1][VAR-2.B.2][VAR-2.B.3][VAR-2.B]|
 | [4.02] |For-Each Loop & Arrays Class|[WS 4.2]|7.2 up to Reversing an Array|SC 7.12-7.14|[VAR-2]|[VAR-2.C]|[VAR-2.C.1][VAR-2.C.2][VAR-2.C.3][VAR-2.C.4]|
@@ -22,7 +22,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 6.00
 
 | [Lesson 6.00]   | _Test Review & Reteach_
-|:----------------|:-----------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 5.
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
 | **In Class**    | Review test
@@ -32,7 +32,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.01
 
 | [Lesson 4.01]   | _Array Basics_
-|:----------------|:--------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will define, populate, and access arrays.
 | **Assessments** | Students will complete manipulatives exercises on WS 4.1.1
 | **In Class**    | [WS 4.1]  [Poster 4.2]
@@ -42,7 +42,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.02
 
 | [Lesson 4.02]   | _For-Each Loop & Arrays Class_
-|:----------------|:------------------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will define, populate, and access arrays.
 | **Assessments** | Students will complete manipulatives exercises on WS 4.2
 | **In Class**    | [WS 4.2]
@@ -52,7 +52,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.03.1
 
 | [Lesson 4.03]   | _Printing, Searching, & Testing for Equality (Day 1)_
-|:----------------|:-----------------------------------------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will be able to manipulate single-dimension arrays using a variety of array transversal algorithms.
 | **Assessments** | Students will teach a mini-lesson on printing, searching/replacing, testing for equality, reversing an array, or string traversal.  Students will complete a quiz at the end of Day 2.
 | **In Class**    | [WS 4.3] Teach mini-lessons
@@ -62,7 +62,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.03.2
 
 | [Lesson 4.03]   | _Printing, Searching, & Testing for Equality (Day 2)_
-|:----------------|:-----------------------------------------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    |
@@ -72,7 +72,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.04
 
 | [Lesson 4.04]   | _Reference Semantics_
-|:----------------|:---------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will be able to compare and contrast how primitives and arrays are treated when passed as parameters.
 | **Assessments** | Students will complete graphic organizers and a worksheet.  Some students will complete a Pokémon Challenge for extra credit.
 | **In Class**    | [WS 4.4]
@@ -82,7 +82,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.05
 
 | [Lesson 4.05]   | _Shifting Values & Arrays of Objects_
-|:----------------|:-------------------------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will be able to shift elements within an array and construct arrays of objects.
 | **Assessments** | Students will complete Practice-It questions and model memory manipulation using array whiteboards.
 | **In Class**    | SC 7.22,23,25,26,30  E 7.16

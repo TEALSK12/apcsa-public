@@ -9,8 +9,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 - [Unit 2 Word Bank]
 - [Curriculum Assets]
 
-|  LP  |  Title                              |  In Class    |  Reading      |  Homework     | Enduring Understanding | Learning Objective | Essential Knowledge |
-|:-------|:--------------------------------------|:---------------|:----------------|:----------------|:-|:-|:-|
+| LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
+| :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
 | [1.01] | _Using Eclipse & Practice-It_         | [WS 1.1.1] [WS 1.1.2] | | Explore Pokémon (pokemon.com, console, web site) |
 | [1.02] | _Algorithms & Computational Thinking_ | PB&J | 1.2 | Reflect on PB&J assignment Continue exploring Pokémon |[VAR-1]|[VAR-1.G]|[VAR-1.G.4]|
 | [1.03] | _String & Console Output_             | Practice-It SC 1.6–9, 1.11–14 LP Welcome | 1.3 | EX 1.1–5 |[MOD-1], [VAR-1] | [MOD-1.A], [VAR-1.A] | [MOD-1.A.1], [MOD-1.A.2], [VAR-1.A.1]
@@ -38,8 +38,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 1.01
 
-| [Lesson 1.01]   | _Using Eclipse & Practice-It_
-|:----------------|:-----------------------------
+| [Lesson 1.01] | _Using Eclipse & Practice-It_
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will be able to open Eclipse, create and save a file in Eclipse, and use Practice-It.
 | **Assessments** | Students will demonstrate Plug-In and Un-Plug procedures for the teacher. Students will log in and submit a sample problem in Practice-It.
 | **In Class**    | [WS 1.1.1] [WS 1.1.2]
@@ -49,7 +49,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 1.02
 
 | [Lesson 1.02]   | _Algorithms & Computational Thinking_
-|:----------------|:-------------------------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will be able to define algorithms, programs, hardware, software, and operating systems. Students will be able to describe the relationships between these concepts and components.
 | **Assessments** | Students will write sample algorithms, assemble and debug a program that directs the instructor to make a peanut butter & jelly sandwich.
 | **In Class**    | PB&J
@@ -59,7 +59,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 1.03
 
 | [Lesson 1.03]   | _String & Console Output_
-|:----------------|:-------------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will correctly assemble a complete program that uses a class header, body, and main method. Students will correctly use print, println, and escape sequences.
 | **Assessments** | Students will create a starter Pokémon program Students will complete several Practice-It questions.
 | **In Class**    | Practice-It SC 1.6–9, 1.11–14 LP Welcome
@@ -69,7 +69,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 1.04
 
 | [Lesson 1.04]   | _Common Errors & Comments_
-|:----------------|:--------------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will create simple programs with comments Students will be able to list and apply the steps necessary for avoiding syntax errors.
 | **Assessments** | Students will complete a worksheet (WS 1.4). Students will develop a personal check-list for spotting syntax errors.
 | **In Class**    | [WS 1.4]
@@ -79,7 +79,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 1.05
 
 | [Lesson 1.05]   | _Static Methods & Method Calls_
-|:----------------|:-------------------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will use procedural decomposition to plan complex programs using structure diagrams. Students will manage complexity by using method calls.
 | **Assessments** | Students will complete Practice-It problems.
 | **In Class**    | Practice-It SC 1.22, 1.23, 1.26, 1.29
@@ -89,7 +89,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 1.06
 
 | [Lesson 1.06]   | _Static Methods & Method Calls_
-|:----------------|:-------------------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will use structure diagrams to plan complex programs. Students will manage complexity by using method calls.
 | **Assessments** | Students will complete Practice-It problems, students will write a structured Pikachu program.
 | **In Class**    | LP StarFigures LP PikachuChatter
@@ -99,7 +99,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 1.07
 
 | [Lesson 1.07]   | _Programming Project_
-|:----------------|:---------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will construct a program containing method calls and static methods.
 | **Assessments** | Students will submit a complete, functional program by the end of class.
 | **In Class**    | PP 1.2, 1.5
@@ -109,7 +109,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 1.08
 
 | [Lesson 1.08]   | _Finding & Fixing Errors_
-|:----------------|:-------------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will find errors in their returned homework assignments, and correct their code.
 | **Assessments** | Students will re-submit all homework assignments with corrected answers.
 | **In Class**    | Fix homework
@@ -119,7 +119,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 1.09
 
 | [Lesson 1.09]   | _Review_
-|:----------------|:--------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will identify weaknesses in their Unit 1 knowledge.
 | **Assessments** | Students will create a personalized list of review topics to guide tonight’s study session.
 | **In Class**    | Review questions [WS 1.9] Practice test
@@ -129,13 +129,13 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 1.99
 
 | Unit 1 Test     | _Programming & Java_
-|:----------------|:--------------------
+|------------+----------------------------------------------------------------------
 | **In Class**    | Test 0 Section I Test 0 Section II
 
 ## 1.XX
 
 | [Lesson 1.XX]   | _Open Ended Programming Project(Lesson 1.07 Alternative)_
-|:----------------|:-------------------------------------------------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will be able to ideate and construct a program containing method calls and static methods.
 | **Assessments** | Submit a complete, functional program by the end of class
 | **In Class**    | Check class notes for completion
@@ -145,7 +145,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 2.00
 
 | [Lesson 2.00]   | _Test Review & Reteach_
-|:----------------|:-----------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 1.
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
 | **In Class**    | Review test
@@ -155,7 +155,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 2.01
 
 | [Lesson 2.01]   | _Basic Data Concepts_
-|:----------------|:---------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will be able to identify and categorize data types. Students will identify operators and operands, and will correctly apply rules or precedence.
 | **Assessments** | Using operator/operand expression sets, students will use rules of precedence to correctly write code that yields a given answer. Using operator/operand expression sets, students will create their own expressions and predict the output.
 | **In Class**    | [WS 2.1]
@@ -165,7 +165,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 2.02
 
 | [Lesson 2.02]   | _Declaring & Assigning Variables_
-|:----------------|:---------------------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will be able to identify, declare, and assign variables.
 | **Assessments** | Students will write a program that converts temperature from Fahrenheit to Celsius.
 | **In Class**    | [WS 2.2] Practice-It SC 2.7, 2.11 (4th: 2.8, 2.13) E 2.1
@@ -175,7 +175,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 2.03
 
 | [Lesson 2.03]   | _String Concatenation & Increment Decrement Operators_
-|:----------------|:------------------------------------------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will apply the rules of string concatenation, students will correctly interpret incrementing and decrementing statements.
 | **Assessments** | Students will evaluate statements and predict output during a game of grudgeball.
 | **In Class**    | Grudgeball
@@ -185,7 +185,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 2.04
 
 | [Lesson 2.04]   | _Mixing Types & Casting_
-|:----------------|:------------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will be able to describe which types automatically convert into others when appearing together in expressions, and predict how an expression with mixed types will evaluate. Students will be able to convert types by casting.
 | **Assessments** | Students will use “_Zombie Rules_” of precedence to correctly write code that yields a given answer Students will create their own expressions & predict output by completing and trading worksheets.
 | **In Class**    | [WS 2.4] [Poster 2.4]
@@ -195,7 +195,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 2.05
 
 | [Lesson 2.05]   | _for Loops_
-|:----------------|:-----------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will trace loops to predict program behavior Students will construct loops to execute simple tasks.
 | **Assessments** | Students will trace and construct loops in Practice-It problems.
 | **In Class**    | [WS 2.5] Practice-It SC 2.18, 2.23, 2.24 (4th: 2.21, 2.26, 2.27)
@@ -205,7 +205,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 2.06
 
 | [Lesson 2.06]   | _Nested for Loops_
-|:----------------|:------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will trace nested loops to predict program behavior Students will construct loops to execute simple tasks.
 | **Assessments** | Students will trace and construct nested loops in Practice-It problems.
 | **In Class**    | Practice-It SC 2.28–30 (4th: 2.31–33) E 2.5
@@ -215,7 +215,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 2.07
 
 | [Lesson 2.07]   | _Scope & Pseudocode_
-|:----------------|:--------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will be able to identify the scope of a variable and identify common scope errors.
 | **Assessments** | Students will complete a worksheet.
 | **In Class**    | [WS 2.7] Discuss PP 2.1
@@ -225,7 +225,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 2.08
 
 | [Lesson 2.08]   | _Programming Project_
-|:----------------|:---------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will plan and construct a structured program containing nested loops.
 | **Assessments** | Students will submit a complete, functional program by the end of next class.
 | **In Class**    | Start PP 2.4
@@ -235,7 +235,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 2.09
 
 | [Lesson 2.09]   | _Programming Project_
-|:----------------|:---------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will plan and construct a structured program containing nested loops.
 | **Assessments** | Students will submit a complete, functional program by the end of next class.
 | **In Class**    | Complete PP 2.4
@@ -245,7 +245,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 2.10
 
 | [Lesson 2.10]   | _Finding & Fixing Errors_
-|:----------------|:-------------------------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will find errors in their returned homework assignments, and correct their code.
 | **Assessments** | Students will re-submit all homework assignments with corrected answers.
 | **In Class**    | Fix homework
@@ -255,7 +255,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 2.11
 
 | [Lesson 2.11]   | _Review_
-|:----------------|:--------
+|------------+----------------------------------------------------------------------|
 | **Objectives**  | Students will identify weaknesses in their Unit 1 knowledge.
 | **Assessments** | Students will create a personalized list of review topics to guide tonight’s study session.
 | **In Class**    | Review questions [WS 2.11] Practice test
@@ -265,7 +265,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 2.99
 
 | Unit 2 Test     | _Working with Data & Basic Control Flow_
-|:----------------|:----------------------------------------
+|------------+----------------------------------------------------------------------|
 | **In Class**    | Test 1 Section I Test 1 Section II
 
 ## Abbreviations
