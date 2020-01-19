@@ -231,8 +231,7 @@ Occasionally, teachers have difficulty registering for an account. If this occur
 encouraged to email the program's creator Alex Aiken directly, at
 [aiken@cs.stanford.edu](mailto:aiken@cs.stanford.edu).
 
-
-### Additional Resources
+Additional Resources
 ------------------------
 
 - The free web-based game Code Hunt (http://www.codehunt.com) offers opportunities for students to
@@ -285,8 +284,7 @@ encouraged to email the program's creator Alex Aiken directly, at
   error-checking and test review. While these lesson plans look identical at first glance, small
   adjustments have been made for content, timing, and AP test prep.
 
-
-### Printing GitBook
+Printing GitBook
 --------------------
 The AP CS A GitBook can be printed by navigating to 
 https://pdf.gitbook.cloud/preview?url=https://tealsk12.gitbook.io/apcsa/#. 
@@ -294,8 +292,7 @@ However, the "Download" button does not work. There is workaround depending on t
 - click on the document to enable the pdf menu to show and clicking the down arrow or "Save as Copy"
 - right click on the .pdf document and select "Save As"
 
-
-### Giving feedback on the curriculum
+Giving feedback on the curriculum
 ---------------------------------
 
 TEALS intends for this curriculum to be a starting point; it's our first attempt at a complete AP CS
