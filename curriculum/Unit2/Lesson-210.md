@@ -22,9 +22,6 @@ Materials & Prep
 - **Any student homework assignments** that you have not yet returned
 - **Student self-help system** (such as C2B4 or student pairing)
 - **Electronic survey** for student review requests
-- Access to **[College Board AP Classroom]**
-
-Classroom teachers have access to the College Board's AP CS A Classroom.  With the completion of Unit 2 of the TEALS curriculum the College Board's Unit 1 "Primitive Types" Question Bank can be used as formative assesement to test student understanding.  Stdents will need to sign in to their [College Board AP Classroom] accounts.  Note the College Board states the their assessments should not be used for grading purposes however you can give a participation grade for completion. The classroom teacher will need to log into [College Board AP Classroom] and create a quiz for the bell-work.  The choice of questions would depend on the areas the teacher feels the students have the most review would be beneficial to student understand.
 
 When you grade homework assignments, it will be most useful to these lessons if you only mark an
 answer incorrect or correct. ELL classrooms are the exception to this rule—students will be having a
@@ -43,9 +40,9 @@ Pacing Guide
 ------------
 | Section                                | Total Time |
 |----------------------------------------|-----------:|
-| Bell-work and attendance               |      10min |
+| Bell-work and attendance               |       5min |
 | Introduction and homework distribution |       5min |
-| Student work                           |      30min |
+| Student work                           |      35min |
 | Students trade work, check, and submit |      10min |
 
 
@@ -61,7 +58,6 @@ background to encourage students to relax and focus on spotting errors. Try to a
 music, and avoid the pitfall of allowing students to select the station!
 
 ### Bell-work and Attendance \[5 minutes\]
-College Board AP CS Classroom quiz.  Students will need to log into [College Board AP Classroom].
 
 ### Introduction and Homework Distribution \[5 minutes\]
 
