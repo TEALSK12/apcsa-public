@@ -156,6 +156,8 @@ Imagine you ask a user to enter their age, you would expect them to enter an int
 ### Turn in Worksheets, Wrap Up \[5\]
 At the end of class, collect the completed worksheets.
 
+### College Board Topic Question
+After this lesson, students will be able to answer most of the questions from the College Board Unit 1 Topic Questions 1.5: Casting and Ranges of Variables.
 
 Accommodation and Differentiation
 ---------------------------------

@@ -167,6 +167,8 @@ Begin with a brief lecture about data types.
 ### Check Student Study Lists \[5 minutes\]
 At the end of class, go over student notebooks.
 
+### College Board Topic Question
+After this lesson, students will be able to answer questions from the College Board Unit 1 Topic Questions 1.2: Variables and Data Types
 
 Accommodation and Differentiation
 ---------------------------------

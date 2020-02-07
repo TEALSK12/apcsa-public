@@ -144,6 +144,8 @@ Begin with a lecture about the history of computing with punch cards and the ori
 At the end of class, have students trade their worksheets to check each other’s answers before
 turning in the worksheet.
 
+### College Board Topic Question
+After this lesson, students will be able to answer questions from the College Board Unit 1 Topic Questions 1.1: Why Programming? Why Java?
 
 Accommodation and Differentiation
 ---------------------------------

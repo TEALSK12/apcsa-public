@@ -211,6 +211,10 @@ each group accordingly.
 
 ----------------------------------------------------------------------------------------------------
 
+### College Board Topic Question
+After this lesson, students will be able to answer most of the questions from the College Board Unit 1 Topic Questions 1.3: Expressions and Assignment Statements and 1.4: Compound Assignment Operators.
+
+Do not assign boolean operator or two dimesion array questions from 1.3 as these topics are covered in future lessons.
 
 Accommodation and Differentiation
 ---------------------------------
