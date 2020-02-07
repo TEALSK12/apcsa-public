@@ -24,7 +24,7 @@ Materials & Prep
 - **Electronic survey** for student review requests
 - Access to **[College Board AP Classroom]**
 
-Classroom teachers have access to the College Board's AP CS A Classroom.  With the completion of Unit 2 of the TEALS curriculum the College Board's Unit 1 "Primitive Types" Question Bank can be used as formative assessement to test student understanding.  Students will need to sign in to their [College Board AP Classroom] accounts.  Note the College Board states these assessments should not be used for grading purposes however you can give a participation grade for completion. The classroom teacher will need to log into [College Board AP Classroom] and create a quiz for the bell-work.  The choice of questions would depend on the areas the teacher feels the students have the most review would be beneficial to student understand.
+Classroom teachers have access to the College Board's AP CS A Classroom.  With the completion of Unit 2 of the TEALS curriculum the College Board's Unit 1 "Primitive Types" Question Bank can be used as formative assesement to test student understanding.  Stdents will need to sign in to their [College Board AP Classroom] accounts.  Note the College Board states the their assessments should not be used for grading purposes however you can give a participation grade for completion. The classroom teacher will need to log into [College Board AP Classroom] and create a quiz for the bell-work.  The choice of questions would depend on the areas the teacher feels the students have the most review would be beneficial to student understand.
 
 When you grade homework assignments, it will be most useful to these lessons if you only mark an
 answer incorrect or correct. ELL classrooms are the exception to this rule—students will be having a
@@ -76,7 +76,7 @@ College Board AP CS Classroom quiz.  Students will need to log into [College Boa
 
    b. Hopefully, students suggest using the 4 Commandments of Scope, creating pseudocode and/or
       structure diagrams to clarify thinking on program structure, and checking their notes and the
-      textbook.
+      text book.
 
 ### Student Work \[35 minutes\]
 Have students work individually to correct their homework grades.
@@ -94,7 +94,7 @@ corrections before submission.
 Accommodation and Differentiation
 ---------------------------------
 If you have students who are speeding through this lesson, you should encourage them to tackle
-programming project 2 & 3 in the textbook.
+programming project 2 & 3 in the text book.
 
 If you were unable to finish grading student notebooks yesterday, finish them today while students
 are working. Return notebooks by the end of class so students may use them to study for the exam.
