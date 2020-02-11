@@ -25,7 +25,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [5.01]   |Object Oriented Programming|Practice-It SC 8.1-8.5  [WS 5.1.1]|8.2 up to “Mutators and Accessors.”| |[MOD-1], [VAR-1]| [MOD-1.B], [VAR-1.D]|[MOD-1.B.1], [MOD-1.B.2], [VAR-1.D.1]|
 | [5.02]   |Object State & Behavior|[WS 5.2]|8.3 up to “The Keyword this.”|SC 8.9-8.11, 8.13-8.16 |[MOD-1], [VAR-1]|[MOD-1.E], [MOD-1.F][MOD-1.G], [VAR-1.E]|[MOD-1.E.1], [MOD-1.F.1], [MOD-1.F.2], [MOD-1.F.3], [MOD-1.G.1], [VAR-1.E.11]|
 | [5.03]   |Object Initialization: Constructors|[WS 5.3.1], [WS 5.3.2]|8.4||[MOD-1], [VAR-1] |[MOD-1.C], [MOD-1.D], [MOD-1.E], [MOD-1.F][VAR-1.D]|[MOD-1.C.1], [MOD-1.C.2], [MOD-1.C.3], [MOD-1.C.4], [MOD-1.C.5], [MOD-1.D.1], [MOD-1.D.2], [MOD-1.D.3], [MOD-1.D.4], [MOD-1.E.7], [MOD-1.F.1]|
-| [5.04]   |Encapsulation|[WS 5.4] Mini-lessons||SC 8.22-8.28|[MOD-1] [VAR-1]|[MOD-1.E], [VAR-1.D]|[MOD-1.E.8], [VAR-1.D.1]|
+| [5.04]   |Encapsulation|[WS 5.4] Mini-lessons||SC 8.22-8.28|[MOD-1], [VAR-1]|[MOD-1.E], [VAR-1.D]|[MOD-1.E.8], [VAR-1.D.1]|
 
 ## 3.00
 
