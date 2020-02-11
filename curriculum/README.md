@@ -140,20 +140,6 @@ To learn more about the Pokémon storyline, game rules, underlying formulae, and
 http://bulbapedia.bulbagarden.net/. For a more general introduction to the Pokémon franchise,
 visit http://www.pokemon.com/.
 
-### AP Test Preparation
-
-The curriculum is designed with AP Test Prep in mind. All of the Unit tests are in the AP exam
-format. In classes where many students will take the exam, instructors should gradually adjust the
-testing environment to mimic that of the exam:
-
-- Always provide/allow the [AP Java Quick Reference]
-
-- Move from open-note (see “Tricky Code Cheat Sheet”) to closed-note
-
-- The AP exam has 40 multiple choice questions in 75 minutes (≈2 minutes per question). On the
-  earlier tests, start at a slower pace (perhaps 4 minutes per question). As the course progresses,
-  work to a pace even faster than the actual test (90 seconds per question).
-
 ### Vocabulary
 
 A comprehensive vocabulary list for each unit is provided for teachers to generate word walls in
@@ -175,6 +161,66 @@ on their own later. Finally, students that have answered all or most of their wo
 a day off to do silent work/play on their own, which positively reinforces students to put in the
 initial effort to win a day off.
 
+### AP Test Preparation
+
+Aligned to the College Board's curriculum framework, students explore the big ideas that encompass the core principles, theories, and processes of computer science.  Throughout the course, the student learns and practices the skills necessary to be successful on the AP exam.
+
+#### Big Ideas of Computer Science
+
+1. Modularity -- 
+    Incorporating elements of abstraction, by breaking problems down into interacting pieces, each with their own purpose, makes writing complex programs easier. Abstracting simplifies concepts and processes by looking at the big picture rather than being overwhelmed by the details. Modularity in object-oriented programming allows us to use abstraction to break complex programs down into individual classes and methods.
+
+2. Variables -- 
+    Information used as a basis for reasoning, discussion, or calculation is referred to as data. Programs rely on variables to store data, on data structures to organize multiple values when program complexity increases, and on algorithms to sort, access, and manipulate this data. Variables create data abstractions, as they can represent a set of possible values or a group of related values. 
+
+3. Control --
+    Doing things in order, making decisions, and doing the same process multiple times are represented in code by using control structures and specifying the order in which instructions are executed. Programmers need to think algorithmically in order to define and interpret processes that are used in a program.
+
+4. Impact of Computing --
+    Computers and computing have revolutionized our lives. To use computing safely and responsibly, we need to be aware of privacy, security, and ethical issues. As programmers, we need to understand how our programs will be used and be responsible for the consequences.
+
+#### Computational Thinking Practices: Skills
+
+1. Program Design and Algorithm Development
+    * Determine an appropriate program design to solve a problem or accomplish a task (not assessed by AP Exam).
+    * Determine code that would be used to complete code segments.
+    * Determine code that would be used to interact with completed program code.
+
+2. Code Logic
+    * Apply the meaning of specific operators.
+    * Determine the result or output based on statement execution order in a code segment without method calls (other than output).
+    * Determine the result or output based on the statement execution order in a code segment  containing method calls.
+    * Determine the number of times a code segment will execute.
+
+3. Code Implementation
+    * Write program code to create objects of a class and call methods.
+    * Write program code to define a new type by creating a class.
+    * Write program code to satisfy method specifications using expressions, conditional statements, and iterative statements.
+    * Write program code to create, traverse, and manipulate elements in 1D array or ArrayList  objects.
+    * Write program code to create, traverse, and manipulate elements in 2D array objects.
+
+4. Code Testing
+    * Use test-cases to find errors or validate results.
+    * Identify errors in program code.
+    * Determine if two or more code segments yield equivalent results. 
+
+5. Documentation
+    * Describe the behavior of a given segment of program code.
+    * Explain why a code segment will not compile or work as intended.
+    * Explain how the result of program code changes, given a change to the initial code.
+    * Describe the initial conditions that must be met for a program segment to work as intended or described.
+
+#### AP Exam Preparation
+All of the Unit tests are in the AP exam format. In classes where many students will take the exam, instructors should gradually adjust the testing environment to mimic that of the exam:
+
+- Always provide/allow the [AP Java Quick Reference]
+
+- Move from open-note (see “Tricky Code Cheat Sheet”) to closed-note
+
+- The AP exam has 40 multiple choice questions in 75 minutes (≈2 minutes per question). On the
+  earlier tests, start at a slower pace (perhaps 4 minutes per question). As the course progresses,
+  work to a pace even faster than the actual test (90 seconds per question).
+
 Video Tutorials
 ---------------
 - [Timing and Pacing] — Adjusting lessons and the curriculum map for the speed of your learners
@@ -185,6 +231,10 @@ Video Tutorials
 - [Parson's Problems] — Assessing high-level programming skills quickly with Parson's Problems
 - [Grudgeball] — Reviewing material by playing a class game of Grudgeball
 
+Recommended Hardware
+---------------------------------------------
+
+In the classroom, it is recommended that each student have an internet-connected desktop computer capable of running an Integrated Design Environment (IDE), like Eclipse.  Students will need to be able to save and access their programming projects locally or in the cloud.
 
 Digital Tools Associated with This Curriculum
 ---------------------------------------------
@@ -315,4 +365,4 @@ on the TEALS dashboard, or to [APSquad@tealsk12.org](mailto:APSquad@tealsk12.org
 [Timing and Pacing]: https://www.youtube.com/watch?v=LkGh03UZ724
 [Twiddla]: http://www.twiddla.com
 [Vyew]: http://www.vyew.com
-[AP CS A Course Audit Instructions]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/AP%20CS%20A%20Course%20Audit%20Instructions.docx
+[AP CS A Course Audit Instructions]: https://apcentral.collegeboard.org/pdf/ap-course-audit-user-guide.pdf
