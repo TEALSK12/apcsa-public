@@ -10,26 +10,26 @@ Refer to the Introduction document for information about how to adjust this paci
 
 | LP | Title | In Class | Reading | Homework |
 | :-- | :--- | :------- | :------ | :------- |
-| [3.00] |Test Review & Reteach|[Algorithm for Solving Problems]|3.1 up to “Limitations of Parameters”|Test corrections |
-| [3.01] |Parameters|Practice-It SC 3.1 - 3.3 | "3.1 “Limitations of Parameters”, “Multiple Parameters”, ""Parameters versus Constants"""|SC 3.4-3.7 |
-| [3.02] | Limitations of Parameters & Multiple Parameters | (Art project) | "3.1 “Overloading Methods”, 3.2 ""Methods That Return Values"""| Jazz up art project and program |
-| [3.03] | Return Values|Practice-It SC 3.14 - 3.16 || SC 3.17, E 3.1 |
-| [3.04] | Programming Project|[WS 3.4] [Equestria] | 3.3 up to “Interactive Programs and Scanner Objects” | SC 3.18, 3.19 |
-| [3.05] | Using Objects & String Processing | [WS 3.5] | 3.3 “Interactive programming” and “Sample interactive program” | SC 3.19-3.21 |
-| [3.06] | Interactive Programs & Scanner Objects | Practice-It SC 3.24 - 3.26, (5th: 3.23 - 3.25); E 3.12, 3.14, 3.15 | | Outline ch 3 (omit 3.4) |
+| [3.00] |Test Review & Reteach|[Algorithm for Solving Problems]||Test corrections |
+| [3.01] |Parameters|Practice-It SC 3.1 - 3.3 | 3.1 up to “Limitations of Parameters”|SC 3.4-3.7 |
+| [3.02] | Limitations of Parameters & Multiple Parameters | (Art project) | "3.1 “Limitations of Parameters”, “Multiple Parameters”, ""Parameters versus Constants"""| Jazz up art project and program |
+| [3.03] | Return Values|Practice-It SC 3.14 - 3.16 |"3.1 “Overloading Methods”, 3.2 ""Methods That Return Values"""| SC 3.17, E 3.1 |
+| [3.04] | Programming Project|[WS 3.4] [Equestria] |  | SC 3.18, 3.19 |
+| [3.05] | Using Objects & String Processing | [WS 3.5] | 3.3 up to “Interactive Programs and Scanner Objects”| SC 3.19-3.21 |
+| [3.06] | Interactive Programs & Scanner Objects | Practice-It SC 3.24 - 3.26, (5th: 3.23 - 3.25); E 3.12, 3.14, 3.15 |3.3 “Interactive programming” and “Sample interactive program”  | Outline ch 3 (omit 3.4) |
 | [3.07] | Pokémon Battle Programming Project | [WS 3.7] LP Battle | | Summarize notes since last exam |
-| [3.08] | Finding & Fixing Errors | Fix HW webmaker.org | 4.1 up to “nested if else statements” | SC 4.1-4.4 |
-| [3.09] | Relational Operators & if/else | [Operator Precedence]Grudgeball | 4.1 “Nested if/else” and “Flow of control” | SC 4.7-4.9; E 4.1-4.2 |
-| [3.10] | Nested if/else Statements | [WS 3.10] Teach mini-lessons Practice-It SC 4.5, 4.6, E 4.3 | 4.1, “Factoring if/else statements” and “Testing multiple conditions” | E 4.4, 4.5 |
-| [3.11] | Reducing Redundancy | (Refactoring com petition) | Read 4.2|Outline ch 4 (omit 4.4, 4.5) |
-| [3.12] | Cumulative Algorithms | Tally code on board,Collaborative Programming Exercise [WS 3.12] | 5.1 skip “do/while loops” | PP 4.2 |
-| [3.13] | while Loops | Practice-It SC 5.1 - 5.4, E 5.2 [WS 3.13] |5.1 ”Random numbers” | E 5.2 |
-| [3.14] | Random Numbers | Practice-It SC 5.5-5.7; E 5.4, 5.5 | 5.2 | PP 5.1 |
-| [3.15] | Fencepost & Sentinel Loops | [WS 3.15] Teach mini-lessons | 5.3 | E 5.6, 5.8 |
-| [3.16].1 | Boolean Logic | Practice-It SC 5.27, 5.29 [WS 3.16] (RPS, Pig) [DeMorgan’s Law] [Poster 3.16.1] [Poster 3.16.2] | |Outline ch 5 (through 5.3) |
+| [3.08] | Finding & Fixing Errors | Fix HW webmaker.org |  | SC 4.1-4.4 |
+| [3.09] | Relational Operators & if/else | [Operator Precedence]Grudgeball | 4.1 up to “nested if else statements” | SC 4.7-4.9; E 4.1-4.2 |
+| [3.10] | Nested if/else Statements | [WS 3.10] Teach mini-lessons Practice-It SC 4.5, 4.6, E 4.3 | 4.1 “Nested if/else” and “Flow of control” | E 4.4, 4.5 |
+| [3.11] | Reducing Redundancy | (Refactoring com petition) | 4.1, “Factoring if/else statements” and “Testing multiple conditions”|Outline ch 4 (omit 4.4, 4.5) |
+| [3.12] | Cumulative Algorithms | Tally code on board,Collaborative Programming Exercise [WS 3.12] | Read 4.2 | PP 4.2 |
+| [3.13] | while Loops | Practice-It SC 5.1 - 5.4, E 5.2 [WS 3.13] | 5.1 skip “do/while loops” | E 5.2 |
+| [3.14] | Random Numbers | Practice-It SC 5.5-5.7; E 5.4, 5.5 | 5.1 ”Random numbers”  | PP 5.1 |
+| [3.15] | Fencepost & Sentinel Loops | [WS 3.15] Teach mini-lessons | 5.2 | E 5.6, 5.8 |
+| [3.16].1 | Boolean Logic | Practice-It SC 5.27, 5.29 [WS 3.16] (RPS, Pig) [DeMorgan’s Law] [Poster 3.16.1] [Poster 3.16.2] | 5.3 |Outline ch 5 (through 5.3) |
 | [3.16].2 |Boolean Logic (Day 2) | | | |
-| [3.17] |Finding & Fixing Errors | (Fix HW) | Review ch 3-5 | Submit questions for review |
-| [3.18].1 | Consumer Review Lab (day 1) | Consumer Review Lab Activity 1 | |
+| [3.17] |Finding & Fixing Errors | (Fix HW) |  | Submit questions for review |
+| [3.18].1 | Consumer Review Lab (day 1) | Consumer Review Lab Activity 1 | Review ch 3-5 |
 | [3.18].2 | Consumer Review Lab (day 2) | Consumer Review Lab Activity 2 | |
 | [3.18].3| Consumer Review Lab (day 3) | Consumer Review Lab Activity 3 | |
 | [3.18].4 | Consumer Review Lab (day 4) | Consumer Review Lab Activity 4 | |
@@ -51,7 +51,7 @@ Students are expected to work on project in class.
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 2.
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
 | **In Class**    | [Algorithm for Solving Problems]
-| **Reading**     | 3.1 up to “_Limitations of Parameters_”
+| **Reading**     | 
 | **Homework**    | Test corrections
 
 ## 3.01
@@ -61,7 +61,7 @@ Students are expected to work on project in class.
 | **Objectives**  | Students will correctly construct formal and actual parameters (arguments). Students will predict the output of programs that use parameters.
 | **Assessments** | Students will teach a mini-lesson explaining the relationship between parameters and values stored in memory. Students will submit Practice-It questions.
 | **In Class**    | Practice-It SC 3.1–3
-| **Reading**     | 3.1 “_Limitations of Parameters_”, “_Multiple Parameters_”, “_Parameters versus Constants_”
+| **Reading**     | 3.1 up to “_Limitations of Parameters_”
 | **Homework**    | SC 3.4–7
 
 ## 3.02
@@ -71,7 +71,7 @@ Students are expected to work on project in class.
 | **Objectives**  | Students will modify programs using parameters and class constants to create original artworks.
 | **Assessments** | Students will complete an art project and “artist statement” justifying their programming choices.
 | **In Class**    | Art project
-| **Reading**     | 3.1 “_Overloading Methods_” 3.2 “_Methods That Return Values_”
+| **Reading**     | 3.1 “_Limitations of Parameters_”, “_Multiple Parameters_”, “_Parameters versus Constants_”
 | **Homework**    | Jazz up art project and program
 
 ## 3.03
@@ -81,7 +81,7 @@ Students are expected to work on project in class.
 | **Objectives**  | Students will write a program that returns values.
 | **Assessments** | Students will complete Practice-It questions and write a program to meet a Pokémon Challenge.
 | **In Class**    | Practice-It SC 3.14–16
-| **Reading**     |
+| **Reading**     | 3.1 “_Overloading Methods_” 3.2 “_Methods That Return Values_”
 | **Homework**    | SC 3.17 E 3.1
 
 ## 3.04
@@ -91,7 +91,7 @@ Students are expected to work on project in class.
 | **Objectives**  | Students will write a program that uses parameters, the math class, and returns values.
 | **Assessments** | Students will submit an Equestria program by the end of class.
 | **In Class**    | [WS 3.4] [Equestria]
-| **Reading**     | 3.3 up to “_Interactive Programs and Scanner Objects_”
+| **Reading**     | 
 | **Homework**    | SC 3.18–19
 
 ## 3.05
@@ -101,7 +101,7 @@ Students are expected to work on project in class.
 | **Objectives**  | Students will be able to differentiate between primitive and object types. Students will apply 0-indexing and string processing techniques to predict the output of a program.
 | **Assessments** | Students will complete WS 3.5
 | **In Class**    | [WS 3.5]
-| **Reading**     | 3.3 “_Interactive Programming_” and “_Sample Interactive Program_”
+| **Reading**     | 3.3 up to “_Interactive Programs and Scanner Objects_”
 | **Homework**    | SC 3.19–21
 
 ## 3.06
@@ -111,7 +111,7 @@ Students are expected to work on project in class.
 | **Objectives**  | Students will write programs that accept user input using a scanner object.
 | **Assessments** | Students will complete Practice-It problems.
 | **In Class**    | Practice-It SC 3.24–26 E 3.12,14,15
-| **Reading**     |
+| **Reading**     | 3.3 “_Interactive Programming_” and “_Sample Interactive Program_”
 | **Homework**    | Outline ch 3 (omit 3.4)
 
 ## 3.07
@@ -131,7 +131,7 @@ Students are expected to work on project in class.
 | **Objectives**  | Students will find errors and correct their previously submitted homework and classwork assignment.
 | **Assessments** | Students will re-submit all homework assignments with corrected answers.
 | **In Class**    | Fix homework webmaker.org
-| **Reading**     | 4.1 up to “_Nested If/Else Statements_”
+| **Reading**     | 
 | **Homework**    | SC 4.1–4
 
 ## 3.09
@@ -141,7 +141,7 @@ Students are expected to work on project in class.
 | **Objectives**  | Students will be able to evaluate relational expressions, predict and trace the flow of an if statement.
 | **Assessments** | Students will evaluate relational expressions and practice correct if statement syntax during a game of grudgeball.
 | **In Class**    | [Operator Precedence] Grudgeball
-| **Reading**     | 4.1 “_Nested If/Else_” and “_Flow of Control_”
+| **Reading**     | 4.1 up to “_Nested If/Else Statements_”
 | **Homework**    | SC 4.7–9 E 4.1–2
 
 ## 3.10
@@ -151,7 +151,7 @@ Students are expected to work on project in class.
 | **Objectives**  | Students will will be able to choose which if statements to use for different problems Students will use correct syntax for the different if statements.
 | **Assessments** | Students will teach a mini-lesson on sequential or nested if statements. Students will submit several Practice-It questions.
 | **In Class**    | [WS 3.10] Teach mini-lessons Practice-It SC 4.5–6 E 4.3
-| **Reading**     | 4.1, “_Factoring If/Else Statements_” and “_Testing Multiple Conditions_”
+| **Reading**     | 4.1 “_Nested If/Else_” and “_Flow of Control_”
 | **Homework**    | EX 4.4–5
 
 ## 3.11
@@ -161,7 +161,7 @@ Students are expected to work on project in class.
 | **Objectives**  | Students will simplify code and reduce redundancy by factoring if/else statements and testing multiple conditions simultaneously.
 | **Assessments** | Students will complete a class competition.
 | **In Class**    | Refactoring competition
-| **Reading**     | 4.2
+| **Reading**     | 4.1, “_Factoring If/Else Statements_” and “_Testing Multiple Conditions_”
 | **Homework**    | Outline ch 4 (omit 4.4, 4.5)
 
 ## 3.12
@@ -171,7 +171,7 @@ Students are expected to work on project in class.
 | **Objectives**  | Students will find and correct syntax errors in conditional cumulative algorithms.
 | **Assessments** | Students will write, modify, and correct programs written by others.
 | **In Class**    | Tally code on board Collaborative Programming Exercise [WS 3.12]
-| **Reading**     | 5.1 (skip “_Do/While Loops_”)
+| **Reading**     | 4.2
 | **Homework**    | PP 4.2
 
 ## 3.13
@@ -181,7 +181,7 @@ Students are expected to work on project in class.
 | **Objectives**  | Students will trace while loops to predict (1) the number of times the body executes and (2) the output of the code. Students will be able to differentiate between while loops, if statements, and for loops.
 | **Assessments** | Students will complete Practice-It questions.
 | **In Class**    | Practice-It SC 5.1–4 E 5.2 [WS 3.13]
-| **Reading**     | 5.1 “_Random Numbers_”
+| **Reading**     | 5.1 (skip “_Do/While Loops_”)
 | **Homework**    | EX 5.2
 
 ## 3.14
@@ -191,7 +191,7 @@ Students are expected to work on project in class.
 | **Objectives**  | Students will be able to write expressions that generate a random integer between any two values.
 | **Assessments** | Students will complete Practice-It questions.
 | **In Class**    | Practice-It SC 5.5–7 E 5.4–5
-| **Reading**     | 5.2
+| **Reading**     | 5.1 “_Random Numbers_”
 | **Homework**    | PP 5.1
 
 ## 3.15
@@ -201,7 +201,7 @@ Students are expected to work on project in class.
 | **Objectives**  | Students will be able to describe when to use fencepost and sentinel loops. Students will use proper syntax to construct these control structures.
 | **Assessments** | Students will teach a mini-lesson explaining the relationship between parameters and values stored in memory.
 | **In Class**    | [WS 3.15] Teach mini-lessons
-| **Reading**     | 5.3
+| **Reading**     | 5.2
 | **Homework**    | EX 5.6,8
 
 ## 3.16.1
@@ -211,7 +211,7 @@ Students are expected to work on project in class.
 | **Objectives**  | Students will work in pairs to write a game that plays Rock Paper Scissors.
 | **Assessments** | Students will submit a program at the end of 2 or 3 class periods.
 | **In Class**    | Practice-It SC 5.27, 5.29 [WS 3.16] (RPS, Pig) [DeMorgan’s Law] [Poster 3.16.1] [Poster 3.16.2]
-| **Reading**     |
+| **Reading**     | 5.3
 | **Homework**    | Outline ch 5 (through 5.3)
 
 ## 3.16.2
@@ -226,7 +226,7 @@ Students are expected to work on project in class.
 | **Objectives**  | Students will find errors in their returned homework assignments, and correct their code.
 | **Assessments** | Students will re-submit all homework assignments with corrected answers.
 | **In Class**    | Fix homework
-| **Reading**     | Review ch 3–5
+| **Reading**     | 
 | **Homework**    | Submit questions for review
 
 ## 3.18.1
@@ -236,7 +236,7 @@ Students are expected to work on project in class.
 | **Objectives**  | Students will complete a long-form lab, using string literals, static methods, if statements, while loops, algorithms, and the String class.
 | **Assessments** | Students will complete the College Board’s AP CS A Consumer Review Lab. Students will answer end of activty Check your understanding and complete Open-ended activity.
 | **In Class**    | Lab: Consumer Review Lab Consumer Review Lab Activity 1
-| **Reading**     |
+| **Reading**     | Review ch 3–5
 | **Homework**    |
 
 ## 3.18.2
