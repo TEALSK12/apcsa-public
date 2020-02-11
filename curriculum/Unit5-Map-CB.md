@@ -288,6 +288,12 @@ chronological order. The order has been adapted to follow the College Board AP C
 - **PP** — Programming Project (in the textbook)
 
 [4.00]: Unit4/Lesson-400.md
+[5.00]: Unit5/Lesson-500.md
+[5.01]: Unit5/Lesson-501.md
+[5.02]: Unit5/Lesson-502.md
+[5.03]: Unit5/Lesson-503.md
+[5.04]: Unit5/Lesson-504.md
+[5.05]: Unit5/Lesson-505.md
 [5.06]: Unit5/Lesson-506.md
 [5.06a]: Unit5/Lesson-506a.md
 [5.07]: Unit5/Lesson-507.md
