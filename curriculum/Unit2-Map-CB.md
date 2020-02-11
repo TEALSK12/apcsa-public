@@ -12,20 +12,20 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
-| [3.00] |Test Review & Reteach|[Algorithm for Solving Problems]|3.1 up to “Limitations of Parameters”|Test corrections |
-| [3.01] |Parameters|Practice-It SC 3.1 - 3.3|3.1 “Limitations of Parameters”, “Multiple Parameters”, "Parameters versus Constants"|SC 3.4-3.7 |[MOD-1]|[MOD-1.C], [MOD-1.D], [MOD-1.E]|[MOD-1.C.3], [MOD-1.C.5], [MOD-1.C.6], [MOD-1.D.1], [MOD-1.D.3], [MOD-1.E.2], [MOD-1.E.3], [MOD-1.E.4]|
-| [3.02] |Limitations of Parameters & Multiple Parameters|(Art project)|"3.1 “Overloading Methods”, 3.2 ""Methods That Return Values"""|Jazz up art project and program |[CON-1], [MOD-1]|[CON-1.D], [MOD-1.C], [MOD-1.F], [MOD-1.G] | [CON-1.D.1], [MOD-1.C.4], [MOD-1.F.2], [MOD-1.G.1]|
-| [3.03] |Return Values|Practice-It SC 3.14 - 3.16||SC 3.17, E 3.1 |[VAR-1] |[VAR-1.E]|[VAR-1.E.10] |
-| [3.04] |Programming Project|[WS 3.4]  [Equestria]|3.3 up to “Interactive Programs and Scanner Objects”|SC 3.18, 3.19 
-| [3.05] |Using Objects & String Processing|[WS 3.5]|3.3 “Interactive programming” and “Sample interactive program”|SC 3.19-3.21 |[CON-1], [MOD-1], [VAR-1]|[CON-1.D], [MOD-1.B], [MOD-1.C], [MOD-1.D],[MOD-1.E], [MOD-1.F], [VAR-1.D], [VAR-1.E]|[CON-1.D.1], [MOD-1.B.1], [MOD-1.B.2], [MOD-1.C.1], [MOD-1.C.2], [MOD-1.D.2], [MOD-1.D.4], [MOD-1.E.5], [MOD-1.E.6], [MOD-1.F.1],[VAR-1.E.13], [VAR-1.E.2], [VAR-1.E.3], [VAR-1.E.4] |
-| [3.06] |Interactive Programs & Scanner Objects|Practice-It SC 3.24 - 3.26, (5th: 3.23 - 3.25); E 3.12, 3.14, 3.15||Outline ch 3 (omit 3.4) |
+| [3.00] |Test Review & Reteach|[Algorithm for Solving Problems]||Test corrections |
+| [3.01] |Parameters|Practice-It SC 3.1 - 3.3|3.1 up to “Limitations of Parameters”|SC 3.4-3.7 |[MOD-1]|[MOD-1.C], [MOD-1.D], [MOD-1.E]|[MOD-1.C.3], [MOD-1.C.5], [MOD-1.C.6], [MOD-1.D.1], [MOD-1.D.3], [MOD-1.E.2], [MOD-1.E.3], [MOD-1.E.4]|
+| [3.02] |Limitations of Parameters & Multiple Parameters|(Art project)|3.1 “Limitations of Parameters”, “Multiple Parameters”, "Parameters versus Constants"|Jazz up art project and program |[CON-1], [MOD-1]|[CON-1.D], [MOD-1.C], [MOD-1.F], [MOD-1.G] | [CON-1.D.1], [MOD-1.C.4], [MOD-1.F.2], [MOD-1.G.1]|
+| [3.03] |Return Values|Practice-It SC 3.14 - 3.16|"3.1 “Overloading Methods”, 3.2 ""Methods That Return Values"""|SC 3.17, E 3.1 |[VAR-1] |[VAR-1.E]|[VAR-1.E.10] |
+| [3.04] |Programming Project|[WS 3.4]  [Equestria]||SC 3.18, 3.19 
+| [3.05] |Using Objects & String Processing|[WS 3.5]|3.3 up to “Interactive Programs and Scanner Objects”|SC 3.19-3.21 |[CON-1], [MOD-1], [VAR-1]|[CON-1.D], [MOD-1.B], [MOD-1.C], [MOD-1.D],[MOD-1.E], [MOD-1.F], [VAR-1.D], [VAR-1.E]|[CON-1.D.1], [MOD-1.B.1], [MOD-1.B.2], [MOD-1.C.1], [MOD-1.C.2], [MOD-1.D.2], [MOD-1.D.4], [MOD-1.E.5], [MOD-1.E.6], [MOD-1.F.1],[VAR-1.E.13], [VAR-1.E.2], [VAR-1.E.3], [VAR-1.E.4] |
+| [3.06] |Interactive Programs & Scanner Objects|Practice-It SC 3.24 - 3.26, (5th: 3.23 - 3.25); E 3.12, 3.14, 3.15|3.3 “Interactive programming” and “Sample interactive program”|Outline ch 3 (omit 3.4) |
 | [3.07] |Pokémon Battle Programming Project|[WS 3.7]  LP Battle||Summarize notes since last exam |
-| [3.08] |Finding & Fixing Errors|Fix HW, webmaker.org|4.1 up to “nested if else statements”|SC 4.1-4.4 |
-| [5.00]   |Test Review & Reteach|Review test|8.1|Test corrections
-| [5.01]   |Object Oriented Programming|Practice-It SC 8.1-8.5  [WS 5.1.1]|8.2 up to “Mutators and Accessors.”| |[MOD-1], [VAR-1]| [MOD-1.B], [VAR-1.D]|[MOD-1.B.1], [MOD-1.B.2], [VAR-1.D.1]|
-| [5.02]   |Object State & Behavior|[WS 5.2]|8.3 up to “The Keyword this.”|SC 8.9-8.11, 8.13-8.16 |[MOD-1], [VAR-1]|[MOD-1.E], [MOD-1.F][MOD-1.G], [VAR-1.E]|[MOD-1.E.1], [MOD-1.F.1], [MOD-1.F.2], [MOD-1.F.3], [MOD-1.G.1], [VAR-1.E.11]|
-| [5.03]   |Object Initialization: Constructors|[WS 5.3.1], [WS 5.3.2]|8.4||[MOD-1], [VAR-1] |[MOD-1.C], [MOD-1.D], [MOD-1.E], [MOD-1.F][VAR-1.D]|[MOD-1.C.1], [MOD-1.C.2], [MOD-1.C.3], [MOD-1.C.4], [MOD-1.C.5], [MOD-1.D.1], [MOD-1.D.2], [MOD-1.D.3], [MOD-1.D.4], [MOD-1.E.7], [MOD-1.F.1]|
-| [5.04]   |Encapsulation|[WS 5.4] Mini-lessons||SC 8.22-8.28|[MOD-1], [VAR-1]|[MOD-1.E], [VAR-1.D]|[MOD-1.E.8], [VAR-1.D.1]|
+| [3.08] |Finding & Fixing Errors|Fix HW, webmaker.org||SC 4.1-4.4 |
+| [5.00]   |Test Review & Reteach|Review test|4.1 up to “nested if else statements”|Test corrections
+| [5.01]   |Object Oriented Programming|Practice-It SC 8.1-8.5  [WS 5.1.1]|8.1| |[MOD-1], [VAR-1]| [MOD-1.B], [VAR-1.D]|[MOD-1.B.1], [MOD-1.B.2], [VAR-1.D.1]|
+| [5.02]   |Object State & Behavior|[WS 5.2]|8.2 up to “Mutators and Accessors.”|SC 8.9-8.11, 8.13-8.16 |[MOD-1], [VAR-1]|[MOD-1.E], [MOD-1.F][MOD-1.G], [VAR-1.E]|[MOD-1.E.1], [MOD-1.F.1], [MOD-1.F.2], [MOD-1.F.3], [MOD-1.G.1], [VAR-1.E.11]|
+| [5.03]   |Object Initialization: Constructors|[WS 5.3.1], [WS 5.3.2]|8.3 up to “The Keyword this.”||[MOD-1], [VAR-1] |[MOD-1.C], [MOD-1.D], [MOD-1.E], [MOD-1.F][VAR-1.D]|[MOD-1.C.1], [MOD-1.C.2], [MOD-1.C.3], [MOD-1.C.4], [MOD-1.C.5], [MOD-1.D.1], [MOD-1.D.2], [MOD-1.D.3], [MOD-1.D.4], [MOD-1.E.7], [MOD-1.F.1]|
+| [5.04]   |Encapsulation|[WS 5.4] Mini-lessons|8.4|SC 8.22-8.28|[MOD-1], [VAR-1]|[MOD-1.E], [VAR-1.D]|[MOD-1.E.8], [VAR-1.D.1]|
 
 ## 3.00
 
@@ -34,7 +34,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 2.
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
 | **In Class**    | [Algorithm for Solving Problems]
-| **Reading**     | 3.1 up to “_Limitations of Parameters_”
+| **Reading**     | 
 | **Homework**    | Test corrections
 
 ## 3.01
@@ -44,7 +44,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will correctly construct formal and actual parameters (arguments).  Students will predict the output of programs that use parameters.
 | **Assessments** | Students will teach a mini-lesson explaining the relationship between parameters and values stored in memory.  Students will submit Practice-It questions.
 | **In Class**    | Practice-It  SC 3.1–3
-| **Reading**     | 3.1 “_Limitations of Parameters_”, “_Multiple Parameters_”, “_Parameters versus Constants_”
+| **Reading**     | 3.1 up to “_Limitations of Parameters_”
 | **Homework**    | SC 3.4–7
 
 ## 3.02
@@ -54,7 +54,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will modify programs using parameters and class constants to create original artworks.
 | **Assessments** | Students will complete an art project and “artist statement” justifying their programming choices.
 | **In Class**    | Art project
-| **Reading**     | 3.1 “_Overloading Methods_”  3.2 “_Methods That Return Values_”
+| **Reading**     | 3.1 “_Limitations of Parameters_”, “_Multiple Parameters_”, “_Parameters versus Constants_”
 | **Homework**    | Jazz up art project and program
 
 ## 3.03
@@ -64,7 +64,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will write a program that returns values.
 | **Assessments** | Students will complete Practice-It questions and write a program to meet a Pokémon Challenge.
 | **In Class**    | Practice-It  SC 3.14–16
-| **Reading**     |
+| **Reading**     | 3.1 “_Overloading Methods_”  3.2 “_Methods That Return Values_”
 | **Homework**    | SC 3.17  E 3.1
 
 ## 3.04
@@ -74,7 +74,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will write a program that uses parameters, the math class, and returns values.
 | **Assessments** | Students will submit an Equestria program by the end of class.
 | **In Class**    | [WS 3.4]  [Equestria]
-| **Reading**     | 3.3 up to “_Interactive Programs and Scanner Objects_”
+| **Reading**     | 
 | **Homework**    | SC 3.18–19
 
 ## 3.05
@@ -84,7 +84,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will be able to differentiate between primitive and object types.  Students will apply 0-indexing and string processing techniques to predict the output of a program.
 | **Assessments** | Students will complete WS 3.5
 | **In Class**    | [WS 3.5]
-| **Reading**     | 3.3 “_Interactive Programming_” and “_Sample Interactive Program_”
+| **Reading**     | 3.3 up to “_Interactive Programs and Scanner Objects_”
 | **Homework**    | SC 3.19–21
 
 ## 3.06
@@ -94,7 +94,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will write programs that accept user input using a scanner object.
 | **Assessments** | Students will complete Practice-It problems.
 | **In Class**    | Practice-It  SC 3.24–26  E 3.12,14,15
-| **Reading**     |
+| **Reading**     | 3.3 “_Interactive Programming_” and “_Sample Interactive Program_”
 | **Homework**    | Outline ch 3 (omit 3.4)
 
 ## 3.07
@@ -114,7 +114,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will find errors and correct their previously submitted homework and classwork assignment.
 | **Assessments** | Students will re-submit all homework assignments with corrected answers.
 | **In Class**    | Fix homework  webmaker.org
-| **Reading**     | 4.1 up to “_Nested If/Else Statements_”
+| **Reading**     | 
 | **Homework**    | SC 4.1–4
 
 ## 5.00
@@ -124,7 +124,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
 | **In Class**    | Review test
-| **Reading**     | 8.1
+| **Reading**     | 4.1 up to “_Nested If/Else Statements_”
 | **Homework**    | Test corrections
 
 ## 5.01
@@ -134,7 +134,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will be able to describe the relationship between classes, objects, and client code.  Students will be able to predict the output of the code that uses objects.
 | **Assessments** | Students will complete Practice-It questions.
 | **In Class**    | Practice-It  SC 8.1–5  [WS 5.1.1]
-| **Reading**     | 8.2 up to “_Mutators and Accessors_”
+| **Reading**     | 8.1
 | **Homework**    |
 
 ## 5.02
@@ -144,7 +144,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will be able to describe classes, objects, and client code.  Students will be able to predict the output of the code that uses objects.
 | **Assessments** | Students will complete WS 5.2 individually or in pairs.
 | **In Class**    | [WS 5.2]
-| **Reading**     | 8.3 up to “_The Keyword_ this”
+| **Reading**     | 8.2 up to “_Mutators and Accessors_”
 | **Homework**    | SC 8.9–11,13–16
 
 ## 5.03
@@ -154,7 +154,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will be able to describe and create classes, objects, and client code.  Students will be able to predict the output of the code that uses objects.
 | **Assessments** | Students will complete Practice-It questions.
 | **In Class**    | [WS 5.3.1]  [WS 5.3.2]
-| **Reading**     | 8.4
+| **Reading**     | 8.3 up to “_The Keyword_ this”
 | **Homework**    |
 
 ## 5.04
@@ -164,7 +164,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will be able to manipulate single-dimension arrays using a variety of array transversal algorithms.
 | **Assessments** | Students will teach a mini-lesson on printing, searching/replacing, testing for equality, reversing an array, or string traversal.  Students will complete a quiz at the end of Day 2.
 | **In Class**    | [WS 5.4] Teach mini-lessons
-| **Reading**     |
+| **Reading**     | 8.4
 | **Homework**    | SC 8.22–28
 
 ## Abbreviations
