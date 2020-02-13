@@ -729,7 +729,7 @@ Define instance variables for the attributes to be initialized through the const
 
 [MOD-2.B.1](#MOD-2.B.1)
 --
-An object's state refers to its attributes and their values at a given time and is defined by instance variables belonging to the object. This creates a has-a relationship between the object and its instance variables.
+An object's state refers to its attributes and their values at a given time and is defined by instance variables belonging to the object. This creates a has-a relationship between the object and its instance variables.
 
 [MOD-2.B.2](#MOD-2.B.2)
 --
@@ -806,10 +806,6 @@ The toString method is an overridden method that is included in classes to provi
 [MOD-2.D.7](#MOD-2.D.7)
 --
 If System.out.print or System.out,println is passed an object, that object's toString method is called, and the returned string is printed.
-
-[MOD-2.D:](#MOD-2.D:)
---
-Define behaviors of an object through non-void methods without parameters written in a class.
 
 [MOD-2.E](#MOD-2.E)
 --
