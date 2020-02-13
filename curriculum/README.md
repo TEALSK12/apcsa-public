@@ -252,6 +252,9 @@ to complete Java exercises from the BJP textbook and get immediate feedback on t
 Detailed instructions for teacher and student registration on the site are included in Unit 1
 lessons.
 
+Teachers must ensure that the following websites are added to the school’s network filter to allow access:
+practiceit.cs.washington.edu, pit.cs.washington.edu
+
 AP CS A TEALS volunteers have been provided the documentation (on Canvas) for access to the
 Practice-It dashboard. As an alternative, other instructors can use one of the following methods:
 
