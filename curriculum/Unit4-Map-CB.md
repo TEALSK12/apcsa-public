@@ -10,11 +10,11 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
 | [3.11] | Reducing Redundancy | (Refactoring competition) | Read 4.2 | Outline Chap 4 (omit 4.4, 4.5) |  | | |
-|  [3.12]   | Cumulative Algorithms  | Tally code on board,Collaborative Programming Exercise [WS 3.12]  | 5.1 skip “do/while loops”  | PP 4.2 | [CON-2]  | [CON-2.C], [CON-2.D] [CON-2.E] | [CON-2.C.1], [CON-2.C.2], [CON-2.C.3], [CON-2.C.4] [CON-2.E.4] |
-|  [3.13]   | while Loops  | Practice-It SC 5.1 - 5.4, E 5.2 [WS 3.13]  | 5.1 ”Random numbers”  | E 5.2 | [CON-2]  | [CON-2.C], [CON-2.D] [CON-2.E] | [CON-2.C.1], [CON-2.C.2], [CON-2.C.3], [CON-2.C.4] [CON-2.E.4] |
-| [3.14] | Random Numbers  | Practice-It SC 5.5-5.7; E 5.4, 5.5  | 5.2  | PP 5.1   | [CON-2] | [CON-2.D] [CON-2.E] | [CON-2.E.5] |
+|  [3.12]   | Cumulative Algorithms  | Tally code on board,Collaborative Programming Exercise [WS 3.12]  | 5.1 skip “do/while loops”  | PP 4.2 | [CON-2]  | [CON-2.C], [CON-2.D], [CON-2.E] | [CON-2.C.1], [CON-2.C.2], [CON-2.C.3], [CON-2.C.4], [CON-2.E.4] |
+|  [3.13]   | while Loops  | Practice-It SC 5.1 - 5.4, E 5.2 [WS 3.13]  | 5.1 ”Random numbers”  | E 5.2 | [CON-2]  | [CON-2.C], [CON-2.D], [CON-2.E] | [CON-2.C.1], [CON-2.C.2], [CON-2.C.3], [CON-2.C.4], [CON-2.E.4] |
+| [3.14] | Random Numbers  | Practice-It SC 5.5-5.7; E 5.4, 5.5  | 5.2  | PP 5.1   | [CON-2] | [CON-2.D], [CON-2.E] | [CON-2.E.5] |
 |  [3.15]   | Fencepost & Sentinel Loops  | [WS 3.15] Tea  Chap mini-lessons  | 5.3  | E 5.6, 5.8   | [CON-1] | [CON-1.F] |[CON-1.F.1]
-|  [3.16].1   | Boolean Logic  | Practice-It SC 5.27, 5.29 [WS 3.16] (RPS, Pig) [DeMorgan’s Law] [Poster 3.16.1] [Poster 3.16.2]  |   | Outline   Chap 5 (through 5.3)   |
+|  [3.16].1   | Boolean Logic  | Practice-It SC 5.27, 5.29 [WS 3.16] (RPS, Pig) [DeMorgan’s Law], [Poster 3.16.1], [Poster 3.16.2]  |   | Outline   Chap 5 (through 5.3)   |
 |  [3.16].2   | Boolean Logic (Day 2)  |   |   |    |
 |  [3.17]   | Finding & Fixing Errors  | (Fix HW)  | Review   Chap 3-5  | Submit questions for review   |
 |  [3.18].1  | Consumer Review Lab (day 1)  | Consumer Review Lab Activity 1  |   |
