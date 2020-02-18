@@ -42,21 +42,23 @@ reinforcing concepts and applying the tools, procedures, and code that were intr
 
 ### Introduction and Classroom Procedures \[10 minutes\]
 
-1. If your computer time requires you to move to another room or to change seating, you should teach
-   and/or review those procedures before introducing the lab material. It’s been a few weeks since
-   the last long form programming assignments, so make sure to ask students what the procedures are
-   if they:
+Classroom Proceedures: 
 
+1. If your computer time requires you to move to another room or to change seating, you should teach
+   and/or review those procedures before introducing the lab material. 
+   
+2. It’s been a few weeks since the last long form programming assignments, so make sure to ask students what the procedures are
+   if they:
    - have gotten stuck (check pseudocode and structure diagram),
    - finished early (move on to challenge questions), or
    - can’t remember a coding rule or procedure (check your notes, worksheets, and textbook, C2B4)
 
-   Unless you have had students submitting work electronically regularly, you should model and
-   review those procedures before students begin work.
+3. Unless you have had students submitting work electronically regularly, you should model and
+   review the procedures for sumbitting electronic work before students begin work.
 
-2. Introduce the programming project, taking a moment to talk strategy with your class.
+Introduce the programming project, taking a moment to talk strategy with your class.
 
-   **PROGRAMMING PROJECT:** Write a program that prints out the lyrics of the original song using the minimum number of words in ```print/ln()``` statements by factoring repetative words using nested for loops. Here are examples of two songs that can be used: "Row, Row, Row Your Boat", "Jingle Bells"
+   **PROGRAMMING PROJECT:** Write a program that prints out the lyrics of a simple, repetative song using the minimum number of words in ```print/ln()``` statements by factoring repetative words using nested for loops. Here are examples of two songs that can be used: "Row, Row, Row Your Boat", "Jingle Bells"
 
    Song 1: "Row, Row, Row Your Boat"
 
@@ -86,13 +88,13 @@ reinforcing concepts and applying the tools, procedures, and code that were intr
     In a one horse open sleigh
     ```
 
-   Students may have other childhood songs from their background that reflects their culture.  You can have a discussion on what songs they grew up with and look for patterns in the song.  In computer science, we look for these patterns as ways to factor out repetition in order to gain efficiency.  The two songs are just examples.  At the teacher's discretion, the students may substitute a song from their childhood.  Other songs that may be used are "Happy Birthday" or "You Are My Sunshine".
+1. In computer science, we look for these patterns as ways to factor out repetition in order to gain efficiency.Students may have other childhood songs from their background that reflects their culture.  You can have a discussion on what songs they grew up with and look for patterns in the song.  The two songs are just examples.  At the teacher's discretion, the students may substitute a song from their childhood.  Other songs that may be used are "Happy Birthday" or "You Are My Sunshine".
 
    _TIPS: Start with a structure diagram or writing out steps in English as pseudocode. Try to
    isolate repeated tasks into methods. Include comments in with your code so others can easily
    understand what the code is supposed to do.
 
-3. Ask your class for suggestions as to how to tackle this programming problem. Students should
+2. Ask your class for suggestions as to how to tackle this programming problem. Students should
    suggest drawing a structural diagram, building the program one method at a time (iterative
    development), and following the correction steps on their personal algorithms (debugging).
 
@@ -123,9 +125,9 @@ As an alternative to the "Row, Row, Row Your Boat", "Jingle Bells" song, there a
 
 The programming project portion has a number of differnt options.
 
-#### Option 1 "Row, Row, Row Your Boat"
+#### Option 1 Print it as a round 
 
-  "Row, Row, Row Your Board" is frequently sung in a round.  This challenge would be to use the factored "Row, Row, Row Your Boat" and print out two sets of lyrics for singing in a round. Singing in a round.  The following is one round but the project could be extented to generalize to N rounds.  Note students do not know how to get input yet so the N would be fixed.
+  "Row, Row, Row Your Board" is frequently sung in a round.  This challenge would be to use the factored song, in this case "Row, Row, Row Your Boat" and print out two sets of lyrics for singing in a round. The following is one round but the project could be extented to generalize to N rounds.  Note students do not know how to get input yet so the N would be fixed.
 
     ``` 
     1 Row, row, row your boat
@@ -144,12 +146,15 @@ The programming project portion has a number of differnt options.
     2 Life is but a dream
     ```
 
-#### Option 2, "Jingle Bells"
+#### Option 2 : Alternative Lyrics
 ##### Part 1: 
-Have students can look up the entire lyrics to the "Jingle Bells" song and factor the entire song.
+Have students can look up the entire lyrics to their song and factor the entire song.
 
 ##### Part 2: 
-There are a number of alternative lyrics to "Jingle Bells".  Have the students use the factored version of the "Jingle Bells" to create one of the alternative lyrics. Note: there may be inappropriate alternative lyrics to the song.  You will need to remind students they are in a learning environment and to select lyrics approproately.
+There are often a number of alternative lyrics to popular songs, 'Jingle Bells" is a good example of a song with lots of alternative lyrics.  Have the students use the factored version of the "Jingle Bells" to create one of the alternative lyrics. Note: there may be inappropriate alternative lyrics to the song.  You will need to remind students they are in a learning environment and to select lyrics approproately.
+
+#### Option 3: 
+After factoring the entire song, the students then 
 
 
 ### Students trade work, check, evaluate, and turn in \[5 minutes\]
@@ -167,7 +172,6 @@ It's fun to share artwork.  It spurs the imagination.  It's valuable to see how 
 Computers are great at doing repetitive tasks.  Ask a few questions to evaluate each other's code.  For example:  How may lines of code did you save by using loops?  A well decomposed solution should result in clean, simple code, using as few lines as possible.   How can the code be modified for some other interesting effect, or embellishment?
 
 ---
-
 
 Accommodation and Differentiation
 ---------------------------------
