@@ -14,7 +14,7 @@ classroom.
 | **LP**   | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
 |:---------|:--------------------------------------|:---------------|:----------------|:----------------|
 | [5.00]   |Test Review & Reteach|Review test|8.1|Test corrections
-| [5.01]   |Object Oriented Programming|Practice-It SC 8.1-8.5<br>[WS 5.1.1]|8.2 up to “Mutators and Accessors.”|
+| [5.01]   |Object Oriented Programming| SC 8.1-8.5<br>[WS 5.1.1]|8.2 up to “Mutators and Accessors.”|
 | [5.02]   |Object State & Behavior|[WS 5.2]|8.3 up to “The Keyword this.”|SC 8.9-8.11, 8.13-8.16
 | [5.03]   |Object Initialization: Constructors|[WS 5.3.1]<br>[WS 5.3.2]|8.4|
 | [5.04]   |Encapsulation|[WS 5.4] Mini-lessons||SC 8.22-8.28
@@ -53,8 +53,8 @@ classroom.
 | [Lesson 5.01]   | _Object Oriented Programming_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will be able to describe the relationship between classes, objects, and client code.<br>Students will be able to predict the output of the code that uses objects.
-| **Assessments** | Students will complete Practice-It questions.
-| **In Class**    | Practice-It<br>SC 8.1–5<br>[WS 5.1.1]
+| **Assessments** | Students will complete  questions.
+| **In Class**    | <br>SC 8.1–5<br>[WS 5.1.1]
 | **Reading**     | 8.2 up to “_Mutators and Accessors_”
 | **Homework**    |
 
@@ -71,7 +71,7 @@ classroom.
 | [Lesson 5.03]   | _Object Initialization: Constructors_
 |:----------------|:-------------------------------------
 | **Objectives**  | Students will be able to describe and create classes, objects, and client code.<br>Students will be able to predict the output of the code that uses objects.
-| **Assessments** | Students will complete Practice-It questions.
+| **Assessments** | Students will complete  questions.
 | **In Class**    | [WS 5.3.1]<br>[WS 5.3.2]
 | **Reading**     | 8.4
 | **Homework**    |

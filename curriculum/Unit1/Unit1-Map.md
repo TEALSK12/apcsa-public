@@ -12,11 +12,11 @@ classroom.
 
 | **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|
-| [1.01] | _Using Eclipse & Practice-It_         | [WS 1.1.1]<br>[WS 1.1.2] | | Explore Pokémon (pokemon.com, console, web site) |
-| [1.02] | _Algorithms & Computational Thinking_ | PB&J | 1.2 | Reflect on PB&J assignment<br>Continue exploring Pokémon |
-| [1.03] | _String & Console Output_             | Practice-It<br>SC 1.6–9, 1.11–14<br>LP Welcome | 1.3 | EX 1.1–5 |
+| [1.01] | Using Eclipse        | [WS 1.1.1]<br>[WS 1.1.2] | | Explore Pokémon (pokemon.com, console, web site) |
+| [1.02] | Algorithms & Computational Thinking | PB&J | 1.2 | Reflect on PB&J assignment<br>Continue exploring Pokémon |
+| [1.03] | _String & Console Output_             | <br>SC 1.6–9, 1.11–14<br>LP Welcome | 1.3 | EX 1.1–5 |
 | [1.04] | _Common Errors & Comments_            | [WS 1.4] | 1.4 | EX 1.6–9|
-| [1.05] | _Static Methods & Method Calls_       | Practice-It<br>SC 1.22, 1.23, 1.26, 1.29 | 1.5 | EX 1.11, 1.12, 1.14, 1.16 |
+| [1.05] | _Static Methods & Method Calls_       | <br>SC 1.22, 1.23, 1.26, 1.29 | 1.5 | EX 1.11, 1.12, 1.14, 1.16 |
 | [1.06] | _Static Methods & Method Calls_       | LP StarFigures<br>LP PikachuChatter | | Outline ch 1<br>PP 1.1, 1.3 |
 | [1.07] | _Programming Project_                 | PP 1.2, 1.5 | | Note check (add summaries if needed) |
 | [1.08] | _Finding & Fixing Errors_             | Fix homework | Review ch 1 | Submit questions for review |
@@ -25,10 +25,10 @@ classroom.
 | [1.XX] | _Lesson 1.07 Alternative_  | Ideate and Construct Project  |  |  |
 
 ## 1.01
-| [Lesson 1.01]   | _Using Eclipse & Practice-It_
+| [Lesson 1.01]   | _Using Eclipse & _
 |:----------------|:-----------------------------
-| **Objectives**  | Students will be able to open Eclipse, create and save a file in Eclipse, and use Practice-It.
-| **Assessments** | Students will demonstrate Plug-In and Un-Plug procedures for the teacher.<br>Students will log in and submit a sample problem in Practice-It.
+| **Objectives**  | Students will be able to open Eclipse, create and save a file in Eclipse, and use .
+| **Assessments** | Students will demonstrate Plug-In and Un-Plug procedures for the teacher.<br>Students will log in and submit a sample problem in .
 | **In Class**    | [WS 1.1.1]<br>[WS 1.1.2]
 | **Reading**     |
 | **Homework**    | Explore Pokémon (pokemon.com, console, web site)
@@ -46,8 +46,8 @@ classroom.
 | [Lesson 1.03]   | _String & Console Output_
 |:----------------|:-------------------------
 | **Objectives**  | Students will correctly assemble a complete program that uses a class header, body, and main method.<br>Students will correctly use print, println, and escape sequences.
-| **Assessments** | Students will create a starter Pokémon program<br>Students will complete several Practice-It questions.
-| **In Class**    | Practice-It<br>SC 1.6–9, 1.11–14<br>LP Welcome
+| **Assessments** | Students will create a starter Pokémon program<br>Students will complete several  questions.
+| **In Class**    | <br>SC 1.6–9, 1.11–14<br>LP Welcome
 | **Reading**     | 1.3
 | **Homework**    | EX 1.1–5
 
@@ -64,8 +64,8 @@ classroom.
 | [Lesson 1.05]   | _Static Methods & Method Calls_
 |:----------------|:-------------------------------
 | **Objectives**  | Students will use procedural decomposition to plan complex programs using structure diagrams.<br>Students will manage complexity by using method calls.
-| **Assessments** | Students will complete Practice-It problems.
-| **In Class**    | Practice-It<br>SC 1.22, 1.23, 1.26, 1.29
+| **Assessments** | Students will complete  problems.
+| **In Class**    | <br>SC 1.22, 1.23, 1.26, 1.29
 | **Reading**     | 1.5
 | **Homework**    | EX 1.11, 1.12, 1.14, 1.16
 
@@ -73,7 +73,7 @@ classroom.
 | [Lesson 1.06]   | _Static Methods & Method Calls_
 |:----------------|:-------------------------------
 | **Objectives**  | Students will use structure diagrams to plan complex programs.<br>Students will manage complexity by using method calls.
-| **Assessments** | Students will complete Practice-It problems, students will write a structured Pikachu program.
+| **Assessments** | Students will complete  problems, students will write a structured Pikachu program.
 | **In Class**    | LP StarFigures<br>LP PikachuChatter
 | **Reading**     |
 | **Homework**    | Outline ch 1<br>PP 1.1, 1.3
