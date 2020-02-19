@@ -116,7 +116,10 @@ As an alternative to the "Row, Row, Row Your Boat", "Jingle Bells" song, there a
 
 - Happy Birthday
 - You Are My Sunshine
+- There was an Old Lady Who Swallowed a Fly
+- Feliz Navidad
 - Songs from student's childhood
+
 
 ### Programming Project [30 minutes]
 
@@ -155,6 +158,8 @@ Have students can look up the entire lyrics to their song and factor the entire 
 Students can make their own song using the same music.  Have students think up thier own alternative lyrics and substitute it in the print statements to create their own song.  
 For example, substituting "drive" for "row" and "car" for "boat", the program would now generate "drive, drive, drive your car".
 Students can pick a popular song they know the chorus to, factor the song in Java, and substutute their own lyrics.
+
+
 
 ### Bonus:
 As a bonus to the project, print out the number of words for each line:
