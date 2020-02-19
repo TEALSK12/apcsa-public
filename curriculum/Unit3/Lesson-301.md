@@ -9,7 +9,7 @@ Overview
 
 ### Assessments — _Students will…_
 - **Teach** a mini-lesson explaining the relationship between parameters and values
-- **Submit** Practice-It questions
+- **Submit** Practice questions
 
 ### Homework — _Students will…_
 - **Read** BJP 3.1 “Limitations of Parameters” and “Multiple Parameters”
