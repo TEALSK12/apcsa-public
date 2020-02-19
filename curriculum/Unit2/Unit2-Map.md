@@ -21,6 +21,7 @@ classroom.
 | [2.06] | nested for Loops	                     | Practice SC 2.28-2.30<br>(4th, 5th: 2.31-2.33), E 2.5 | 2.4 “Scope” and “Pseudocode" | SC 2.26, 2.27<br>(4th, 5th: 2.29, 2.30),E 2.4 |
 | [2.07] | Scope & Pseudocode	                   | [WS 2.7]<br>Discuss PP 2.1 |	Read 2.4 “Class Constants” |SC 2.31-2.33<br>(4th, 5th: 2.34-2.36)|
 | [2.08] | Programming Project	                 | Start PP 2.4	   | | Outline ch 2 (omit 2.5) |
+| [2.08a] | Programming Project	Alternative  - Lyrics | Start PP 2.4	   | | Outline ch 2 (omit 2.5) |
 | [2.09] | Programming Project	                 | Complete PP 2.4 | | \[_TBD practice question_\] |
 | [2.10] | Finding & Fixing Errors	             | Fix HW	       | Review ch 2 (omit 2.5)	| Submit questions for review |
 | [2.11] | Review	(Review questions)             | [WS 2.11]<br>practice test |	| Study |
@@ -156,6 +157,7 @@ classroom.
 [2.06]: Lesson-206.md
 [2.07]: Lesson-207.md
 [2.08]: Lesson-208.md
+[2.08a]: Lesson-208.md
 [2.09]: Lesson-209.md
 [2.10]: Lesson-210.md
 [2.11]: Lesson-211.md
