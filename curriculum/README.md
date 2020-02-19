@@ -180,35 +180,44 @@ Aligned to the College Board's curriculum framework, students explore the big id
     Computers and computing have revolutionized our lives. To use computing safely and responsibly, we need to be aware of privacy, security, and ethical issues. As programmers, we need to understand how our programs will be used and be responsible for the consequences.
 
 #### Computational Thinking Practices: Skills
+1. Program Design and Algorithm Development  
+  A. Determine an appropriate program design to solve a problem or accomplish a task (not assessed by AP Exam).  
+  B. Determine code that would be used to complete code segments.  
+  C. Determine code that would be used to interact with completed program code.
 
-1. Program Design and Algorithm Development
-    * Determine an appropriate program design to solve a problem or accomplish a task (not assessed by AP Exam).
-    * Determine code that would be used to complete code segments.
-    * Determine code that would be used to interact with completed program code.
+    *Curriculum Example of Skill 1.B:* In Lesson 1.06, students are challenged to design and write a class that reproduces a particular shape pattern that encourages decomposition into multiple static methods.
 
-2. Code Logic
-    * Apply the meaning of specific operators.
-    * Determine the result or output based on statement execution order in a code segment without method calls (other than output).
-    * Determine the result or output based on the statement execution order in a code segment  containing method calls.
-    * Determine the number of times a code segment will execute.
+2. Code Logic  
+  A. Apply the meaning of specific operators.  
+  B. Determine the result or output based on statement execution order in a code segment without method calls (other than output).  
+  C. Determine the result or output based on the statement execution order in a code segment  containing method calls.  
+  D. Determine the number of times a code segment will execute.
 
-3. Code Implementation
-    * Write program code to create objects of a class and call methods.
-    * Write program code to define a new type by creating a class.
-    * Write program code to satisfy method specifications using expressions, conditional statements, and iterative statements.
-    * Write program code to create, traverse, and manipulate elements in 1D array or ArrayList  objects.
-    * Write program code to create, traverse, and manipulate elements in 2D array objects.
+    *Curriculum Example of Skill 2.?:* In Lesson ?.?, 
 
-4. Code Testing
-    * Use test-cases to find errors or validate results.
-    * Identify errors in program code.
-    * Determine if two or more code segments yield equivalent results. 
+3. Code Implementation  
+  A. Write program code to create objects of a class and call methods.  
+  B. Write program code to define a new type by creating a class.  
+  C. Write program code to satisfy method specifications using expressions, conditional statements, and iterative statements.  
+  D. Write program code to create, traverse, and manipulate elements in 1D array or ArrayList  objects.  
+  E. Write program code to create, traverse, and manipulate elements in 2D array objects.
 
-5. Documentation
-    * Describe the behavior of a given segment of program code.
-    * Explain why a code segment will not compile or work as intended.
-    * Explain how the result of program code changes, given a change to the initial code.
-    * Describe the initial conditions that must be met for a program segment to work as intended or described.
+    *Curriculum Example of Skill 3.?:* In Lesson ?.?, 
+
+4. Code Testing  
+  A. Use test-cases to find errors or validate results.  
+  B. Identify errors in program code.  
+  C. Determine if two or more code segments yield equivalent results.
+
+    *Curriculum Example of Skill 4.?:* In Lesson ?.?, 
+
+5. Documentation  
+  A. Describe the behavior of a given segment of program code.  
+  B. Explain why a code segment will not compile or work as intended.  
+  C. Explain how the result of program code changes, given a change to the initial code.  
+  D. Describe the initial conditions that must be met for a program segment to work as intended or described.
+
+    *Curriculum Example of Skill 5.?:* In Lesson ?.?, 
 
 #### AP Exam Preparation
 All of the Unit tests are in the AP exam format. In classes where many students will take the exam, instructors should gradually adjust the testing environment to mimic that of the exam:
