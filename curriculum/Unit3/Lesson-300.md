@@ -109,7 +109,7 @@ a few options (some more drastic than others):
   complicated assignments that would normally be done at home, can be completed with your help when
   they come to class.
 
-  If students don’t have a computer to work on Practice-It problems at home, create printed-out
+  Create printed-out
   sheets instead that students can write code onto. Class time should then be filled with reading
   assignments, and more complicated coding practice so that you are available to tutor as needed.
 

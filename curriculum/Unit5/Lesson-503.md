@@ -8,7 +8,7 @@ Overview
 - **Predict** the output of the code that uses objects.
 
 ### Assessments — _Students will…_
-- **Complete** Practice-It questions
+- **Complete** Practice questions
 
 ### Homework — _Students will…_
 - **Read** BJP 8.4
@@ -124,7 +124,7 @@ students work together with the guidance of WS 5.3.1
 
 ---
 
-#### Empasize with students...
+#### Emphasize with students...
 
 #### Big Ideas - Tools and technologies can be adapted for specific purposes
 
