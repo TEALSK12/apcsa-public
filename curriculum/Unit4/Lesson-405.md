@@ -8,7 +8,7 @@ Overview
 - **Construct** arrays of objects
 
 ### Assessments — _Students will…_
-- **Complete** Practice-It questions
+- **Complete** Practice questions
 - **Model** memory manipulation using array whiteboards
 
 ### Homework — _Students will…_
@@ -33,7 +33,7 @@ Pacing Guide
 |--------------------------------------|-----------:|
 | Bell-work and attendance             |       5min |
 | Introduction & small-group practice  |   20–25min |
-| Practice-It Questions                |   25–30min |
+| Practice Questions                |   25–30min |
 | Error-checking algorithm (see below) |      10min |
 
 
@@ -182,26 +182,23 @@ physical space, so make sure that all groups are working along with their array 
      };
      ```
 
-### Practice-It Questions \[25-30 minutes\]
-1. Depending on the mood and frustration levels in the class, you may choose to have students work
-   in pairs.
+### Practice Questions \[25-30 minutes\]
+1. Depending on the mood and frustration levels in the class, you may choose to have students workin pairs.
 
-   a. If students are really having a rough time, work through the first Practice-It question
+   a. If students are really having a rough time, work through the first Practice question
       together as a whole group.
 
    b. Put soft, soothing (but upbeat) music on in the background to encourage work
 
-2. Have students log in to Practice-It to complete the following Practice-It self-check questions:
+2. Have students complete the following Self Check practice problems at the back of the chapter. 
 
-   a. arrayCodeTracing3<br>
-   b. arrayCodeTracing4<br>
-   c. arrayMystery2<br>
-   d. arrayMystery3<br>
-   e. isPalindrome
+   a. Self-Check 7.22: arrayCodeTracing3
+   b. Self-Check 7.23: arrayCodeTracing4
+   c. Self-Check 7.25: arrayMystery2
+   d. Self-Check 7.26: arrayMystery3
+   e. Self-Check 7.30: isPalindrome
 
-3. Have students complete Practice-It Exercise append.
-
-4. If more 25% or more of the class is struggling, return to whole group with the stipulation that
+3. If more 25% or more of the class is struggling, return to whole group with the stipulation that
    students who understand the task may continue working independently. Otherwise, encourage peer
    tutoring, or using the textbook or notebooks for help.
 

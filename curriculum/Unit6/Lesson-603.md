@@ -8,7 +8,7 @@ Overview
 - **Write** subclass methods that access superclass methods.
 
 ### Assessments — _Students will…_
-- **Complete** Practice-It questions
+- **Complete** Practice questions
 - **Complete** a worksheet
 
 ### Homework — _Students will…_
@@ -42,7 +42,7 @@ Pacing Guide
 |-------------------------------|-----------:|
 | Bell-work and attendance      |       5min |
 | Review of the project         |      10min |
-| Student practice: Practice-It |      15min |
+| Student practice    |      15min |
 | Student practice: WS 6.3      |      25min |
 
 
@@ -115,14 +115,13 @@ method.
      
      - Have students navigate to CS Awesome [3.7. Comparing Objects], view the Activity 1 video and complete Activities 1-7.
      
-### Student Practice: Practice-It \[15 minutes\]
-1. Have students work individually or in pairs to complete the following Practice-It questions:
+### Student Practice: \[15 minutes\]
+1. Have students work individually or in pairs to complete the following Practice questions:
 
-   a. subclassSyntax<br>
-   b. inheritanceVariableSyntax<br>
-   c. CarTruck<br>
-   d. CarTruck2<br>
-   e. MonsterTruck
+   a. Self-Check 9.3: subclassSyntax
+   b. Self-Check 9.10: inheritanceVariableSyntax
+   c. Self-Check 9.8: CarTruck
+   d. Self-Check 9.9: CarTruck2
 
 ### Student Practice: WS 6.3 \[25 minutes\]
 
