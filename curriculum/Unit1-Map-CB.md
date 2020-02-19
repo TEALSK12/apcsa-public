@@ -17,7 +17,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [1.04] | _Common Errors & Comments_            | [WS 1.4] | 1.3 | EX 1.6–9|[MOD-2]|[MOD-2.C]|[MOD-2.C.1],[MOD-2.C.2]|
 | [1.05] | _Static Methods & Method Calls_       | Practice-It SC 1.22, 1.23, 1.26, 1.29 | 1.4 | EX 1.11, 1.12, 1.14, 1.16 |[MOD-2]|[MOD-2.G]|[MOD-2.G.1],[MOD-2.G.2]
 | [1.06] | _Static Methods & Method Calls_       | LP StarFigures LP PikachuChatter |1.5 | Outline ch 1 PP 1.1, 1.3 |[MOD-2]|[MOD-2.G]|[MOD-2.G.1],[MOD-2.G.2]
-| [1.07] | _Programming Project_                 | PP 1.2, 1.5 | | Note check (add summaries if needed) |
+| [1.07] | _Programming Project_                 | PP 1.2, 1.5 | | Note check (add summaries if needed) | [MOD-1], [MOD-2], [VAR-1] | [VAR-1.A], [MOD-1.A], [MOD-2.C], [MOD-2.G], [VAR-1.G]
 | [1.08] | _Finding & Fixing Errors_             | Fix homework | | Submit questions for review |
 | [1.09] | _Review_                              | Review questions [WS 1.9] Practice test | Review ch 1  | Study |
 | [1.99] | _Unit 1 Test_                         | Test 0 Section I Test 0 Section II | | |
@@ -30,7 +30,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [2.05] | for Loops                         | [WS 2.5] Practice-It SC 2.18,2.23, 2.24 (4th, 5th: 2.21,2.26,2.27) | 2.3 up to “Nested for Loops" | SC 2.19-2.21 (4th, 5th: 2.22-2.24) |
 | [2.06] | nested for Loops                   | Practice-It SC 2.28-2.30 (4th, 5th: 2.31-2.33), E 2.5 | 2.3 “Nested for Loops” | SC 2.26, 2.27 (4th, 5th: 2.29, 2.30),E 2.4 |
 | [2.07] | Scope & Pseudocode                   | [WS 2.7] Discuss PP 2.1 | 2.4 “Scope” and “Pseudocode" |SC 2.31-2.33 (4th, 5th: 2.34-2.36) |
-| [2.08] | Programming Project                 | Start PP 2.4    | Read 2.4 “Class Constants” | Outline ch 2 (omit 2.5) |
+| [2.08] | Programming Project                 | Start PP 2.4    | Read 2.4 “Class Constants” | Outline ch 2 (omit 2.5) | [CON-1], [VAR-1] | [CON-1.A], [CON-1.B], [CON-1.C], [VAR-1.B]
 | [2.09] | Programming Project                 | Complete PP 2.4 | | \[_TBD practice question_\] |
 | [2.10] | Finding & Fixing Errors             | Fix HW        | | Submit questions for review |
 | [2.11] | Review (Review questions)             | [WS 2.11] practice test | Review ch 2 (omit 2.5) | Study |
