@@ -32,7 +32,7 @@ Pacing Guide
 | Instruction                     |      15min |
 | Student mini-lesson preparation |      10min |
 | Student mini-lesson delivery    |      10min |
-| Practice Activity            |      10min |
+| Practice Activity               |      10min |
 
 
 Procedure
@@ -147,18 +147,18 @@ our programs if we don’t make them adaptable.
 Have student groups sequentially teach through the example in the book, demonstrating the changes
 to the stored value, predicting output, and tracing the flow of control.
 
-### Practice-It Activity (if needed) \[10 minutes\]
+### Practice Activity (if needed) \[10 minutes\]
 If the majority of students are understanding the content, allow students to work individually on
-Practice-It self-check problems:
+practice self-check problems:
 
-  a. methodHeaderSyntax
-  b. MysteryNums
-  c. Oops3-errors
+  a. Self-Check 3.1: methodHeaderSyntax
+  b. Self-Check 3.2: MysteryNums
+  c. Self-Check 3.3: Oops3-errors
 
 
 Accommodation and Differentiation
 ---------------------------------
-If students are struggling with content, you might opt to work on Practice-It in a whole group
+If students are struggling with content, you might opt to work on the practice probme as a whole group
 setting. In some classes, the teaching exercise might take an entire class period.
 
 - To keep from losing too much instructional time, remind students of their presentation time limit

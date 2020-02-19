@@ -8,7 +8,7 @@ Overview
 - **Construct** loops to execute simple tasks.
 
 ### Assessments — _Students will…_
-- **Trace and construct** loops in Practice-It problems
+- **Trace and construct** loops in practice problems
 
 ### Homework — _Students will…_
 - **Read** BJP 2.3 “Nested for Loops”
@@ -28,7 +28,6 @@ Pacing Guide
 |---------------------------|-----------:|
 | Bell-work and attendance  |       5min |
 | Introduction to for loops |      15min |
-| Practice-It activity      |      35min |
 
 
 Procedure
@@ -123,21 +122,21 @@ There are several flow chart creation programs available online, these can help 
    Loops can be also analyzed to determine how many times they run. This is called run-time analysis or a statement execution count. 
    For each of the above examples, ask how many times each loop executes.
    
-### Practice-It Activity \[35 minutes\]
+### Practice Activity \[35 minutes\]
 
 1. Depending on the mood and frustration levels in the class, you may choose to have students work
    in pairs.
 
-   a. If students are really having a rough time, work through the first Practice-It question
+   a. If students are really having a rough time, work through the first practice question
       together as a whole group.
 
    b. Put soft, soothing (but upbeat) music on in the background to ease tension!
 
-2. Have students log in to Practice-It to complete the following Practice-It self-check questions:
+2. Have students complete the following self-check questions:
 
-   a. Count2
-   b. fingerTrap
-   c. howManyLines
+   a. Self-Check 2.21: Count2
+   b. Self-Check 2.26: fingerTrap
+   c. Self-Check 2.27: howManyLines
 
 3. If more 25% or more of the class is struggling, return to whole group with the stipulation that
    students who get it may continue working independently.
@@ -146,7 +145,7 @@ There are several flow chart creation programs available online, these can help 
 Accommodation and Differentiation
 ---------------------------------
 If you have students who are speeding through this lesson, you should encourage them to complete
-Practice-It self-check problems “numberTotal” and “blastoff”.
+Self-Check 2.25: numberTotal and Self-Check 2.28: blastOff.
 
 
 Teacher Prior CS Knowledge

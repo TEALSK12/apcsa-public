@@ -10,7 +10,7 @@ Overview
 - **Differentiate** between while loops, if statements, and for loops
 
 ### Assessments — _Students will…_
-- **Complete** Practice-It questions
+- **Complete** Practice questions
 
 ### Homework — _Students will…_
 - **Read** BJP 5.1 “Random Numbers”
@@ -30,7 +30,7 @@ Pacing Guide
 |---------------------------------|-----------:|
 | Bell-work and attendance        |       5min |
 | Introduction & think-pair-share |      15min |
-| Student Practice-It activity    |      35min |
+| Student practice activity    |      35min |
 
 
 Procedure
@@ -113,16 +113,15 @@ Procedure
 
    - In the same pairs, have students rewrite the while loop as a for loop.
 
-### Student Practice-It Activity \[35 minutes\]
-1. Have students complete the following Practice-It problems:
+### Student Practice Activity \[35 minutes\]
+1. Have students complete the following practice problems:
 
-   1. whileLoops<br>
-   2. forToWhile<br>
-   3. whileLoopMystery1<br>
-   4. whileLoopMystery2
+   1. Self-Check 5.1: whileLoops
+   2. Self-Check 5.2: forToWhile
+   3. Self-Check 5.3: whileLoopMystery1
+   4. Self-Check 5.4: whileLoopMystery2
 
-2. If students complete these problems with time to spare, have them complete Practice-It exercise
-   “gcd.”
+2. If students complete these problems with time to spare, have them complete  Exercise 5.2: gcd.
 
 
 Accommodation and Differentiation

@@ -10,7 +10,6 @@ Overview
 
 ### Assessments — _Students will…_
 - **Create** starter Pokémon program
-- **Complete** several Practice-It questions
 
 ### Homework — _Students will…_
 - **Read** BJP 1.3
@@ -24,7 +23,6 @@ Materials & Prep
 - **ASCII Pokémon art**
   - Pokéball: http://tinyurl.com/pba5x8r
   - Pikachu: http://tinyurl.com/oa3g2al
-- **Practice-It bookmarks** (installed on student computers, if possible)
 
 If you do not have a projector in your classroom, print out pictures of the ASCII art, and place
 them around the room (or on desks) for students to pass around. Make sure you print pictures out
@@ -37,8 +35,7 @@ Pacing Guide
 |---------------------------------------|-----------:|
 | Bell-work and attendance              |       5min |
 | Introduction to vocabulary and syntax |      10min |
-| Signing up/into Practice-It           |      10min |
-| Practice-It questions                 |      15min |
+| Practice questions                    |      15min |
 | Pokémon challenge                     |      10min |
 | Students trade work and debug         |       5min |
 
@@ -111,24 +108,19 @@ and let them know that they will be creating their own pictures today as well.
    - Finally, bring students’ attention to **escape sequences**, and add some quotation marks to
      your sample code as an example.
 
-### Signing Up/Into Practice-It \[10 minutes\]
-Walk your students through Practice-It account sign-up. Students will need access to their email
-accounts to complete set up. (If your classroom does not have computers, transfer Practice-It
-questions to a worksheet, and have students complete the practice problems by writing out the
-answers.)
 
-### Practice-It Questions (15 minutes)
+### Chapter 1: Introduction to Java Programming Questions (15 minutes)
 
-Have students complete the following Practice-It questions:
+Have students complete the following questions:
 
-  1. legalIdentifiers
-  2. outputSyntax
-  3. confounding
-  4. Archie
-  5. downwardSpiral
-  6. DoubleSlash
-  7. Sally
-  8. TestOfKnowledge
+  1. Self-Check 1.6: legalIdentifiers
+  2. Self-Check 1.7: outputSyntax
+  3. Self-Check 1.8: confounding
+  4. Self-Check 1.9: Archie
+  5. Self-Check 1.11: downwardSpiral
+  6. Self-Check 1.12: DoubleSlash
+  7. Self-Check 1.13: Sally
+  8. Self-Check 1.14: TestOfKnowledge
 
 ### Pokémon Challenge (10 minutes)
 On the board or projector, post the following challenge:
