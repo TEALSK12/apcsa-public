@@ -32,7 +32,7 @@ Pacing Guide
 | Instruction                     |      15min |
 | Student mini-lesson preparation |      10min |
 | Student mini-lesson delivery    |      10min |
-| Practice-It Activity            |      10min |
+| Practice Activity            |      10min |
 
 
 Procedure
