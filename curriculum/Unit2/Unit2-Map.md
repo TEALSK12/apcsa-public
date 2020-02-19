@@ -179,7 +179,7 @@ classroom.
 [2.06]: Lesson-206.md
 [2.07]: Lesson-207.md
 [2.08]: Lesson-208.md
-[2.08a]: Lesson-208.md
+[2.08a]: Lesson-208a.md
 [2.09]: Lesson-209.md
 [2.10]: Lesson-210.md
 [2.11]: Lesson-211.md
@@ -194,7 +194,7 @@ classroom.
 [Lesson 2.06]: Lesson-206.md
 [Lesson 2.07]: Lesson-207.md
 [Lesson 2.08]: Lesson-208.md
-[Lesson 2.08a]: Lesson-20a.md
+[Lesson 2.08a]: Lesson-208a.md
 [Lesson 2.09]: Lesson-209.md
 [Lesson 2.10]: Lesson-210.md
 [Lesson 2.11]: Lesson-211.md
