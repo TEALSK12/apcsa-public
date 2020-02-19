@@ -64,12 +64,12 @@ Introduce the programming project, taking a moment to talk strategy with your cl
 ```java
 Row, row, row your boat
 Gently down the stream
-Merrily, merrily, merrily
+Merrily, merrily, merrily, merrily
 Life is but a dream
 
 Row, row, row your boat
 Gently down the stream
-Merrily, merrily, merrily
+Merrily, merrily, merrily, merrily
 Life is but a dream
 ```
 
@@ -133,11 +133,11 @@ The programming project portion has a number of differEnt options.
 1 Gently down the stream
 2 Row, row, row your boat
 
-1 Merrily, merrily, merrily
+1 Merrily, merrily, merrily, merrily
 2 Gently down the stream
 
 1 Life is but a dream
-2 Merrily, merrily, merrily
+2 Merrily, merrily, merrily, merrily
 
 1
 2 Life is but a dream
@@ -153,12 +153,19 @@ Have students can look up the entire lyrics to their song and factor the entire 
 
 #### Option 3: 
 Students can make their own song using the same music.  Have students think up thier own alternative lyrics and substitute it in the print statements to create their own song.  
-For example, substituting "rrive" for "row" and "car" for "boat", the program would now generate "drive, drive, drive your car".
+For example, substituting "drive" for "row" and "car" for "boat", the program would now generate "drive, drive, drive your car".
 Students can pick a popular song they know the chorus to, factor the song in Java, and substutute their own lyrics.
 
-#### Option 3
+### Bonus:
+As a bonus to the project, print out the number of words for each line:
 
-After factoring the entire song, the students then
+```java
+Row, row, row your boat (5)
+Gently down the stream (4)
+Merrily, merrily, merrily, merrily (4)
+Life is but a dream (5)
+```
+
 
 ### Students trade work, check, evaluate, and turn in [5 minutes]
 

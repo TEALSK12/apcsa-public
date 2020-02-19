@@ -179,6 +179,7 @@ classroom.
 [2.06]: Lesson-206.md
 [2.07]: Lesson-207.md
 [2.08]: Lesson-208.md
+[2.08a]: Lesson-208.md
 [2.09]: Lesson-209.md
 [2.10]: Lesson-210.md
 [2.11]: Lesson-211.md

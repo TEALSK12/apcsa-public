@@ -58,11 +58,7 @@ class.
    Ideally, this would be a student solution. Walk the class through the solution, having students
    help you trace the flow of control and predicting output to confirm that the program works.
 
-   - Ask students what they would need to change in order to make the hour glass X units larger.
-     Only change the values that students specify in order to drive home the idea that many values
-     in the for loop termination must be updated.
-
-   - Suggest that there might be an easier way to update all of these values at once, and introduce
+   - Suggest that there might be an easier way to update repetitive values at once, and introduce
      **class constants**.
 
 2. Trace or run the program with the updated class constants to demonstrate that this does indeed
