@@ -21,6 +21,7 @@ classroom.
 | [2.06] | nested for Loops                     | Practice SC 2.28-2.30  (4th, 5th: 2.31-2.33), E 2.5 | 2.4 “Scope” and “Pseudocode" | SC 2.26, 2.27  (4th, 5th: 2.29, 2.30),E 2.4 |
 | [2.07] | Scope & Pseudocode                   | [WS 2.7]  Discuss PP 2.1 | Read 2.4 “Class Constants” |SC 2.31-2.33  (4th, 5th: 2.34-2.36)|
 | [2.08] | Programming Project                | Start PP 2.4   | | Outline Ch. 2 (omit 2.5) |
+| [2.08a] | Programming Project                | Start PP 2.4   | | Outline Ch. 2 (omit 2.5) |
 | [2.09] | Programming Project                 | Complete PP 2.4 | | [_TBD practice question_] |
 | [2.10] | Finding & Fixing Errors           | Fix HW      | Review Ch. 2 (omit 2.5) | Submit questions for review |
 | [2.11] | Review (Review questions)             | [WS 2.11]  practice test || Study |
@@ -116,6 +117,16 @@ classroom.
 | **Reading**     |
 | **Homework**    | Outline Ch. 2 (omit 2.5)
 
+## 2.08a
+
+| [Lesson 2.08a]   | _Alternative Programming Project - Lyrics_
+|:----------------|:---------------------
+| **Objectives**  | Students will plan and construct a structured program containing nested loops.
+| **Assessments** | Students will submit a complete, functional program by the end of next class.
+| **In Class**    | Start PP 2.4
+| **Reading**     |
+| **Homework**    | Outline Ch. 2 (omit 2.5)
+
 ## 2.09
 
 | [Lesson 2.09]   | _Programming Project_
@@ -182,6 +193,7 @@ classroom.
 [Lesson 2.06]: Lesson-206.md
 [Lesson 2.07]: Lesson-207.md
 [Lesson 2.08]: Lesson-208.md
+[Lesson 2.08a]: Lesson-20a.md
 [Lesson 2.09]: Lesson-209.md
 [Lesson 2.10]: Lesson-210.md
 [Lesson 2.11]: Lesson-211.md
