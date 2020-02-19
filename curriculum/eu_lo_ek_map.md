@@ -68,8 +68,7 @@
 ## MOD-3	When multiple classes contain common attributes and behaviors, programmers create a new class containing the shared attributes and behaviors forming a hierarchy. Modifications made at the highest level of the hierarchy apply to the subclasses	
 ### MOD-3.B	Create an inheritance relationship from a subclass to the superclass.	
 #### [6.03]	Interacting with the Object Superclass	
-#### [6.01 01]	Inheritance Basics (day 1)	
-#### [6.01 02]	Inheritance Basics (day 2)	
+#### [6.01]	Inheritance Basics	
 ### MOD-3.C	Define reference variables of a superclass to be assigned to an object of a subclass in the same hierarchy.	
 #### [6.05]	Has-a Relationships	
 ### MOD-3.D	Call methods in an inheritance relationship.	
