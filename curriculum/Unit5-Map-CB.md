@@ -36,7 +36,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [5.06a] 08|Data Lab (day 8)|Data Lab Activity 4 (day 4)||Cont. Data Lab Activity 9| | | |
 | [5.07]   |Review|Review question  [WS 5.7] Test practice||Study| | | |
 |  5.99    |(Unit 5 test)|Test 4 Section I  Test 4 Section II|| | | |
-| [5.XX]   |PictureLab Alternative ||| | | |
+| [5.XX]   |PictureLab Alternative | | | | [MOD-2], [MOD-3], [VAR-1] | [MOD-2.A], [MOD-2.D], [MOD-2.E], [MOD-2.F], [MOD-2.G], [MOD-3.A], [VAR-1.G], [VAR-1.H]
+
 
 
 ## 5.00
