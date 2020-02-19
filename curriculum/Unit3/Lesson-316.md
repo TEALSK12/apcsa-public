@@ -184,8 +184,8 @@ and 3 55-minute class periods to complete
 3. Review operator precedence on your classroom poster 3.16.2 (or projected overhead, if you’re
    having a student make the poster for you during class).
 
-4. Check for student understanding by having students complete Practice-It self-check questions
-   assertions1 and assertions3.
+4. Check for student understanding by having students complete self-check questions
+   Self-Check 5.27: assertions1 and Self-Check 5.29: assertions3.
 
 ### Student Programming Activity \[40 minutes\]
 On the projector, board or as a handout (WS 3.16), give students the following programming prompt. A
@@ -240,7 +240,7 @@ The small game you design above will implement interesting game play ideas. Bool
 Accommodation and Differentiation
 ---------------------------------
 Invite your artistic students to create posters 3.16.1 and 3.16.2 for your classroom. If needed,
-work through the 2 Practice-It questions as a whole class.
+work through the 2 practice questions as a whole class.
 
 For your more advanced students, you might encourage them to create more complex algorithms, or more
 advanced interaction with the user. If they are interested in AI and machine learning, invite them

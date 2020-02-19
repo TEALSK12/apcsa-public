@@ -8,7 +8,7 @@ Overview
 - **Construct** loops to execute simple tasks.
 
 ### Assessments — _Students will…_
-- **Trace and construct** nested loops in Practice-It problems.
+- **Trace and construct** nested loops in practice problems.
 
 ### Homework — _Students will…_
 - **Read** BJP 2.4 “Scope” and “Pseudocode”
@@ -27,7 +27,7 @@ Pacing Guide
 |----------------------------------|-----------:|
 | Bell-work and attendance         |       5min |
 | Introduction to nested for loops |      15min |
-| Practice-It Activity             |      30min |
+| Practice Activity             |      30min |
 | Loop Challenge                   |       5min |
 
 
@@ -96,23 +96,23 @@ this project is a good one to start with (a ‘loop’ badge, perhaps?).
    - Ask students how many lines Java will output (9), and walk through the loop showing flow of
      control and directing a student to produce the output.
 
-### Practice-It Activity \[30 minutes\]
+### Practice Activity \[30 minutes\]
 
 Depending on the mood and frustration levels in the class, you may choose to have students work in
 pairs.
 
-- If students are really having a rough time, work through the first Practice-It question together
+- If students are really having a rough time, work through the first practice question together
   as a whole group.
 
 - Put soft, soothing (but upbeat) music on in the background to ease tension!
 
-1. Have students log in to Practice-It to complete the following Practice-It self-check questions:
+1. Have students complete the following self-check questions:
 
-   a. starExclamation1
-   b. starExclamation2
-   c. starExclamation3
+   a. Self-Check 2.31: starExclamation1
+   b. Self-Check 2.32: starExclamation2
+   c. Self-Check 2.33: starExclamation3
 
-2. Have students complete the Practice-It Exercise “starTriangle.”
+2. Have students complete the Exercise 2.5: starTriangle.
 
    a. You should emphasize the importance of constructing a structure diagram before they start
      coding.
@@ -128,7 +128,7 @@ pairs.
 
 1. On the board or the projector, bring up the challenge you introduced in the beginning of class.
 
-   - Students may begin on the challenge once they have finished their Practice-It exercises.
+   - Students may begin on the challenge once they have finished their practice exercises.
 
    - In order to encourage all students to try the challenge, allow slower students to submit their
      challenge answer electronically by the end of the day. (This compromise gives them time to work
@@ -158,7 +158,7 @@ Accommodation and Differentiation
 ---------------------------------
 If you have students who are speeding through this lesson, you should encourage them to:
 
-- Complete Practice-It self-check Exercises “fibonacci” and “numberTriangle.”
+- Complete Exercise 2.3: fibonacci and Exercise 2.6: numberTriangle.
 
 - Develop an algorithm for tackling complex coding problems. (What generalizable steps did they
   take to correctly build the nested loop programs?)

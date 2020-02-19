@@ -7,7 +7,7 @@ Overview
 - **Write** programs that accept user input using a scanner object.
 
 ### Assessments — _Students will…_
-- **Complete** Practice-It problems
+- **Complete** Practice problems
 
 ### Homework — _Students will…_
 - **Outline** Chapter 3, except for BJP 3.4
@@ -130,15 +130,15 @@ Pay close attention to the formulas used when calculating experience points and 
 
 ### Student Practice \[35 minutes\]
 
-1. Have students complete the following Practice-It self-check questions:
-   1. promptMultiplyBy2
-   2. SumNumbers
-   3. RobertPaulson
+1. Have students complete the following self-check questions:
+   1. Self-Check 3.23: promptMultiplyBy2
+   2. Self-Check 3.24: SumNumbers
+   3. Self-Check 3.25: RobertPaulson
 
-2. Have students complete the following Practice-It example questions:
-   1. scientific
-   2. cylinderSurfaceArea
-   3. sphereVolume
+2. Have students complete the following exercise questions:
+   1. Exercise 3.12: scientific
+   2. Exercise 3.14: cylinderSurfaceArea
+   3. Exercise 3.15: sphereVolume
 
 
 Accommodation and Differentiation

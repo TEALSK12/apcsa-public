@@ -7,7 +7,7 @@ Overview
 - **Write** a program that returns values.
 
 ### Assessments — _Students will…_
-- **Complete** Practice-It questions
+- **Complete** Practice questions
 - **Write** a program to meet a Pokémon Challenge
 
 ### Homework — _Students will…_
@@ -34,7 +34,7 @@ Pacing Guide
 |--------------------------------------|-----------:|
 | Bell-work and attendance             |       5min |
 | Review and intro to returning values |      15min |
-| Practice-It                          |      15min |
+| Practice                             |      15min |
 | Pokémon Challenge                    |      15min |
 
 
@@ -146,16 +146,16 @@ book.
   number between 0 and 100. We can use our new pokemonRandom method whenever we need a random number
   from that range.
 
-If students are getting the material, have them work independently on the Practice-It problems,
+If students are getting the material, have them work independently on the practice problems,
 otherwise, work through the problems together as a whole class.
 
-### Practice-It \[15 minutes\]
-Have students work individually or in pairs to complete the following Practice-It self check
+### Practice- \[15 minutes\]
+Have students work individually or in pairs to complete the following practice self check
 questions:
 
-  1. parameterMysteryReturn
-  2. mathExpressions2
-  3. min
+  1. Self-Check 3.6: parameterMysteryNumbers
+  2. Self-Check 3.13: mathExpressions
+  3. Self-Check 3.16: min
 
 
 ### Pokémon Challenge \[15 minutes\]
