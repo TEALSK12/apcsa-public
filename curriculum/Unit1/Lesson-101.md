@@ -1,4 +1,4 @@
-Lesson 1.01 — Using Eclipse & Practice-It
+Lesson 1.01 — Using Eclipse
 ====================================================================================================
 _N.B. THIS LESSON IS OPTIONAL_
 
@@ -12,7 +12,6 @@ Overview
 
 ### Assessments — _Students will…_
 - **Demonstrate** Plug-In and Un-Plug procedures
-- **Log in and submit** a sample problem in Practice-It
 
 ### Homework — _Students will…_
 - **Visit** http://www.pokemon.com and play a few games or **play** Pokémon on a
@@ -63,7 +62,6 @@ Pacing Guide
 | Bell-work and attendance                                    |       5min |
 | Classroom Introduction<br>_Icebreakers & Background_        |      20min |
 | Plug-In & Un-Plug Procedure<br>_Demonstration and practice_ |      10min |
-| Practice-It<br>_Account setup and login practice_           |      10min |
 | File Submission Procedure<br>_Demonstration and practice_   |      10min |
 
 
@@ -96,8 +94,7 @@ Procedure
    - Creating and saving a program
    - Ejecting the USB (if applicable)
    
-2. Have students demonstrate the Plug In and Un-Plug procedures for you before you move on to the
-   Practice-It exercise.
+2. Have students demonstrate the Plug In and Un-Plug procedures for you.
 
 If your classroom has a projector hooked up to the teacher’s computer, project each step as you
 model it for the students.
@@ -116,27 +113,9 @@ Expect this exercise to take 10 minutes or longer.
 
 #### Big Ideas - Personal design interests require the evaluation and refinement of skills
 
-Practice-It is a place that will allow you to practice and refine your computer programming and computer science skills beyond the resources within this course. It’s important for you to use Practice-It, and to find other sources of computer programming help and information.
-
-
-Throughout this course you will create a wide range of programs, and you will want to extend projects and add your own creative touch to each one. As you do this, it’s important to carefully evaluate and build on the skills that you have. Resources like Practice-It can help you develop further as a programmer, which will allow you to create even more engaging software applications.
+Throughout this course you will create a wide range of programs, and you will want to extend projects and add your own creative touch to each one. As you do this, it’s important to carefully evaluate and build on the skills that you have. Resources can help you develop further as a programmer, which will allow you to create even more engaging software applications.
 
 ---
-
-### Practice-It \[10 minutes\]
-
-1. Using WS 1.1.2, model the steps for creating a Practice-It account. Since you will probably
-   already have an account, select a student account to use as a model.
-
-2. Have all students submit a Practice-It problem to demonstrate that they know how to use
-   Practice-It.
-
-Wait until all students have completed this step before moving on to another step.
-
-If you have extra time in class, introduce a “Scavenger Hunt” on Practice-It, and have students find:
-   - Where their account information is located
-   - Where a record of their completed problems are located
-   - Where the 3rd Self-Check problem for Chapter 7 is located
 
 ### File Submission Procedure \[10 minutes\]
 
@@ -197,7 +176,7 @@ independent apps meaning a program written in Java will run across a variety of 
 
 Forum discussion
 ----------------
-[Lesson 1.01 Using Eclipse & Practice-it (TEALS Discourse account required)](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-01-using-eclipse-practice-it)
+[Lesson 1.01 Using Eclipse (TEALS Discourse account required)](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-01-using-eclipse-practice-it)
 
 
 [WS 1.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.1.docx

@@ -8,7 +8,6 @@ Overview
 - **Manage** complexity by using method calls.
 
 ### Assessments — _Students will…_
-- **Complete** Practice-It problems
 - **Write** a structured Pikachu program
 
 ### Homework — _Students will…_
@@ -178,7 +177,11 @@ Accommodation and Differentiation
 ---------------------------------
 If you have students who are speeding through this lesson, you should encourage them to:
 
-- Complete the remaining Strange 2, Strange 3, Complicated 2 and Complicated 3 Practice-It
+- Complete the remaining problems:
+    1. Self-Check 1.24: Strange2
+    2. Self-Check 1.25: Strange3
+    3. Self-Check 1.27: Confusing2
+    4. Self-Check 1.28: Confusing3
   questions.
 
 - Have the student write a sample test question with output that can be written using method

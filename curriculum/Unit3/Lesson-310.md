@@ -9,7 +9,7 @@ Overview
 
 ### Assessments — _Students will…_
 - **Teach** a mini-lesson on sequential or nested if statements
-- **Submit** several Practice-It questions
+- **Submit** several practice questions
 
 ### Homework — _Students will…_
 - **Read** BJP 4.1 “Factoring if/else Statements” and “Testing Multiple Conditions”
@@ -37,7 +37,7 @@ Pacing Guide
 |-----------------------|-----------:|
 | Student practice      |      20min |
 | Student mini-lessons  |   15–25min |
-| Practice-It exercises |      15min |
+| Practice    exercises |      15min |
 
 
 Procedure
@@ -57,12 +57,12 @@ much time is left in class so students can pace themselves.
    on how many teams you have).
 
 ### Worksheet \[15 minutes\]
-Leave about 10–15 minutes at the end of class for students to individually complete Practice-It
+Leave about 10–15 minutes at the end of class for students to individually complete practice
 questions:
 
-1. ifElseMystery1<br>
-2. ifElseMystery2<br>
-3. season
+1. Self-Check 4.5: ifElseMystery1
+2. Self-Check 4.6: ifElseMystery2
+3. Exercise 4.3: season
 
 
 Accommodation and Differentiation

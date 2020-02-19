@@ -8,7 +8,7 @@ Overview
 - **Manage** complexity by using method calls
 
 ### Assessments — _Students will…_
-- **Complete** Practice-It problems
+- **Complete** Practice problems
 
 ### Homework — _Students will…_
 - **Read** BJP 1.5
@@ -28,7 +28,7 @@ Pacing Guide
 |-----------------------------------------|-----------:|
 | Bell-work and attendance                |       5min |
 | Introduction and note-taking            |      15min |
-| Practice-It questions                   |      25min |
+| Practice questions                      |      25min |
 | Students trade work, check, and turn in |       5min |
 
 
@@ -138,15 +138,15 @@ to convince students of the pace and commitment level required for the class.
    If the student seems nervous, encourage the rest of the class to call out directions to the
    student. Make sure students are drawing the flow of control on their own notes as well.
 
-### Practice-It questions \[25 minutes\]
+### Practice questions \[25 minutes\]
 
-1. Have students complete the following Practice-It questions:
-   1. Tricky
-   2. Strange
-   3. Confusing
-   4. Lots-of-errors
+1. Have students complete the following practice questions:
+   1. Self-Check 1.22: Tricky
+   2. Self-Check 1.23: Strange
+   3. Self-Check 1.26: Confusing
+   4. Self-Check 1.29: LotsOfErrors-errors
 
-If you do not have access to computers in your classroom, copy the Practice-it questions to a
+Copy the practice questions to a
 worksheet and have students complete the practice problems by writing out the answers and using
 their error-checking algorithm sheets.
 
@@ -175,8 +175,11 @@ content would be to have students output the lyrics to a song with a refrain. Fo
 activity to demonstrate flow-of-control, check out lesson plan 1.6.
 
 If you have students who are speeding through this lesson, you should encourage them to:
-  - Complete the remaining Strange 2, Strange 3, Complicated 2 and Complicated 3 Practice-It
-    questions
+  - Complete the remaining 
+    1. Self-Check 1.24: Strange2
+    2. Self-Check 1.25: Strange3
+    3. Self-Check 1.27: Confusing2
+    4. Self-Check 1.28: Confusing3
   - Have the student write a sample test question with output that can be written using method
     calls. Be sure they include the answer key with the sample question!
 
@@ -197,7 +200,7 @@ Teaching Tips
   abstraction. This lesson has a number of new syntax constructs for students to create methods and
   it is important to give students the big picture idea of factoring code and reducing redundancy.
 
-- The practice-it problems have students tracing code where methods call other methods. Giving
+- The practice problems have students tracing code where methods call other methods. Giving
   students a way of tracing code like using a table to keep track of the method calls. If you are
   using a black/white board, we recommend crossing out the method call when it completes instead of
   erasing the name so the student can review the entire flow of control from beginning to end after

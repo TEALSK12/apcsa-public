@@ -35,7 +35,7 @@ Pacing Guide
 |--------------------------------------|-----------:|
 | Bell-work and attendance             |       5min |
 | Introduction and worksheet exercises |      25min |
-| Practice-It exercises                |      20min |
+| Practice exercises                   |      20min |
 | Turn in worksheets, wrap up          |       5min |
 
 
@@ -93,26 +93,26 @@ Even though these tools exist, it is still important for you to get good at iden
    let students work on 5b in pairs.
 
 At this point, your class may be raring to get started on the rest of the assignment without your
-help. If they are, great! Post the Practice-it questions on the board so they can continue to that
+help. If they are, great! Post the practice questions on the board so they can continue to that
 assignment once they have completed the worksheet. If your class wants you to walk them through
 string concatenation, go through the examples as above.
 
-### Practice-It Exercises \[20 minutes\]
+### Practice Exercises \[20 minutes\]
 
-1. Have students log in to Practice-It to complete the following Practice-It self-check questions:
+1. Have students complete the following practice self-check questions:
 
-   a. studentVariables
+   a. Self-Check 2.8: studentVariables
 
-   b. values of A,B,C
+   b. Self-Check 2.13: valuesOfABC
 
-2. Have students complete Practice-It exercise “displacement.”
+2. Have students complete Exercise 2.1: displacement.
 
 3. Students should work on their own, but if the exercise is too challenging, you might opt to have
    students collaborate on answers. Be sure to remind students that each student should turn in their
    own set of work.
 
 ### Students turn in worksheets, wrap up \[5 minutes\]
-At the end of class, collect WS 2.2 and Practice-It submissions.
+At the end of class, collect WS 2.2 and practice problems submissions.
 
 
 Accommodation and Differentiation
@@ -120,7 +120,7 @@ Accommodation and Differentiation
 
 If you have students who are speeding through this lesson, you should encourage them to:
 
-- Complete Practice-It self-check problem “timesOperator.”
+- Complete Self-Check 2.18: timesOperator.
 
 - Challenge them to build their own program that converts Fahrenheit to Celsius (this version won’t
   take user input—yet!)

@@ -165,13 +165,6 @@ About Error Checking in Eclipse
 If you are able to use Eclipse with your students during this class period, you may opt to show your
 students how to interpret the error indicator.
 
-If you do give your students the Eclipse tools at this time, beware that your students will probably
-copy and paste between Eclipse and Practice-It. On some systems, this may translate the span
-character into a Unicode space character. This will cause code that worked in Eclipse to produce
-errors in Practice-It or vice versa. To avoid student frustration, be sure to demonstrate how to
-correct copied/pasted code before submitting to Practice-It.
-
-
 Teacher Prior CS Knowledge
 --------------------------
 Finding errors in both your own code and in students’ code takes practice. It easy for students to
