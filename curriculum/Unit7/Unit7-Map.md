@@ -14,9 +14,9 @@ classroom.
 | **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|
 | [7.00] |Test Review & Reteach|Review test|13.1 up to “Sorting”|Test corrections
-| [7.01] |Searching Algorithms|(CS Unplugged Battleship)<br>[WS 7.1]|13.1 “Sorting”|SC 2, E 13.1-13.3 (not in , use textbook) 
+| [7.01] |Searching Algorithms|(CS Unplugged Battleship)<br>[WS 7.1]|13.1 “Sorting”|SC 2, E 13.1-13.3 (not in practice-it, use textbook) 
 | [7.02] |Sorting Algorithms||13.1 “Shuffling”|
-| [7.03] 01|[Elevens Lab] (day 1)| Elevens Lab Activity 1|"13.3 skip ""Recursive Binary Search"""|SC 13.16-13.18 (not in , use textbook, 13.21, 13.22
+| [7.03] 01|[Elevens Lab] (day 1)| Elevens Lab Activity 1|"13.3 skip ""Recursive Binary Search"""|SC 13.16-13.18 (not in practice-it, use textbook, 13.21, 13.22
 | [7.03] 02|[Elevens Lab] (day 2)| Elevens Lab Activity 2 (begin)||
 | [7.03] 03|[Elevens Lab] (day 3)| Elevens Lab Activity 2 (end)||Summarize notes since last exam
 | [7.03] 04|[Elevens Lab] (day 4)| Elevens Lab Activity 3 (begin), notebook checks||Outline ch 13

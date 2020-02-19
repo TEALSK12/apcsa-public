@@ -17,7 +17,7 @@ classroom.
 | [6.01] 01|Inheritance Basics (day 1)|[WS 6.1] Start class poster<br>[Example 6.1]|"9.2 up to ""Dividend Stock Behavior"""|Collect images
 | [6.01] 02|Inheritance Basics (day 2)|Finish class poster, discuss||
 | [6.02] |Overriding Methods & Accessing Inherited Code|[WS 6.2]|Rest of 9.2 starting from “The Object Class.”|
-| [6.03] |Interacting with the Object Superclass| SC 9.3, 9.4, 9.9, 9.10, E 9.4;[WS 6.3]<br>[Poster 6.3]|9.3 up to “Interpreting Inheritance Code.” |
+| [6.03] |Interacting with the Object Superclass|Practice-It SC 9.3, 9.4, 9.9, 9.10, E 9.4;[WS 6.3]<br>[Poster 6.3]|9.3 up to “Interpreting Inheritance Code.” |
 | [6.04] |Polymorphism|[WS 6.4.1]<br>[WS 6.4.2]<br>SC 9.11-9.17|Rest of 9.4 “Is-a Versus Has-a Relationships.”|SC 9.18, 9.20
 | [6.05] |Has-a Relationships|[WS 6.5]<br>ValueMeal exercise? |9.5 (Optional if covering Interfaces)|
 | [6.06] |Interfaces (optional)|[Interface examples]<br>[Poster 6.6]|9.6 (Optional if covering Abstract classes|Generate own class hierarchy like Financial hierarchy in book
@@ -78,8 +78,8 @@ classroom.
 | [Lesson 6.03]   | _Interacting with the Object Superclass_
 |:----------------|:----------------------------------------
 | **Objectives**  | Students will replace superclass behavior by writing overriding methods in the subclass.<br>Students will write subclass methods that access superclass methods.
-| **Assessments** | Students will complete  questions<br>Students will complete a worksheet.
-| **In Class**    | <br>SC 9.3–4,9–10<br>E 9.4<br>[WS 6.3]<br>[Poster 6.3]
+| **Assessments** | Students will complete Practice-It questions<br>Students will complete a worksheet.
+| **In Class**    | Practice-It<br>SC 9.3–4,9–10<br>E 9.4<br>[WS 6.3]<br>[Poster 6.3]
 | **Reading**     | 9.3 up to “_Interpreting Inheritance Code_”
 | **Homework**    |
 

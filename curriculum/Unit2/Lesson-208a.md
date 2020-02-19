@@ -1,21 +1,20 @@
-# Lesson 2.08 — Programming Project
+Lesson 2.08 — Programming Project
+====================================================================================================
 
-## Overview
-
+Overview
+--------
 ### Objectives — _Students will be able to…_
-
 - **Plan and construct** a structured program containing nested loops.
 
 ### Assessments — _Students will…_
-
 - **Submit** a complete, functional program by the end of next class
 
 ### Homework — _Students will…_
-
 - **Outline** Chapter 2, omitting BJP 2.5
 
-## Materials & Prep
 
+Materials & Prep
+----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **Student self-help system** (such as C2B4 or student pairing)
 
@@ -23,8 +22,9 @@ Make sure you are set up to grade student notebooks today. If possible, you shou
 5 notebooks at a time so students have their notebooks available to reference during programming
 time.
 
-## Pacing Guide
 
+Pacing Guide
+------------
 | Section                              | Total Time |
 |--------------------------------------|-----------:|
 | Bell-work and attendance             |       5min |
@@ -32,8 +32,9 @@ time.
 | Programming project                  |      30min |
 | Students trade work, check, & submit |      10min |
 
-## Procedure
 
+Procedure
+---------
 To prepare students for the upcoming unit exam, the next few class periods will be devoted to
 reinforcing concepts and applying the tools, procedures, and code that were introduced this unit.
 
@@ -55,11 +56,11 @@ reinforcing concepts and applying the tools, procedures, and code that were intr
 
 2. Introduce the programming project, taking a moment to talk strategy with your class.
 
-   **PROGRAMMING PROJECT:** Write a program that prints out the lyrics of the original song using the minimum number of words in ```print/ln()``` statements by factoring repetitive words using nested for loops. Here are examples of two songs that can be used: "Row, Row, Row Your Boat", "Jingle Bells"
+   **PROGRAMMING PROJECT:** Write a program that prints out the lyrics of the original song using the minimum number of words in ```print/ln()``` statements by factoring repetative words using nested for loops. Here are examples of two songs that can be used: "Row, Row, Row Your Boat", "Jingle Bells"
 
    Song 1: "Row, Row, Row Your Boat"
 
-    ```Java
+    ``` 
     Row, row, row your boat
     Gently down the stream
     Merrily, merrily, merrily
@@ -73,7 +74,7 @@ reinforcing concepts and applying the tools, procedures, and code that were intr
 
    Song 2: "Jingle Bells"
 
-    ```java
+    ```
     Jingle bells, jingle bells
     Jingle all the way
     Oh, what fun it is to ride
@@ -103,72 +104,73 @@ reinforcing concepts and applying the tools, procedures, and code that were intr
    - What might we want to make its own method that we can call more than once?
    
 ---
-### Emphasize with students...
+#### Emphasize with students...
 
 #### Big Ideas - Applying the concept of a nested for-loop in drawing artistic patterns
 
 A for-loops allow the repeated execution of one statement (or group of statements).  As you iterate through the repetitions, a counter (variable) keeps track of how many times it has already done.  The fun thing is:  this counter value can also be used for a *nested* for-loop (ie, have one for-loop inside another for-loop).  This combination of using two for-loops means you can write some code to repeat object/patterns that "grow" or "shrink".
 
-You can think of it this way:  A nested loop combination allows you to repeat execution of one statement ... but that one statement *itself* includes a repetition also.
+You can think of it this way:  A nested loop combination allows you to repeat execution of one statement ... but that one statement *itself* includes a repetition also.   
 
 As an alternative to the "Row, Row, Row Your Boat", "Jingle Bells" song, there are other alternatives that use nested for loops:
+   * "Happy Birthday"
+   * "You Are My Sunshine" 
+   * Songs from student's childhood
+   
+---
 
-* "Happy Birthday"
-* "You Are My Sunshine"
-* Songs from student's childhood
-
-## Programming Project [30 minutes]
+### Programming Project \[30 minutes\]
 
 The programming project portion has a number of differnt options.
 
-### Option 1 "Row, Row, Row Your Boat"
+#### Option 1 "Row, Row, Row Your Boat"
 
   "Row, Row, Row Your Board" is frequently sung in a round.  This challenge would be to use the factored "Row, Row, Row Your Boat" and print out two sets of lyrics for singing in a round. Singing in a round.  The following is one round but the project could be extented to generalize to N rounds.  Note students do not know how to get input yet so the N would be fixed.
 
-```
-1 Row, row, row your boat
-2
+    ``` 
+    1 Row, row, row your boat
+    2
 
-1 Gently down the stream
-2 Row, row, row your boat
+    1 Gently down the stream
+    2 Row, row, row your boat
 
-1 Merrily, merrily, merrily
-2 Gently down the stream
+    1 Merrily, merrily, merrily
+    2 Gently down the stream
 
-1 Life is but a dream
-2 Merrily, merrily, merrily
+    1 Life is but a dream
+    2 Merrily, merrily, merrily
 
-1
-2 Life is but a dream
-```
+    1
+    2 Life is but a dream
+    ```
 
-### Option 2, "Jingle Bells"
-
-### Part 1
-
+#### Option 2, "Jingle Bells"
+##### Part 1: 
 Have students can look up the entire lyrics to the "Jingle Bells" song and factor the entire song.
 
-### Part 2
+##### Part 2: 
+There are a number of alternative lyrics to "Jingle Bells".  Have the students use the factored version of the "Jingle Bells" to create one of the alternative lyrics. Note: there may be inappropriate alternative lyrics to the song.  You will need to remind students they are in a learning environment and to select lyrics approproately.
 
-There are a number of alternative lyrics to "Jingle Bells".  Have the students use the factored version of the "Jingle Bells" to create one of the alternative lyrics. Note: there may be inappropriate alternative lyrics to the song.  You will need to remind students they are in a learning environment and to select lyrics appropriately.
 
 ### Students trade work, check, evaluate, and turn in \[5 minutes\]
-
 At the end of class, have students look over each other’s projects before submitting.
 
 Evaluation Question: How many lines of code did this program "save" by using for-loops?  How can the code be modified for some other interesting effect, or embellishment?
 
-### Emphasize with students
+---
+#### Emphasize with students...
 
-### Curricular Competencies - Share and evaluate
+#### Curricular Competancies - Share and evaluate
 
 It's fun to share artwork.  It spurs the imagination.  It's valuable to see how others apply the same concept. 
 
 Computers are great at doing repetitive tasks.  Ask a few questions to evaluate each other's code.  For example:  How may lines of code did you save by using loops?  A well decomposed solution should result in clean, simple code, using as few lines as possible.   How can the code be modified for some other interesting effect, or embellishment?
 
+---
+
+
 Accommodation and Differentiation
-
-
+---------------------------------
 If you have students who are speeding through this project, you should encourage them to:
 
 - Finish the programming project started in class yesterday.
