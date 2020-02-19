@@ -25,7 +25,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  [3.18].6  | Consumer Review Lab (day 6)  | Consumer Review Lab Activity 5 (day 2)  |   |
 |  [3.19]   | Review  | (Review questions), [WS 3.18] practice test  |   | Study   |
 |  3.99   | Unit 3 test  | [Test 2 Guide] Test 2 Section I Test 2 Section II  |   |    |
-|  3.XX   |  Alternative Project: [Frac Calc]   |    |    |    |
+|  3.XX   |  Alternative Project: [Frac Calc]   |    |  |    | [CON-1], [CON-2], [MOD-1], [VAR-1] | [CON-1.F], [CON-1.H], [CON-2.A], [CON-2.B], [CON-2.C], [CON-2.D], [CON-2.E], [MOD-1.B], [MOD-1.C], [MOD-1.D], [MOD-1.E], [MOD-1.F], [VAR-1.D], [VAR-1.E]
 |  3.XX1   |  Alternative Project: [Calculator]   |  work on project   |  conduct research   |  Continue working on project   |
 
 ## 3.11
