@@ -96,7 +96,7 @@ classroom.
 | [Lesson 4.05]   | _Shifting Values & Arrays of Objects_
 |:----------------|:-------------------------------------
 | **Objectives**  | Students will be able to shift elements within an array and construct arrays of objects.
-| **Assessments** | Students will complete Practice-It questions and model memory manipulation using array whiteboards.
+| **Assessments** | Students will complete Practice questions and model memory manipulation using array whiteboards.
 | **In Class**    | SC 7.22,23,25,26,30<br>E 7.16
 | **Reading**     | 7.4 “_Nested Arrays_”<br>7.5 “_Rectangular Two Dimensional Arrays_”
 | **Homework**    | SC 7.27–29<br>E 7.14
