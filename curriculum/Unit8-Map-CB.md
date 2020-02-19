@@ -27,7 +27,9 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [4.09a] 06|Steganography Lab (day&nbsp;6)|Steganography Lab Activity 5 (day 2)||Check and correct Barrons ch 6 (8th or later: ch 7) questions
 | [4.10] |Review|Review questions [WS 4.10] practice test||Study
 | 4.99 |Unit 4 test|Test 3 Section I  Test 3 Section II||
-| [4.XX] |[Programming Project](Magpie Alternative)|
+| [4.XX] |[Programming Project](Magpie Alternative)| | | |  [VAR-2], [CON-2] | [VAR-2.F], [VAR-2.G], [CON-2.N]
+
+
 
 ## 8.00
 
