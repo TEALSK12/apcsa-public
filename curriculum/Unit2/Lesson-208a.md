@@ -154,7 +154,9 @@ Have students can look up the entire lyrics to their song and factor the entire 
 There are often a number of alternative lyrics to popular songs, 'Jingle Bells" is a good example of a song with lots of alternative lyrics.  Have the students use the factored version of the "Jingle Bells" to create one of the alternative lyrics. Note: there may be inappropriate alternative lyrics to the song.  You will need to remind students they are in a learning environment and to select lyrics approproately.
 
 #### Option 3: 
-After factoring the entire song, the students then 
+Students can make their own song using the same music.  Have students think up thier own alternative lyrics and substitute it in the print statements to create their own song.  
+For example, substituting "rrive" for "row" and "car" for "boat", the program would now generate "drive, drive, drive your car".
+Students can pick a popular song they know the chorus to, factor the song in Java, and substutute their own lyrics.
 
 
 ### Students trade work, check, evaluate, and turn in \[5 minutes\]
