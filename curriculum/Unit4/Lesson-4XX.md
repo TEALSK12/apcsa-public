@@ -7,7 +7,7 @@ This project is intended to be an alternative to the MagPie Lab in the original 
 
 --------
 ### Objectives — _Students will be able to…_
-- **Conduct user-centred research** to identify specific functions for a specialized application
+- **Conduct user-centered research** to identify specific functions for a specialized application
 - **Plan and create** a calculator that perform specialized operations for an end-user
 - **Test, evaluate, and share** the end product
 
@@ -23,7 +23,7 @@ This project is intended to be an alternative to the MagPie Lab in the original 
 
 ### Complexity and Creativity
 
-Students should come up with the idea themselves, based on user-centred research, and ideate a specialized application to address the needs of a specific user group. 
+Students should come up with the idea themselves, based on user-centered research, and ideate a specialized application to address the needs of a specific user group. 
    
 Students will follow applied design process to implement the idea.  You should talk to your teacher often to ensure that your progress is in-line with expectations.   
    
@@ -34,7 +34,7 @@ As with all projects, your program must be well-written, well-documented, and re
 
 STEP 1 - UNDERSTANDING CONTEXT
 
-Conduct user-centred research to find design opportunities and barriers.
+Conduct user-centered research to find design opportunities and barriers.
 
 Select an end-user for whom you will design and create this program (this can be a friend, classmate, relative, etc). Create interview questions that will allow you to understand the end-user’s interests and likes/dislikes.  
 
@@ -43,21 +43,21 @@ Here are some possible applications that could potentially use "if" statements a
   **Word Games**
    * Lipogram Word Game  https://en.wikipedia.org/wiki/Lipogram
    * A Mad-Libs Program https://en.wikipedia.org/wiki/Mad_Libs
-   * A acrostic builder pyramidword builder http://www.crauswords.com/pyramidword.html 
+   * A acrostic builder pyramid word builder http://www.crauswords.com/pyramidword.html 
    
-  **Classic Ciphers with a Twist**  (eg, Morce Code, Ceasar Cipher,etc.) https://en.wikipedia.org/wiki/Classical_cipher
+  **Classic Ciphers with a Twist**  (eg, Morse Code, Caesar Cipher,etc.) https://en.wikipedia.org/wiki/Classical_cipher
    * Create your own encryption program, but include some decision making (eg. Ask user for clues/hints for key generation?)
    * Create the corresponding decryption program, but include some decision making
    * Work in pairs!  Test with one another. 
    
   **Chatbot**  https://en.wikipedia.org/wiki/Chatbot 
-   * One of the four Activiies in the orginal MagPie Lab (estimated 1-2 hour time)
+   * One of the four Activities in the original MagPie Lab (estimated 1-2 hour time)
    * A specialized, modern ChatBox (Siri/Alexa) for a specific end-user in mind: 
             - TV show related
             - music DJ
             - learning tool for ELL, French immersion, or other foreign language students
-            - someone who is colour blind
-            - someone who owns a petstore
+            - someone who is color blind
+            - someone who owns a pet store
             
   **Other**
    * Other application that involves STRINGS (creation, parsing, and processing), together with decision making (IF statements)
@@ -70,18 +70,18 @@ After you have some initial ideas, interview some potential end-user to clarify 
 ---
 #### Emphasize with students...
 
-#### Big Ideas - personal design interests require the evalution and refinement of skills
+#### Big Ideas - personal design interests require the evaluation and refinement of skills
 
 The possibilities are endless.
 We live in a world that operates on the written or spoken word.
 
 The computer and internet has forced us to digitize the words we use into zero's and one's for transmission purposes.  But at a higher level, most people are working with "strings"  (a collection of character symbols, making up a word).   Sometimes words are easily understood and recognized,  sometimes it is not.  
 
-Our human brains naturally make decisions and choices.  With so many options, and paths, we can ask the computer to help us explore these choices.   This is great when it comes to routine, repetitive, or time consuming tasks. 
+Our human brains naturally make decisions and choices.  With so many options, and paths, we can ask the computer to help us explore these choices.   This is great when it comes to routine, repetitive, or time consuming tasks.
 
-Poets, writers, travellers, wanderers, cryptographers, kings and queens have loved playing with words (strings, characters), and creating games (logic, secret messages) since the earliest of times to entertain, inspire, and protect the land. 
+Poets, writers, travelers, wanderers, cryptographers, kings and queens have loved playing with words (strings, characters), and creating games (logic, secret messages) since the earliest of times to entertain, inspire, and protect the land.
 
-Let your creative juices flow! 
+Let your creative juices flow!
 
 ---
 
@@ -89,9 +89,9 @@ Let your creative juices flow!
 
 STEP 2 - DEFINING AND IDEATING
 
-Choose a design opportunity and point of view, make infereences about limitations and boundaries.  Take creative risks to indentify gaps to explore, generate a range of possibilities, prioritize ideas for prototyping.
+Choose a design opportunity and point of view, make inferences about limitations and boundaries.  Take creative risks to identify gaps to explore, generate a range of possibilities, prioritize ideas for prototyping.
 
-Using the responses from your end-user interview, begin to develop a plan for your custom application.  Given the duration of the project, you should limit your calculator to do *an interesting activity* for a *specific end-user*.  At this point you will only be be to implement a text-based user interface (ie, no graphical elements, like buttons or scrollbars).  Keep it simple and easy to use. 
+Using the responses from your end-user interview, begin to develop a plan for your custom application.  Given the duration of the project, you should limit your calculator to do *an interesting activity* for a *specific end-user*.  At this point you will only be be to implement a text-based user interface (i.e., no graphical elements, like buttons or scrollbars).  Keep it simple and easy to use. 
 
 List:
    *	the types of calculator functions it will do:
@@ -116,7 +116,7 @@ STEP 3 – PROTOTYPING AND TESTING
 
 Construct prototypes, making changes to code as needed.
 
-Program your calculator. Be sure to review course notes and activities to make sure that you effectively implement object oriented programming design for your appliction.
+Program your calculator. Be sure to review course notes and activities to make sure that you effectively implement object oriented programming design for your application.
 
 When you are ready, create a short test plan and test your program. Include expected output and actual output and include details related to any fixes that needed to be made.   A good motto to remember is **code a little, test a little**
 

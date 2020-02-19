@@ -17,7 +17,6 @@ Overview
 - **Submit** 5 questions for review in class tomorrow using electronic survey
 - **Update** all summaries in notebook for the upcoming notebook check
 
-
 Materials & Prep
 ----------------
 - **Any student homework assignments** that you have not yet returned

@@ -8,7 +8,7 @@ Overview
 - **Predict** the output of the code that uses objects.
 
 ### Assessments — _Students will…_
-- **Complete** Practice-It questions
+- **Complete** Practice questions
 
 ### Homework — _Students will…_
 - **Read** BJP 8.2 up to “Mutators and Accessors”
@@ -34,7 +34,7 @@ Pacing Guide
 | Bell-work and attendance                   |       5min |
 | Introduction: Discussion                   |   10–30min |
 | Introduction: Syntax Notes                 |   10–20min |
-| Activity 1: Practice-It                    |      15min |
+| Activity 1: Practice                   |      15min |
 | Activity 2: Researching for a custom class |      15min |
 
 Read through all of the Instructor’s notes before you plan this lesson. **In some classrooms, it
@@ -243,21 +243,20 @@ customized classes that they’ve built themselves.
      here is to give them a design problem that they can work through, making choices about content
      and behavior that result in a model of the Pokémon game.
 
-### Activity 1: Practice-It \[15 minutes\]
+### Activity 1: Practice \[15 minutes\]
 
 1. Students will be working in groups for much of the week, so have them work independently today.
-   If students are really having a rough time, work through the first Practice-It question together
-   as a whole group.
+   If students are really having a rough time, work through the first Practice question together as a whole group.
 
-2. Have students read through the Point Class example before moving on to the Practice It questions.
+2. Have students read through the Point Class example before moving on to the Practice questions.
 
-3. Have students log in to Practice It to complete the following self-check questions:
+3. Have students log in to back of the chapter to complete the following self-check questions:
 
-   a. whatIsOOP<br>
-   b. whatIsAnObject<br>
-   c. StringObject<br>
-   d. ReferenceMystery3<br>
-   e. CalculatorObject
+   a. Self-Check 8.1: whatIsOOP
+   b. Self-Check 8.2: whatIsAnObject
+   c. Self-Check 8.3: StringObject
+   d. Self-Check 8.4: ReferenceMystery3
+   e. Self-Check 8.5: CalculatorObject
 
 4. If more 25% or more of the class is struggling, return to whole group with the stipulation that
    students who get it may continue working independently.
