@@ -193,7 +193,7 @@ Aligned to the College Board's curriculum framework, students explore the big id
   C. Determine the result or output based on the statement execution order in a code segment  containing method calls.  
   D. Determine the number of times a code segment will execute.
 
-    *Curriculum Example of Skill 2.?:* In Lesson ?.?, 
+    *Curriculum Example of Skill 2.A:* In Lesson 2.01, students are introduced to the modulus operator and practice evaluating expressions that use it.
 
 3. Code Implementation  
   A. Write program code to create objects of a class and call methods.  
@@ -202,14 +202,14 @@ Aligned to the College Board's curriculum framework, students explore the big id
   D. Write program code to create, traverse, and manipulate elements in 1D array or ArrayList  objects.  
   E. Write program code to create, traverse, and manipulate elements in 2D array objects.
 
-    *Curriculum Example of Skill 3.?:* In Lesson ?.?, 
+    *Curriculum Example of Skill 3.C:* In Lesson 2.08, students write a method to reproduce an hourglass shape using nested for loops.
 
 4. Code Testing  
   A. Use test-cases to find errors or validate results.  
   B. Identify errors in program code.  
   C. Determine if two or more code segments yield equivalent results.
 
-    *Curriculum Example of Skill 4.?:* In Lesson ?.?, 
+    *Curriculum Example of Skill 4.B:* In Lesson 3.09, students are asked to correct syntax errors in a series of conditional statements.
 
 5. Documentation  
   A. Describe the behavior of a given segment of program code.  
@@ -217,7 +217,7 @@ Aligned to the College Board's curriculum framework, students explore the big id
   C. Explain how the result of program code changes, given a change to the initial code.  
   D. Describe the initial conditions that must be met for a program segment to work as intended or described.
 
-    *Curriculum Example of Skill 5.?:* In Lesson ?.?, 
+    *Curriculum Example of Skill 5.A:* In Lesson 3.12, students are tasked with starting a program that will be finished by partner, with the only communication between them being well-commented code. 
 
 #### AP Exam Preparation
 All of the Unit tests are in the AP exam format. In classes where many students will take the exam, instructors should gradually adjust the testing environment to mimic that of the exam:
