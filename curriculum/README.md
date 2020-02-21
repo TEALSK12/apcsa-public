@@ -201,24 +201,6 @@ Coding in Java requires the Java Development Kit and a text editor or IDE. There
 available. Currently most of the TEALS classrooms use Eclipse. Unit 1 includes directions for
 installing Eclipse.
 
-### Practice-It!
-
-Professors Marty Stepp and Jessica Miller created the [Practice-It] online tool that allows students
-to complete Java exercises from the BJP textbook and get immediate feedback on their results.
-Detailed instructions for teacher and student registration on the site are included in Unit 1
-lessons.
-
-AP CS A TEALS volunteers have been provided the documentation (on Canvas) for access to the
-Practice-It dashboard. As an alternative, other instructors can use one of the following methods:
-
-1. Students take screen shots of their total correct problems (a table is available on their home
-   dashboard), and submit the screenshots by email or form submission on your chosen learning
-   management system.
-
-2. Implement the _Practice-It Grade Retrieval Tool_ created by Mauricio Del Carpio (of Bishop
-   Blanchet High School). Step-by-step instructions for installation are included in the Practice It
-   Grade Retrieval document included with the other Introduction materials.
-
 ### Detecting Cheating with MOSS
 
 Although the curriculum does not specifically outline an approach for monitoring cheating, many
@@ -239,7 +221,7 @@ Additional Resources
   automatically graded, and students can compete against each other to hone their programming
   skills.
 
-- Similar to PracticeIt, CodingBat (http://www.codingbat.com) offers Java practice problems with
+- CodingBat (http://www.codingbat.com) offers Java practice problems with
   instant feedback for students. The problems in CodingBat are distinct from those in the Building
   Java Programs textbook. CodingBat has a teacher dashboard, and a system of badges to motivate
   learners. Instructors can also upload their own sets of java problems for their classes to
@@ -275,7 +257,7 @@ Additional Resources
   2. Where lecture activities have been suggested (_e.g._ think-pair-shares), consider embedding
      questions into your lesson plans.
 
-  3. Save class competitions for in-class, and leave reading and easy Practice-it, self check, and
+  3. Save class competitions for in-class, and leave reading and self check, and
      worksheet exercises for home review.
 
 - As you read through the lesson plans, you will find several classroom teaching activities and
@@ -310,7 +292,6 @@ on the TEALS dashboard or in this [Github repository issues page](https://github
 [Google Hangouts]: http://hangouts.google.com
 [Grudgeball]: https://www.youtube.com/watch?v=u_GzWwSrDlo
 [Parson's Problems]: https://www.youtube.com/watch?v=11n-AsaCd9w
-[Practice-It]: https://practiceit.cs.washington.edu/
 [Projects and Labs]: https://www.youtube.com/watch?v=WHvuK7LBe-o
 [Skype]: http://www.skype.com
 [Supporting Visual-Spatial Learners]: https://www.youtube.com/watch?v=O6yBe3J10vQ
