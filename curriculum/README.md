@@ -148,9 +148,64 @@ visit http://www.pokemon.com/.
 
 ### AP Test Preparation
 
-The curriculum is designed with AP Test Prep in mind. All of the Unit tests are in the AP exam
-format. In classes where many students will take the exam, instructors should gradually adjust the
-testing environment to mimic that of the exam:
+Aligned to the College Board's curriculum framework, students explore the big ideas that encompass the core principles, theories, and processes of computer science.  Throughout the course, the student learns and practices the skills necessary to be successful on the AP exam.
+
+#### Big Ideas of Computer Science
+
+1. Modularity -- 
+    Incorporating elements of abstraction, by breaking problems down into interacting pieces, each with their own purpose, makes writing complex programs easier. Abstracting simplifies concepts and processes by looking at the big picture rather than being overwhelmed by the details. Modularity in object-oriented programming allows us to use abstraction to break complex programs down into individual classes and methods.
+
+2. Variables -- 
+    Information used as a basis for reasoning, discussion, or calculation is referred to as data. Programs rely on variables to store data, on data structures to organize multiple values when program complexity increases, and on algorithms to sort, access, and manipulate this data. Variables create data abstractions, as they can represent a set of possible values or a group of related values. 
+
+3. Control --
+    Doing things in order, making decisions, and doing the same process multiple times are represented in code by using control structures and specifying the order in which instructions are executed. Programmers need to think algorithmically in order to define and interpret processes that are used in a program.
+
+4. Impact of Computing --
+    Computers and computing have revolutionized our lives. To use computing safely and responsibly, we need to be aware of privacy, security, and ethical issues. As programmers, we need to understand how our programs will be used and be responsible for the consequences.
+
+#### Computational Thinking Practices: Skills
+1. Program Design and Algorithm Development  
+  A. Determine an appropriate program design to solve a problem or accomplish a task (not assessed by AP Exam).  
+  B. Determine code that would be used to complete code segments.  
+  C. Determine code that would be used to interact with completed program code.
+
+    *Curriculum Example of Skill 1.B:* In Lesson 1.06, students are challenged to design and write a class that reproduces a particular shape pattern that encourages decomposition into multiple static methods.
+
+2. Code Logic  
+  A. Apply the meaning of specific operators.  
+  B. Determine the result or output based on statement execution order in a code segment without method calls (other than output).  
+  C. Determine the result or output based on the statement execution order in a code segment  containing method calls.  
+  D. Determine the number of times a code segment will execute.
+
+    *Curriculum Example of Skill 2.A:* In Lesson 2.01, students are introduced to the modulus operator and practice evaluating expressions that use it.
+
+3. Code Implementation  
+  A. Write program code to create objects of a class and call methods.  
+  B. Write program code to define a new type by creating a class.  
+  C. Write program code to satisfy method specifications using expressions, conditional statements, and iterative statements.  
+  D. Write program code to create, traverse, and manipulate elements in 1D array or ArrayList  objects.  
+  E. Write program code to create, traverse, and manipulate elements in 2D array objects.
+
+    *Curriculum Example of Skill 3.C:* In Lesson 2.08, students write a method to reproduce an hourglass shape using nested for loops.
+
+4. Code Testing  
+  A. Use test-cases to find errors or validate results.  
+  B. Identify errors in program code.  
+  C. Determine if two or more code segments yield equivalent results.
+
+    *Curriculum Example of Skill 4.B:* In Lesson 3.09, students are asked to correct syntax errors in a series of conditional statements.
+
+5. Documentation  
+  A. Describe the behavior of a given segment of program code.  
+  B. Explain why a code segment will not compile or work as intended.  
+  C. Explain how the result of program code changes, given a change to the initial code.  
+  D. Describe the initial conditions that must be met for a program segment to work as intended or described.
+
+    *Curriculum Example of Skill 5.A:* In Lesson 3.12, students are tasked with starting a program that will be finished by partner, with the only communication between them being well-commented code. 
+
+#### AP Exam Preparation
+All of the Unit tests are in the AP exam format. In classes where many students will take the exam, instructors should gradually adjust the testing environment to mimic that of the exam:
 
 - Always provide/allow the [AP Java Quick Reference]
 
@@ -194,6 +249,9 @@ Video Tutorials
 
 Digital Tools Associated with This Curriculum
 ---------------------------------------------
+
+### Recommended Hardware
+In the classroom, it is recommended that each student have an internet-connected desktop computer capable of running an Integrated Design Environment (IDE), like Eclipse.  Students will need to be able to save and access their programming projects locally or in the cloud.
 
 ### Integrated Design Environment (IDE) — Eclipse
 
@@ -318,4 +376,4 @@ on the TEALS dashboard or in this [Github repository issues page](https://github
 [Timing and Pacing]: https://www.youtube.com/watch?v=LkGh03UZ724
 [Twiddla]: http://www.twiddla.com
 [Vyew]: http://www.vyew.com
-[AP CS A Course Audit Instructions]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/AP%20CS%20A%20Course%20Audit%20Instructions.docx
+[AP CS A Course Audit Instructions]: https://apcentral.collegeboard.org/pdf/ap-course-audit-user-guide.pdf
