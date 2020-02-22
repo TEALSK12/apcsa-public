@@ -8,7 +8,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 - [Unit 5 Slides]
 - [Unit 5 Word Bank]
 - [Curriculum Assets]
-- [Picture Lab]
 
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
@@ -21,11 +20,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [3.06] |Interactive Programs & Scanner Objects|Practice-It SC 3.24 - 3.26, (5th: 3.23 - 3.25); E 3.12, 3.14, 3.15|3.3 “Interactive programming” and “Sample interactive program”|Outline ch 3 (omit 3.4) |
 | [3.07] |Pokémon Battle Programming Project|[WS 3.7]  LP Battle||Summarize notes since last exam | [CON-1], [MOD-1], [VAR-1]|[CON-1.D], [MOD-1.B], [MOD-1.C], [MOD-1.D],[MOD-1.E], [MOD-1.F], [VAR-1.D], [VAR-1.E]|
 | [3.08] |Finding & Fixing Errors|Fix HW, webmaker.org||SC 4.1-4.4 |
-| [5.00]   |Test Review & Reteach|Review test|4.1 up to “nested if else statements”|Test corrections
-| [5.01]   |Object Oriented Programming|Practice-It SC 8.1-8.5  [WS 5.1.1]|8.1| |[MOD-1], [VAR-1]| [MOD-1.B], [VAR-1.D]|[MOD-1.B.1], [MOD-1.B.2], [VAR-1.D.1]|
-| [5.02]   |Object State & Behavior|[WS 5.2]|8.2 up to “Mutators and Accessors.”|SC 8.9-8.11, 8.13-8.16 |[MOD-1], [VAR-1]|[MOD-1.E], [MOD-1.F][MOD-1.G], [VAR-1.E]|[MOD-1.E.1], [MOD-1.F.1], [MOD-1.F.2], [MOD-1.F.3], [MOD-1.G.1], [VAR-1.E.11]|
-| [5.03]   |Object Initialization: Constructors|[WS 5.3.1], [WS 5.3.2]|8.3 up to “The Keyword this.”||[MOD-1], [VAR-1] |[MOD-1.C], [MOD-1.D], [MOD-1.E], [MOD-1.F][VAR-1.D]|[MOD-1.C.1], [MOD-1.C.2], [MOD-1.C.3], [MOD-1.C.4], [MOD-1.C.5], [MOD-1.D.1], [MOD-1.D.2], [MOD-1.D.3], [MOD-1.D.4], [MOD-1.E.7], [MOD-1.F.1]|
-| [5.04]   |Encapsulation|[WS 5.4] Mini-lessons|8.4|SC 8.22-8.28|[MOD-1], [VAR-1]|[MOD-1.E], [VAR-1.D]|[MOD-1.E.8], [VAR-1.D.1]|
+
 
 ## 3.00
 
@@ -117,55 +112,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Reading**     | 
 | **Homework**    | SC 4.1–4
 
-## 5.00
-
-| [Lesson 5.00]   | _Test Review & Reteach_
-|------------+----------------------------------------------------------------------|
-| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
-| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
-| **In Class**    | Review test
-| **Reading**     | 4.1 up to “_Nested If/Else Statements_”
-| **Homework**    | Test corrections
-
-## 5.01
-
-| [Lesson 5.01]   | _Object Oriented Programming_
-|------------+----------------------------------------------------------------------|
-| **Objectives**  | Students will be able to describe the relationship between classes, objects, and client code.  Students will be able to predict the output of the code that uses objects.
-| **Assessments** | Students will complete Practice-It questions.
-| **In Class**    | Practice-It  SC 8.1–5  [WS 5.1.1]
-| **Reading**     | 8.1
-| **Homework**    |
-
-## 5.02
-
-| [Lesson 5.02]   | _Object State & Behavior_
-|------------+----------------------------------------------------------------------|
-| **Objectives**  | Students will be able to describe classes, objects, and client code.  Students will be able to predict the output of the code that uses objects.
-| **Assessments** | Students will complete WS 5.2 individually or in pairs.
-| **In Class**    | [WS 5.2]
-| **Reading**     | 8.2 up to “_Mutators and Accessors_”
-| **Homework**    | SC 8.9–11,13–16
-
-## 5.03
-
-| [Lesson 5.03]   | _Object Initialization: Constructors_
-|------------+----------------------------------------------------------------------|
-| **Objectives**  | Students will be able to describe and create classes, objects, and client code.  Students will be able to predict the output of the code that uses objects.
-| **Assessments** | Students will complete Practice-It questions.
-| **In Class**    | [WS 5.3.1]  [WS 5.3.2]
-| **Reading**     | 8.3 up to “_The Keyword_ this”
-| **Homework**    |
-
-## 5.04
-
-| [Lesson 5.04]   | _Encapsulation_
-|------------+----------------------------------------------------------------------|
-| **Objectives**  | Students will be able to manipulate single-dimension arrays using a variety of array transversal algorithms.
-| **Assessments** | Students will teach a mini-lesson on printing, searching/replacing, testing for equality, reversing an array, or string traversal.  Students will complete a quiz at the end of Day 2.
-| **In Class**    | [WS 5.4] Teach mini-lessons
-| **Reading**     | 8.4
-| **Homework**    | SC 8.22–28
 
 ## Abbreviations
 
@@ -210,14 +156,14 @@ chronological order. The order has been adapted to follow the College Board AP C
 [WS 3.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.4.docx
 [WS 3.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.5.docx
 [WS 3.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.7.docx
-[5.00]: Unit5/Lesson-500.md
+
 [5.01]: Unit5/Lesson-501.md
 [5.02]: Unit5/Lesson-502.md
 [5.03]: Unit5/Lesson-503.md
 [5.04]: Unit5/Lesson-504.md
 
 [Curriculum Assets]: ../Assets.md
-[Lesson 5.00]: Unit5/Lesson-500.md
+
 [Lesson 5.01]: Unit5/Lesson-501.md
 [Lesson 5.02]: Unit5/Lesson-502.md
 [Lesson 5.03]: Unit5/Lesson-503.md
