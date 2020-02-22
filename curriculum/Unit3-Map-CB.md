@@ -11,6 +11,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
 | [3.09] |Relational Operators & if/else | [Operator Precedence], Grudgeball | 4.1 “Nested if/else” and “Flow of control” | SC 4.7-4.9; E 4.1-4.2 | [CON-1], [CON-2] |  [CON-1.E], [CON-1.H], [CON-2.A], [CON-2.B] |  [CON-1.E.1], [CON-1.E.2], [CON-2.A.1], [CON-2.A.2], [CON-2.A.3], [CON-2.A.3], [CON-2.A.4], [CON-2.A.5] |
 | [3.10] | Nested if/else Statements|[WS 3.10] Teach mini-lessons, Practice-It SC 4.5, 4.6, E 4.3|4.1, “Factoring if/else statements” and “Testing multiple conditions” | E4.4, 4.5 | [CON-1], [CON-2] |  [CON-1.E], [CON-1.H], [CON-2.A], [CON-2.B], | [CON-1.E.1], [CON-1.E.2], [CON-2.A.1], [CON-2.A.2], [CON-2.A.3], [CON-2.A.3], [CON-2.A.4], [CON-2.A.5] |
+| [3.11] | Reducing Redundancy | (Refactoring competition) | Read 4.2 | Outline Chap 4 (omit 4.4, 4.5) |  | | |
 
 ## 3.09
 
@@ -31,6 +32,16 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **In Class** | [WS 3.10] Teach mini-lessons Practice-It SC 4.5–6 E 4.3 |
 | **Reading** | 4.1, “_Factoring If/Else Statements_” and “_Testing Multiple Conditions_” |
 | **Homework** | EX 4.4–5 |
+
+## 3.11
+
+|  [Lesson 3.11]     |  _Reducing Redundancy_
+|------------+----------------------------------------------------------------------|
+|  **Objectives**    |  Students will simplify code and reduce redundancy by factoring if/else statements and testing multiple conditions simultaneously.
+|  **Assessments**   |  Students will complete a class competition.
+|  **In Class**      |  Refactoring competition
+|  **Reading**       |  4.2
+|  **Homework**      |  Outline   Chap 4 (omit 4.4, 4.5)
 
 ## Abbreviations
 
