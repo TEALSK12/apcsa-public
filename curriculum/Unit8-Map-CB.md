@@ -28,6 +28,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [4.10] |Review|Review questions [WS 4.10] practice test||Study
 | 4.99 |Unit 4 test|Test 3 Section I  Test 3 Section II||
 | [4.XX] |[Programming Project](Magpie Alternative)| | | |  [VAR-2], [CON-2] | [VAR-2.F], [VAR-2.G], [CON-2.N]
+| [5.00]   |Test Review & Reteach|Review test| |Test corrections
 
 
 
@@ -207,6 +208,15 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Reading**     |
 | **Homework**    | Conduct user-centered research to find design opportunities and barriers.
 
+
+| [Lesson 5.00]   | _Test Review & Reteach_
+|------------+----------------------------------------------------------------------|
+| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
+| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
+| **In Class**    | Review test
+| **Reading**     | 4.1 up to “_Nested If/Else Statements_”
+| **Homework**    | Test corrections
+
 ## Abbreviations
 
 - **WS** — Worksheet
@@ -228,6 +238,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [4.09a]: Unit4/Lesson-409a.md
 [4.10]: Unit4/Lesson-410.md
 [4.XX]: Unit4/Lesson-4XX.md
+[5.00]: Unit5/Lesson-500.md
 [Curriculum Assets]: ../Assets.md
 [Lesson 8.00]: Unit8/Lesson-800.md
 [Lesson 4.00]: Unit4/Lesson-400.md
@@ -243,6 +254,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [Lesson 4.09a]: Unit4/Lesson-409a.md
 [Lesson 4.10]: Unit4/Lesson-410.md
 [Lesson 4.XX]: Unit4/Lesson-4XX.md
+[Lesson 5.00]: Unit5/Lesson-500.md
 [Magpie Chatbot Lab]: ../Assets.md#magpie
 [Poster 4.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.1.pptx
 [Poster 4.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.2.pptx
