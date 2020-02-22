@@ -27,14 +27,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [2.02] | Declaring & Assigning Variables    | [WS 2.2] Practice-It SC 2.7, 2.11 (4th, 5th: 2.8, 2.13) E 2.1 | 2.2 up to “String Concatenation” | SC 2.5,2.6,2.9, 2.12-2.15 (4th, 5th: 2.6,2.7,2.1,2.14-2.17) |[CON-1], [VAR-1]|[CON-1.A], [CON-1.B], [VAR-1.B]| [CON-1.A.8], [CON-1.B.1], [VAR-1.B.1]|
 | [2.03] | String Concatenation & Increment Decrement Operators | Grudgeball | Rest of 2.2 | SC 2.4 (4th, 5th: 2.5) |[CON-1]|[CON-1.B]|[CON-1.B.4], [CON-1.B.5]|
 | [2.04] | Mixing Types & Casting               | [WS 2.4] [Poster 2.4] | Rest of 2.2 | finish [WS 2.4] |[CON-1]|[CON-1.C]|[CON-1.C.1], [CON-1.C.2], [CON-1.C.4]|
-| [2.05] | for Loops                         | [WS 2.5] Practice-It SC 2.18,2.23, 2.24 (4th, 5th: 2.21,2.26,2.27) | 2.3 up to “Nested for Loops" | SC 2.19-2.21 (4th, 5th: 2.22-2.24) |
-| [2.06] | nested for Loops                   | Practice-It SC 2.28-2.30 (4th, 5th: 2.31-2.33), E 2.5 | 2.3 “Nested for Loops” | SC 2.26, 2.27 (4th, 5th: 2.29, 2.30),E 2.4 |
-| [2.07] | Scope & Pseudocode                   | [WS 2.7] Discuss PP 2.1 | 2.4 “Scope” and “Pseudocode" |SC 2.31-2.33 (4th, 5th: 2.34-2.36) |
-| [2.08] | Programming Project                 | Start PP 2.4    | Read 2.4 “Class Constants” | Outline ch 2 (omit 2.5) | [CON-1], [VAR-1] | [CON-1.A], [CON-1.B], [CON-1.C], [VAR-1.B]
-| [2.09] | Programming Project                 | Complete PP 2.4 | | \[_TBD practice question_\] |
-| [2.10] | Finding & Fixing Errors             | Fix HW        | | Submit questions for review |
-| [2.11] | Review (Review questions)             | [WS 2.11] practice test | Review ch 2 (omit 2.5) | Study |
-| [2.99] | (Unit 2 Test) | Test 1 Section I Test 1 Section II | | |
+
 
 ## 1.01
 
@@ -192,81 +185,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Reading**     | Rest of 2.2
 | **Homework**    | Finish [WS 2.4]
 
-## 2.05
 
-| [Lesson 2.05]   | _for Loops_
-|------------+----------------------------------------------------------------------|
-| **Objectives**  | Students will trace loops to predict program behavior Students will construct loops to execute simple tasks.
-| **Assessments** | Students will trace and construct loops in Practice-It problems.
-| **In Class**    | [WS 2.5] Practice-It SC 2.18, 2.23, 2.24 (4th: 2.21, 2.26, 2.27)
-| **Reading**     | 2.3 up to “_Nested for Loops_”
-| **Homework**    | SC 2.19–21 (4th: 2.22–24)
-
-## 2.06
-
-| [Lesson 2.06]   | _Nested for Loops_
-|------------+----------------------------------------------------------------------|
-| **Objectives**  | Students will trace nested loops to predict program behavior Students will construct loops to execute simple tasks.
-| **Assessments** | Students will trace and construct nested loops in Practice-It problems.
-| **In Class**    | Practice-It SC 2.28–30 (4th: 2.31–33) E 2.5
-| **Reading**     | 2.3 “_Nested for Loops_”
-| **Homework**    | SC 2.26, 2.27 (4th: 2.29, 2.30) E 2.4
-
-## 2.07
-
-| [Lesson 2.07]   | _Scope & Pseudocode_
-|------------+----------------------------------------------------------------------|
-| **Objectives**  | Students will be able to identify the scope of a variable and identify common scope errors.
-| **Assessments** | Students will complete a worksheet.
-| **In Class**    | [WS 2.7] Discuss PP 2.1
-| **Reading**     | 2.4 “_Scope_” and “_Pseudocode_”
-| **Homework**    | SC 2.31–33 (4th 2.34–36)
-
-## 2.08
-
-| [Lesson 2.08]   | _Programming Project_
-|------------+----------------------------------------------------------------------|
-| **Objectives**  | Students will plan and construct a structured program containing nested loops.
-| **Assessments** | Students will submit a complete, functional program by the end of next class.
-| **In Class**    | Start PP 2.4
-| **Reading**     | Read 2.4 “_Class Constants_”
-| **Homework**    | Outline ch 2 (omit 2.5)
-
-## 2.09
-
-| [Lesson 2.09]   | _Programming Project_
-|------------+----------------------------------------------------------------------|
-| **Objectives**  | Students will plan and construct a structured program containing nested loops.
-| **Assessments** | Students will submit a complete, functional program by the end of next class.
-| **In Class**    | Complete PP 2.4
-| **Reading**     |
-| **Homework**    | \[_TBD practice question_\]
-
-## 2.10
-
-| [Lesson 2.10]   | _Finding & Fixing Errors_
-|------------+----------------------------------------------------------------------|
-| **Objectives**  | Students will find errors in their returned homework assignments, and correct their code.
-| **Assessments** | Students will re-submit all homework assignments with corrected answers.
-| **In Class**    | Fix homework
-| **Reading**     | Review ch 2 (omit 2.5)
-| **Homework**    | Submit questions for review
-
-## 2.11
-
-| [Lesson 2.11]   | _Review_
-|------------+----------------------------------------------------------------------|
-| **Objectives**  | Students will identify weaknesses in their Unit 1 knowledge.
-| **Assessments** | Students will create a personalized list of review topics to guide tonight’s study session.
-| **In Class**    | Review questions [WS 2.11] Practice test
-| **Reading**     |
-| **Homework**    | Study
-
-## 2.99
-
-| Unit 2 Test     | _Working with Data & Basic Control Flow_
-|------------+----------------------------------------------------------------------|
-| **In Class**    | Test 1 Section I Test 1 Section II
 
 ## Abbreviations
 
@@ -309,36 +228,19 @@ chronological order. The order has been adapted to follow the College Board AP C
 [2.02]: ./Unit2/Lesson-202.md
 [2.03]: ./Unit2/Lesson-203.md
 [2.04]: ./Unit2/Lesson-204.md
-[2.05]: ./Unit2/Lesson-205.md
-[2.06]: ./Unit2/Lesson-206.md
-[2.07]: ./Unit2/Lesson-207.md
-[2.08]: ./Unit2/Lesson-208.md
-[2.09]: ./Unit2/Lesson-209.md
-[2.10]: ./Unit2/Lesson-210.md
-[2.11]: ./Unit2/Lesson-211.md
-[2.99]: ./Unit2/#299
 [Curriculum Assets]: ./Assets.md
 [Lesson 2.00]: ./Unit2/Lesson-200.md
 [Lesson 2.01]: ./Unit2/Lesson-201.md
 [Lesson 2.02]: ./Unit2/Lesson-202.md
 [Lesson 2.03]: ./Unit2/Lesson-203.md
 [Lesson 2.04]: ./Unit2/Lesson-204.md
-[Lesson 2.05]: ./Unit2/Lesson-205.md
-[Lesson 2.06]: ./Unit2/Lesson-206.md
-[Lesson 2.07]: ./Unit2/Lesson-207.md
-[Lesson 2.08]: ./Unit2/Lesson-208.md
-[Lesson 2.09]: ./Unit2/Lesson-209.md
-[Lesson 2.10]: ./Unit2/Lesson-210.md
-[Lesson 2.11]: ./Unit2/Lesson-211.md
 [Poster 2.4]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/Poster%202.4.docx
 [Unit 2 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/Unit2.pptx
 [Unit 2 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/Unit%202%20Word%20Bank.docx
-[WS 2.11]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/WS%202.11.docx
 [WS 2.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/WS%202.1.docx
 [WS 2.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/WS%202.2.docx
 [WS 2.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/WS%202.4.docx
-[WS 2.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/WS%202.5.docx
-[WS 2.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/WS%202.7.docx
+
 
 [CON-1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1
 [CON-1.A]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1a
