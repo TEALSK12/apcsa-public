@@ -38,7 +38,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 2.05
 
 | [Lesson 2.05]   | _for Loops_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will trace loops to predict program behavior Students will construct loops to execute simple tasks.
 | **Assessments** | Students will trace and construct loops in Practice-It problems.
 | **In Class**    | [WS 2.5] Practice-It SC 2.18, 2.23, 2.24 (4th: 2.21, 2.26, 2.27)
@@ -48,7 +48,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 2.06
 
 | [Lesson 2.06]   | _Nested for Loops_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will trace nested loops to predict program behavior Students will construct loops to execute simple tasks.
 | **Assessments** | Students will trace and construct nested loops in Practice-It problems.
 | **In Class**    | Practice-It SC 2.28–30 (4th: 2.31–33) E 2.5
@@ -58,7 +58,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 2.07
 
 | [Lesson 2.07]   | _Scope & Pseudocode_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will be able to identify the scope of a variable and identify common scope errors.
 | **Assessments** | Students will complete a worksheet.
 | **In Class**    | [WS 2.7] Discuss PP 2.1
@@ -68,7 +68,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 2.08
 
 | [Lesson 2.08]   | _Programming Project_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will plan and construct a structured program containing nested loops.
 | **Assessments** | Students will submit a complete, functional program by the end of next class.
 | **In Class**    | Start PP 2.4
@@ -78,7 +78,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 2.09
 
 | [Lesson 2.09]   | _Programming Project_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will plan and construct a structured program containing nested loops.
 | **Assessments** | Students will submit a complete, functional program by the end of next class.
 | **In Class**    | Complete PP 2.4
@@ -88,7 +88,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 2.10
 
 | [Lesson 2.10]   | _Finding & Fixing Errors_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will find errors in their returned homework assignments, and correct their code.
 | **Assessments** | Students will re-submit all homework assignments with corrected answers.
 | **In Class**    | Fix homework
@@ -98,7 +98,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 2.11
 
 | [Lesson 2.11]   | _Review_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will identify weaknesses in their Unit 1 knowledge.
 | **Assessments** | Students will create a personalized list of review topics to guide tonight’s study session.
 | **In Class**    | Review questions [WS 2.11] Practice test
@@ -108,13 +108,13 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 2.99
 
 | Unit 2 Test     | _Working with Data & Basic Control Flow_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **In Class**    | Test 1 Section I Test 1 Section II
 
 ## 3.12
 
 |  [Lesson 3.12]     |  _Cumulative Algorithms_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 |  **Objectives**    |  Students will find and correct syntax errors in conditional cumulative algorithms.
 |  **Assessments**   |  Students will write, modify, and correct programs written by others.
 |  **In Class**      |  Tally code on board Collaborative Programming Exercise [WS 3.12]
@@ -124,7 +124,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 3.13
 
 |  [Lesson 3.13]     |  _while Loops_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 |  **Objectives**    |  Students will trace while loops to predict (1) the number of times the body executes and (2) the output of the code. Students will be able to differentiate between while loops, if statements, and for loops.
 |  **Assessments**   |  Students will complete Practice-It questions.
 |  **In Class**      |  Practice-It SC 5.1–4 E 5.2 [WS 3.13]
@@ -134,7 +134,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 3.14
 
 |  [Lesson 3.14]     |  _Random Numbers_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 |  **Objectives**    |  Students will be able to write expressions that generate a random integer between any two values.
 |  **Assessments**   |  Students will complete Practice-It questions.
 |  **In Class**      |  Practice-It SC 5.5–7 E 5.4–5
@@ -144,7 +144,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 3.15
 
 |  [Lesson 3.15]     |  _Fencepost & Sentinel Loops_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 |  **Objectives**    |  Students will be able to describe when to use fencepost and sentinel loops. Students will use proper syntax to construct these control structures.
 |  **Assessments**   |  Students will tea  Chap a mini-lesson explaining the relationship between parameters and values stored in memory.
 |  **In Class**      |  [WS 3.15] Tea  Chap mini-lessons
@@ -154,7 +154,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 3.16.1
 
 |  [Lesson 3.16]     |  _Boolean Logic (Day 1)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 |  **Objectives**    |  Students will work in pairs to write a game that plays Rock Paper Scissors.
 |  **Assessments**   |  Students will submit a program at the end of 2 or 3 class periods.
 |  **In Class**      |  Practice-It SC 5.27, 5.29 [WS 3.16] (RPS, Pig) [DeMorgan’s Law] [Poster 3.16.1] [Poster 3.16.2]
@@ -164,12 +164,12 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 3.16.2
 
 |  [Lesson 3.16]     |  _Boolean Logic (Day 2)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 
 ## 3.17
 
 |  [Lesson 3.17]     |  _Finding & Fixing Errors_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 |  **Objectives**    |  Students will find errors in their returned homework assignments, and correct their code.
 |  **Assessments**   |  Students will re-submit all homework assignments with corrected answers.
 |  **In Class**      |  Fix homework
@@ -179,7 +179,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 3.18.1
 
 |  [Lesson 3.18]     |  _Consumer Review Lab (Day 1)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 |  **Objectives**    |  Students will complete a long-form lab, using string literals, static methods, if statements, while loops, algorithms, and the String class.
 |  **Assessments**   |  Students will complete the College Board’s AP CS A Consumer Review Lab. Students will answer end of activty   Chapeck your understanding and complete Open-ended activity.
 |  **In Class**      |  Lab: Consumer Review Lab Consumer Review Lab Activity 1
@@ -189,7 +189,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 3.18.2
 
 |  [Lesson 3.18]     |  _Consumer Review Lab (Day 2)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 |  **Objectives**    |
 |  **Assessments**   |
 |  **In Class**      |  Consumer Review Lab Activity 2
@@ -199,7 +199,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 3.18.3
 
 |  [Lesson 3.18]     |  _Consumer Review Lab (Day 3)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 |  **Objectives**    |
 |  **Assessments**   |
 |  **In Class**      |  Consumer Review Lab Activity 3
@@ -209,7 +209,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 3.18.4
 
 |  [Lesson 3.18]     |  _Consumer Review Lab (Day 4)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 |  **Objectives**    |
 |  **Assessments**   |
 |  **In Class**      |  Consumer Review Lab Activity 5
@@ -219,7 +219,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 3.18.5
 
 |  [Lesson 3.18]     |  _Consumer Review Lab (Day 5)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 |  **Objectives**    |
 |  **Assessments**   |
 |  **In Class**      |  Consumer Review Lab Activity 5
@@ -229,7 +229,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 3.18.6
 
 |  [Lesson 3.18]     |  _Consumer Review Lab (Day 6)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 |  **Objectives**    |
 |  **Assessments**   |
 |  **In Class**      |  Consumer Review Lab Activity 5 (day 2)
@@ -239,7 +239,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 3.19
 
 |  [Lesson 3.19]     |  _Review_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 |  **Objectives**    |  Students will identify weaknesses in their Unit 3 knowledge.
 |  **Assessments**   |  Students will create a personalized list of review topics to guide tonight’s study session.
 |  **In Class**      |  Review questions [WS 3.18] Practice Test
@@ -249,20 +249,20 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 3.99
 
 |  Unit 3 Test       |  _Advanced Data & Control Flow_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 |  **Guide**         |  [Test 2 Guide]
 |  **In Class**      |  Test 2 Section I Test 2 Section II
 
 ## 3.XX
 
 |  Unit 3 Alternative Project    |  _Frac Calc_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 |  **In Class**      |  [Frac Calc]
 
 ## 3.XX1
 
 |  Unit 3 Alternative Project   |  _Programming Project (FracCalc Alternative)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 |  **Guide**         |  [Consumer Review Lab]   |
 |  **Objectives**    |  Students will conduct user-centred resear  Chap, plan and create, and test, evaluate, and share the end product.
 |  **Assessments**   |  Students will submit project for end of Unit 3 assessment.

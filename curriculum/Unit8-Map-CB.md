@@ -35,7 +35,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 8.00
 
 | [Lesson 8.00]   | _Test Review & Reteach_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 7.
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
 | **In Class**    | Review test
@@ -45,7 +45,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.06
 
 | [Lesson 4.06]   | _Nested Loop Algorithms & Rectangular Arrays_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will correctly adjust nested loop headers for use with arrays  Students will correctly construct two-dimensional arrays
 | **Assessments** | Students will complete WS 4.6
 | **In Class**    | [WS 4.6]
@@ -55,7 +55,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.07
 
 | [Lesson 4.07]   | _ArrayList_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will construct code using ArrayList  Students will predict the output of methods that take arrays as parameters and/or return arrays.
 | **Assessments** | Students will evaluate statements and predict output during a game of Grudgeball.
 | **In Class**    | Grudgeball  [Poster 4.7]
@@ -65,7 +65,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.08
 
 | [Lesson 4.08]   | _Finding & Fixing Errors_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will find errors in their returned homework assignments, and correct their code.
 | **Assessments** | Students will re-submit all homework assignments with corrected answers.
 | **In Class**    | Fix homework
@@ -75,7 +75,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.09.1
 
 | [Lesson 4.09]   | _Magpie Lab (Day 1)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will complete a long-form lab, using if statements, algorithms, the String class, arrays, and ArrayLists.
 | **Assessments** | Students will complete the College Board’s AP CS A Magpie Chatbot Lab.  Students will answer assessment questions on the fourth class exam.
 | **In Class**    | Lab: [Magpie Chatbot Lab]  Magpie Chatbot Lab Activity 1 & 2
@@ -85,7 +85,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.09.2
 
 | [Lesson 4.09]   | _Magpie Lab (Day 2)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Magpie Chatbot Lab Activity 2
@@ -95,7 +95,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.09.3
 
 | [Lesson 4.09]   | _Magpie Lab (Day 3)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Magpie Chatbot Lab Activity 3
@@ -105,7 +105,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.09.4
 
 | [Lesson 4.09]   | _Magpie Lab (Day 4)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Magpie Chatbot Lab Activity 4
@@ -115,7 +115,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.09.5
 
 | [Lesson 4.09]   | _Magpie Lab (Day 5)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Magpie Chatbot Lab Activity 5
@@ -125,7 +125,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.09a.1
 
 | [Lesson 4.09a]   | _Steganography Lab (Day 1)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will complete a long-form lab, using arithmetic expressions, methods, if statements, algorithms, while/for loops, arrays, and ArrayLists.
 | **Assessments** | Students will complete the College Board’s AP CS A Steganography Lab.  Students will answer end of activity Check your understanding and open-ended activity.
 | **In Class**    | Lab: Steganography Lab  Steganography Lab Activity 1
@@ -135,7 +135,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.09a.2
 
 | [Lesson 4.09a]   | _Steganography Lab (Day 2)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Steganography Lab Activity 2
@@ -145,7 +145,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.09a.3
 
 | [Lesson 4.09a]   | _Steganography Lab (Day 3)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Steganography Lab Activity 3
@@ -155,7 +155,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.09a.4
 
 | [Lesson 4.09a]   | _Steganography Lab (Day 4)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Steganography Lab Activity 4
@@ -165,7 +165,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.09a.5
 
 | [Lesson 4.09a]   | _Steganography Lab (Day 5)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Steganography Lab Activity 5
@@ -175,7 +175,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.09a.6
 
 | [Lesson 4.09a]   | _Steganography Lab (Day 6)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Steganography Lab Activity 5 (day 2)
@@ -185,7 +185,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.10
 
 | [Lesson 4.10]  | _Review_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will identify weaknesses in their Unit 4 knowledge.
 | **Assessments** | Students will create a personalized list of review topics to guide tonight’s study session.
 | **In Class**    | Review questions  [WS 4.10]  Practice test
@@ -195,13 +195,13 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.99
 
 | Unit 4 Test     | _Arrays, Lists & Files_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **In Class**    | Test 3 Section I  Test 3 Section II
 
 ## 4.XX
 
 | [Lesson 4.XX]    |_Programming Project(Magpie Alternative)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will be able to conduct user-centered research, plan and create, test evaluate and share
 | **Assessments** | Students will apply if-else, String methods to implement a software application and Submit a complete, functional program.
 | **In Class**    |
@@ -210,7 +210,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 
 | [Lesson 5.00]   | _Test Review & Reteach_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
 | **In Class**    | Review test

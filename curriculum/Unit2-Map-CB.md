@@ -25,7 +25,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 3.00
 
 | [Lesson 3.00]   | _Test Review & Reteach_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 2.
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
 | **In Class**    | [Algorithm for Solving Problems]
@@ -35,7 +35,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 3.01
 
 | [Lesson 3.01]   | _Parameters_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will correctly construct formal and actual parameters (arguments).  Students will predict the output of programs that use parameters.
 | **Assessments** | Students will teach a mini-lesson explaining the relationship between parameters and values stored in memory.  Students will submit Practice-It questions.
 | **In Class**    | Practice-It  SC 3.1–3
@@ -45,7 +45,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 3.02
 
 | [Lesson 3.02]   | _Limitations of Parameters & Multiple Parameters_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will modify programs using parameters and class constants to create original artworks.
 | **Assessments** | Students will complete an art project and “artist statement” justifying their programming choices.
 | **In Class**    | Art project
@@ -55,7 +55,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 3.03
 
 | [Lesson 3.03]   | _Return Values_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will write a program that returns values.
 | **Assessments** | Students will complete Practice-It questions and write a program to meet a Pokémon Challenge.
 | **In Class**    | Practice-It  SC 3.14–16
@@ -65,7 +65,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 3.04
 
 | [Lesson 3.04]   | _Programming Project_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will write a program that uses parameters, the math class, and returns values.
 | **Assessments** | Students will submit an Equestria program by the end of class.
 | **In Class**    | [WS 3.4]  [Equestria]
@@ -75,7 +75,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 3.05
 
 | [Lesson 3.05]   | _Using Objects & String Processing_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will be able to differentiate between primitive and object types.  Students will apply 0-indexing and string processing techniques to predict the output of a program.
 | **Assessments** | Students will complete WS 3.5
 | **In Class**    | [WS 3.5]
@@ -85,7 +85,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 3.06
 
 | [Lesson 3.06]   | _Interactive Programs & Scanner Objects_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will write programs that accept user input using a scanner object.
 | **Assessments** | Students will complete Practice-It problems.
 | **In Class**    | Practice-It  SC 3.24–26  E 3.12,14,15
@@ -95,7 +95,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 3.07
 
 | [Lesson 3.07]   | _Pokémon Battle Programming Project_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will write a program that requests user input and returns data.
 | **Assessments** | Students will write a program that calculates damage done to Pokémon in a battle.
 | **In Class**    | [WS 3.7]  LP Battle
@@ -105,7 +105,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 3.08
 
 | [Lesson 3.08]   | _Finding & Fixing Errors_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will find errors and correct their previously submitted homework and classwork assignment.
 | **Assessments** | Students will re-submit all homework assignments with corrected answers.
 | **In Class**    | Fix homework  webmaker.org

@@ -36,7 +36,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 4.07
 
 | [Lesson 4.07]   | _ArrayList_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will construct code using ArrayList Students will predict the output of methods that take arrays as parameters and/or return arrays.
 | **Assessments** | Students will evaluate statements and predict output during a game of Grudgeball.
 | **In Class**    | Grudgeball [Poster 4.7]
@@ -46,7 +46,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.01
 
 | [Lesson 7.01]   | _Searching Algorithms_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will compare and contrast the different search algorithms.
 | **Assessments** | Students will complete some short answer questions.
 | **In Class**    | CS Unplugged Battleship [WS 7.1]
@@ -56,7 +56,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.02
 
 | [Lesson 7.02]   | _Sorting Algorithms_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will compare and contrast different sorting methods and evaluate their relative speed and efficiency.
 | **Assessments** | Students will complete some short answer questions on worksheets.
 | **In Class**    |
@@ -66,7 +66,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.03.1
 
 | [Lesson 7.03]   | _Elevens lab (Day 1)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will complete a long-form lab, demonstrating effective use of object oriented program design, program implementation and analysis, and standard data structures and algorithms.
 | **Assessments** | Elevens Lab
 | **In Class**    | Elevens Lab Activity 1
@@ -76,7 +76,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.03.2
 
 | [Lesson 7.03]   | _Elevens lab (Day 2)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Elevens Lab Activity 2 (begin)
@@ -86,7 +86,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.03.3
 
 | [Lesson 7.03]   | _Elevens lab (Day 3)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Elevens Lab Activity 2 (end)
@@ -96,7 +96,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.03.4
 
 | [Lesson 7.03]   | _Elevens lab (Day 4)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Elevens Lab Activity 3 (begin) Notebook checks
@@ -106,7 +106,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.03.5
 
 | [Lesson 7.03]   | _Elevens lab (Day 5)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Elevens Lab Activity 3 (end) Notebook checks
@@ -116,7 +116,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.03.6
 
 | [Lesson 7.03]   | _Elevens lab (Day 6)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Elevens Lab Activity 4
@@ -126,7 +126,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.03.7
 
 | [Lesson 7.03]   | _Elevens lab (Day 7)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Elevens Lab Activity 5 (begin) Barron's checks
@@ -136,7 +136,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.03.8
 
 | [Lesson 7.03]   | _Elevens lab (Day 8)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Elevens Lab Activity 5 (end)
@@ -146,7 +146,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.03.9
 
 | [Lesson 7.03]   | _Elevens lab (Day 9)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Elevens Lab Activity 6
@@ -156,7 +156,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.03.10
 
 | [Lesson 7.03]   | _Elevens lab (Day 10)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Elevens Lab Activity 7
@@ -166,7 +166,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.03.11
 
 | [Lesson 7.03]   | _Elevens lab (Day 11)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Elevens Lab Activity 8 Re-grade fixed homework
@@ -176,7 +176,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.03.12
 
 | [Lesson 7.03]   | _Elevens lab (Day 12)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Elevens Lab Activity 9 (begin) Re-grade fixed homework
@@ -186,7 +186,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.03.13
 
 | [Lesson 7.03]   | _Elevens lab (Day 13)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Elevens Lab Activity 9 (end) Re-grade fixed homework
@@ -196,7 +196,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.03.14
 
 | [Lesson 7.03]   | _Elevens lab (Day 14)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Elevens Lab Activity 10 Re-grade fixed homework
@@ -206,7 +206,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.03.15
 
 | [Lesson 7.03]   | _Elevens lab (Day 15)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Elevens Lab Activity 11 (begin)
@@ -216,7 +216,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.03.16
 
 | [Lesson 7.03]   | _Elevens lab (Day 16)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Elevens Lab Activity 11 (end)
@@ -226,7 +226,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.04
 
 | [Lesson 7.04]   | _Review_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will identify weaknesses in their Unit 7 knowledge.
 | **Assessments** | Students will create a personalized list of review topics to guide tonight’s study session.
 | **In Class**    | Review questions
@@ -236,7 +236,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 7.99
 
 | Unit 7 Test     | _Searching & Sorting_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Guide**       | [Test 6 Guide]
 | **In Class**    | Test 6 Section I Test 6 Section II
 

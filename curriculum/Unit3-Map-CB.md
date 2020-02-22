@@ -16,7 +16,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 3.09
 
 | [Lesson 3.09]   | _Relational Operators & if/else_ |
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will be able to evaluate relational expressions, predict and trace the flow of an if statement. |
 | **Assessments** | Students will evaluate relational expressions and practice correct if statement syntax during a game of Grudgeball. |
 | **In Class** | [Operator Precedence] Grudgeball |
@@ -26,7 +26,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 3.10
 
 | [Lesson 3.10]   | _Nested if/else Statements_ |
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will will be able to choose which if statements to use for different problems Students will use correct syntax for the different if statements. |
 | **Assessments** | Students will teach a mini-lesson on sequential or nested if statements. Students will submit several Practice-It questions. |
 | **In Class** | [WS 3.10] Teach mini-lessons Practice-It SC 4.5–6 E 4.3 |
@@ -36,7 +36,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 3.11
 
 |  [Lesson 3.11]     |  _Reducing Redundancy_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 |  **Objectives**    |  Students will simplify code and reduce redundancy by factoring if/else statements and testing multiple conditions simultaneously.
 |  **Assessments**   |  Students will complete a class competition.
 |  **In Class**      |  Refactoring competition

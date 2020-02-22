@@ -38,7 +38,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 5.00
 
 | [Lesson 5.00]   | _Test Review & Reteach_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
 | **In Class**    | Review test
@@ -48,7 +48,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.01.1
 
 | [Lesson 6.01]   | _Inheritance Basics (Day 1)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will correctly define inheritance Students will use proper syntax to extend a class. Students will illustrate is-a relationships. Students will properly implement constructors of derived classes using super.
 | **Assessments** | Students will complete a Class Hierarchy Poster as indicated in WS 6.1.
 | **In Class**    | [WS 6.1] Start class poster [Example 6.1]
@@ -58,7 +58,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.01.2
 
 | [Lesson 6.01]   | _Inheritance Basics (Day 2)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Finish class poster Discussion
@@ -68,7 +68,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.02
 
 | [Lesson 6.02]   | _Overriding Methods & Accessing Inherited Code_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will replace superclass behavior by writing overriding methods in the subclass. Students will write subclass methods that access superclass methods.
 | **Assessments** | Students will add code to their Class Posters from the previous lesson.
 | **In Class**    | [WS 6.2]
@@ -78,7 +78,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.03
 
 | [Lesson 6.03]   | _Interacting with the Object Superclass_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will replace superclass behavior by writing overriding methods in the subclass. Students will write subclass methods that access superclass methods.
 | **Assessments** | Students will complete Practice-It questions Students will complete a worksheet.
 | **In Class**    | Practice-It SC 9.3–4,9–10 E 9.4 [WS 6.3] [Poster 6.3]
@@ -88,7 +88,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.04
 
 | [Lesson 6.04]   | _Polymorphism_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will define polymorphism. Students will trace the execution of methods through a class hierarchy and predict output.
 | **Assessments** | Students will complete a Tracing Inheritance guide and complete worksheet 6.4.
 | **In Class**    | [WS 6.4.1] [WS 6.4.2] SC 9.11–17
@@ -98,7 +98,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.05
 
 | [Lesson 6.05]   | _Has-a Relationships_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will be able to identify and explain why two classes have an is-a or a has-a relationship. Students will be able to create a has-a relationship between two classes.
 | **Assessments** | Students will complete an AP Section II question “_Trio_”
 | **In Class**    | [WS 6.5] ValueMeal exercise
@@ -108,7 +108,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.06
 
 | [Lesson 6.06]   | _Interfaces (Optional)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will implement and use interfaces.
 | **Assessments** | Students will complete an in-class competition.
 | **In Class**    | Interface examples [Poster 6.6]
@@ -118,7 +118,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.07.1
 
 | [Lesson 6.07]   | _Programming project (Day 1)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will write complex code that uses polymorphism, and inheritance.
 | **Assessments** | Students will submit a program electronically.
 | **In Class**    | PP 9.1 Notebook checks
@@ -128,7 +128,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.07.2
 
 | [Lesson 6.07]   | _Programming project (Day 2)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | PP 9.1 Outline checks
@@ -138,7 +138,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.07.3
 
 | [Lesson 6.07]   | _Programming project (Day 3)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | PP 9.3
@@ -148,7 +148,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.07.4
 
 | [Lesson 6.07]   | _Programming project (Day 4)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | EX 9.8
@@ -158,7 +158,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.07.5
 
 | [Lesson 6.07]   | _Programming project (Day 5)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Barrons ch 3  (8th or later: ch 4) exam, Outline checks
@@ -168,7 +168,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.07a.1
 
 | [Lesson 6.07a]   | Celebrity Lab (Day 1)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will complete a long-form lab, using classes, objects, two dimensional arrays of objects, array traversing algorithms, program analysis, while/for loops.
 | **Assessments** | Students will complete the College Board’s AP CS A Celebrity Lab. Students will answer end of activity Check your understanding and open-ended activity.
 | **In Class**    | Celebrity Lab Activity 1 Notebook checks
@@ -178,7 +178,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.07a.2
 
 | [Lesson 6.07a]   | Celebrity Lab (Day 2)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Celebrity Lab Activity 2 Outline checks
@@ -188,7 +188,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.07a.3
 
 | [Lesson 6.07a]   | Celebrity Lab (Day 3)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Celebrity Lab Activity 3
@@ -198,7 +198,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.07a.4
 
 | [Lesson 6.07a]   | Celebrity Lab (Day 4)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Celebrity Lab Activity 4
@@ -208,7 +208,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.07a.5
 
 | [Lesson 6.07a]   | Celebrity Lab (Day 5)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Celebrity Lab Activity 5, Outline checks
@@ -218,7 +218,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.07a.6
 
 | [Lesson 6.07a]   | Celebrity Lab (Day 6)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Celebrity Lab Activity 5 (day 2), Outline checks
@@ -228,7 +228,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.07a.7
 
 | [Lesson 6.07a]   | Celebrity Lab (Day 7)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Celebrity Lab Activity 5 (day 3), Outline checks
@@ -238,7 +238,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.08
 
 | [Lesson 6.08]   | _Finding & Fixing Errors_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will find errors in their returned homework assignments, and correct their code.
 | **Assessments** | Students will re-submit all homework assignments with corrected answers.
 | **In Class**    | Fix homework
@@ -248,7 +248,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.09
 
 | [Lesson 6.09]   | _Review_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will identify weaknesses in their Unit 6 knowledge.
 | **Assessments** | Students will create a personalized list of review topics to guide tonight’s study session.
 | **In Class**    | Review questions [WS 6.5] Test practice
@@ -258,14 +258,14 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 6.99
 
 | Unit 6 Test     | _Inheritance and Polymorphism_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Guide**       | [Test 5 Guide]
 | **In Class**    | Test 5 Section I Test 5 Section II
 
 ## 6.XX
 
 | Unit 6 Project  | _Text Excel_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **In Class**    | [Text Excel] [Text Excel Student Guide A] [Text Excel Student Guide B] [Text Excel Student Guide C] [Text Excel Teacher Guide]
 
 ## Abbreviations

@@ -42,7 +42,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 5.00
 | [Lesson 5.00]   | _Test Review & Reteach_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
 | **In Class**    | Review test
@@ -51,7 +51,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 5.01
 | [Lesson 5.01]   | _Object Oriented Programming_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will be able to describe the relationship between classes, objects, and client code.<br>Students will be able to predict the output of the code that uses objects.
 | **Assessments** | Students will complete Practice-It questions.
 | **In Class**    | Practice-It<br>SC 8.1–5<br>[WS 5.1.1]
@@ -60,7 +60,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 5.02
 | [Lesson 5.02]   | _Object State & Behavior_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will be able to describe classes, objects, and client code.<br>Students will be able to predict the output of the code that uses objects.
 | **Assessments** | Students will complete WS 5.2 individually or in pairs.
 | **In Class**    | [WS 5.2]
@@ -69,7 +69,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 5.03
 | [Lesson 5.03]   | _Object Initialization: Constructors_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will be able to describe and create classes, objects, and client code.<br>Students will be able to predict the output of the code that uses objects.
 | **Assessments** | Students will complete Practice-It questions.
 | **In Class**    | [WS 5.3.1]<br>[WS 5.3.2]
@@ -78,7 +78,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 5.04
 | [Lesson 5.04]   | _Encapsulation_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will be able to manipulate single-dimension arrays using a variety of array transversal algorithms.
 | **Assessments** | Students will teach a mini-lesson on printing, searching/replacing, testing for equality, reversing an array, or string traversal.<br>Students will complete a quiz at the end of Day 2.
 | **In Class**    | [WS 5.4] Teach mini-lessons
@@ -88,7 +88,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 5.06.1
 
 | [Lesson 5.06]   | _Picture Lab (Day 1)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will complete a long-form lab, using two dimensional arrays of objects, array traversing algorithms, program analysis, binary numbers, and inheritance.
 | **Assessments** | Picture Lab
 | **In Class**    | Picture Lab Activity 1 & 2  Picture Lab
@@ -98,7 +98,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 5.06.2
 
 | [Lesson 5.06]   | _Picture Lab (Day 2)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Picture Lab Activity 3 & 4  Notebook checks
@@ -108,7 +108,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 5.06.3
 
 | [Lesson 5.06]   | _Picture Lab (Day 3)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Picture Lab Activity 5  Notebook checks
@@ -118,7 +118,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 5.06.4
 
 | [Lesson 5.06]   | _Picture Lab (Day 4)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Picture Lab Activity 5 & 6  Notebook checks
@@ -128,7 +128,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 5.06.5
 
 | [Lesson 5.06]   | _Picture Lab (Day 5)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Picture Lab Activity 6  Barron's checks
@@ -138,7 +138,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 5.06.6
 
 | [Lesson 5.06]   | _Picture Lab (Day 6)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Picture Lab Activity 7
@@ -148,7 +148,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 5.06.7
 
 | [Lesson 5.06]   | _Picture Lab (Day 7)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Picture Lab Activity 8
@@ -158,7 +158,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 5.06.8
 
 | [Lesson 5.06]   | _Picture Lab (Day 8)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Picture Lab Activity 9
@@ -168,7 +168,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 5.06.9
 
 | [Lesson 5.06]   | _Picture Lab (Day 9)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Picture Lab Activity 9, cont.
@@ -178,7 +178,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 5.06a.1
 
 | [Lesson 5.06a]   | _Data Lab (Day 1)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will complete a long-form lab, using classes, objects, two dimensional arrays of objects, array traversing algorithms, program analysis and while/for loops.
 | **Assessments** | Students will complete the College Board’s AP CS A Data Lab.  Students will answer end of activity Check your understanding and open-ended activity.
 | **In Class**    | Data Lab Activity 1  Data Lab
@@ -188,7 +188,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 5.06a.2
 
 | [Lesson 5.06a]   | _Data Lab (Day 2)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Data Lab Activity 2  Notebook checks
@@ -198,7 +198,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 5.06a.3
 
 | [Lesson 5.06a]   | _Data Lab (Day 3)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Data Lab Activity 3  Notebook checks
@@ -208,7 +208,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 5.06a.4
 
 | [Lesson 5.06a]   | _Data Lab (Day 4)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Data Lab Activity 3 (day 2)  Notebook checks
@@ -218,7 +218,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 5.06a.5
 
 | [Lesson 5.06a]   | _Data Lab (Day 5)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Data Lab Activity 4  Barron's checks
@@ -228,7 +228,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 5.06a.6
 
 | [Lesson 5.06a]   | _Data Lab (Day 6)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Data Lab Activity 4 (day 2)
@@ -238,7 +238,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 5.06a.7
 
 | [Lesson 5.06a]   | _Data Lab (Day 7)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Data Lab Activity 4 (day 3)
@@ -248,7 +248,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 5.06a.8
 
 | [Lesson 5.06a]   | _Data Lab (Day 8)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Data Lab Activity 4 (day 4)
@@ -268,13 +268,13 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 5.99
 
 | Unit 5 Test     | _Object Oriented Programming_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **In Class**    | Test 4 Section I  Test 4 Section II
 
 ## 5.XX
 
 | [Lesson 5.XX]   | _Programming Project(PictureLab Alternative)_
-|------------+----------------------------------------------------------------------|
+|:----------------|:-----------------------------
 | **Objectives**  | Students will be able to conduct user-centered research, plan and create, test, evaluate and share.
 | **Assessments** | Apply 2-dimensional arrays, traversal, binary representations of data and submit a complete functional program.
 | **In Class**    | Project Design
