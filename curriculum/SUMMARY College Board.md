@@ -38,14 +38,6 @@
 * [Lesson 2.02: Declaring & Assigning Variables](Unit2/Lesson-202.md)
 * [Lesson 2.03: String Concatenation & Increment Decrement Operators](Unit2/Lesson-203.md)
 * [Lesson 2.04: Mixing Types & Casting](Unit2/Lesson-204.md)
-* [Lesson 2.05: for Loops](Unit2/Lesson-205.md)
-* [Lesson 2.06: nested for Loops](Unit2/Lesson-206.md)
-* [Lesson 2.07: Scope & Pseudocode](Unit2/Lesson-207.md)
-* [Lesson 2.08: Programming Project](Unit2/Lesson-208.md)
-* [Lesson 2.09: Programming Project](Unit2/Lesson-209.md)
-* [Lesson 2.10: Finding & Fixing Errors](Unit2/Lesson-210.md)
-* [Lesson 2.11: Review](Unit2/Lesson-211.md)
-* [Lesson 2.99: (Unit 2 Test)](Curriculum-Map.md#299)
 
 ## [CB Unit 2: Using Objects](Unit2-Map-CB.md)
 
@@ -58,21 +50,23 @@
 * [Lesson 3.06: Interactive Programs & Scanner Objects](Unit3/Lesson-306.md)
 * [Lesson 3.07: Pokémon Battle Programming Project](Unit3/Lesson-307.md)
 * [Lesson 3.08: Finding & Fixing Errors](Unit3/Lesson-308.md)
-* [Lesson 5.01: Object Oriented Programming](Unit5/Lesson-501.md)
-* [Lesson 5.02: Object State & Behavior](Unit5/Lesson-502.md)
-* [Lesson 5.03: Object Initialization: Constructors](Unit5/Lesson-503.md)
-* [Lesson 5.04: Encapsulation](Unit5/Lesson-504.md)
-
-
 
 ## [CB Unit 3: Boolean Expressions and if Statements](Unit3-Map-CB.md)
 
 * [Lesson 3.09: Relational Operators & if/else](Unit3/Lesson-309.md)
 * [Lesson 3.10: Nested if/else Statements](Unit3/Lesson-310.md)
+* [Lesson 3.11: Reducing Redundancy](Unit3/Lesson-311.md)
 
 ## [CB Unit 4: Iteration](Unit4-Map-CB.md)
 
-* [Lesson 3.11: Reducing Redundancy](Unit3/Lesson-311.md)
+* [Lesson 2.05: for Loops](Unit2/Lesson-205.md)
+* [Lesson 2.06: nested for Loops](Unit2/Lesson-206.md)
+* [Lesson 2.07: Scope & Pseudocode](Unit2/Lesson-207.md)
+* [Lesson 2.08: Programming Project](Unit2/Lesson-208.md)
+* [Lesson 2.09: Programming Project](Unit2/Lesson-209.md)
+* [Lesson 2.10: Finding & Fixing Errors](Unit2/Lesson-210.md)
+* [Lesson 2.11: Review](Unit2/Lesson-211.md)
+* [Lesson 2.99: (Unit 2 Test)](Curriculum-Map.md#299)
 * [Lesson 3.12: Cumulative Algorithms](Unit3/Lesson-312.md)
 * [Lesson 3.13: while Loops](Unit3/Lesson-313.md)
 * [Lesson 3.14: Random Numbers](Unit3/Lesson-314.md)
@@ -89,6 +83,10 @@
 ## [CB Unit 5: Writing Classes](Unit5-Map-CB.md)
 
 * [Lesson 4.00: Test Review & Reteach](Unit4/Lesson-400.md)
+* [Lesson 5.01: Object Oriented Programming](Unit5/Lesson-501.md)
+* [Lesson 5.02: Object State & Behavior](Unit5/Lesson-502.md)
+* [Lesson 5.03: Object Initialization: Constructors](Unit5/Lesson-503.md)
+* [Lesson 5.04: Encapsulation](Unit5/Lesson-504.md)
 * [Lesson 5.05: Finding & Fixing Errors](Unit5/Lesson-505.md)
 * [Lesson 5.06: Picture Lab (9 Days)](Unit5/Lesson-506.md)
 * [Lesson 5.06a: Data Lab](Unit5/Lesson-506a.md)
@@ -125,10 +123,10 @@
 * [Lesson 4.10: Review](Unit4/Lesson-410.md)
 * [Lesson 4.99: (Unit 4 test)](Curriculum-Map.md#499)
 * [Lesson 4.XX: Programming Project(Magpie Alternative)](Unit4/Lesson-4XX.md)
+* [Lesson 5.00: Test Review & Reteach](Unit5/Lesson-500.md)
 
 ## [CB Unit 9: Inheritance](Unit9-Map-CB.md)
 
-* [Lesson 5.00: Test Review & Reteach](Unit5/Lesson-500.md)
 * [Lesson 6.01: Inheritance Basics (2 Days)](Unit6/Lesson-601.md)
 * [Lesson 6.02: Overriding Methods & Accessing Inherited Code](Unit6/Lesson-602.md)
 * [Lesson 6.03: Interacting with the Object Superclass](Unit6/Lesson-603.md)
