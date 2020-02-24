@@ -8,8 +8,8 @@ classroom.
 
 - [Unit 6 Slides]
 - [Unit 6 Word Bank]
-- [Curriculum Assets]
-- [Text Excel]
+- [Curriculum Assets](../Assets.md)
+- [Text Excel](../Assets.md)
 
 | **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|
@@ -289,7 +289,6 @@ classroom.
 [6.07a]: Lesson-607a.md
 [6.08]: Lesson-608.md
 [6.09]: Lesson-609.md
-[Curriculum Assets]: ../Assets.md
 [Example 6.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Example%206.1.jpg
 [Lesson 6.00]: Lesson-600.md
 [Lesson 6.01]: Lesson-601.md
@@ -309,7 +308,6 @@ classroom.
 [Text Excel Student Guide B]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Text%20Excel%20B%20Student%20Guide.docx
 [Text Excel Student Guide C]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Text%20Excel%20C%20Student%20Guide.docx
 [Text Excel Teacher Guide]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Text%20Excel%20Teacher%20Guide.docx
-[Text Excel]: Assets.md#textexcel
 [Unit 6 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Unit6.pptx
 [Unit 6 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Unit%206%20Word%20Bank.docx
 [WS 6.1]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/WS%206.1.docx

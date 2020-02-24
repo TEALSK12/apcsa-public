@@ -8,8 +8,8 @@ classroom.
 
 - [Unit 4 Slides]
 - [Unit 4 Word Bank]
-- [Curriculum Assets]
-- [Magpie Chatbot Lab]
+- [Curriculum Assets](../Assets.md)
+- [Magpie Chatbot Lab](../Assets.md)
 
 | **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|
@@ -294,7 +294,6 @@ classroom.
 [4.09a]: Lesson-409a.md
 [4.10]: Lesson-410.md
 [4.XX]: Lesson-4XX.md
-[Curriculum Assets]: ../Assets.md
 [Lesson 4.00]: Lesson-400.md
 [Lesson 4.01]: Lesson-401.md
 [Lesson 4.02]: Lesson-402.md
@@ -308,7 +307,6 @@ classroom.
 [Lesson 4.09a]: Lesson-409a.md
 [Lesson 4.10]: Lesson-410.md
 [Lesson 4.XX]: Lesson-4XX.md
-[Magpie Chatbot Lab]: ../Assets.md#magpie
 [Poster 4.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.1.pptx
 [Poster 4.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.2.pptx
 [Poster 4.7]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.7.pptx

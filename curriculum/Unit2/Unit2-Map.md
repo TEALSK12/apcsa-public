@@ -8,7 +8,7 @@ classroom.
 
 - [Unit 2 Slides]
 - [Unit 2 Word Bank]
-- [Curriculum Assets]
+- [Curriculum Assets](../Assets.md)
 
 | **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|
@@ -184,7 +184,6 @@ classroom.
 [2.10]: Lesson-210.md
 [2.11]: Lesson-211.md
 [2.99]: #299
-[Curriculum Assets]: ../Assets.md
 [Lesson 2.00]: Lesson-200.md
 [Lesson 2.01]: Lesson-201.md
 [Lesson 2.02]: Lesson-202.md
