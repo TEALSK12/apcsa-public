@@ -156,7 +156,7 @@ testing environment to mimic that of the exam:
 
 - Move from open-note (see “Tricky Code Cheat Sheet”) to closed-note
 
-- The AP exam has 40 multiple choice questions in 75 minutes (≈2 minutes per question). On the
+- The AP exam has 40 multiple choice questions in 90 minutes (≈2 minutes per question). On the
   earlier tests, start at a slower pace (perhaps 4 minutes per question). As the course progresses,
   work to a pace even faster than the actual test (90 seconds per question).
 

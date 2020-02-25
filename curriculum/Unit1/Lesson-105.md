@@ -100,7 +100,7 @@ to convince students of the pace and commitment level required for the class.
      give it a different name than “main”.
      
    - A method call interrupts the sequential execution of statements, causing the program to first execute 
-   the statements in the method or constructor before continuing. 
+   the statements in the method before continuing. 
    
    - Once the last statement in the method or constructor has executed or a return statement is executed, 
    flow of control is returned to the point immediately following where the method or constructor was called. 
