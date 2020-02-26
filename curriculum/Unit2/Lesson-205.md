@@ -8,8 +8,8 @@ Overview
 - **Construct** loops to execute simple tasks.
 
 ### Prerequisite Skills
-- [1.B] Determine Code that would be used to complete code segment
-- [2.B] Determine the result or output based on statement execution order in a code segment without method calls
+- 1.B Determine Code that would be used to complete code segment
+- 2.B Determine the result or output based on statement execution order in a code segment without method calls
 
 ### Assessments — _Students will…_
 - **Trace and construct** loops in Practice-It problems
