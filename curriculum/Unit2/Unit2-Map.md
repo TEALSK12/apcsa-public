@@ -8,7 +8,7 @@ classroom.
 
 - [Unit 2 Slides]
 - [Unit 2 Word Bank]
-- [Curriculum Assets](../Assets.md)
+- [Curriculum Assets]
 
 | **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|
@@ -206,3 +206,4 @@ classroom.
 [WS 2.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/WS%202.4.docx
 [WS 2.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/WS%202.5.docx
 [WS 2.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/WS%202.7.docx
+[Curriculum Assets]: ../Assets.md
