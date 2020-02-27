@@ -47,7 +47,7 @@ selected by the class. Explain that you will review test-taking strategies in ad
 subject matter.
 
 ### Bell-work and Attendance \[5 minutes\]
-
+Have students log into the College Board AP Classroom and take the prepared formative assessment prepared in the Prep section.
 
 ### Introduction and Test Format Orientation \[15 minutes\]
 
