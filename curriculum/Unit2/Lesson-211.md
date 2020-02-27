@@ -19,7 +19,6 @@ Materials & Prep
 - **Whiteboard and marker**
 - **Results** from electronic survey of review topics
 - **Classroom copies** of the practice test [WS 2.11]
-- Access to **[College Board AP Classroom]**
 
 Once students have submitted their review requests, assemble those topics into categories and
 prepare to re-teach the topics as needed.
@@ -35,11 +34,6 @@ Pacing Guide
 | Check student study lists                |       5min |
 
 
-Options
--------
-Classroom teachers have access to the College Board's AP CS A Personal Progress Checks.  With the completion of Unit 2 of the TEALS curriculum the College Board's Unit 1 "Primitive Types" Personal Progress Check can be used as formative assesement to test student understanding.  Students will need to sign in to their [College Board AP Classroom] accounts.  Note the College Board states the their assessments should not be used for grading purposes however you can give a participation grade for completion. The classroom teacher has a choice of using [WS 2.11], the College Board's Personal Progress Check, or some combination of the two.  The choice would depend on the time alloated for the review period.
-
-
 Procedure
 ---------
 Engage the class in the review session by pointing out that your review topics have been hand
@@ -47,7 +41,6 @@ selected by the class. Explain that you will review test-taking strategies in ad
 subject matter.
 
 ### Bell-work and Attendance \[5 minutes\]
-Have students log into the College Board AP Classroom and take the prepared formative assessment prepared in the Prep section.
 
 ### Introduction and Test Format Orientation \[15 minutes\]
 
@@ -59,8 +52,6 @@ Have students log into the College Board AP Classroom and take the prepared form
 
 3. Work through the sample problems on the test as a way of reviewing topics, and answer any
    questions that students bring up as you go.
-   
-4. Have students log into the [College Board AP Classroom] and take the Unit 1 Personal Progress Check.
 
 ### Test Review \[30 minutes\]
 
@@ -95,7 +86,6 @@ correlation between code writing and tracing and between Parsons and tracing. (I
 Parsons Problems accurately assess a students’ ability to create code.) For more information on
 Parsons Problems, check out this paper (<https://cseweb.ucsd.edu/classes/fa08/cse599/denny.pdf>).
 
-
 Even in a non-ELL class, you may want to change some Section II questions to Parsons problems
 because (1) grading the questions is easier, since logic and syntax errors are easy to discern, and
 (2) students challenged by language processing are able to more quickly complete the problem.
@@ -110,4 +100,3 @@ Forum discussion
 
 
 [WS 2.11]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/WS%202.11.docx
-[College Board AP Classroom]: https://myap.collegeboard.org/login
