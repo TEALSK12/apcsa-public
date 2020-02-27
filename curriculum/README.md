@@ -327,7 +327,7 @@ Additional Resources
 Printing GitBook
 --------------------
 The AP CS A GitBook can be printed by navigating to 
-https://pdf.gitbook.cloud/preview?url=https://tealsk12.gitbook.io/apcsa/#. 
+https://aka.ms/TEALSAPCSAPDF. 
 However, the "Download" button does not work. There is workaround depending on the browser:
 - click on the document to enable the pdf menu to show and clicking the down arrow or "Save as Copy"
 - right click on the .pdf document and select "Save As"
