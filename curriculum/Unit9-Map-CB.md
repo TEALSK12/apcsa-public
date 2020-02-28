@@ -32,9 +32,9 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | [6.08] |Finding & Fixing Errors|(Fix HW)|Review ch 9|Submit questions for review
 | [6.09] |Review|Review questions [WS 6.5] Test practice||Study
 | 6.99 |Unit 6 test|[Test 5 Guide] Test 5 Section I Test 5 Section II||
+| [7.00] |Test Review & Reteach|Review test|13.1 up to “Sorting”|Test corrections
 | 6.XX |[Text Excel]|[Text Excel Student Guide A] [Text Excel Student Guide B] [Text Excel Student Guide C] [Text Excel Teacher Guide]||| [MOD-2], [MOD-3] | [MOD-2.D], [MOD-3.B], [MOD-3.C], [MOD-3.D] |
 | [9.PP] | Unit 9 Personal Progress Check Inheritance |
-| [7.00] |Test Review & Reteach|Review test|13.1 up to “Sorting”|Test corrections
 
 ## 6.01.1
 
@@ -253,6 +253,16 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Guide**       | [Test 5 Guide]
 | **In Class**    | Test 5 Section I Test 5 Section II
 
+## 7.00
+
+| [Lesson 7.00]   | _Test Review & Reteach_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 6.
+| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
+| **In Class**    | Review test
+| **Reading**     | 13.1 up to “_Sorting_”
+| **Homework**    | Test corrections
+
 ## 6.XX
 
 | Unit 6 Project  | _Text Excel_
@@ -265,17 +275,6 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |:----------------|:-----------------------------
 | **Objectives**  | Identify weaknesses in student's Unit 9 knowledge
 | **Assessments** | Students will take Unit 9 Personal Progress Check
-
-
-## 7.00
-
-| [Lesson 7.00]   | _Test Review & Reteach_
-|:----------------|:-----------------------------
-| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 6.
-| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
-| **In Class**    | Review test
-| **Reading**     | 13.1 up to “_Sorting_”
-| **Homework**    | Test corrections
 
 ## Abbreviations
 
