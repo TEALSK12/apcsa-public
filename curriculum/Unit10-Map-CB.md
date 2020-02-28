@@ -10,7 +10,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
-| [7.00] |Test Review & Reteach|Review test|13.1 up to “Sorting”|Test corrections
 | [8.01] |Thinking Recursively|Tower of Hanoi game|Rest of 12.1||[CON-2]|[CON-2.O]|[CON-2.O.1],[CON-2.O.2],[CON-2.O.3],[CON-2.O.4],[CON-2.O.5]
 | [8.02] |Writing Recursive Solutions|Grudgeball SC 12.1 - 12.4|12.2|SC 12.5, 12.7-12.9, E 12.1|[CON-2]|[CON-2.O]|[CON-2.O.1],[CON-2.O.2],[CON-2.O.3],[CON-2.O.4],[CON-2.O.5]
 | [8.03] |Mechanics of Recursion|[WS 8.3] [Teacher Demo 8.3]|13.4?|SC 12.6, 12.10, E 12.3|[CON-2]|[CON-2.O]|[CON-2.O.1],[CON-2.O.2],[CON-2.O.3],[CON-2.O.4],[CON-2.O.5]
@@ -20,16 +19,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [8.07] |Quiz|[Quiz 8.5]|Barrons ch 7 (8th or later: ch 8)|
 | [8.08] |Quiz Review & Reteach|Review quiz||Barrons ch 7 (8th or later: ch 8)|
 | [10.PP] | Unit 10 Personal Progress Check Recursion |
-
-## 7.00
-
-| [Lesson 7.00]   | _Test Review & Reteach_
-|:----------------|:-----------------------------
-| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 6.
-| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
-| **In Class**    | Review test
-| **Reading**     | 13.1 up to “_Sorting_”
-| **Homework**    | Test corrections
 
 ## 8.01
 
@@ -122,7 +111,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 - **EX** — Exercise (in the textbook)
 - **PP** — Programming Project (in the textbook)
 
-[7.00]: Unit7/Lesson-700.md
+
 [8.00]: Unit8/Lesson-800.md
 [8.01]: Unit8/Lesson-801.md
 [8.02]: Unit8/Lesson-802.md
@@ -133,7 +122,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [8.07]: #807
 [8.08]: Unit8/Lesson-808.md
 [Curriculum Assets]: ../Assets.md
-[Lesson 7.00]: Unit7/Lesson-700.md
+
 [Lesson 8.00]: Unit8/Lesson-800.md
 [Lesson 8.01]: Unit8/Lesson-801.md
 [Lesson 8.02]: Unit8/Lesson-802.md
