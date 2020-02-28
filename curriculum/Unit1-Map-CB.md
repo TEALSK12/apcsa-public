@@ -18,10 +18,10 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [1.05] | _Static Methods & Method Calls_       | Practice-It SC 1.22, 1.23, 1.26, 1.29 | 1.4 | EX 1.11, 1.12, 1.14, 1.16 |[MOD-2]|[MOD-2.G]|[MOD-2.G.1],[MOD-2.G.2]
 | [1.06] | _Static Methods & Method Calls_       | LP StarFigures LP PikachuChatter |1.5 | Outline ch 1 PP 1.1, 1.3 |[MOD-2]|[MOD-2.G]|[MOD-2.G.1],[MOD-2.G.2]
 | [1.07] | _Programming Project_                 | PP 1.2, 1.5 | | Note check (add summaries if needed) | [MOD-1], [MOD-2], [VAR-1] | [VAR-1.A], [MOD-1.A], [MOD-2.C], [MOD-2.G], [VAR-1.G]
+| [1.XX] | _Lesson 1.07 Alternative_  | Ideate and Construct Project  |  |  |
 | [1.08] | _Finding & Fixing Errors_             | Fix homework | | Submit questions for review |
 | [1.09] | _Review_                              | Review questions [WS 1.9] Practice test | Review ch 1  | Study |
 | [1.99] | _Unit 1 Test_                         | Test 0 Section I Test 0 Section II | | |
-| [1.XX] | _Lesson 1.07 Alternative_  | Ideate and Construct Project  |  |  |
 | [2.00] | Test Review & Reteach            | Review test |  | Test corrections |
 | [2.01] | Basic Data Concepts                 | [WS 2.1]      | 2.1 except for “Mixing types and Casting” | SC 2.1-2.3  (4th, 5th : 2.1,2.3,2.4)|[CON-1], [VAR-1]|[CON-1.A], [CON-1.B], [VAR-1.B]|[CON-1.A.1], [CON-1.A.2],[CON-1.A.3],[CON-1.A.4],[CON-1.A.5], [CON-1.A.6],[CON-1.A.7],[CON-1.A.8], [CON-1.B.2], [CON-1.B.3], [VAR-1.B.1], [VAR-1.B.2], [VAR-1.B.3], [VAR-1.C.2], [VAR-1.C.3]|
 | [2.02] | Declaring & Assigning Variables    | [WS 2.2] Practice-It SC 2.7, 2.11 (4th, 5th: 2.8, 2.13) E 2.1 | 2.2 up to “String Concatenation” | SC 2.5,2.6,2.9, 2.12-2.15 (4th, 5th: 2.6,2.7,2.1,2.14-2.17) |[CON-1], [VAR-1]|[CON-1.A], [CON-1.B], [VAR-1.B]| [CON-1.A.8], [CON-1.B.1], [VAR-1.B.1]|
@@ -100,6 +100,16 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Reading**     |
 | **Homework**    | Note check (add summaries if needed)
 
+## 1.XX
+
+| [Lesson 1.XX]   | _Open Ended Programming Project(Lesson 1.07 Alternative)_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will be able to ideate and construct a program containing method calls and static methods.
+| **Assessments** | Submit a complete, functional program by the end of class
+| **In Class**    | Check class notes for completion
+| **Reading**     |
+| **Homework**    | All students must turn in notes for each day of class
+
 ## 1.08
 
 | [Lesson 1.08]   | _Finding & Fixing Errors_
@@ -125,16 +135,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 | Unit 1 Test     | _Programming & Java_
 |------------+----------------------------------------------------------------------
 | **In Class**    | Test 0 Section I Test 0 Section II
-
-## 1.XX
-
-| [Lesson 1.XX]   | _Open Ended Programming Project(Lesson 1.07 Alternative)_
-|:----------------|:-----------------------------
-| **Objectives**  | Students will be able to ideate and construct a program containing method calls and static methods.
-| **Assessments** | Submit a complete, functional program by the end of class
-| **In Class**    | Check class notes for completion
-| **Reading**     |
-| **Homework**    | All students must turn in notes for each day of class
 
 ## 2.00
 
