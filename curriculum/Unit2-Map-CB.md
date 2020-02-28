@@ -11,7 +11,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
-| [3.00] |Test Review & Reteach|[Algorithm for Solving Problems]||Test corrections |
 | [3.01] |Parameters|Practice-It SC 3.1 - 3.3|3.1 up to “Limitations of Parameters”|SC 3.4-3.7 |[MOD-1]|[MOD-1.C], [MOD-1.D], [MOD-1.E]|[MOD-1.C.3], [MOD-1.C.5], [MOD-1.C.6], [MOD-1.D.1], [MOD-1.D.3], [MOD-1.E.2], [MOD-1.E.3], [MOD-1.E.4]|
 | [3.02] |Limitations of Parameters & Multiple Parameters|(Art project)|3.1 “Limitations of Parameters”, “Multiple Parameters”, "Parameters versus Constants"|Jazz up art project and program |[CON-1], [MOD-1]|[CON-1.D], [MOD-1.C], [MOD-1.F], [MOD-1.G] | [CON-1.D.1], [MOD-1.C.4], [MOD-1.F.2], [MOD-1.G.1]|
 | [3.03] |Return Values|Practice-It SC 3.14 - 3.16|"3.1 “Overloading Methods”, 3.2 ""Methods That Return Values"""|SC 3.17, E 3.1 |[VAR-1] |[VAR-1.E]|[VAR-1.E.10] |
@@ -22,16 +21,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [3.08] |Finding & Fixing Errors|Fix HW, webmaker.org||SC 4.1-4.4 |
 | [2.PPa] | Unit 2 Personal Progress Check Part A Using Objects |
 | [2.PPb] | Unit 2 Personal Progress Check Part B Using Objects |
-
-## 3.00
-
-| [Lesson 3.00]   | _Test Review & Reteach_
-|:----------------|:-----------------------------
-| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 2.
-| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
-| **In Class**    | [Algorithm for Solving Problems]
-| **Reading**     | 
-| **Homework**    | Test corrections
 
 ## 3.01
 
@@ -135,7 +124,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 - **EX** — Exercise (in the textbook)
 - **PP** — Programming Project (in the textbook)
 
-[3.00]: Unit3/Lesson-300.md
 [3.01]: Unit3/Lesson-301.md
 [3.02]: Unit3/Lesson-302.md
 [3.03]: Unit3/Lesson-303.md
@@ -150,7 +138,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
 [Equestria]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Map%20of%20Equestria.pptx
 [Calculator]: Unit3/Lesson-3XX1.md
-[Lesson 3.00]: Unit3/Lesson-300.md
+
 [Lesson 3.01]: Unit3/Lesson-301.md
 [Lesson 3.02]: Unit3/Lesson-302.md
 [Lesson 3.03]: Unit3/Lesson-303.md
