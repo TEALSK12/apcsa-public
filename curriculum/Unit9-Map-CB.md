@@ -10,7 +10,6 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
-| [5.00]   |Test Review & Reteach|Review test|8.1|Test corrections
 | [6.01] 01|Inheritance Basics (day 1)|[WS 6.1] Start class poster [Example 6.1]|"9.2 up to ""Dividend Stock Behavior"""|Collect images|[MOD-3]|[MOD-3.B]|[MOD-3.B.1],[MOD-3.B.2],[MOD-3.B.3],[MOD-3.B.4]
 | [6.01] 02|Inheritance Basics (day 2)|Finish class poster, discuss|||[MOD-3]|[MOD-3.B]|[MOD-3.B.1],[MOD-3.B.2],[MOD-3.B.3],[MOD-3.B.4]
 | [6.02] |Overriding Methods & Accessing Inherited Code|[WS 6.2]|Rest of 9.2 starting from “The Object Class.”||[MOD-2],[MOD-3]|[MOD-2.D],[MOD-3.B]|[MOD-2.D.6],[MOD-3.B.10]
@@ -36,15 +35,6 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | 6.XX |[Text Excel]|[Text Excel Student Guide A] [Text Excel Student Guide B] [Text Excel Student Guide C] [Text Excel Teacher Guide]||| [MOD-2], [MOD-3] | [MOD-2.D], [MOD-3.B], [MOD-3.C], [MOD-3.D] |
 | [9.PP] | Unit 9 Personal Progress Check Inheritance |
 
-## 5.00
-
-| [Lesson 5.00]   | _Test Review & Reteach_
-|:----------------|:-----------------------------
-| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
-| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
-| **In Class**    | Review test
-| **Reading**     | 
-| **Homework**    | Test corrections
 
 ## 6.01.1
 
