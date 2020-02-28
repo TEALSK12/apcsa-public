@@ -11,8 +11,9 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
-| [8.00] |Test Review & Reteach|Review test|12.1 up to “Structure of recursive solutions”|Test corrections
-| [4.06] |Nested Loop Algorithms & Rectangular Arrays|[WS 4.6]|10.1 up to Adding to and Removing from an ArrayList|SC [TBD]| [VAR-2], [CON-2] | [VAR-2.F], [VAR-2.G], [CON-2.N] | [VAR-2.F.1], [VAR-2.F.2], [VAR-2.F.3], [VAR-2.F.4], [VAR-2.G.1], [CON-2.N.2] |
+| [8.00] |Test Review & Reteach|Review test||Test corrections
+| [4.06] |Nested Loop Algorithms & Rectangular Arrays|[WS 4.6]|12.1 up to “Structure of recursive solutions”|SC [TBD]| [VAR-2], [CON-2] | [VAR-2.F], [VAR-2.G], [CON-2.N] | [VAR-2.F.1], [VAR-2.F.2], [VAR-2.F.3], [VAR-2.F.4], [VAR-2.G.1], [CON-2.N.2] |
+| [4.07] |Arraylists|Grudgeball  [Poster 4.7]|10.1 up to “_Adding to and Removing from an ArrayList_”|Outline ch 7 and 10.1
 | [4.08] |Finding & Fixing Errors|Fix HW|Review ch 7, 10.1 for Magpie lab|Submit questions for review
 | [4.09] 01|[Magpie Chatbot Lab] (day&nbsp;1)|Magpie Chatbot Lab Activity 1 & 2|Barrons ch 6 (8th or later: ch 7)|
 | [4.09] 02|[Magpie Chatbot Lab] (day&nbsp;2)|Magpie Chatbot Lab Activity 2|Barrons ch 6 (8th or later: ch 7)|
@@ -38,7 +39,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 7.
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
 | **In Class**    | Review test
-| **Reading**     | 12.1 up to “_Structure of Recursive Solutions_”
+| **Reading**     | 
 | **Homework**    | Test corrections
 
 ## 4.06
@@ -48,7 +49,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will correctly adjust nested loop headers for use with arrays  Students will correctly construct two-dimensional arrays
 | **Assessments** | Students will complete WS 4.6
 | **In Class**    | [WS 4.6]
-| **Reading**     | 10.1 up to “_Adding to and Removing from an ArrayList_”
+| **Reading**     | 12.1 up to “_Structure of Recursive Solutions_”
 | **Homework**    | SC \[_TBD_\]
 
 ## 4.07
@@ -58,7 +59,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will construct code using ArrayList  Students will predict the output of methods that take arrays as parameters and/or return arrays.
 | **Assessments** | Students will evaluate statements and predict output during a game of Grudgeball.
 | **In Class**    | Grudgeball  [Poster 4.7]
-| **Reading**     |
+| **Reading**     | 10.1 up to “_Adding to and Removing from an ArrayList_”
 | **Homework**    | Outline ch 7 and 10.1
 
 ## 4.08
@@ -78,7 +79,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will complete a long-form lab, using if statements, algorithms, the String class, arrays, and ArrayLists.
 | **Assessments** | Students will complete the College Board’s AP CS A Magpie Chatbot Lab.  Students will answer assessment questions on the fourth class exam.
 | **In Class**    | Lab: [Magpie Chatbot Lab]  Magpie Chatbot Lab Activity 1 & 2
-| **Reading**     | Barrons ch 6 (8th or later: ch 7)
+| **Reading**     | 
 | **Homework**    |
 
 ## 4.09.2
@@ -108,7 +109,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Magpie Chatbot Lab Activity 4
-| **Reading**     |
+| **Reading**     | Barrons ch 6 (8th or later: ch 7)
 | **Homework**    | Barrons ch 6 (8th or later: ch 7)practice questions
 
 ## 4.09.5
@@ -128,7 +129,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will complete a long-form lab, using arithmetic expressions, methods, if statements, algorithms, while/for loops, arrays, and ArrayLists.
 | **Assessments** | Students will complete the College Board’s AP CS A Steganography Lab.  Students will answer end of activity Check your understanding and open-ended activity.
 | **In Class**    | Lab: Steganography Lab  Steganography Lab Activity 1
-| **Reading**     | Barrons ch 6 (8th or later: ch 7)
+| **Reading**     | 
 | **Homework**    |
 
 ## 4.09a.2
@@ -148,7 +149,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Steganography Lab Activity 3
-| **Reading**     |
+| **Reading**     | Barrons ch 6 (8th or later: ch 7)
 | **Homework**    | Barrons ch 6 (8th or later: ch 7)practice questions
 
 ## 4.09a.4

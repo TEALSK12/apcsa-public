@@ -43,7 +43,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
 | **In Class**    | Review test
-| **Reading**     | 8.1
+| **Reading**     | 
 | **Homework**    | Test corrections
 
 ## 6.01.1
@@ -53,7 +53,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  | Students will correctly define inheritance Students will use proper syntax to extend a class. Students will illustrate is-a relationships. Students will properly implement constructors of derived classes using super.
 | **Assessments** | Students will complete a Class Hierarchy Poster as indicated in WS 6.1.
 | **In Class**    | [WS 6.1] Start class poster [Example 6.1]
-| **Reading**     | 9.2 up to “_Dividend Stock Behavior_”
+| **Reading**     | 8.1
 | **Homework**    | Collect images
 
 ## 6.01.2
@@ -63,7 +63,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Finish class poster Discussion
-| **Reading**     |
+| **Reading**     | 9.2 up to “_Dividend Stock Behavior_”
 | **Homework**    |
 
 ## 6.02
@@ -73,7 +73,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  | Students will replace superclass behavior by writing overriding methods in the subclass. Students will write subclass methods that access superclass methods.
 | **Assessments** | Students will add code to their Class Posters from the previous lesson.
 | **In Class**    | [WS 6.2]
-| **Reading**     | Rest of 9.2 starting from “_The Object Class_”
+| **Reading**     | 
 | **Homework**    |
 
 ## 6.03
@@ -83,7 +83,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  | Students will replace superclass behavior by writing overriding methods in the subclass. Students will write subclass methods that access superclass methods.
 | **Assessments** | Students will complete Practice-It questions Students will complete a worksheet.
 | **In Class**    | Practice-It SC 9.3–4,9–10 E 9.4 [WS 6.3] [Poster 6.3]
-| **Reading**     | 9.3 up to “_Interpreting Inheritance Code_”
+| **Reading**     | Rest of 9.2 starting from “_The Object Class_”
 | **Homework**    |
 
 ## 6.04
@@ -93,7 +93,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  | Students will define polymorphism. Students will trace the execution of methods through a class hierarchy and predict output.
 | **Assessments** | Students will complete a Tracing Inheritance guide and complete worksheet 6.4.
 | **In Class**    | [WS 6.4.1] [WS 6.4.2] SC 9.11–17
-| **Reading**     | Rest of 9.4 “_Is-a Versus Has-a Relationships_”
+| **Reading**     | 9.3 up to “_Interpreting Inheritance Code_”
 | **Homework**    | SC 9.18,20
 
 ## 6.05
@@ -103,7 +103,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  | Students will be able to identify and explain why two classes have an is-a or a has-a relationship. Students will be able to create a has-a relationship between two classes.
 | **Assessments** | Students will complete an AP Section II question “_Trio_”
 | **In Class**    | [WS 6.5] ValueMeal exercise
-| **Reading**     | 9.5 (Optional if covering Interfaces)
+| **Reading**     | Rest of 9.4 “_Is-a Versus Has-a Relationships_”
 | **Homework**    |
 
 ## 6.06
@@ -113,7 +113,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  | Students will implement and use interfaces.
 | **Assessments** | Students will complete an in-class competition.
 | **In Class**    | Interface examples [Poster 6.6]
-| **Reading**     | 9.6 (Optional if covering Abstract classes)
+| **Reading**     | 9.5 (Optional if covering Interfaces)
 | **Homework**    | Generate own class hierarchy like Financial hierarchy in book
 
 ## 6.07.1
@@ -123,7 +123,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  | Students will write complex code that uses polymorphism, and inheritance.
 | **Assessments** | Students will submit a program electronically.
 | **In Class**    | PP 9.1 Notebook checks
-| **Reading**     |
+| **Reading**     | 9.6 (Optional if covering Abstract classes)
 | **Homework**    | Outline ch 9
 
 ## 6.07.2
@@ -133,7 +133,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | PP 9.1 Outline checks
-| **Reading**     | Read and outline Barrons ch 4 (8th or later: ch 5)
+| **Reading**     | 
 | **Homework**    |
 
 ## 6.07.3
@@ -143,7 +143,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | PP 9.3
-| **Reading**     |
+| **Reading**     | Read and outline Barrons ch 4 (8th or later: ch 5)
 | **Homework**    | Barrons ch 4 (8th or later: ch 5) exam, self-grade
 
 ## 6.07.4
@@ -153,7 +153,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | EX 9.8
-| **Reading**     | Read and outline Barrons ch 3 (8th or later: ch 4)
+| **Reading**     | 
 | **Homework**    |
 
 ## 6.07.5
@@ -163,7 +163,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Barrons ch 3  (8th or later: ch 4) exam, Outline checks
-| **Reading**     | Review ch 9
+| **Reading**     | Read and outline Barrons ch 3 (8th or later: ch 4)
 | **Homework**    | Submit questions for review
 
 ## 6.07a.1
@@ -173,7 +173,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  | Students will complete a long-form lab, using classes, objects, two dimensional arrays of objects, array traversing algorithms, program analysis, while/for loops.
 | **Assessments** | Students will complete the College Board’s AP CS A Celebrity Lab. Students will answer end of activity Check your understanding and open-ended activity.
 | **In Class**    | Celebrity Lab Activity 1 Notebook checks
-| **Reading**     |
+| **Reading**     | Review ch 9
 | **Homework**    | Outline ch 9
 
 ## 6.07a.2
@@ -183,7 +183,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Celebrity Lab Activity 2 Outline checks
-| **Reading**     | Read and outline Barrons ch 4 (8th or later: ch 5)
+| **Reading**     | 
 | **Homework**    |
 
 ## 6.07a.3
@@ -193,7 +193,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Celebrity Lab Activity 3
-| **Reading**     |
+| **Reading**     | Read and outline Barrons ch 4 (8th or later: ch 5)
 | **Homework**    | Barrons ch 4 (8th or later: ch 5) exam, self-grade
 
 ## 6.07a.4
@@ -203,7 +203,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Celebrity Lab Activity 4
-| **Reading**     | Read and outline Barrons ch 3 (8th or later: ch 4)
+| **Reading**     | 
 | **Homework**    |
 
 ## 6.07a.5
@@ -213,7 +213,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Celebrity Lab Activity 5, Outline checks
-| **Reading**     | Review ch 9
+| **Reading**     | Read and outline Barrons ch 3 (8th or later: ch 4)
 | **Homework**    |
 
 ## 6.07a.6
@@ -253,7 +253,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  | Students will identify weaknesses in their Unit 6 knowledge.
 | **Assessments** | Students will create a personalized list of review topics to guide tonight’s study session.
 | **In Class**    | Review questions [WS 6.5] Test practice
-| **Reading**     |
+| **Reading**     | Review ch 9
 | **Homework**    | Study
 
 ## 6.99
