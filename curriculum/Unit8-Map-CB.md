@@ -11,7 +11,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
-| [8.00] |Test Review & Reteach|Review test||Test corrections
 | [4.06] |Nested Loop Algorithms & Rectangular Arrays|[WS 4.6]|12.1 up to “Structure of recursive solutions”|SC [TBD]| [VAR-2], [CON-2] | [VAR-2.F], [VAR-2.G], [CON-2.N] | [VAR-2.F.1], [VAR-2.F.2], [VAR-2.F.3], [VAR-2.F.4], [VAR-2.G.1], [CON-2.N.2] |
 | [4.07] |Arraylists|Grudgeball  [Poster 4.7]|10.1 up to “_Adding to and Removing from an ArrayList_”|Outline ch 7 and 10.1
 | [4.08] |Finding & Fixing Errors|Fix HW|Review ch 7, 10.1 for Magpie lab|Submit questions for review
@@ -31,16 +30,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [4.XX] |[Programming Project](Magpie Alternative)| | | |  [VAR-2], [CON-2] | [VAR-2.F], [VAR-2.G], [CON-2.N]
 | [5.00]   |Test Review & Reteach|Review test| |Test corrections
 | [8.PP] | Unit 8 Personal Progress Check 2D Array |
-
-## 8.00
-
-| [Lesson 8.00]   | _Test Review & Reteach_
-|:----------------|:-----------------------------
-| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 7.
-| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
-| **In Class**    | Review test
-| **Reading**     | 
-| **Homework**    | Test corrections
 
 ## 4.06
 
@@ -231,7 +220,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 - **EX** — Exercise (in the textbook)
 - **PP** — Programming Project (in the textbook)
 
-[8.00]: Unit8/Lesson-800.md
 [4.00]: Unit4/Lesson-400.md
 [4.01]: Unit4/Lesson-401.md
 [4.02]: Unit4/Lesson-402.md
@@ -247,7 +235,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [4.XX]: Unit4/Lesson-4XX.md
 [5.00]: Unit5/Lesson-500.md
 [Curriculum Assets]: ../Assets.md
-[Lesson 8.00]: Unit8/Lesson-800.md
+
 [Lesson 4.00]: Unit4/Lesson-400.md
 [Lesson 4.01]: Unit4/Lesson-401.md
 [Lesson 4.02]: Unit4/Lesson-402.md
