@@ -34,7 +34,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | 6.99 |Unit 6 test|[Test 5 Guide] Test 5 Section I Test 5 Section II||
 | 6.XX |[Text Excel]|[Text Excel Student Guide A] [Text Excel Student Guide B] [Text Excel Student Guide C] [Text Excel Teacher Guide]||| [MOD-2], [MOD-3] | [MOD-2.D], [MOD-3.B], [MOD-3.C], [MOD-3.D] |
 | [9.PP] | Unit 9 Personal Progress Check Inheritance |
-
+| [7.00] |Test Review & Reteach|Review test|13.1 up to “Sorting”|Test corrections
 
 ## 6.01.1
 
@@ -266,6 +266,17 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Objectives**  | Identify weaknesses in student's Unit 9 knowledge
 | **Assessments** | Students will take Unit 9 Personal Progress Check
 
+
+## 7.00
+
+| [Lesson 7.00]   | _Test Review & Reteach_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 6.
+| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
+| **In Class**    | Review test
+| **Reading**     | 13.1 up to “_Sorting_”
+| **Homework**    | Test corrections
+
 ## Abbreviations
 
 - **WS** — Worksheet
@@ -285,9 +296,10 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 [6.07a]: Unit6/Lesson-607a.md
 [6.08]: Unit6/Lesson-608.md
 [6.09]: Unit6/Lesson-609.md
+[7.00]: Unit7/Lesson-700.md
 [Curriculum Assets]: ../Assets.md
 [Example 6.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Example%206.1.jpg
-[Lesson 5.00]: Unit5/Lesson-500.md
+
 [Lesson 6.00]: Unit6/Lesson-600.md
 [Lesson 6.01]: Unit6/Lesson-601.md
 [Lesson 6.02]: Unit6/Lesson-602.md
@@ -299,7 +311,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 [Lesson 6.07a]: Unit6/Lesson-607a.md
 [Lesson 6.08]: Unit6/Lesson-608.md
 [Lesson 6.09]: Unit6/Lesson-609.md
-
+[Lesson 7.00]: Unit7/Lesson-700.md
 
 [9.PP]: Lesson-9PP.md
 [Lesson 9.PP]: Lesson-9PP.md
