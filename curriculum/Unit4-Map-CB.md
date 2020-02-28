@@ -35,6 +35,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  [3.18].6  | Consumer Review Lab (day 6)  | Consumer Review Lab Activity 5 (day 2)  |   |
 |  [3.19]   | Review  | (Review questions), [WS 3.18] practice test  |   | Study   |
 |  3.99   | Unit 3 test  | [Test 2 Guide] Test 2 Section I Test 2 Section II  |   |    |
+| [4.00] |Test Review & Reteach|Review test| |Test corrections
 |  3.XX   |  Alternative Project: [Frac Calc]   |    |  |    | [CON-1], [CON-2], [MOD-1], [VAR-1] | [CON-1.F], [CON-1.H], [CON-2.A], [CON-2.B], [CON-2.C], [CON-2.D], [CON-2.E], [MOD-1.B], [MOD-1.C], [MOD-1.D], [MOD-1.E], [MOD-1.F], [VAR-1.D], [VAR-1.E]
 |  3.XX1   |  Alternative Project: [Calculator]   |  work on project   |  conduct research   |  Continue working on project   |
 | [4.PP] | Unit 4 Personal Progress Check Iteration |
@@ -267,6 +268,17 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  **Guide**         |  [Test 2 Guide]
 |  **In Class**      |  Test 2 Section I Test 2 Section II
 
+
+## 4.00
+
+| [Lesson 4.00]   | _Test Review & Reteach_
+|:----------------|:-----------------------
+| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 3.
+| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
+| **In Class**    | Review test
+| **Reading**     | 7.1 up to “_Arrays and Methods_”
+| **Homework**    | Test corrections
+
 ## 3.XX
 
 |  Unit 3 Alternative Project    |  _Frac Calc_
@@ -316,6 +328,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 [3.17]: Unit3/Lesson-317.md
 [3.18]: Unit3/Lesson-318.md
 [3.19]: Unit3/Lesson-319.md
+[4.00]: Unit4/Lesson-400.md
 
 [4.PP]: Lesson-4PP.md
 [Lesson 4.PP]: Lesson-4PP.md
@@ -343,6 +356,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 [Lesson 3.17]: Unit3/Lesson-317.md
 [Lesson 3.18]: Unit3/Lesson-318.md
 [Lesson 3.19]: Unit3/Lesson-319.md
+[Lesson 4.00]: Unit4/Lesson-400.md
 [Consumer Review Lab]: Unit3/Lesson-318.md
 [Unit 2 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/Unit2.pptx
 [Unit 2 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/Unit%202%20Word%20Bank.docx
