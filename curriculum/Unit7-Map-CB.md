@@ -33,6 +33,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [7.04]|Review|Review questions||Study
 | 7.99|Unit 7 test|[Test 6 Guide] Test 6 Section I Test 6 Section II||
 | [7.PP] | Unit 7 Personal Progress Check ArrayList |
+| [8.00] |Test Review & Reteach|Review test||Test corrections
 
 ## 4.07
 
@@ -248,6 +249,17 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Identify weaknesses in student's Unit 7 knowledge
 | **Assessments** | Students will take Unit 7 Personal Progress Check
 
+
+## 8.00
+
+| [Lesson 8.00]   | _Test Review & Reteach_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 7.
+| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
+| **In Class**    | Review test
+| **Reading**     | 
+| **Homework**    | Test corrections
+
 ## Abbreviations
 
 - **WS** — Worksheet
@@ -261,6 +273,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [7.02]: Unit7Lesson-702.md
 [7.03]: Unit7Lesson-703.md
 [7.04]: Unit7Lesson-704.md
+[8.00]: Unit8/Lesson-800.md
 [Curriculum Assets]: ../Assets.md
 [Elevens Lab]: ../Assets.md#elevens
 [Lesson 4.07]: Unit4/Lesson-407.md
@@ -269,6 +282,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [Lesson 7.02]: Unit7Lesson-702.md
 [Lesson 7.03]: Unit7Lesson-703.md
 [Lesson 7.04]: Unit7Lesson-704.md
+[Lesson 8.00]: Unit8/Lesson-800.md
 
 [7.PP]: Lesson-7PP.md
 [Lesson 7.PP]: Lesson-7PP.md
