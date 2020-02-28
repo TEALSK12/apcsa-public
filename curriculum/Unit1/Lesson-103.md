@@ -13,7 +13,7 @@ Overview
 - **Complete** several Practice-It questions
 
 ### Homework — _Students will…_
-- **Read** BJP 1.3
+- **Read** BJP 1.2
 - **Complete** Ch.1 exercises 1-5
 
 

@@ -11,7 +11,7 @@ Overview
 - **Complete** Practice-It problems
 
 ### Homework — _Students will…_
-- **Read** BJP 1.5
+- **Read** BJP 1.4
 - **Complete** Ch.1 Exercises 11, 12, 14, 16
 
 

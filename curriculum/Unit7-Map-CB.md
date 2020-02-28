@@ -12,10 +12,10 @@ chronological order. The order has been adapted to follow the College Board AP C
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
 | [4.07] |ArrayList|Grudge Ball [Poster 4.7]||Outline ch 7 and 10.1| [VAR-2], [CON-2] | [VAR-2.D], [VAR-2.E], [CON-2.J] | [VAR-2.D.1], [VAR-2.D.2], [VAR-2.D.3], [VAR-2.D.4], [VAR-2.D.5], [VAR-2.D.6], [VAR-2.D.7], [VAR-2.E.1], [VAR-2.E.2], [VAR-2.E.3], [VAR-2.E.4], [CON-2.J.1], [CON-2.J.2] |
-| [7.01] |Searching Algorithms|(CS Unplugged Battleship) [WS 7.1]|13.1 “Sorting”|SC 2, E 13.1-13.3 (not in practice-it, use textbook) | [CON-2] | [CON-2.K] | [CON-2.K.1], [CON-2.K.2] |
-| [7.02] |Sorting Algorithms||13.1 “Shuffling”|| [CON-2] | [CON-2.L], [CON-2.M] | [CON-2.L.1], [CON-2.M.1]|
-| [7.03] 01|[Elevens Lab] (day 1)| Elevens Lab Activity 1|"13.3 skip ""Recursive Binary Search"""|SC 13.16-13.18 (not in practice-it, use textbook, 13.21, 13.22
-| [7.03] 02|[Elevens Lab] (day 2)| Elevens Lab Activity 2 (begin)||
+| [7.01] |Searching Algorithms|(CS Unplugged Battleship) [WS 7.1]||SC 2, E 13.1-13.3 (not in practice-it, use textbook) | [CON-2] | [CON-2.K] | [CON-2.K.1], [CON-2.K.2] |
+| [7.02] |Sorting Algorithms||13.1 “Sorting”|| [CON-2] | [CON-2.L], [CON-2.M] | [CON-2.L.1], [CON-2.M.1]|
+| [7.03] 01|[Elevens Lab] (day 1)| Elevens Lab Activity 1|13.1 “Shuffling”|SC 13.16-13.18 (not in practice-it, use textbook, 13.21, 13.22
+| [7.03] 02|[Elevens Lab] (day 2)| Elevens Lab Activity 2 (begin)|"13.3 skip ""Recursive Binary Search"|
 | [7.03] 03|[Elevens Lab] (day 3)| Elevens Lab Activity 2 (end)||Summarize notes since last exam
 | [7.03] 04|[Elevens Lab] (day 4)| Elevens Lab Activity 3 (begin), notebook checks||Outline ch 13
 | [7.03] 05|[Elevens Lab] (day 5)| Elevens Lab Activity 3 (end), notebook checks|Read and outline Barrons ch 8|
@@ -50,7 +50,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will compare and contrast the different search algorithms.
 | **Assessments** | Students will complete some short answer questions.
 | **In Class**    | CS Unplugged Battleship [WS 7.1]
-| **Reading**     | 13.1 “_Sorting_”
+| **Reading**     | 
 | **Homework**    | SC 13.4–6 E 13.1–3
 
 ## 7.02
@@ -60,7 +60,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will compare and contrast different sorting methods and evaluate their relative speed and efficiency.
 | **Assessments** | Students will complete some short answer questions on worksheets.
 | **In Class**    |
-| **Reading**     | 13.1 “_Shuffling_”
+| **Reading**     | 13.1 “_Sorting_”
 | **Homework**    |
 
 ## 7.03.1
@@ -70,7 +70,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will complete a long-form lab, demonstrating effective use of object oriented program design, program implementation and analysis, and standard data structures and algorithms.
 | **Assessments** | Elevens Lab
 | **In Class**    | Elevens Lab Activity 1
-| **Reading**     | 13.3 (skip “_Recursive Binary Search_”)
+| **Reading**     | 13.1 “_Shuffling_”
 | **Homework**    | SC 13.16–21,23–24
 
 ## 7.03.2
@@ -80,7 +80,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    | Elevens Lab Activity 2 (begin)
-| **Reading**     |
+| **Reading**     | 13.3 (skip “_Recursive Binary Search_”)
 | **Homework**    |
 
 ## 7.03.3

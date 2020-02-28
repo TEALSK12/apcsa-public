@@ -9,21 +9,21 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
-| [2.05] | for Loops                         | [WS 2.5] Practice-It SC 2.18,2.23, 2.24 (4th, 5th: 2.21,2.26,2.27) | 2.3 up to “Nested for Loops" | SC 2.19-2.21 (4th, 5th: 2.22-2.24) |
-| [2.06] | nested for Loops                   | Practice-It SC 2.28-2.30 (4th, 5th: 2.31-2.33), E 2.5 | 2.3 “Nested for Loops” | SC 2.26, 2.27 (4th, 5th: 2.29, 2.30),E 2.4 |
-| [2.07] | Scope & Pseudocode                   | [WS 2.7] Discuss PP 2.1 | 2.4 “Scope” and “Pseudocode" |SC 2.31-2.33 (4th, 5th: 2.34-2.36) |
-| [2.08] | Programming Project                 | Start PP 2.4    | Read 2.4 “Class Constants” | Outline ch 2 (omit 2.5) | [CON-1], [VAR-1] | [CON-1.A], [CON-1.B], [CON-1.C], [VAR-1.B]
-| [2.09] | Programming Project                 | Complete PP 2.4 | | \[_TBD practice question_\] |
-| [2.10] | Finding & Fixing Errors             | Fix HW        | | Submit questions for review |
-| [2.11] | Review (Review questions)             | [WS 2.11] practice test | Review ch 2 (omit 2.5) | Study |
-| [2.99] | (Unit 2 Test) | Test 1 Section I Test 1 Section II | | |
-|  [3.12]   | Cumulative Algorithms  | Tally code on board,Collaborative Programming Exercise [WS 3.12]  | 5.1 skip “do/while loops”  | PP 4.2 | [CON-2]  | [CON-2.C], [CON-2.D], [CON-2.E] | [CON-2.C.1], [CON-2.C.2], [CON-2.C.3], [CON-2.C.4], [CON-2.E.4] |
-|  [3.13]   | while Loops  | Practice-It SC 5.1 - 5.4, E 5.2 [WS 3.13]  | 5.1 ”Random numbers”  | E 5.2 | [CON-2]  | [CON-2.C], [CON-2.D], [CON-2.E] | [CON-2.C.1], [CON-2.C.2], [CON-2.C.3], [CON-2.C.4], [CON-2.E.4] |
-| [3.14] | Random Numbers  | Practice-It SC 5.5-5.7; E 5.4, 5.5  | 5.2  | PP 5.1   | [CON-2] | [CON-2.D], [CON-2.E] | [CON-2.E.5] |
-|  [3.15]   | Fencepost & Sentinel Loops  | [WS 3.15] Tea  Chap mini-lessons  | 5.3  | E 5.6, 5.8   | [CON-1] | [CON-1.F] |[CON-1.F.1]
-|  [3.16].1   | Boolean Logic  | Practice-It SC 5.27, 5.29 [WS 3.16] (RPS, Pig) [DeMorgan’s Law], [Poster 3.16.1], [Poster 3.16.2]  |   | Outline   Chap 5 (through 5.3)   |
-|  [3.16].2   | Boolean Logic (Day 2)  |   |   |    |
-|  [3.17]   | Finding & Fixing Errors  | (Fix HW)  | Review   Chap 3-5  | Submit questions for review   |
+|  [2.05]    | for Loops                    | [WS 2.5] Practice-It SC 2.18,2.23, 2.24 (4th, 5th: 2.21,2.26,2.27) | 2.3 up to “Nested for Loops" | SC 2.19-2.21 (4th, 5th: 2.22-2.24) |
+|  [2.06]    | nested for Loops             | Practice-It SC 2.28-2.30 (4th, 5th: 2.31-2.33), E 2.5 | 2.3 “Nested for Loops” | SC 2.26, 2.27 (4th, 5th: 2.29, 2.30),E 2.4 |
+|  [2.07]    | Scope & Pseudocode           | [WS 2.7] Discuss PP 2.1 | 2.4 “Scope” and “Pseudocode" |SC 2.31-2.33 (4th, 5th: 2.34-2.36) |
+|  [2.08]    | Programming Project          | Start PP 2.4    | Read 2.4 “Class Constants” | Outline ch 2 (omit 2.5) | [CON-1], [VAR-1] | [CON-1.A], [CON-1.B], [CON-1.C], [VAR-1.B]
+|  [2.09]    | Programming Project          | Complete PP 2.4 | | \[_TBD practice question_\] |
+|  [2.10]    | Finding & Fixing Errors      | Fix HW        | | Submit questions for review |
+|  [2.11]    | Review (Review questions)    | [WS 2.11] practice test | Review ch 2 (omit 2.5) | Study |
+|  [2.99]    | (Unit 2 Test)                | Test 1 Section I Test 1 Section II | | |
+|  [3.12]    | Cumulative Algorithms        | Tally code on board,Collaborative Programming Exercise [WS 3.12]  |   | PP 4.2 | [CON-2]  | [CON-2.C], [CON-2.D], [CON-2.E] | [CON-2.C.1], [CON-2.C.2], [CON-2.C.3], [CON-2.C.4], [CON-2.E.4] |
+|  [3.13]    | while Loops                  | Practice-It SC 5.1 - 5.4, E 5.2 [WS 3.13]  | 5.1 skip “do/while loops” | E 5.2 | [CON-2]  | [CON-2.C], [CON-2.D], [CON-2.E] | [CON-2.C.1], [CON-2.C.2], [CON-2.C.3], [CON-2.C.4], [CON-2.E.4] |
+|  [3.14]    | Random Numbers               | Practice-It SC 5.5-5.7; E 5.4, 5.5  |   5.1 ”Random numbers” | PP 5.1   | [CON-2] | [CON-2.D], [CON-2.E] | [CON-2.E.5] |
+|  [3.15]    | Fencepost & Sentinel Loops   | [WS 3.15] Tea  Chap mini-lessons  |  5.2 | E 5.6, 5.8   | [CON-1] | [CON-1.F] |[CON-1.F.1]
+|  [3.16].1  | Boolean Logic                | Practice-It SC 5.27, 5.29 [WS 3.16] (RPS, Pig) [DeMorgan’s Law], [Poster 3.16.1], [Poster 3.16.2]  | 5.3  | Outline   Chap 5 (through 5.3)   |
+|  [3.16].2  | Boolean Logic (Day 2)        |   |   |    |
+|  [3.17]    | Finding & Fixing Errors      | (Fix HW)  | Review   Chap 3-5  | Submit questions for review   |
 |  [3.18].1  | Consumer Review Lab (day 1)  | Consumer Review Lab Activity 1  |   |
 |  [3.18].2  | Consumer Review Lab (day 2)  | Consumer Review Lab Activity 2  |   |
 |  [3.18].3  | Consumer Review Lab (day 3)  | Consumer Review Lab Activity 3  |   |
@@ -118,7 +118,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  **Objectives**    |  Students will find and correct syntax errors in conditional cumulative algorithms.
 |  **Assessments**   |  Students will write, modify, and correct programs written by others.
 |  **In Class**      |  Tally code on board Collaborative Programming Exercise [WS 3.12]
-|  **Reading**       |  5.1 (skip “_Do/While Loops_”)
+|  **Reading**       |  
 |  **Homework**      |  PP 4.2
 
 ## 3.13
@@ -128,7 +128,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  **Objectives**    |  Students will trace while loops to predict (1) the number of times the body executes and (2) the output of the code. Students will be able to differentiate between while loops, if statements, and for loops.
 |  **Assessments**   |  Students will complete Practice-It questions.
 |  **In Class**      |  Practice-It SC 5.1–4 E 5.2 [WS 3.13]
-|  **Reading**       |  5.1 “_Random Numbers_”
+|  **Reading**       |  5.1 (skip “_Do/While Loops_”)
 |  **Homework**      |  EX 5.2
 
 ## 3.14
@@ -138,7 +138,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  **Objectives**    |  Students will be able to write expressions that generate a random integer between any two values.
 |  **Assessments**   |  Students will complete Practice-It questions.
 |  **In Class**      |  Practice-It SC 5.5–7 E 5.4–5
-|  **Reading**       |  5.2
+|  **Reading**       |  5.1 “_Random Numbers_”
 |  **Homework**      |  PP 5.1
 
 ## 3.15
@@ -148,7 +148,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  **Objectives**    |  Students will be able to describe when to use fencepost and sentinel loops. Students will use proper syntax to construct these control structures.
 |  **Assessments**   |  Students will tea  Chap a mini-lesson explaining the relationship between parameters and values stored in memory.
 |  **In Class**      |  [WS 3.15] Tea  Chap mini-lessons
-|  **Reading**       |  5.3
+|  **Reading**       |  5.2
 |  **Homework**      |  EX 5.6,8
 
 ## 3.16.1
@@ -158,7 +158,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  **Objectives**    |  Students will work in pairs to write a game that plays Rock Paper Scissors.
 |  **Assessments**   |  Students will submit a program at the end of 2 or 3 class periods.
 |  **In Class**      |  Practice-It SC 5.27, 5.29 [WS 3.16] (RPS, Pig) [DeMorgan’s Law] [Poster 3.16.1] [Poster 3.16.2]
-|  **Reading**       |
+|  **Reading**       |  5.3
 |  **Homework**      |  Outline   Chap 5 (through 5.3)
 
 ## 3.16.2

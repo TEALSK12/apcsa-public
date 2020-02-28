@@ -12,6 +12,7 @@ Overview
 - **Write** a structured Pikachu program
 
 ### Homework — _Students will…_
+- **Read** BJP 1.5
 - **Outline** Ch.1
 - **Complete** Programming Project \#1\* & \#3 (must include a structure diagram for each)
 

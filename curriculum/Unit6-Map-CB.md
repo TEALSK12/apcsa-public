@@ -12,11 +12,11 @@ chronological order. The order has been adapted to follow the College Board AP C
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
 | [6.00] |Test Review & Reteach|(Review test)|9.1|Test corrections to Arrays and Methods, Test corrections
-| [4.01] |Array Basics|[WS 4.1]  [Poster 4.2]|7.1 For-Each Loop and The Arrays Class|SC 7.1, 7.7, 7.9|[VAR-2]|[VAR-2.A],[VAR-2.B]|[VAR-2.A.1],[VAR-2.A.2],[VAR-2.A.4],[VAR-2.A.5],[VAR-2.A.6],[VAR-2.A.7],[VAR-2.B.1],[VAR-2.B.2],[VAR-2.B.3],[VAR-2.B]|
-| [4.02] |For-Each Loop & Arrays Class|[WS 4.2]|7.2 up to Reversing an Array|SC 7.12-7.14|[VAR-2]|[VAR-2.C]|[VAR-2.C.1],[VAR-2.C.2],[VAR-2.C.3],[VAR-2.C.4]|
-| [4.03] |Printing, Searching, & Testing for Equality|[WS 4.3] Mini-lessons||SC 7.14-7.17, E 7.3
+| [4.01] |Array Basics|[WS 4.1]  [Poster 4.2]|7.1 up to “_For-Each Loop_”|SC 7.1, 7.7, 7.9|[VAR-2]|[VAR-2.A],[VAR-2.B]|[VAR-2.A.1],[VAR-2.A.2],[VAR-2.A.4],[VAR-2.A.5],[VAR-2.A.6],[VAR-2.A.7],[VAR-2.B.1],[VAR-2.B.2],[VAR-2.B.3],[VAR-2.B]|
+| [4.02] |For-Each Loop & Arrays Class|[WS 4.2]|7.1 “_For-Each Loop_” and “_The Arrays Class_”|SC 7.12-7.14|[VAR-2]|[VAR-2.C]|[VAR-2.C.1],[VAR-2.C.2],[VAR-2.C.3],[VAR-2.C.4]|
+| [4.03] |Printing, Searching, & Testing for Equality|[WS 4.3] Mini-lessons|7.2 up to “_Reversing an Array_”|SC 7.14-7.17, E 7.3
 | [4.03] |Printing, Searching, & Testing for Equality (Day 2)||7.3|SC 7.19-7.21
-| [4.04] |Reference Semantics|[WS 4.4]  7.4 up to Command-Line Arguments|E 7.9, 7.10
+| [4.04] |Reference Semantics|[WS 4.4] |7.3 7.4 up to “_Command-Line Arguments_” |E 7.9, 7.10
 | [4.05] |Shifting Values & Arrays of Objects|SC 7.22, 7.23, 7.25, 7.26, 7.30; E 7.16|7.4 Nested Arrays, 7.5 Rectangular Two Dimensional Arrays|SC 7.27-7.29, E 7.14
 
 ## 6.00
@@ -26,7 +26,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 5.
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
 | **In Class**    | Review test
-| **Reading**     | 9.1
+| **Reading**     | 
 | **Homework**    | Test corrections
 
 ## 4.01
@@ -36,7 +36,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will define, populate, and access arrays.
 | **Assessments** | Students will complete manipulatives exercises on WS 4.1.1
 | **In Class**    | [WS 4.1]  [Poster 4.2]
-| **Reading**     | 7.1 “_For-Each Loop_” and “_The Arrays Class_”
+| **Reading**     | 7.1 up to “_For-Each Loop_”
 | **Homework**    | SC 7.1,7,9
 
 ## 4.02
@@ -46,7 +46,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will define, populate, and access arrays.
 | **Assessments** | Students will complete manipulatives exercises on WS 4.2
 | **In Class**    | [WS 4.2]
-| **Reading**     | 7.2 up to “_Reversing an Array_”
+| **Reading**     | 7.1 “_For-Each Loop_” and “_The Arrays Class_”
 | **Homework**    | SC 7.12–14
 
 ## 4.03.1
@@ -56,7 +56,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will be able to manipulate single-dimension arrays using a variety of array transversal algorithms.
 | **Assessments** | Students will teach a mini-lesson on printing, searching/replacing, testing for equality, reversing an array, or string traversal.  Students will complete a quiz at the end of Day 2.
 | **In Class**    | [WS 4.3] Teach mini-lessons
-| **Reading**     |
+| **Reading**     | 7.2 up to “_Reversing an Array_”
 | **Homework**    | SC 7.14–17  E 7.3
 
 ## 4.03.2
@@ -66,7 +66,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  |
 | **Assessments** |
 | **In Class**    |
-| **Reading**     | 7.3
+| **Reading**     | 
 | **Homework**    | SC 7.19–21
 
 ## 4.04
@@ -76,7 +76,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Students will be able to compare and contrast how primitives and arrays are treated when passed as parameters.
 | **Assessments** | Students will complete graphic organizers and a worksheet.  Some students will complete a Pokémon Challenge for extra credit.
 | **In Class**    | [WS 4.4]
-| **Reading**     | 7.4 up to “_Command-Line Arguments_”
+| **Reading**     | 7.3 7.4 up to “_Command-Line Arguments_”
 | **Homework**    | EX 7.9–10
 
 ## 4.05

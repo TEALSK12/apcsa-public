@@ -10,6 +10,7 @@ Overview
 - **Create** a personalized list of review topics to guide tonight’s study session.
 
 ### Homework — _Students will…_
+- **Read** Review ch 1
 - **Study** for tomorrow’s test!
 
 
