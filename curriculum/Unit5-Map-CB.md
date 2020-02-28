@@ -38,6 +38,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [5.XX]   |PictureLab Alternative | | | | [MOD-2], [MOD-3], [VAR-1] | [MOD-2.A], [MOD-2.D], [MOD-2.E], [MOD-2.F], [MOD-2.G], [MOD-3.A], [VAR-1.G], [VAR-1.H]
 | [5.PPa] | Unit 5 Personal Progress Check Part A Writing Objects |
 | [5.PPb] | Unit 2 Personal Progress Check Part B Writing Objects |
+| [6.00] |Test Review & Reteach|(Review test)|9.1|Test corrections to Arrays and Methods, Test corrections
 
 ## 5.01
 | [Lesson 5.01]   | _Object Oriented Programming_
@@ -285,6 +286,16 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Identify weaknesses in student's Unit 5 knowledge
 | **Assessments** | Students will take Unit 5 Personal Progress Check Part B
 
+## 6.00
+
+| [Lesson 6.00]   | _Test Review & Reteach_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 5.
+| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
+| **In Class**    | Review test
+| **Reading**     | 
+| **Homework**    | Test corrections
+
 ## Abbreviations
 
 - **WS** — Worksheet
@@ -304,14 +315,15 @@ chronological order. The order has been adapted to follow the College Board AP C
 [5.07]: Unit5/Lesson-507.md
 [5.XX]: Unit5/Lesson-5XX.md
 [Curriculum Assets]: ../Assets.md
+[6.00]: Unit6/Lesson-600.md
 
-[Lesson 4.00]: Unit4/Lesson-400.md
+
 [Lesson 5.06]: Unit5/Lesson-506.md
 [Lesson 5.06a]: Unit5/Lesson-506a.md
 [Lesson 5.07]: Unit5/Lesson-507.md
 [Lesson 5.XX]: Unit5/Lesson-5XX.md
 [Picture Lab]: ../Assets.md#picturelab
-
+[Lesson 6.00]: Unit6/Lesson-600.md
 
 [5.PPa]: Lesson-5PPa.md
 [5.PPb]: Lesson-5PPb.md
