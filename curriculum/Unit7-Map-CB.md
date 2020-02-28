@@ -32,6 +32,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [7.03] 16|[Elevens Lab] (day 16)| Elevens Lab Activity 11 (end)||
 | [7.04]|Review|Review questions||Study
 | 7.99|Unit 7 test|[Test 6 Guide] Test 6 Section I Test 6 Section II||
+| [7.PP] | Unit 7 Personal Progress Check ArrayList |
 
 ## 4.07
 
@@ -240,6 +241,13 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Guide**       | [Test 6 Guide]
 | **In Class**    | Test 6 Section I Test 6 Section II
 
+## 7.PP
+
+| [Lesson 7.PP]   | _Unit 7 Personal Progress Check_
+|:----------------|:-----------------------------
+| **Objectives**  | Identify weaknesses in student's Unit 7 knowledge
+| **Assessments** | Students will take Unit 7 Personal Progress Check
+
 ## Abbreviations
 
 - **WS** — Worksheet
@@ -261,6 +269,10 @@ chronological order. The order has been adapted to follow the College Board AP C
 [Lesson 7.02]: Unit7Lesson-702.md
 [Lesson 7.03]: Unit7Lesson-703.md
 [Lesson 7.04]: Unit7Lesson-704.md
+
+[7.PP]: Lesson-7PP.md
+[Lesson 7.PP]: Lesson-7PP.md
+
 [Test 6 Guide]: Unit7/Test-6-Guide.md
 [Unit 7 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit7/Unit7.pptx
 [Unit 4 Slides]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Unit4.pptx

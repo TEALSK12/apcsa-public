@@ -1,4 +1,4 @@
-# CB Unit 1: Programming & Java
+# CB Unit 1: Primitive Types
 
 The following curriculum map is a day-by-day listing of the AP Computer Science course in
 chronological order. The order has been adapted to follow the College Board AP CS A Curriculum. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook.
@@ -25,8 +25,10 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [2.00] | Test Review & Reteach            | Review test |  | Test corrections |
 | [2.01] | Basic Data Concepts                 | [WS 2.1]      | 2.1 except for “Mixing types and Casting” | SC 2.1-2.3  (4th, 5th : 2.1,2.3,2.4)|[CON-1], [VAR-1]|[CON-1.A], [CON-1.B], [VAR-1.B]|[CON-1.A.1], [CON-1.A.2],[CON-1.A.3],[CON-1.A.4],[CON-1.A.5], [CON-1.A.6],[CON-1.A.7],[CON-1.A.8], [CON-1.B.2], [CON-1.B.3], [VAR-1.B.1], [VAR-1.B.2], [VAR-1.B.3], [VAR-1.C.2], [VAR-1.C.3]|
 | [2.02] | Declaring & Assigning Variables    | [WS 2.2] Practice-It SC 2.7, 2.11 (4th, 5th: 2.8, 2.13) E 2.1 | 2.2 up to “String Concatenation” | SC 2.5,2.6,2.9, 2.12-2.15 (4th, 5th: 2.6,2.7,2.1,2.14-2.17) |[CON-1], [VAR-1]|[CON-1.A], [CON-1.B], [VAR-1.B]| [CON-1.A.8], [CON-1.B.1], [VAR-1.B.1]|
+| [1.PPa] | Unit 1 Personal Progress Check Part A Primitive Types |
 | [2.03] | String Concatenation & Increment Decrement Operators | Grudgeball | Rest of 2.2 | SC 2.4 (4th, 5th: 2.5) |[CON-1]|[CON-1.B]|[CON-1.B.4], [CON-1.B.5]|
 | [2.04] | Mixing Types & Casting               | [WS 2.4] [Poster 2.4] | Rest of 2.2 | finish [WS 2.4] |[CON-1]|[CON-1.C]|[CON-1.C.1], [CON-1.C.2], [CON-1.C.4]
+| [1.PPb] | Unit 1 Personal Progress Check Part B Primitive Types |
 
 ## 1.01
 
@@ -164,6 +166,13 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Reading**     | 2.2 up to “_String Concatenation_”
 | **Homework**    | SC 2.5, 2.6, 2.9, 2.12–15 (4th: 2.6, 2.7, 2.10, 2.14–17)
 
+## 1.PPa
+
+| [Lesson 1.PPa]   | _Unit 1 Personal Progress Check Part A_
+|:----------------|:-----------------------------
+| **Objectives**  | Identify weaknesses in student's Unit 1 knowledge
+| **Assessments** | Students will take Unit 1 Personal Progress Check Part A
+
 ## 2.03
 
 | [Lesson 2.03]   | _String Concatenation & Increment Decrement Operators_
@@ -184,6 +193,12 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Reading**     | Rest of 2.2
 | **Homework**    | Finish [WS 2.4]
 
+## 1.PPb
+
+| [Lesson 1.PPb]   | _Unit 1 Personal Progress Check Part B_
+|:----------------|:-----------------------------
+| **Objectives**  | Identify weaknesses in student's Unit 1 knowledge
+| **Assessments** | Students will take Unit 1 Personal Progress Check Part B
 
 
 ## Abbreviations
@@ -233,6 +248,12 @@ chronological order. The order has been adapted to follow the College Board AP C
 [Lesson 2.02]: ./Unit2/Lesson-202.md
 [Lesson 2.03]: ./Unit2/Lesson-203.md
 [Lesson 2.04]: ./Unit2/Lesson-204.md
+
+[1.PPa]: Lesson-1PPa.md
+[1.PPb]: Lesson-1PPb.md
+[Lesson 1.PPa]: Lesson-1PPa.md
+[Lesson 1.PPb]: Lesson-1PPb.md
+
 [Poster 2.4]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/Poster%202.4.docx
 [Unit 2 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/Unit2.pptx
 [Unit 2 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/Unit%202%20Word%20Bank.docx

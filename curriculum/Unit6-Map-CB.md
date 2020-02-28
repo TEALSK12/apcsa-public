@@ -18,6 +18,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [4.03] |Printing, Searching, & Testing for Equality (Day 2)||7.3|SC 7.19-7.21
 | [4.04] |Reference Semantics|[WS 4.4]  7.4 up to Command-Line Arguments|E 7.9, 7.10
 | [4.05] |Shifting Values & Arrays of Objects|SC 7.22, 7.23, 7.25, 7.26, 7.30; E 7.16|7.4 Nested Arrays, 7.5 Rectangular Two Dimensional Arrays|SC 7.27-7.29, E 7.14
+| [6.PP] | Unit 6 Personal Progress Check Array |
 
 ## 6.00
 
@@ -89,6 +90,13 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Reading**     | 7.4 “_Nested Arrays_”  7.5 “_Rectangular Two Dimensional Arrays_”
 | **Homework**    | SC 7.27–29  E 7.14
 
+## 6.PP
+
+| [Lesson 6.PP]   | _Unit 6 Personal Progress Check_
+|:----------------|:-----------------------------
+| **Objectives**  | Identify weaknesses in student's Unit 6 knowledge
+| **Assessments** | Students will take Unit 6 Personal Progress Check
+
 ## Abbreviations
 
 - **WS** — Worksheet
@@ -112,6 +120,9 @@ chronological order. The order has been adapted to follow the College Board AP C
 [Lesson 4.03]: Unit4/Lesson-403.md
 [Lesson 4.04]: Unit4/Lesson-404.md
 [Lesson 4.05]: Unit4/Lesson-405.md
+
+[6.PP]: Lesson-6PP.md
+[Lesson 6.PP]: Lesson-6PP.md
 
 [Magpie Chatbot Lab]: ../Assets.md#magpie
 [Poster 4.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.1.pptx

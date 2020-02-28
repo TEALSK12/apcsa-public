@@ -2,6 +2,8 @@
 
 The following curriculum map is a day-by-day listing of the AP Computer Science course in chronological order. The order has been adapted to follow the College Board AP CS A Curriculum. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook.
 
+- [Unit 2 Slides]
+- [Unit 2 Word Bank]
 - [Unit 3 Slides]
 - [Unit 3 Word Bank]
 - [Curriculum Assets]
@@ -34,6 +36,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  3.99   | Unit 3 test  | [Test 2 Guide] Test 2 Section I Test 2 Section II  |   |    |
 |  3.XX   |  Alternative Project: [Frac Calc]   |    |  |    | [CON-1], [CON-2], [MOD-1], [VAR-1] | [CON-1.F], [CON-1.H], [CON-2.A], [CON-2.B], [CON-2.C], [CON-2.D], [CON-2.E], [MOD-1.B], [MOD-1.C], [MOD-1.D], [MOD-1.E], [MOD-1.F], [VAR-1.D], [VAR-1.E]
 |  3.XX1   |  Alternative Project: [Calculator]   |  work on project   |  conduct research   |  Continue working on project   |
+| [4.PP] | Unit 4 Personal Progress Check Iteration |
 
 ## 2.05
 
@@ -270,6 +273,13 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  **Reading**       |  Students are expected to conduct resear  Chap.
 |  **Homework**      |  Continue working on project.
 
+## 4.PP
+
+| [Lesson 4.PP]   | _Unit 4 Personal Progress Check_
+|:----------------|:-----------------------------
+| **Objectives**  | Identify weaknesses in student's Unit 4 knowledge
+| **Assessments** | Students will take Unit 4 Personal Progress Check
+
 ## Abbreviations
 
 - **WS** — Worksheet
@@ -295,6 +305,10 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 [3.17]: Unit3/Lesson-317.md
 [3.18]: Unit3/Lesson-318.md
 [3.19]: Unit3/Lesson-319.md
+
+[4.PP]: Lesson-4PP.md
+[Lesson 4.PP]: Lesson-4PP.md
+
 [Algorithm for Solving Problems]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx
 [Curriculum Assets]: ../Assets.md
 [DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
@@ -319,6 +333,8 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 [Lesson 3.18]: Unit3/Lesson-318.md
 [Lesson 3.19]: Unit3/Lesson-319.md
 [Consumer Review Lab]: Unit3/Lesson-318.md
+[Unit 2 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/Unit2.pptx
+[Unit 2 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/Unit%202%20Word%20Bank.docx
 [Operator Precedence]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Operator%20Precedence.pptx
 [Poster 3.16.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Poster%203.16.1.pdf
 [Poster 3.16.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Poster%203.16.2.pdf

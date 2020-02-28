@@ -29,8 +29,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | 4.99 |Unit 4 test|Test 3 Section I  Test 3 Section II||
 | [4.XX] |[Programming Project](Magpie Alternative)| | | |  [VAR-2], [CON-2] | [VAR-2.F], [VAR-2.G], [CON-2.N]
 | [5.00]   |Test Review & Reteach|Review test| |Test corrections
-
-
+| [8.PP] | Unit 8 Personal Progress Check 2D Array |
 
 ## 8.00
 
@@ -217,6 +216,13 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Reading**     | 4.1 up to “_Nested If/Else Statements_”
 | **Homework**    | Test corrections
 
+## 8.PP
+
+| [Lesson 8.PP]   | _Unit 8 Personal Progress Check_
+|:----------------|:-----------------------------
+| **Objectives**  | Identify weaknesses in student's Unit 8 knowledge
+| **Assessments** | Students will take Unit 8 Personal Progress Check
+
 ## Abbreviations
 
 - **WS** — Worksheet
@@ -255,6 +261,10 @@ chronological order. The order has been adapted to follow the College Board AP C
 [Lesson 4.10]: Unit4/Lesson-410.md
 [Lesson 4.XX]: Unit4/Lesson-4XX.md
 [Lesson 5.00]: Unit5/Lesson-500.md
+
+[8.PP]: Lesson-8PP.md
+[Lesson 8.PP]: Lesson-8PP.md
+
 [Magpie Chatbot Lab]: ../Assets.md#magpie
 [Poster 4.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.1.pptx
 [Poster 4.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.2.pptx

@@ -37,7 +37,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [5.07]   |Review|Review question  [WS 5.7] Test practice||Study| | | |
 |  5.99    |(Unit 5 test)|Test 4 Section I  Test 4 Section II|| | | |
 | [5.XX]   |PictureLab Alternative | | | | [MOD-2], [MOD-3], [VAR-1] | [MOD-2.A], [MOD-2.D], [MOD-2.E], [MOD-2.F], [MOD-2.G], [MOD-3.A], [VAR-1.G], [VAR-1.H]
-
+| [5.PPa] | Unit 5 Personal Progress Check Part A Writing Objects |
+| [5.PPb] | Unit 2 Personal Progress Check Part B Writing Objects |
 
 
 ## 5.00
@@ -281,6 +282,20 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Reading**     |
 | **Homework**    | Conduct research work(survey or interviews) and communicating with end-user
 
+## 5.PPa
+
+| [Lesson 5.PPa]   | _Unit 5 Personal Progress Using Objects A_
+|:----------------|:-----------------------------
+| **Objectives**  | Identify weaknesses in student's Unit 5 knowledge
+| **Assessments** | Students will take Unit 5 Personal Progress Check Part A
+
+## 5.PPb
+
+| [Lesson 5.PPb]   | _Unit 5 Personal Progress Using Objects B_
+|:----------------|:-----------------------------
+| **Objectives**  | Identify weaknesses in student's Unit 5 knowledge
+| **Assessments** | Students will take Unit 5 Personal Progress Check Part B
+
 ## Abbreviations
 
 - **WS** — Worksheet
@@ -307,6 +322,13 @@ chronological order. The order has been adapted to follow the College Board AP C
 [Lesson 5.07]: Unit5/Lesson-507.md
 [Lesson 5.XX]: Unit5/Lesson-5XX.md
 [Picture Lab]: ../Assets.md#picturelab
+
+
+[5.PPa]: Lesson-5PPa.md
+[5.PPb]: Lesson-5PPb.md
+[Lesson 5.PPa]: Lesson-5PPa.md
+[Lesson 5.PPb]: Lesson-5PPb.md
+
 [Unit 5 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/Unit5.pptx
 [Unit 4 Slides]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Unit4.pptx
 [Unit 5 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/Unit%205%20Word%20Bank.docx

@@ -19,6 +19,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [8.06] |Review||Study|
 | [8.07] |Quiz|[Quiz 8.5]|Barrons ch 7 (8th or later: ch 8)|
 | [8.08] |Quiz Review & Reteach|Review quiz||Barrons ch 7 (8th or later: ch 8)|
+| [10.PP] | Unit 10 Personal Progress Check Recursion |
 
 ## 7.00
 
@@ -107,6 +108,13 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Reading**     |
 | **Homework**    | Barrons ch 7 (8th or later: ch 8)
 
+## 10.PP
+
+| [Lesson 10.PP]   | _Unit 8 Personal Progress Check_
+|:----------------|:-----------------------------
+| **Objectives**  | Identify weaknesses in student's Unit 10 knowledge
+| **Assessments** | Students will take Unit 10 Personal Progress Check
+
 ## Abbreviations
 
 - **WS** — Worksheet
@@ -134,6 +142,10 @@ chronological order. The order has been adapted to follow the College Board AP C
 [Lesson 8.05]: Unit8/Lesson-805.md
 [Lesson 8.06]: Unit8/Lesson-806.md
 [Lesson 8.08]: Unit8/Lesson-808.md
+
+[10.PP]: Lesson-10PP.md
+[Lesson 10.PP]: Lesson-10PP.md
+
 [Quiz 8.5]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit8/Quiz%208.5.docx
 [Teacher Demo 8.3]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit8/Teacher%20Demo%208.3.docx
 [Unit 7 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit7/Unit7.pptx

@@ -20,7 +20,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [3.06] |Interactive Programs & Scanner Objects|Practice-It SC 3.24 - 3.26, (5th: 3.23 - 3.25); E 3.12, 3.14, 3.15|3.3 “Interactive programming” and “Sample interactive program”|Outline ch 3 (omit 3.4) |
 | [3.07] |Pokémon Battle Programming Project|[WS 3.7]  LP Battle||Summarize notes since last exam | [CON-1], [MOD-1], [VAR-1]|[CON-1.D], [MOD-1.B], [MOD-1.C], [MOD-1.D],[MOD-1.E], [MOD-1.F], [VAR-1.D], [VAR-1.E]|
 | [3.08] |Finding & Fixing Errors|Fix HW, webmaker.org||SC 4.1-4.4 |
-
+| [2.PPa] | Unit 2 Personal Progress Check Part A Using Objects |
+| [2.PPb] | Unit 2 Personal Progress Check Part B Using Objects |
 
 ## 3.00
 
@@ -112,6 +113,20 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Reading**     | 
 | **Homework**    | SC 4.1–4
 
+## 2.PPa
+
+| [Lesson 2.PPa]   | _Unit 2 Personal Progress Using Objects A_
+|:----------------|:-----------------------------
+| **Objectives**  | Identify weaknesses in student's Unit 2 knowledge
+| **Assessments** | Students will take Unit 2 Personal Progress Check Part A
+
+## 2.PPb
+
+| [Lesson 2.PPb]   | _Unit 2 Personal Progress Using Objects B_
+|:----------------|:-----------------------------
+| **Objectives**  | Identify weaknesses in student's Unit 2 knowledge
+| **Assessments** | Students will take Unit 1 Personal Progress Check Part B
+
 
 ## Abbreviations
 
@@ -144,6 +159,11 @@ chronological order. The order has been adapted to follow the College Board AP C
 [Lesson 3.06]: Unit3/Lesson-306.md
 [Lesson 3.07]: Unit3/Lesson-307.md
 [Lesson 3.08]: Unit3/Lesson-308.md
+
+[2.PPa]: Lesson-2PPa.md
+[2.PPb]: Lesson-2PPb.md
+[Lesson 2.PPa]: Lesson-2PPa.md
+[Lesson 2.PPb]: Lesson-2PPb.md
 
 [Unit 3 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Unit3.pptx
 [Unit 3 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Unit%203%20Word%20Bank.docx

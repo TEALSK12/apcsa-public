@@ -34,6 +34,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | [6.09] |Review|Review questions [WS 6.5] Test practice||Study
 | 6.99 |Unit 6 test|[Test 5 Guide] Test 5 Section I Test 5 Section II||
 | 6.XX |[Text Excel]|[Text Excel Student Guide A] [Text Excel Student Guide B] [Text Excel Student Guide C] [Text Excel Teacher Guide]||| [MOD-2], [MOD-3] | [MOD-2.D], [MOD-3.B], [MOD-3.C], [MOD-3.D] |
+| [9.PP] | Unit 9 Personal Progress Check Inheritance |
 
 ## 5.00
 
@@ -268,6 +269,13 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |:----------------|:-----------------------------
 | **In Class**    | [Text Excel] [Text Excel Student Guide A] [Text Excel Student Guide B] [Text Excel Student Guide C] [Text Excel Teacher Guide]
 
+## 9.PP
+
+| [Lesson 9.PP]   | _Unit 8 Personal Progress Check_
+|:----------------|:-----------------------------
+| **Objectives**  | Identify weaknesses in student's Unit 9 knowledge
+| **Assessments** | Students will take Unit 9 Personal Progress Check
+
 ## Abbreviations
 
 - **WS** — Worksheet
@@ -301,6 +309,11 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 [Lesson 6.07a]: Unit6/Lesson-607a.md
 [Lesson 6.08]: Unit6/Lesson-608.md
 [Lesson 6.09]: Unit6/Lesson-609.md
+
+
+[9.PP]: Lesson-9PP.md
+[Lesson 9.PP]: Lesson-9PP.md
+
 [Unit 5 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/Unit5.pptx
 [Poster 6.3]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Poster%206.3.pptx
 [Poster 6.6]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Poster%206.6.pptx

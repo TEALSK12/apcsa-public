@@ -12,6 +12,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [3.09] |Relational Operators & if/else | [Operator Precedence], Grudgeball | 4.1 “Nested if/else” and “Flow of control” | SC 4.7-4.9; E 4.1-4.2 | [CON-1], [CON-2] |  [CON-1.E], [CON-1.H], [CON-2.A], [CON-2.B] |  [CON-1.E.1], [CON-1.E.2], [CON-2.A.1], [CON-2.A.2], [CON-2.A.3], [CON-2.A.3], [CON-2.A.4], [CON-2.A.5] |
 | [3.10] | Nested if/else Statements|[WS 3.10] Teach mini-lessons, Practice-It SC 4.5, 4.6, E 4.3|4.1, “Factoring if/else statements” and “Testing multiple conditions” | E4.4, 4.5 | [CON-1], [CON-2] |  [CON-1.E], [CON-1.H], [CON-2.A], [CON-2.B], | [CON-1.E.1], [CON-1.E.2], [CON-2.A.1], [CON-2.A.2], [CON-2.A.3], [CON-2.A.3], [CON-2.A.4], [CON-2.A.5] |
 | [3.11] | Reducing Redundancy | (Refactoring competition) | Read 4.2 | Outline Chap 4 (omit 4.4, 4.5) |  | | |
+| [3.PP] | Unit 3 Personal Progress Check Boolean Expressions and if Statements |
 
 ## 3.09
 
@@ -43,6 +44,13 @@ chronological order. The order has been adapted to follow the College Board AP C
 |  **Reading**       |  4.2
 |  **Homework**      |  Outline   Chap 4 (omit 4.4, 4.5)
 
+## 3.PP
+
+| [Lesson 3.PP]   | _Unit 3 Personal Progress Check_
+|:----------------|:-----------------------------
+| **Objectives**  | Identify weaknesses in student's Unit 3 knowledge
+| **Assessments** | Students will take Unit 3 Personal Progress Check
+
 ## Abbreviations
 
 - **WS** — Worksheet
@@ -52,14 +60,21 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 [3.09]: Unit3/Lesson-309.md
 [3.10]: Unit3/Lesson-310.md
+[3.11]: Unit3/Lesson-311.md
+
 [Algorithm for Solving Problems]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx
 [Curriculum Assets]: ../Assets.md
 [DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
 [Equestria]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Map%20of%20Equestria.pptx
 [Frac Calc]: ../Assets.md#fraccalc
-[Calculator]: Lesson-3XX1.md
-[Lesson 3.09]: Lesson-309.md
-[Lesson 3.10]: Lesson-310.md
+[Calculator]: Unit3/Lesson-3XX1.md
+[Lesson 3.09]: Unit3/Lesson-309.md
+[Lesson 3.10]: Unit3/Lesson-310.md
+[Lesson 3.11]: Unit3/Lesson-311.md
+
+[3.PP]: Lesson-3PP.md
+[Lesson 3.PP]: Lesson-3PP.md
+
 [WS 3.10]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.10.docx
 [Operator Precedence]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Operator%20Precedence.pptx
 [Poster 3.16.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Poster%203.16.1.pdf
