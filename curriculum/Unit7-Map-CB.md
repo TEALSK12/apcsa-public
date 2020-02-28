@@ -32,8 +32,9 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [7.03] 16|[Elevens Lab] (day 16)| Elevens Lab Activity 11 (end)||
 | [7.04]|Review|Review questions||Study
 | 7.99|Unit 7 test|[Test 6 Guide] Test 6 Section I Test 6 Section II||
-| [7.PP] | Unit 7 Personal Progress Check ArrayList |
 | [8.00] |Test Review & Reteach|Review test||Test corrections
+| [7.PP] | Unit 7 Personal Progress Check ArrayList |
+
 
 ## 4.07
 
@@ -242,13 +243,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Guide**       | [Test 6 Guide]
 | **In Class**    | Test 6 Section I Test 6 Section II
 
-## 7.PP
-
-| [Lesson 7.PP]   | _Unit 7 Personal Progress Check_
-|:----------------|:-----------------------------
-| **Objectives**  | Identify weaknesses in student's Unit 7 knowledge
-| **Assessments** | Students will take Unit 7 Personal Progress Check
-
 
 ## 8.00
 
@@ -259,6 +253,13 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **In Class**    | Review test
 | **Reading**     | 
 | **Homework**    | Test corrections
+
+## 7.PP
+
+| [Lesson 7.PP]   | _Unit 7 Personal Progress Check_
+|:----------------|:-----------------------------
+| **Objectives**  | Identify weaknesses in student's Unit 7 knowledge
+| **Assessments** | Students will take Unit 7 Personal Progress Check
 
 ## Abbreviations
 
