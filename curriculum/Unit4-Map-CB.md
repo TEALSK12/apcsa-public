@@ -19,6 +19,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  [2.10]    | Finding & Fixing Errors      | Fix HW        | | Submit questions for review |
 |  [2.11]    | Review (Review questions)    | [WS 2.11] practice test | Review ch 2 (omit 2.5) | Study |
 |  [2.99]    | (Unit 2 Test)                | Test 1 Section I Test 1 Section II | | |
+| [3.00] |Test Review & Reteach|[Algorithm for Solving Problems]||Test corrections |
 |  [3.12]    | Cumulative Algorithms        | Tally code on board,Collaborative Programming Exercise [WS 3.12]  |   | PP 4.2 | [CON-2]  | [CON-2.C], [CON-2.D], [CON-2.E] | [CON-2.C.1], [CON-2.C.2], [CON-2.C.3], [CON-2.C.4], [CON-2.E.4] |
 |  [3.13]    | while Loops                  | Practice-It SC 5.1 - 5.4, E 5.2 [WS 3.13]  | 5.1 skip “do/while loops” | E 5.2 | [CON-2]  | [CON-2.C], [CON-2.D], [CON-2.E] | [CON-2.C.1], [CON-2.C.2], [CON-2.C.3], [CON-2.C.4], [CON-2.E.4] |
 |  [3.14]    | Random Numbers               | Practice-It SC 5.5-5.7; E 5.4, 5.5  |   5.1 ”Random numbers” | PP 5.1   | [CON-2] | [CON-2.D], [CON-2.E] | [CON-2.E.5] |
@@ -113,6 +114,16 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | Unit 2 Test     | _Working with Data & Basic Control Flow_
 |:----------------|:-----------------------------
 | **In Class**    | Test 1 Section I Test 1 Section II
+
+## 3.00
+
+| [Lesson 3.00]   | _Test Review & Reteach_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 2.
+| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
+| **In Class**    | [Algorithm for Solving Problems]
+| **Reading**     | 
+| **Homework**    | Test corrections
 
 ## 3.12
 
@@ -295,7 +306,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 [2.10]: ./Unit2/Lesson-210.md
 [2.11]: ./Unit2/Lesson-211.md
 [2.99]: ./Unit2/#299
-
+[3.00]: Unit3/Lesson-300.md
 [3.11]: Unit3/Lesson-311.md
 [3.12]: Unit3/Lesson-312.md
 [3.13]: Unit3/Lesson-313.md
@@ -322,7 +333,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 [Lesson 2.09]: ./Unit2/Lesson-209.md
 [Lesson 2.10]: ./Unit2/Lesson-210.md
 [Lesson 2.11]: ./Unit2/Lesson-211.md
-
+[Lesson 3.00]: Unit3/Lesson-300.md
 [Lesson 3.11]: Unit3/Lesson-311.md
 [Lesson 3.12]: Unit3/Lesson-312.md
 [Lesson 3.13]: Unit3/Lesson-313.md
