@@ -27,8 +27,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [4.09a] 06|Steganography Lab (day&nbsp;6)|Steganography Lab Activity 5 (day 2)||Check and correct Barrons ch 6 (8th or later: ch 7) questions
 | [4.10] |Review|Review questions [WS 4.10] practice test||Study
 | 4.99 |Unit 4 test|Test 3 Section I  Test 3 Section II||
-| [4.XX] |[Programming Project](Magpie Alternative)| | | |  [VAR-2], [CON-2] | [VAR-2.F], [VAR-2.G], [CON-2.N]
 | [5.00]   |Test Review & Reteach|Review test| |Test corrections
+| [4.XX] |[Programming Project](Magpie Alternative)| | | |  [VAR-2], [CON-2] | [VAR-2.F], [VAR-2.G], [CON-2.N]
 | [8.PP] | Unit 8 Personal Progress Check 2D Array |
 
 ## 4.06
@@ -187,6 +187,14 @@ chronological order. The order has been adapted to follow the College Board AP C
 |:----------------|:-----------------------------
 | **In Class**    | Test 3 Section I  Test 3 Section II
 
+| [Lesson 5.00]   | _Test Review & Reteach_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
+| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
+| **In Class**    | Review test
+| **Reading**     | 4.1 up to “_Nested If/Else Statements_”
+| **Homework**    | Test corrections
+
 ## 4.XX
 
 | [Lesson 4.XX]    |_Programming Project(Magpie Alternative)_
@@ -196,15 +204,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **In Class**    |
 | **Reading**     |
 | **Homework**    | Conduct user-centered research to find design opportunities and barriers.
-
-
-| [Lesson 5.00]   | _Test Review & Reteach_
-|:----------------|:-----------------------------
-| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
-| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
-| **In Class**    | Review test
-| **Reading**     | 4.1 up to “_Nested If/Else Statements_”
-| **Homework**    | Test corrections
 
 ## 8.PP
 
