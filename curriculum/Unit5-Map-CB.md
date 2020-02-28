@@ -11,7 +11,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
-| [5.00]   |Test Review & Reteach|Review test||Test corrections| | | |
 | [5.01]   |Object Oriented Programming|Practice-It SC 8.1-8.5<br>[WS 5.1.1]|8.1||[MOD-2] |[MOD-2.D],[MOD-2.E],[MOD-2.G] |[MOD-2.D.6][MOD-2.D.7],[MOD-2.E],[MOD-2.G]|
 | [5.02]   |Object State & Behavior|[WS 5.2]|8.2 up to “Mutators and Accessors.”|SC 8.9-8.11, 8.13-8.16|[MOD-2],[VAR-1]|[MOD-2.G],[VAR-1.G]|[MOD-2.G.5],[VAR-1.G.1],[VAR-1.G.2]|
 | [5.03]   |Object Initialization: Constructors|[WS 5.3.1]<br>[WS 5.3.2]|8.3 up to “The Keyword this.”||[MOD-2]|[MOD-2.A][MOD-2.B],[VAR-1.H]|[MOD-2.A.1],[MOD-2.A.5],[MOD-2.A],[MOD-2.B.2],[MOD-2.B.3][MOD-2.B.5],[VAR-1.H.1],[VAR-1.H.2]|
@@ -39,16 +38,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [5.XX]   |PictureLab Alternative | | | | [MOD-2], [MOD-3], [VAR-1] | [MOD-2.A], [MOD-2.D], [MOD-2.E], [MOD-2.F], [MOD-2.G], [MOD-3.A], [VAR-1.G], [VAR-1.H]
 | [5.PPa] | Unit 5 Personal Progress Check Part A Writing Objects |
 | [5.PPb] | Unit 2 Personal Progress Check Part B Writing Objects |
-
-
-## 5.00
-| [Lesson 5.00]   | _Test Review & Reteach_
-|:----------------|:-----------------------------
-| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
-| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
-| **In Class**    | Review test
-| **Reading**     | 
-| **Homework**    | Test corrections
 
 ## 5.01
 | [Lesson 5.01]   | _Object Oriented Programming_
