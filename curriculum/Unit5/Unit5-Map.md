@@ -8,8 +8,8 @@ classroom.
 
 - [Unit 5 Slides]
 - [Unit 5 Word Bank]
-- [Curriculum Assets](../Assets.md)
-- [Picture Lab](../Assets.md)
+- [Curriculum Assets]
+- [Picture Lab]
 
 | **LP**   | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
 |:---------|:--------------------------------------|:---------------|:----------------|:----------------|
@@ -331,3 +331,6 @@ classroom.
 [WS 5.3.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.3.2.docx
 [WS 5.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.4.docx
 [WS 5.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.7.docx
+[Curriculum Assets]: ../Assets.md
+[Picture Lab]: ../Assets.md
+
