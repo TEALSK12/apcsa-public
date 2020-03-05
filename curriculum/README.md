@@ -1,5 +1,4 @@
-About the AP Computer Science A Curriculum
-====================================================================================================
+# About the AP Computer Science A Curriculum
 
 The [TEALS Program] has designed these curriculum materials for the use of teachers and volunteer
 tech professionals in high school classrooms. Any teacher with prior programming experience (or
@@ -9,7 +8,7 @@ A course.
 This curriculum is based on and aligned with Professor Stuart Reges' course at the University of
 Washington, CSE 142. The course uses the textbook:
 
-_Building Java Programs: A Back to Basics Approach_ by Stuart Reges and Marty Stepp. 
+_Building Java Programs: A Back to Basics Approach_ by Stuart Reges and Marty Stepp.
 Publisher: Pearson; 5 edition (March 28, 2019)
 ISBN-10: 013547194X
 ISBN-13: 978-0135471944
@@ -25,11 +24,10 @@ Specific instructions are available in the [AP CS A Course Audit Instructions].
 This curriculum uses principles of universal design for learning (UDL). The curriculum was written
 for and tested in classrooms with diverse learners; students with individualized education plans,
 English language learners, students who have received sub-optimal math or language instruction in
-the past, students who are gifted/talented, students who are otherwise “outside the average.”  See 
+the past, students who are gifted/talented, students who are otherwise “outside the average.”  See
 [Additional Resources](#additional-resources) for more information on  universal design for learning.
 
-Accessing the Curriculum
-------------------------
+## Accessing the Curriculum
 
 The AP Computer Science A Curriculum GitBook is located at
 https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details.
@@ -37,8 +35,7 @@ https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details.
 For contributions to the curriculum, the AP Computer Science A GitHub repository is located at
 https://github.com/TEALSK12/apcsa.
 
-Using the curriculum
---------------------
+## Using the curriculum
 
 Each classroom has different physical, cultural, academic, and scheduling needs. Therefore, we have
 tried to create a collection of lessons and materials that are adaptable to most situations. TEALS
@@ -65,6 +62,7 @@ class to suit their students' needs. That said, we've designed most of the lesso
 following daily structure:
 
 #### Hook & Instruction
+
 - Each lesson plan begins with one or several options for short (from seconds to 5 minutes) engaging
   or mystifying activities that introduce students to the topics to be introduced later in the
   lesson.
@@ -75,11 +73,13 @@ following daily structure:
   “Additional Resources” below.
 
 #### Student Practice
+
 - Student practice/activities are outlined with step-by-step instructions including pacing
   suggestions and alternative stopping points. Any special materials or preparation needed for the
   hook, lecture, or activity are listed in the Materials & Prep section.
 
 #### Warmup / DoNow / Boardwork/Ticket-to-leave
+
 - Since each classroom progresses at different rates, we have not included warm-up and cool-down
   questions (though time has been scheduled in the Pacing Guide for one or both of these
   activities). You should choose your questions based on the topics you felt were most challenging
@@ -152,11 +152,11 @@ Aligned to the College Board's curriculum framework, students explore the big id
 
 #### Big Ideas of Computer Science
 
-1. Modularity -- 
+1. Modularity --
     Incorporating elements of abstraction, by breaking problems down into interacting pieces, each with their own purpose, makes writing complex programs easier. Abstracting simplifies concepts and processes by looking at the big picture rather than being overwhelmed by the details. Modularity in object-oriented programming allows us to use abstraction to break complex programs down into individual classes and methods.
 
-2. Variables -- 
-    Information used as a basis for reasoning, discussion, or calculation is referred to as data. Programs rely on variables to store data, on data structures to organize multiple values when program complexity increases, and on algorithms to sort, access, and manipulate this data. Variables create data abstractions, as they can represent a set of possible values or a group of related values. 
+2. Variables --
+    Information used as a basis for reasoning, discussion, or calculation is referred to as data. Programs rely on variables to store data, on data structures to organize multiple values when program complexity increases, and on algorithms to sort, access, and manipulate this data. Variables create data abstractions, as they can represent a set of possible values or a group of related values.
 
 3. Control --
     Doing things in order, making decisions, and doing the same process multiple times are represented in code by using control structures and specifying the order in which instructions are executed. Programmers need to think algorithmically in order to define and interpret processes that are used in a program.
@@ -165,6 +165,7 @@ Aligned to the College Board's curriculum framework, students explore the big id
     Computers and computing have revolutionized our lives. To use computing safely and responsibly, we need to be aware of privacy, security, and ethical issues. As programmers, we need to understand how our programs will be used and be responsible for the consequences.
 
 #### Computational Thinking Practices: Skills
+
 1. Program Design and Algorithm Development  
   A. Determine an appropriate program design to solve a problem or accomplish a task (not assessed by AP Exam).  
   B. Determine code that would be used to complete code segments.  
@@ -205,6 +206,7 @@ Aligned to the College Board's curriculum framework, students explore the big id
     *Curriculum Example of Skill 5.A:* In Lesson 3.12, students are tasked with starting a program that will be finished by partner, with the only communication between them being well-commented code. 
 
 #### AP Exam Preparation
+
 All of the Unit tests are in the AP exam format. In classes where many students will take the exam, instructors should gradually adjust the testing environment to mimic that of the exam:
 
 - Always provide/allow the [AP Java Quick Reference]
@@ -236,8 +238,8 @@ on their own later. Finally, students that have answered all or most of their wo
 a day off to do silent work/play on their own, which positively reinforces students to put in the
 initial effort to win a day off.
 
-Video Tutorials
----------------
+## Video Tutorials
+
 - [Timing and Pacing] — Adjusting lessons and the curriculum map for the speed of your learners
 - [Projects and Labs] — Choosing whether your class completes the AP labs or the projects
   (FracCalc/TextExcel)
@@ -246,9 +248,7 @@ Video Tutorials
 - [Parson's Problems] — Assessing high-level programming skills quickly with Parson's Problems
 - [Grudgeball] — Reviewing material by playing a class game of Grudgeball
 
-
-Digital Tools Associated with This Curriculum
----------------------------------------------
+## Digital Tools Associated with This Curriculum
 
 ### Recommended Hardware
 In the classroom, it is recommended that each student have an internet-connected desktop computer capable of running an Integrated Design Environment (IDE), like Eclipse.  Students will need to be able to save and access their programming projects locally or in the cloud.
@@ -258,6 +258,10 @@ In the classroom, it is recommended that each student have an internet-connected
 Coding in Java requires the Java Development Kit and a text editor or IDE. There are many Java IDEs
 available. Currently most of the TEALS classrooms use Eclipse. Unit 1 includes directions for
 installing Eclipse.
+
+### Practice-It
+
+The TEALS curriculum requires each student to have a copy of the textbook. Many assignments require students to complete self-checks, exercises, and programming problems at the end of each chapter from the textbook. While Practice-it is available from the University of Washington, it is not necessary. As with all software services, it is the school’s sole decision to use the tool according to the use terms and privacy policies provided by its licensor and it is the school’s responsibility to ensure the tool meets it's IT policies.
 
 ### Detecting Cheating with MOSS
 
@@ -271,8 +275,7 @@ Occasionally, teachers have difficulty registering for an account. If this occur
 encouraged to email the program's creator Alex Aiken directly, at
 [aiken@cs.stanford.edu](mailto:aiken@cs.stanford.edu).
 
-Additional Resources
-------------------------
+## Additional Resources
 
 - The free web-based game Code Hunt (http://www.codehunt.com) offers opportunities for students to
   find and fix errors by “discovering the missing code segments.” Assignments/Levels are
@@ -324,24 +327,22 @@ Additional Resources
   error-checking and test review. While these lesson plans look identical at first glance, small
   adjustments have been made for content, timing, and AP test prep.
 
-Printing GitBook
---------------------
+## Printing GitBook
+
 The AP CS A GitBook can be printed by navigating to 
 https://aka.ms/TEALSAPCSAPDF. 
 However, the "Download" button does not work. There is workaround depending on the browser:
+
 - click on the document to enable the pdf menu to show and clicking the down arrow or "Save as Copy"
 - right click on the .pdf document and select "Save As"
 
-Giving feedback on the curriculum
----------------------------------
+## Giving feedback on the curriculum
 
 TEALS intends for this curriculum to be a starting point; it's our first attempt at a complete AP CS
 A curriculum. We'll continue evolving and adapting the curriculum and associated materials as we
 learn more about teaching AP CS A. To participate in this process, we invite TEALS team members and
 independent teachers using this curriculum to submit edits and suggestions via the discussion forum
 on the TEALS dashboard or in this [Github repository issues page](https://github.com/TEALSK12/apcsa-public/issues).
-
-
 
 [20 Fun Free Tools for Interactive Classroom Collaboration]: http://tinyurl.com/k62tstg
 [AP Java Quick Reference]: http://apcentral.collegeboard.com/apc/public/repository/ap_comp_sci_a_quick_reference.pdf
