@@ -261,7 +261,7 @@ installing Eclipse.
 
 ### Practice-It
 
-The TEALS curriculum requires each student to have a copy of the textbook. Many assignments are require students to complete self checks, exercises, and programmings problems at the end of each chapter from the textbook. While practice-it is available from the University of Washington, it is not necessary.  As with all software services, it is the School’s sole decision to use the tool according to the use terms and privacy policies provided by its licensor and it is the School’s responsibility to ensure the tool meets your School’s IT policies.
+The TEALS curriculum requires each student to have a copy of the textbook. Many assignments require students to complete self-checks, exercises, and programming problems at the end of each chapter from the textbook. While Practice-it is available from the University of Washington, it is not necessary. As with all software services, it is the school’s sole decision to use the tool according to the use terms and privacy policies provided by its licensor and it is the school’s responsibility to ensure the tool meets it's IT policies.
 
 ### Detecting Cheating with MOSS
 
