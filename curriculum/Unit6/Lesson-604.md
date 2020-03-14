@@ -20,8 +20,8 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 6.4.1]
-- **Tracing Inheritance Guide** [WS 6.4.2]
+- **Classroom copies** of [WS 6.4.1][]
+- **Tracing Inheritance Guide** [WS 6.4.2][]
 - **Class hierarchies and client code** from Section 9.3 (on board or projector)
 
 The Round Robin worksheet is 11 pages long, so it may take a while to print out/copy.

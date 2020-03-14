@@ -1,6 +1,6 @@
-_See the [human-readable summary] of this license for a quick understanding._
+_See the [human-readable summary][] of this license for a quick understanding._
 
-_Official translations of this license are available [in other languages]._
+_Official translations of this license are available [in other languages][]._
 
 Preamble
 --------
@@ -29,7 +29,7 @@ conditions of the license they choose before applying it. Licensors should also 
 necessary before applying our licenses so that the public can reuse the material as expected.
 Licensors should clearly mark any material not subject to the license. This includes other
 CC-licensed material, or material used under an exception or limitation to copyright.
-[More considerations for licensors].
+[More considerations for licensors][].
 
 __Considerations for the public:__ By using one of our public licenses, a licensor grants the public
 permission to use the licensed material under specified terms and conditions. If the licensor’s
@@ -39,7 +39,7 @@ permissions under copyright and certain other rights that a licensor has authori
 the licensed material may still be restricted for other reasons, including because others have
 copyright or other rights in the material. A licensor may make special requests, such as asking that
 all changes be marked or described. Although not required by our licenses, you are encouraged to
-respect those requests where reasonable. [More considerations for the public].
+respect those requests where reasonable. [More considerations for the public][].
 
 
 
@@ -68,7 +68,7 @@ contributions to Adapted Material in accordance with the terms and conditions of
 License.
 
 c. __BY-NC-SA Compatible License__ means a license listed at
-[creativecommons.org/compatiblelicenses], approved by Creative Commons as essentially the equivalent
+[creativecommons.org/compatiblelicenses][], approved by Creative Commons as essentially the equivalent
 of this Public License.
 
 d. __Copyright and Similar Rights__ means copyright and/or similar rights closely related to
@@ -292,7 +292,7 @@ c. For the avoidance of doubt, the Licensor may also offer the Licensed Material
   terms or conditions or stop distributing the Licensed Material at any time; however, doing so will
   not terminate this Public License.
 
-d. Sections [1], [5], [6], [7], and [8] survive termination of this Public License.
+d. Sections [1][], [5][], [6][], [7][], and [8][] survive termination of this Public License.
 
 
 Section 7 — Other Terms and Conditions.
@@ -328,14 +328,14 @@ Creative Commons is not a party to its public licenses. Notwithstanding, Creativ
 to apply one of its public licenses to material it publishes and in those instances will be
 considered the “Licensor.” Except for the limited purpose of indicating that material is shared
 under a Creative Commons public license or as otherwise permitted by the Creative Commons policies
-published at [creativecommons.org/policies], Creative Commons does not authorize the use of the
+published at [creativecommons.org/policies][], Creative Commons does not authorize the use of the
 trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior
 written consent including, without limitation, in connection with any unauthorized modifications to
 any of its public licenses or any other arrangements, understandings, or agreements concerning use
 of licensed material. For the avoidance of doubt, this paragraph does not form part of the public
 licenses.
 
-Creative Commons may be contacted at [creativecommons.org].
+Creative Commons may be contacted at [creativecommons.org][].
 
 
 

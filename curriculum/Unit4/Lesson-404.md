@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** with this page: <http://www.legendarypokemon.net/javacalc.html>
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 4.4]
+- **Classroom copies** of [WS 4.4][]
 - **Instructor copy** of WS 4.4 Answer
 
 The “worksheet” for today is a 5-page work packet, so if your school has long lines/production time

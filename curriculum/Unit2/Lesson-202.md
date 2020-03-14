@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **White paper** **and** **markers**
-- **Classroom copies** of [WS 2.2]
+- **Classroom copies** of [WS 2.2][]
 - **Pair or small group** student assignments
 - **Sample online temperature converter** (<http://www.onlineconversion.com/temperature.htm>)
 

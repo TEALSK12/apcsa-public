@@ -24,5 +24,5 @@ For complete instructions, see the [GitBook website][].
 
 [AP CS A Curriculum]: https://tealsk12.gitbooks.io/ap-computer-science-a/content/
 [apcsa-instructor]:   https://github.com/TEALSK12/apcsa-instructor/
-[Kenney Chan]:        mailto:kencha@microsoft.com
+[Kenney Chan]:        mailto:kenney@tealsk12.org
 [GitBook website]:    https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md
