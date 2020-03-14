@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer **
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 4.6]
+- **Classroom copies** of [WS 4.6][]
 - **Array whiteboards**
 
 

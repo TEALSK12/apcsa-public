@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **White paper** **and** **markers**
-- **Classroom copies** of [WS 2.5]
+- **Classroom copies** of [WS 2.5][]
 
 
 Pacing Guide

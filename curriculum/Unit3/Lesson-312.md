@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (optional)
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 3.12]
+- **Classroom copies** of [WS 3.12][]
 - **Plastic binder sleeves** (1 per student)
 
 

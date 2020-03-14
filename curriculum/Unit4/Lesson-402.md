@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 4.2]
+- **Classroom copies** of [WS 4.2][]
 - **Poster** 4.2
 - **Array whiteboards** (see notes at end of LP 4.2) **and dry erase markers**
 - **Student small-group assignments** (≈3-4 students per group)

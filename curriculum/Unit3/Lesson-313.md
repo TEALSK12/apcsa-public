@@ -21,7 +21,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 3.13]
+- **Classroom copies** of [WS 3.13][]
 
 
 Pacing Guide

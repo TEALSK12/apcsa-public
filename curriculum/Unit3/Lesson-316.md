@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 3.16] (RPS, Pig), [DeMorgan’s Law], [Poster 3.16.1], [Poster 3.16.2]
+- **Classroom copies** of [WS 3.16][] (RPS, Pig), [DeMorgan’s Law][], [Poster 3.16.1][], [Poster 3.16.2][]
 - **Link** to rock-paper-scissor game (<http://tinyurl.com/bubyvtu>)
 - **Poster** 3.16.1
 - **Poster** 3.16.2

@@ -1,6 +1,6 @@
 # About the AP Computer Science A Curriculum
 
-The [TEALS Program] has designed these curriculum materials for the use of teachers and volunteer
+The [TEALS Program][] has designed these curriculum materials for the use of teachers and volunteer
 tech professionals in high school classrooms. Any teacher with prior programming experience (or
 access to a computer science professional) can use this curriculum to teach the AP Computer Science
 A course.
@@ -19,7 +19,7 @@ syllabus.
 
 The TEALS AP curriculum was approved by the CollegeBoard so partner schools may use the “claim
 identical” function of the AP Audit website to obviate the need for their own curriculum audit.
-Specific instructions are available in the [AP CS A Course Audit Instructions].
+Specific instructions are available in the [AP CS A Course Audit Instructions][].
 
 This curriculum uses principles of universal design for learning (UDL). The curriculum was written
 for and tested in classrooms with diverse learners; students with individualized education plans,
@@ -46,7 +46,7 @@ We have provided classroom management tips and engagement tips for TEALS volunte
 the classroom setting. Experienced teachers and volunteers will likely choose to skip such details
 and focus on the step-by-step lecture notes.
 
-You may browse the [Curriculum Map] for an overview of the pacing, objectives, and assessments.
+You may browse the [Curriculum Map][] for an overview of the pacing, objectives, and assessments.
 
 ### Year Round Pacing
 
@@ -84,7 +84,7 @@ following daily structure:
   questions (though time has been scheduled in the Pacing Guide for one or both of these
   activities). You should choose your questions based on the topics you felt were most challenging
   or confusing for your students. A good source for short-answer and multiple choice questions is
-  the [Barron's AP Computer Science A review book], which TEALS ships to each AP CS A volunteer.
+  the [Barron's AP Computer Science A review book][], which TEALS ships to each AP CS A volunteer.
 
 ### Scaffolding
 
@@ -209,7 +209,7 @@ Aligned to the College Board's curriculum framework, students explore the big id
 
 All of the Unit tests are in the AP exam format. In classes where many students will take the exam, instructors should gradually adjust the testing environment to mimic that of the exam:
 
-- Always provide/allow the [AP Java Quick Reference]
+- Always provide/allow the [AP Java Quick Reference][]
 
 - Move from open-note (see “Tricky Code Cheat Sheet”) to closed-note
 
@@ -240,13 +240,13 @@ initial effort to win a day off.
 
 ## Video Tutorials
 
-- [Timing and Pacing] — Adjusting lessons and the curriculum map for the speed of your learners
-- [Projects and Labs] — Choosing whether your class completes the AP labs or the projects
+- [Timing and Pacing][] — Adjusting lessons and the curriculum map for the speed of your learners
+- [Projects and Labs][] — Choosing whether your class completes the AP labs or the projects
   (FracCalc/TextExcel)
-- [Supporting Visual-Spatial Learners] — Using the physical space in your classroom to enhance
+- [Supporting Visual-Spatial Learners][] — Using the physical space in your classroom to enhance
   learning
-- [Parson's Problems] — Assessing high-level programming skills quickly with Parson's Problems
-- [Grudgeball] — Reviewing material by playing a class game of Grudgeball
+- [Parson's Problems][] — Assessing high-level programming skills quickly with Parson's Problems
+- [Grudgeball][] — Reviewing material by playing a class game of Grudgeball
 
 ## Digital Tools Associated with This Curriculum
 
@@ -294,9 +294,9 @@ encouraged to email the program's creator Alex Aiken directly, at
 - Emerging EdTech has collected a sample of 20 digital tools to increase collaboration in the
   classroom. One of them might be perfect for your classroom:
 
-- See _[20 Fun Free Tools for Interactive Classroom Collaboration]_. Other tools for collaboration
-  that have been successfully used in TEALS classrooms include [Twiddla], [Vyew], [Skype], and
-  [Google Hangouts].
+- See _[20 Fun Free Tools for Interactive Classroom Collaboration][]_. Other tools for collaboration
+  that have been successfully used in TEALS classrooms include [Twiddla][], [Vyew][], [Skype][], and
+  [Google Hangouts][].
 
 - If your classroom does not already have a digital grade management system, previous TEALS teaching
   teams have used Moodle, Canvas, Schoology, Excel Online, and Google Forms.
