@@ -1,5 +1,6 @@
 **AP CS A**
 
+* [Introduction](README.md)
 * [Video Tutorials](Video-Tutorials.md)
 * [Curriculum Assets](Assets.md)
 
