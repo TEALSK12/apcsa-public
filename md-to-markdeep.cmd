@@ -24,7 +24,7 @@ for /r . %%f in (*.md) do (
     type >>%%f.html ..\markdeep-footer.txt
 )
 
-copy README.md.html index.html
+copy SUMMARY.md.html index.html
 cd ..
 
 Exit /B
