@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** for hook (<https://youtu.be/3WBvS_n2oTY>)
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 8.3], [Teacher Demo 8.3]
+- **Classroom copies** of [WS 8.3][], [Teacher Demo 8.3][]
 - **One pair of scissors** for each group
 - **Small group assignments** (~4 students per group)
 - **Classroom copies** of the textbook (**optional**)

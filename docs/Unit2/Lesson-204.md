@@ -23,7 +23,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **White paper** **and** **markers**
-- **Classroom copies** of [WS 2.4], [Poster 2.4]
+- **Classroom copies** of [WS 2.4][], [Poster 2.4][]
 - **Zombie/werewolf video** (<https://www.youtube.com/watch?v=ZL-58z3HxUI&feature=youtu.be&t=2m41s>)
   - Probably want to play on mute!
 - **Unicorn image**
@@ -137,7 +137,7 @@ Imagine you ask a user to enter their age, you would expect them to enter an int
    few more examples slowly and thoroughly. If you need to add an analogy (contagious infection, zombies, etc) or have students flip
    through their books again, you should do so at this point.
 
-### Turn in Worksheets, Wrap Up \[5\]
+### Turn in Worksheets, Wrap Up \[5 minutes\]
 At the end of class, collect the completed worksheets.
 
 ### College Board Topic Question

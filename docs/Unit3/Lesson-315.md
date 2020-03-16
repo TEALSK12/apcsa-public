@@ -20,7 +20,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and markers**
-- **Group copies** of [WS 3.15]
+- **Group copies** of [WS 3.15][]
 - **3 or more classroom copies** of the textbook
 
 

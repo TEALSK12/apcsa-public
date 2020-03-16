@@ -15,14 +15,14 @@ Overview
 - **For extra credit:**
   - Generate your own class hierarchy that demonstrates the same concepts illustrated by the
     Financial Class Hierarchy outlined in the book. The extra-credit project is due \[one week from
-    assignment\].
+    assignment\][].
 
 
 Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **White paper** **and** **markers**
-- **In Class** [Poster 6.6]
+- **In Class** [Poster 6.6][]
 - **Small group assignments** (≈4 people per group)
 
 

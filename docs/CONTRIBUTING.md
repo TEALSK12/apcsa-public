@@ -107,7 +107,7 @@ Hopefully, all went well, and you've helped to make our curriculum even better -
 
 
 [GitHub account]:   https://github.com/join
-[Kenney Chan]:      mailto:kencha@microsoft.com
+[Kenney Chan]:      mailto:kenney@tealsk12.org
 [main code page]:   https://github.com/TEALSK12/apcsa-public
 [style guidelines]: STYLE.md
 [submit an issue]:  https://github.com/TEALSK12/apcsa-public/issues

@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard** **and** **markers**
-- **Classroom copies** of [WS 6.2]
+- **Classroom copies** of [WS 6.2][]
 - **Class posters** from 6.1
 - **Art supplies** for each group:
   - Markers

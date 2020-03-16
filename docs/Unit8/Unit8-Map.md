@@ -6,25 +6,25 @@ from the textbook and homework assignments are included on the day when they sho
 Refer to the Introduction document for information about how to adjust this pacing for your specific
 classroom.
 
-- [Unit 8 Slides]
-- [Unit 8 Word Bank]
+- [Unit 8 Slides][]
+- [Unit 8 Word Bank][]
 - [Curriculum Assets](../Assets.md)
 
 | **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|
-| [8.00] |Test Review & Reteach|Review test|12.1 up to “Structure of recursive solutions”|Test corrections
-| [8.01] |Thinking Recursively|Tower of Hanoi game|Rest of 12.1|
-| [8.02] |Writing Recursive Solutions|Grudgeball  SC 12.1 - 12.4|12.2|SC 12.5, 12.7-12.9, E 12.1
-| [8.03] |Mechanics of Recursion|[WS 8.3]  [Teacher Demo 8.3]|13.4?|SC 12.6, 12.10, E 12.3
-| [8.04] |MergeSort|Implement mergeSort||SC 13.27-13.30  Notebook Check
-| [8.05] |Finding & Fixing Errors|Fix HW|Review Ch. 12.1, 12.2|Submit questions for review
-| [8.06] |Review||Study|
-| [8.07] |Quiz|[Quiz 8.5]|Barron's  Ch. 7 (8th or later: Ch. 8)|
-| [8.08] |Quiz Review & Reteach|Review quiz||Barron's  Ch. 7 (8th or later: Ch. 8)|
+| [8.00][] |Test Review & Reteach|Review test|12.1 up to “Structure of recursive solutions”|Test corrections
+| [8.01][] |Thinking Recursively|Tower of Hanoi game|Rest of 12.1|
+| [8.02][] |Writing Recursive Solutions|Grudgeball  SC 12.1 - 12.4|12.2|SC 12.5, 12.7-12.9, E 12.1
+| [8.03][] |Mechanics of Recursion|[WS 8.3][]  [Teacher Demo 8.3][]|13.4?|SC 12.6, 12.10, E 12.3
+| [8.04][] |MergeSort|Implement mergeSort||SC 13.27-13.30  Notebook Check
+| [8.05][] |Finding & Fixing Errors|Fix HW|Review Ch. 12.1, 12.2|Submit questions for review
+| [8.06][] |Review||Study|
+| [8.07][] |Quiz|[Quiz 8.5][]|Barron's  Ch. 7 (8th or later: Ch. 8)|
+| [8.08][] |Quiz Review & Reteach|Review quiz||Barron's  Ch. 7 (8th or later: Ch. 8)|
 
 ## 8.00
 
-| [Lesson 8.00]   | _Test Review & Reteach_
+| [Lesson 8.00][]   | _Test Review & Reteach_
 |:----------------|:-----------------------
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 7.
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
@@ -34,7 +34,7 @@ classroom.
 
 ## 8.01
 
-| [Lesson 8.01]   | _Thinking Recursively_
+| [Lesson 8.01][]   | _Thinking Recursively_
 |:----------------|:----------------------
 | **Objectives**  | Students will be able to define recursion.
 | **Assessments** | Students will describe recursive methods and compare iterative and recursive methods during a class discussion.
@@ -44,7 +44,7 @@ classroom.
 
 ## 8.02
 
-| [Lesson 8.02]   | _Writing Recursive Solutions_
+| [Lesson 8.02][]   | _Writing Recursive Solutions_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will be able to identify recursive methods and predict the output (or return value) of recursive methods.
 | **Assessments** | Students will evaluate statements and predict output during a game of Grudgeball.
@@ -54,17 +54,17 @@ classroom.
 
 ## 8.03
 
-| [Lesson 8.03]   | _Mechanics of Recursion_
+| [Lesson 8.03][]   | _Mechanics of Recursion_
 |:----------------|:------------------------
 | **Objectives**  | Students will be able to model how recursive methods execute.
 | **Assessments** | Students will write a recursive method, then model the execution of that method for the instructor.  Students will also model a method written by their peers.
-| **In Class**    | [WS 8.3]  [Teacher Demo 8.3]
+| **In Class**    | [WS 8.3][]  [Teacher Demo 8.3][]
 | **Reading**     | 13.4
 | **Homework**    | SC 12.6,10  E 12.3
 
 ## 8.04
 
-| [Lesson 8.04]   | _MergeSort_
+| [Lesson 8.04][]   | _MergeSort_
 |:----------------|:-----------
 | **Objectives**  | Students will use mergeSort to sort an ArrayList.
 | **Assessments** | Students will be able to use recursion to sort a list.
@@ -74,7 +74,7 @@ classroom.
 
 ## 8.05
 
-| [Lesson 8.05]   | _Finding & Fixing Errors_
+| [Lesson 8.05][]   | _Finding & Fixing Errors_
 |:----------------|:-------------------------
 | **Objectives**  | Students will find errors in their returned homework and classwork.
 | **Assessments** | Students will re-submit all homework and classwork assignments with corrected answers.
@@ -84,7 +84,7 @@ classroom.
 
 ## 8.06
 
-| [Lesson 8.06]   | _Review_
+| [Lesson 8.06][]   | _Review_
 |:----------------|:---------------
 | **Objectives**  | Students will identify weaknesses in their Unit 8 knowledge.
 | **Assessments** | Students will create a personalized list of review topics to guide tonight's study session.
@@ -96,12 +96,12 @@ classroom.
 
 | Lesson 8.07     | _Review & Quiz_
 |:----------------|:---------------
-| **In Class**    | [Quiz 8.5]
+| **In Class**    | [Quiz 8.5][]
 | **Reading**    | Barron's  Ch. 7 (8th or later: Ch. 8)
 
 ## 8.08
 
-| [Lesson 8.08]   | _Quiz Review & Reteach_
+| [Lesson 8.08][]   | _Quiz Review & Reteach_
 |:----------------|:-----------------------
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 8.
 | **Assessments** | Re-submit quiz answers with updated corrections for partial or full credit.

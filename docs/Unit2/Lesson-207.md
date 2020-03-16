@@ -21,7 +21,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 2.7]
+- **Classroom copies** of [WS 2.7][]
 
 Since most of today’s lesson follows WS 2.7, you should have read through the worksheet. You may
 prefer to delete the notes from the worksheet (so it is only a sheet of exercises) if you are
