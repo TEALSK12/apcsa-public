@@ -24,9 +24,6 @@ for /r . %%f in (*.md) do (
     type >>%%f.html ..\markdeep-footer.txt
 )
 
-@REM -- Use Summary.md as the intial index.html file
-copy SUMMARY.md.html index.html
-
 cd ..
 
 Exit /B
