@@ -32,6 +32,9 @@ the past, students who are gifted/talented, students who are otherwise “outsid
 The AP Computer Science A Curriculum GitBook is located at
 https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details.
 
+The following is an Alpha release of the AP Computer Science A Curriculum in GitHub pages:
+https://tealsk12.github.io/apcsa-public/
+
 For contributions to the curriculum, the AP Computer Science A GitHub repository is located at
 https://github.com/TEALSK12/apcsa.
 
