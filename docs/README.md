@@ -30,16 +30,13 @@ the past, students who are gifted/talented, students who are otherwise “outsid
 ## Accessing the Curriculum
 
 The AP Computer Science A Curriculum GitBook is located at
-
-<!-- double linebreak necessary for pandoc to render .pdf -->https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details.
+https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details.
 
 The following is an Alpha release of the AP Computer Science A Curriculum in GitHub pages:
-
-<!-- double linebreak necessary for pandoc to render .pdf -->https://tealsk12.github.io/apcsa-public/
+https://tealsk12.github.io/apcsa-public/
 
 For contributions to the curriculum, the AP Computer Science A GitHub repository is located at
-
-<!-- double linebreak necessary for pandoc to render .pdf -->https://github.com/TEALSK12/apcsa.
+https://github.com/TEALSK12/apcsa.
 
 ## Using the curriculum
 
@@ -148,13 +145,9 @@ CS A curriculum. Students will be entering the AP CS A course with varying degre
 and framing mathematical challenges in this familiar framework is helpful for avoiding stereotype
 threat and math anxiety.
 
-To learn more about the Pokémon storyline, game rules, underlying formulae, and characters, visit:
-
-
-<!-- double linebreak necessary for pandoc to render .pdf -->http://bulbapedia.bulbagarden.net/. 
-For a more general introduction to the Pokémon franchise, visit:
-
-<!-- double linebreak necessary for pandoc to render .pdf -->http://www.pokemon.com/.
+To learn more about the Pokémon storyline, game rules, underlying formulae, and characters, visit
+http://bulbapedia.bulbagarden.net/. For a more general introduction to the Pokémon franchise,
+visit http://www.pokemon.com/.
 
 ### AP Test Preparation
 
