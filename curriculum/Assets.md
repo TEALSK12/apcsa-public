@@ -1,7 +1,7 @@
 TEALS AP CS A Curriculum Assets
 ====================================================================================================
 
-The TEALS AP CS A Curriculum assets may be downloaded from the [Additional Curriculum Materials]
+The TEALS AP CS A Curriculum assets may be downloaded from the [Additional Curriculum Materials][]
 section of the TEALS Dashboard
 
 [Note: you need to be a current TEALS volunteer or classroom teacher to access the TEALS Dashboard]
@@ -45,4 +45,4 @@ Contents
   - `/Unit8/` — Assets for Unit 8: Recursion.
   - `/Unit9/` — Assets for Unit 9: AP Test Review.
 
-[Additional Curriculum Materials]:   https://www.tealsk12.org/dashboard/curriculum-repository/
+[Additional Curriculum Materials]: https://www.tealsk12.org/dashboard/curriculum-repository/
