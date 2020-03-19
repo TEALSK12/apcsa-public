@@ -1,7 +1,7 @@
 TEALS AP CS A Curriculum Assets
 ====================================================================================================
 
-The TEALS AP CS A Curriculum assets may be downloaded from the [Additional Curriculum Materials]
+The TEALS AP CS A Curriculum assets may be downloaded from the [Additional Curriculum Materials][]
 section of the TEALS Dashboard
 
 [Note: you need to be a current TEALS volunteer or classroom teacher to access the TEALS Dashboard]
