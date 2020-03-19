@@ -48,9 +48,9 @@ programming assignment to do, such as generating a meme, animations, gig posters
 Mozilla’s [webmaker.org][]. These activities teach HTML and CSS, so you might avoid them if you think
 exploring different syntax will confuse your students.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and Homework Distribution \[5 minutes\]
+### Introduction and Homework Distribution `[5 minutes]`
 
 1. Return student homework packets, or have students place their returned homework in a pile on
    their desk.
@@ -59,13 +59,13 @@ exploring different syntax will confuse your students.
    correcting them now, in class. Ask students for suggestions/ideas on how to make sure they don’t
    miss any errors. (By now students should be used to relying on their error checklist/algorithm.)
 
-### Student Work \[35 minutes\]
+### Student Work `[35 minutes]`
 Have students work individually to correct their homework grades.
 - Offer time checks for students so they stay on task.
 - If students have not finished their programming project from yesterday’s class, allow them to do
   so today.
 
-### Students trade work, check, and turn in \[10 minutes\]
+### Students trade work, check, and turn in `[10 minutes]`
 At the end of class, have students trade their homework assignments to evaluate each other’s
 corrections before submission.
 

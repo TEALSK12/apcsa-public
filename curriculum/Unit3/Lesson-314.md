@@ -46,9 +46,9 @@ Hook your class by talking about randomized tasks that arise in games they may p
 
 - Make a ball bounce, but not precisely, by adding random angles to the bounce.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and Think-Pair-Share \[15 minutes\]
+### Introduction and Think-Pair-Share `[15 minutes]`
 
 1. Once students have all had a chance to explore the dice, show them how to generate random numbers
    that they can use in their game program, computer simulations, or security programs (moving
@@ -95,7 +95,7 @@ Hook your class by talking about randomized tasks that arise in games they may p
    - Priming the loop: remind students that they must initialize variables before the loop (this
      makes sure that Java knows how to enter/start the loop).
 
-### Student Practice Activity \[35 minutes\]
+### Student Practice Activity `[35 minutes]`
 
 1. Have students complete the following self-check problems:
 

@@ -60,9 +60,9 @@ To hook your class for today’s material, and if space and whiteboard setup all
 grudgeball “court” and scoreboard before class begins. Remind students that lecture content will be
 tested during the game.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and note-taking \[10 minutes\]
+### Introduction and note-taking `[10 minutes]`
 
 1. Ask students to name some limitations of arrays: shifting values is an ordeal, adding elements
    requires forming a new, larger array and copying values over, deleting elements leaves empty,
@@ -221,7 +221,7 @@ Changing the size of an ArrayList while traversing it using an enhanced for loop
 
 ----------------------------------------------------------------------------------------------------
 
-### Grudgeball \[35 minutes\]
+### Grudgeball `[35 minutes]`
 
 1. Divide students into their assigned teams.
 

@@ -56,9 +56,9 @@ If you feel additional motivation is needed, you can offer a prize (TEALS swag, 
 creative, complete, and correct code sample. Offer some just-in-time instruction, then let the
 students work together with the guidance of WS 5.3.1
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction \[10 minutes\]
+### Introduction `[10 minutes]`
 
 1. We know that objects use constructors—you might remember them from earlier in the year when we
    used the new keyword new to construct a new array.
@@ -120,7 +120,7 @@ students work together with the guidance of WS 5.3.1
    its own constructor that says “set all initial values to zero-equivalents.” You will always need
    to write your own constructor to initialize your new objects.
 
-### Student Work \[30 minutes\]
+### Student Work `[30 minutes]`
 
 ---
 
@@ -164,7 +164,7 @@ As you learn about the other classes and objects created by your classmates, and
    c. Step 3 — The first half of section 8.3<br>
    d. Step 12 — Section 8.1
 
-### Student Viewing & Exit Ticket \[10 minutes\]
+### Student Viewing & Exit Ticket `[10 minutes]`
 
 1. Have students put out their code on desks, or pinned to the wall, and have the entire class visit
    each Artisanal Class/Object set.

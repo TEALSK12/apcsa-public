@@ -41,9 +41,9 @@ their reading and homework, the class should move along smoothly. If students ar
 readings, you will probably only get through ~50% of the material. If needed, use this opportunity
 to convince students of the pace and commitment level required for the class.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and Note-Taking \[15 minutes\]
+### Introduction and Note-Taking `[15 minutes]`
 
 1. Have the **complicated algorithm** up on the board, or printed out for students to pass around.
    If you have any confusing furniture assembly manuals, or overly complicated directions, bring
@@ -138,7 +138,7 @@ to convince students of the pace and commitment level required for the class.
    If the student seems nervous, encourage the rest of the class to call out directions to the
    student. Make sure students are drawing the flow of control on their own notes as well.
 
-### Practice questions \[25 minutes\]
+### Practice questions `[25 minutes]`
 
 1. Have students complete the following practice questions:
    1. Self-Check 1.22: Tricky
@@ -161,7 +161,7 @@ If need be, work on “Tricky” as a whole group, so you can model the correct 
 problem. If your class decides on an algorithm for “predict the output” type questions, have a
 student make that algorithm into a poster for the whole class to refer to.
 
-### Students trade work, check, and hand in \[5 minutes\]
+### Students trade work, check, and hand in `[5 minutes]`
 Have students trade work and check each other’s responses on Practice-It before submitting.
 
 

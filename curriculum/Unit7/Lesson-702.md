@@ -61,9 +61,9 @@ Procedure
 ---------
 Hook your students by placing the materials for the lesson out around the room.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction \[10 minutes\]
+### Introduction `[10 minutes]`
 
 1. Lead a class discussion about why it would be important to sort data:
 
@@ -74,7 +74,7 @@ Hook your students by placing the materials for the lesson out around the room.
      iTunes, sorting homework assignment files on your home computer, sorting goods in a store by
      location, price, or type, etc.)
 
-### Student Activity 1: Sorting Weights \[35 minutes\]
+### Student Activity 1: Sorting Weights `[35 minutes]`
 
 1. Distribute worksheets for “Sorting Weights” to student pairs or groups.
 
@@ -94,7 +94,7 @@ Hook your students by placing the materials for the lesson out around the room.
 DAY 2
 -----
 
-### Student Activity 2: Divide and Conquer \[30 minutes\]
+### Student Activity 2: Divide and Conquer `[30 minutes]`
 
 1. Briefly review the next activity for the “Divide and Conquer” activity.
 
@@ -106,7 +106,7 @@ DAY 2
 2. Give students ~30 minutes to complete this activity, then call the class together for a whole
    group discussion of their answers.
 
-### Whole Group Discussion & Code Demonstration \[10 minutes\]
+### Whole Group Discussion & Code Demonstration `[10 minutes]`
 
 1. Discuss the worksheet questions as a class; ask students:
 

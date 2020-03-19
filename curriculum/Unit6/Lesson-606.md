@@ -14,8 +14,8 @@ Overview
 - **Summarize notes** in notebook for tomorrow’s notebook check
 - **For extra credit:**
   - Generate your own class hierarchy that demonstrates the same concepts illustrated by the
-    Financial Class Hierarchy outlined in the book. The extra-credit project is due \[one week from
-    assignment\][].
+    Financial Class Hierarchy outlined in the book. The extra-credit project is due `[one week from
+    assignment]`[].
 
 
 Materials & Prep
@@ -45,9 +45,9 @@ Hook your class by announcing a class competition. Feature TEALS swag, extra cre
 homework passes, or raffle tickets as prizes. Break students into their small groups before
 beginning your introduction.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction \[10 minutes\]
+### Introduction `[10 minutes]`
 
 1. Begin with a lecture/discussion about inheritance and interfaces.
 
@@ -131,7 +131,7 @@ beginning your introduction.
      methods you promised to implement in the *Aromatic*, *Greasy*, and *Salty* interfaces. Point
      out Poster 6.6 as an aid to help students write interfaces correctly.
 
-### Class Competition (Small Groups) \[20 minutes\]
+### Class Competition (Small Groups) `[20 minutes]`
 
 1. On the board or overhead, project a series of five interfaces on a theme that you feel will
    creatively engage your class (you should blank out the parts that you feel will make the example
@@ -160,7 +160,7 @@ beginning your introduction.
 3. The team with the most combinations of interfaces at the end of the time limit (≈20 minutes) win
    the competition.
 
-### Whole Group Review & Competition Judging/Award \[15 minutes\]
+### Whole Group Review & Competition Judging/Award `[15 minutes]`
 Leave time to have groups share their interfaces with the rest of the class during whole group
 discussion. Pay attention to any particularly creative or wacky examples that students come up with.
 

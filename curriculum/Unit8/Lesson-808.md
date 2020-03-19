@@ -42,9 +42,9 @@ Return student grades before class begins or while students are completing the b
 Do not return students’ quizzes before the review session, since you want to motivate students to
 pay attention to the entire review, taking supplemental notes the entire time.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Quiz Review & Reteach \[30 minutes\]
+### Quiz Review & Reteach `[30 minutes]`
 
 1. If grades are low, invite the class to a discussion of what can be improved. With your
    co-teachers and/or TAs you should decide how to shift focus as the AP test is right around the
@@ -84,7 +84,7 @@ pay attention to the entire review, taking supplemental notes the entire time.
 5. For Section II-type questions, select a sample of student work (with any identifying information
    obscured), and work through the answer together as a class.
 
-### Return Quizzes/Start Homework Assignment \[15 minutes\]
+### Return Quizzes/Start Homework Assignment `[15 minutes]`
 At the end of class, if time allows, return the quizzes and allow students some time to begin their
 homework assignment.
 

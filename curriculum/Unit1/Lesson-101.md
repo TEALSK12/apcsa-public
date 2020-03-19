@@ -68,9 +68,9 @@ Pacing Guide
 Procedure
 ---------
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Classroom Introduction \[20 minutes\]
+### Classroom Introduction `[20 minutes]`
 
 1. Using the slide deck as a base (edit the deck to fit your needs):
    - Poll your class to learn their names, experience, and rationale behind taking the course.
@@ -80,7 +80,7 @@ Procedure
 
 2. Class icebreakers (varies school to school).
 
-### Plug-In & Un-Plug Procedure \[10 minutes\]
+### Plug-In & Un-Plug Procedure `[10 minutes]`
 
 ---
 
@@ -96,7 +96,7 @@ Procedure
    
 2. Have students demonstrate the Plug In and Un-Plug procedures for you.
 
-If your classroom has a projector hooked up to the teacher’s computer, project each step as you
+If your classroom has a projector hooked up to the teacher's computer, project each step as you
 model it for the students.
 
 Can you think of other ways that you might collaborate with others in this course as you create and share programs? What methods are used in the field of programming when there are several of programmers working on developing the same software application?
@@ -113,11 +113,11 @@ Expect this exercise to take 10 minutes or longer.
 
 #### Big Ideas - Personal design interests require the evaluation and refinement of skills
 
-Throughout this course you will create a wide range of programs, and you will want to extend projects and add your own creative touch to each one. As you do this, it’s important to carefully evaluate and build on the skills that you have. Resources can help you develop further as a programmer, which will allow you to create even more engaging software applications.
+Throughout this course you will create a wide range of programs, and you will want to extend projects and add your own creative touch to each one. As you do this, it's important to carefully evaluate and build on the skills that you have. Resources can help you develop further as a programmer, which will allow you to create even more engaging software applications.
 
 ---
 
-### File Submission Procedure \[10 minutes\]
+### File Submission Procedure `[10 minutes]`
 
 1. Demonstrate your procedure for file submission. Use a handout or slide deck to illustrate this
    procedure.
@@ -137,7 +137,7 @@ IDEs (Integrated Development Environments) are widely used in industry to develo
 IDEs, software engineers used simple text editors to write programs. While teachers are welcome to
 choose from a wide variety of IDEs (see <https://jaxenter.com/the-top-java-ides-114599.html> for a
 comparison) or even use text editors, TEALS supports Eclipse in the AP CS A curriculum. Whichever
-IDE/editor you choose, it’s a good idea to run through a few IDE tutorials to familiarize yourself
+IDE/editor you choose, it's a good idea to run through a few IDE tutorials to familiarize yourself
 with the workflow before demonstrating to the class.
 
 
@@ -155,10 +155,10 @@ Teaching Tips
   + I like computers
   + It fit in my schedule
   + It showed up in my schedule
-  + It’s an AP class and would look good on my transcript
+  + It's an AP class and would look good on my transcript
   + I build apps in my spare time
 
-- By knowing the student’s motivation, you can better understand where the student is coming from. I
+- By knowing the student's motivation, you can better understand where the student is coming from. I
   use this information to inform the pace and depth of the initial lessons. I also try to determine
   the level of programming experience of each student. This helps with group formation in the
   beginning lessons where you try to pair experienced students with less experienced students to the
@@ -177,7 +177,6 @@ independent apps meaning a program written in Java will run across a variety of 
 Forum discussion
 ----------------
 [Lesson 1.01 Using Eclipse (TEALS Discourse account required)](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-01-using-eclipse-practice-it)
-
 
 [WS 1.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.1.docx
 [WS 1.1.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.2.docx

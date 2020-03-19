@@ -48,9 +48,9 @@ stats? Are there any behaviors (methods) you think all instance objects should h
 examples of instances of the Pokémon class? (Any individual Pokémon is an instance of the Pokémon
 class, for example Pikachu, Bulbasaur.)
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction \[15-30 minutes\]
+### Introduction `[15-30 minutes]`
 
 1. Ask students to review their notes from the day before, reminding you what the main components of
    a class are. (Fields, methods, constructors, and encapsulation.)
@@ -214,7 +214,7 @@ class, for example Pikachu, Bulbasaur.)
      and attack parameters. Since you wrote a custom-made constructor for your class, Java won’t let
      you call new Pokémon() anymore. Instead, your code just won’t compile.
 
-### Student Practice: WS 5.2 \[25 minutes\]
+### Student Practice: WS 5.2 `[25 minutes]`
 
 ---
 
@@ -235,7 +235,7 @@ Constantly evaluating and refining your skills will allow you to create more com
 
 2. Encourage students to work independently until the last 10 minutes of class.
 
-### Students trade work, check, and turn in \[10 minutes\]
+### Students trade work, check, and turn in `[10 minutes]`
 Have students trade and error-check each other’s papers. Error-checking partners should write their
 name on the sheets to share credit for the work.
 

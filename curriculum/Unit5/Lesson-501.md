@@ -60,9 +60,9 @@ Up until now we have used pre-made objects and classes that are given to us by i
 classes (bonus points if students can name some examples). Moving forward, they’ll be using
 customized classes that they’ve built themselves.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction: Discussion \[10-30 minutes\]
+### Introduction: Discussion `[10-30 minutes]`
 
 1. Give students permission to put down their pencils to participate in a discussion (you can review
    important definitions as part of a recap before class practice). **It’s important to get students
@@ -121,7 +121,7 @@ customized classes that they’ve built themselves.
        down the road. I want my code to be easy for other programmers to read/interpret.
 
 
-### Introduction: Syntax Notes \[10-20 minutes\]
+### Introduction: Syntax Notes `[10-20 minutes]`
 1. Distribute graphic organizers WS 5.1 to the students that need extra structure for their notes.
    Start by showing students the difference between a program that is a set of actions (commands),
    and a program that contains data and behavior (data and methods).
@@ -243,7 +243,7 @@ customized classes that they’ve built themselves.
      here is to give them a design problem that they can work through, making choices about content
      and behavior that result in a model of the Pokémon game.
 
-### Activity 1: Practice \[15 minutes\]
+### Activity 1: Practice `[15 minutes]`
 
 1. Students will be working in groups for much of the week, so have them work independently today.
    If students are really having a rough time, work through the first Practice question together as a whole group.
@@ -261,7 +261,7 @@ customized classes that they’ve built themselves.
 4. If more 25% or more of the class is struggling, return to whole group with the stipulation that
    students who get it may continue working independently.
 
-### Activity 2: Researching For a Custom Class \[5 minutes\]
+### Activity 2: Researching For a Custom Class `[5 minutes]`
 
 1. Ask students to take a few minutes to research the Pokémon game in earnest. An ongoing design
    challenge will be for them to construct a model of the Pokémon game that resembles the one they
@@ -314,7 +314,7 @@ objects with:
 
 - Class name
 - Object
-- Instance of \[name of class\]
+- Instance of `[name of class]`
 - Sample code or pseudocode (on index cards or pieces of paper) for:
   - Fields
   - Constructors

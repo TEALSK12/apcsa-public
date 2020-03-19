@@ -50,9 +50,9 @@ printed out and sitting at teamwork stations (or on student desks). Encourage st
 their own questions using the instruction sheet and textbook. Frequently asked questions and
 suggestions for student groups are included in Accommodations and Differentiation.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction & Reviewing the Assignment \[10 minutes\]
+### Introduction & Reviewing the Assignment `[10 minutes]`
 
 1. Prepare students by telling them that the 4 topics covered today are the 4 subsections of 8.4,
    the reading that was due today.
@@ -162,7 +162,7 @@ suggestions for student groups are included in Accommodations and Differentiatio
 
 ----------------------------------------------------------------------------------------------------
 
-### Student Preparation of Lesson \[30 minutes\]
+### Student Preparation of Lesson `[30 minutes]`
 
 1. Give each group 7 minutes to present their topic and 2 minutes for questions.
 

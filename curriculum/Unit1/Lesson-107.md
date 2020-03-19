@@ -48,9 +48,9 @@ and/or review those procedures before introducing the lab material. If you expec
 assignments electronically, you should also model and review those procedures before students begin
 work.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and Classroom Procedure Review \[10 minutes\]
+### Introduction and Classroom Procedure Review `[10 minutes]`
 
 1. Introduce the program assignment, taking a moment to talk strategy with your class.
 
@@ -70,7 +70,7 @@ work.
    suggest drawing a structural diagram, building the program one method at a time (iterative
    development), and following the correction steps on their personal algorithms (debugging).
 
-### Programming Project \#2, Chapter 1 \[15 minutes\]
+### Programming Project \#2, Chapter 1 `[15 minutes]`
 
 Get students started on Programming Project \#2 in Chapter 1 of the textbook. Offer students help
 after they have tried to answer the questions themselves:
@@ -85,11 +85,11 @@ If the entire class is stuck, return to whole group and work through the program
 together as a class, having students offer an increasing proportion of the answers as you move
 along.
 
-### Programming Project \#5, Chapter 1 \[15 minutes\]
+### Programming Project \#5, Chapter 1 `[15 minutes]`
 Introduce Programming Project \#5 in Chapter 1 of the textbook. If your class finished the first
 assignment quickly and easily, offer little to no guidance on this project.
 
-### Students trade work, check, and turn in \[5 minutes\]
+### Students trade work, check, and turn in `[5 minutes]`
 At the end of class, have students briefly look at each other’s projects and review their work
 before they submit.
 

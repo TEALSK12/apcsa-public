@@ -12,7 +12,7 @@ Overview
 
 ### Homework — _Students will…_
 -   **Read** BJP 12.2
--   **Complete** self-check questions \#5, 7-9 and exercise \#1
+-   **Complete** self-check questions #5, 7-9 and exercise #1
 
 
 Materials & Prep
@@ -46,9 +46,9 @@ To hook your class for today’s material, and if space and whiteboard setup all
 grudgeball “court” and scoreboard before class begins. Remind students that lecture content will be
 tested during the game.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and note-taking \[10 minutes\]
+### Introduction and note-taking `[10 minutes]`
 
 1. Begin by asking students what makes a method recursive (it calls itself). Ask students to offer
    suggestions as to how to write a recursive method. Using pseudocode (or actual code, if they
@@ -106,7 +106,7 @@ tested during the game.
    recursion since it has no way of stopping. Instead of stopping at 0 stars (which is what the base
    case would be), the code will try to write -1, -2, -3… stars forever!
 
-### Activity: Grudgeball \[35 minutes\]
+### Activity: Grudgeball `[35 minutes]`
 
 1. Divide students into their assigned teams.
 

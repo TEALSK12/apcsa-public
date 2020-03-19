@@ -52,9 +52,9 @@ Most of student practice today is a review and further integration of the concep
 introduced since the beginning of this unit. The only new concept being drilled today is the equals
 method.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Review of the Project \[10 minutes\]
+### Review of the Project `[10 minutes]`
 1. All classes are subclasses of the *Object* class. Whether you write extends in the header or not,
    all classes inherit the *Object* class. It is built into Java this way, so you never have to
    explicitly write *extends Object* in a class header.
@@ -115,7 +115,7 @@ method.
      
      - Have students navigate to CS Awesome [3.7. Comparing Objects][], view the Activity 1 video and complete Activities 1-7.
      
-### Student Practice: \[15 minutes\]
+### Student Practice: `[15 minutes]`
 1. Have students work individually or in pairs to complete the following Practice questions:
 
    a. Self-Check 9.3: subclassSyntax
@@ -123,7 +123,7 @@ method.
    c. Self-Check 9.8: CarTruck
    d. Self-Check 9.9: CarTruck2
 
-### Student Practice: WS 6.3 \[25 minutes\]
+### Student Practice: WS 6.3 `[25 minutes]`
 
 ---
 

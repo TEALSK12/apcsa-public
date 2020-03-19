@@ -51,12 +51,12 @@ numbers to determine battle outcomes (or roll-of-the-dice or spin for the card-g
 versions), and return game text. Capitalize on student frustration by (or motivate students with the
 prospect of) hinting at a more interactive program after the next few lessons on Ch. 4 and Ch. 5.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to Lab and Viewing of Battle \[10 minutes\]
+### Introduction to Lab and Viewing of Battle `[10 minutes]`
 At the beginning of class, introduce the lab and watch the sample battle video.
 
-### Student Programming Practice \[40 minutes\]
+### Student Programming Practice `[40 minutes]`
 
 1. Have students complete this programming project individually. Before you break out the class for
    lab time, read the question out loud to the class, taking time to pause between each of the

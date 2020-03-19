@@ -37,9 +37,9 @@ Pacing Guide
 Procedure
 ---------
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and Test Format Orientation \[15 minutes\]
+### Introduction and Test Format Orientation `[15 minutes]`
 
 1. Clearly indicate that you expect all students to have a list of review topics to study this
    evening. Periodically remind students that this list will be checked at the end of class.
@@ -50,7 +50,7 @@ Procedure
 3. Work through the sample problems on the test as a way of reviewing topics, and answer any
    questions that students bring up as you go.
 
-### Test Review \[30 minutes\]
+### Test Review `[30 minutes]`
 
 1. Work through the various review topics, prioritizing questions that popped up the most.
 
@@ -67,7 +67,7 @@ Procedure
    minutes, but it will pay off later when students start creating review lists without prompting
    later in the year!)
 
-### Check student study lists \[5 minutes\]
+### Check student study lists `[5 minutes]`
 Spend the last 5 minutes of class checking each student’s review topic list.
 
 

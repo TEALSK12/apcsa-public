@@ -11,7 +11,7 @@ Overview
 
 ### Homework — _Students will…_
 - **Read** BJP 7.1 “For-Each Loop” and “The Arrays Class”
-- **Complete** self-check questions \#1, 7, 9
+- **Complete** self-check questions #1, 7, 9
 
 
 Materials & Prep
@@ -42,9 +42,9 @@ belabor instruction; students may have better success physically working through
 Circulate around the room to check for understanding, but let students help and challenge each
 other.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to Arrays \[20 minutes\]
+### Introduction to Arrays `[20 minutes]`
 
 ---
 
@@ -172,7 +172,7 @@ As you complete this activity, think carefully about how arrays could be used in
    }
    ```
 
-### Student Array Activity \[25 minutes\]
+### Student Array Activity `[25 minutes]`
 
 1. Distribute white boards and markers to group workstations before students get seated.
 
@@ -182,7 +182,7 @@ As you complete this activity, think carefully about how arrays could be used in
 3. Walk around the room, spot-checking for student understanding and answering any student
    questions.
 
-### Paper Selection & Grade Announcement \[5 minutes\]
+### Paper Selection & Grade Announcement `[5 minutes]`
 At the end of class, consider choosing one group’s whiteboard to evaluate as a demonstration for the
 class.
 
@@ -221,7 +221,7 @@ In mathematics, a **manipulative** is an object which is designed so that a lear
 some mathematical concept by manipulating it, hence its name. The use of manipulatives provides a
 way for children to learn concepts in a developmentally appropriate, hands-on and experiential way.
 
-\[TEST: hello world\]
+`[TEST: hello world]`
 
 
 Teacher Prior CS Knowledge

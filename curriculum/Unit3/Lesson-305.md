@@ -48,9 +48,9 @@ on to the Round-Robin activity. If your class is mostly confused, you can re-tea
 content, following along the worksheet, and breaking the exercises into 4 parts (as listed on the
 original worksheet).
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction/Review of Objects and String Processing \[10 minutes\]
+### Introduction/Review of Objects and String Processing `[10 minutes]`
 
 ---
 
@@ -116,7 +116,7 @@ their notebook.
 A fun “tricky” way to assess student understanding is to ask why Java returns `-1` when the search
 text isn’t found. (Answer: `-1` is never a valid index into a String.)
 
-### Round Robin \[35-45 minutes\]
+### Round Robin `[35-45 minutes]`
 
 1. Round-robin is a drilling and error-checking exercise used with worksheets. At minimum, there
    should be 1 question for each student (e.g. a class of 15 students would need a worksheet with 15
@@ -146,7 +146,7 @@ text isn’t found. (Answer: `-1` is never a valid index into a String.)
    Adjust the timing on these questions as needed, but try to keep a brisk pace. Part of the
    engagement factor is the sense of urgency.
 
-### Paper selection and grade announcement \[3 minutes\]
+### Paper selection and grade announcement `[3 minutes]`
 If time allows, randomly select the worksheet and announce the class grade with a bit of fanfare,
 congratulating the class on a job well done.
 

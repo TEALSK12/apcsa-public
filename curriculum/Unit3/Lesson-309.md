@@ -47,9 +47,9 @@ Rather than drill new rules with worksheets, the drilling/activity portion of th
 to tie the lesson together in the form of a class competition. If space and whiteboard setup allow,
 set up the grudgeball “court” and scoreboard before class begins so as to mystify the students.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction & Note-Taking \[15 minutes\]
+### Introduction & Note-Taking `[15 minutes]`
 
 Before you begin lecture, announce to students that they should pay close attention, since the
 lecture content will be tested during the game.
@@ -116,7 +116,7 @@ lecture content will be tested during the game.
 - Review the mod % operator.  Ask the students how they could use the mod operator to check for if a numbe is an odd or even number.
   Follow up with can a similiar algorithm be used to check if any number is evenly divisible by another.
 
-### Activity: Grudgeball \[35 minutes\] \[Optional\]
+### Activity: Grudgeball `[35 minutes]` `[Optional]`
 
 If you feel like your class has a grasp on the syntax and relational expressions, consider skipping
 this game and focusing on on-the-board examples (you can use the questions from Grudgeball below) or

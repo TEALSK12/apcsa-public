@@ -45,14 +45,14 @@ students to check for common errors. To hook your class, have pictures of punch 
 readers up when students enter. If possible, have physical punch cards available to pass around the
 room for tactile learners as you explain the origins of the phrase “bug” and “debugging.”
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Programming Project \[30 minutes\]
+### Programming Project `[30 minutes]`
 
 Have students continue the programming project, aiming to finish with about ten minutes left in
 class.
 
-### Introduction to Class Constants \[10 minutes\]
+### Introduction to Class Constants `[10 minutes]`
 
 1. Present on a board or projector a complete Java class that solves the programming project.
    Ideally, this would be a student solution. Walk the class through the solution, having students
@@ -67,7 +67,7 @@ class.
 3. If you are running the program in Eclipse, show that you can easily change the constants. Change
    the values several times, running the program each time to drive this home.
 
-### Students Update Their Code \[10 minutes\]
+### Students Update Their Code `[10 minutes]`
 Give students time to update their project code, now including class constants.
 
 

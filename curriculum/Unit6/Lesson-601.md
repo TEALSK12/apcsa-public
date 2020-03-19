@@ -66,9 +66,9 @@ work (of your own making, or saved from a previous year). To feature the most en
 examples, look for work that has many instances of each class, and uses classes/objects that are
 popular with your class. Invoke an air of mystery and don’t offer an explanation for any of it.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction \[20 minutes\]
+### Introduction `[20 minutes]`
 
 ---
 
@@ -256,13 +256,13 @@ Many of the programs you create could be altered, remixed and tweaked to create 
    }
    ```
 
-### Review of the Project \[5 minutes\]
+### Review of the Project `[5 minutes]`
 1. Briefly review the assignment with your students, reading the directions aloud if need be.
 
 2. If you haven’t already distributed project materials at this point, do so while your students are
    rearranging into partner pairs.
 
-### Student Work \[25 minutes\]
+### Student Work `[25 minutes]`
 1. Encourage students to take 5–10 minutes on Step 1. They should review all steps of the project to
    ensure that their selection of classes lends itself to the project (e.g. they shouldn’t pick
    something they don’t know a lot about because they’ll have trouble coming up with fields and

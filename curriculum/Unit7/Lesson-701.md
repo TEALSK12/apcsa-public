@@ -44,9 +44,9 @@ Hook your students by placing the bowl of candy somewhere visible. Before the in
 announce that today’s class is a “game day,” and students will spend their time investigating
 computer algorithms by playing Battleship.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Intro & Demonstration \[10 minutes\]
+### Intro & Demonstration `[10 minutes]`
 
 1. Begin with a lecture/discussion about search algorithms.
 
@@ -85,7 +85,7 @@ computer algorithms by playing Battleship.
    about the process of and relationship between searching and sorting data. Use the introductory
    activity to introduce the Battleship games.
 
-### Student Activity 1: Battleship Linear Searching \[15 minutes\]
+### Student Activity 1: Battleship Linear Searching `[15 minutes]`
 
 ---
 
@@ -107,7 +107,7 @@ When you first started looking at the linear and binary search algorithms, you p
   their worksheets. Students that complete the game with enough time to do a second round should
   receive 1A’ and 1B’. Be sure to pace your students by announcing 5 minutes before transition.
 
-### Student Activity 2: Battleship Binary Searching \[15 minutes\]
+### Student Activity 2: Battleship Binary Searching `[15 minutes]`
 
 1. Using the CS Unplugged guide for Battleships – A Binary Searching Game, explain the updated rules
   for this game. Distribute sheets 2A and 2B to student pairs (face down).
@@ -118,7 +118,7 @@ When you first started looking at the linear and binary search algorithms, you p
   together for a whole group discussion of their answers. Students that complete the game with
   enough time to do a second round should receive 2A’ and 2B’.
 
-### Worksheet Completion/Whole-Group Discussion \[10 minutes\]
+### Worksheet Completion/Whole-Group Discussion `[10 minutes]`
 Discuss the worksheet questions as a class, assessing student understanding and re-teaching as
 needed.
 

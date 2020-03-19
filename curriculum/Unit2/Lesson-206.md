@@ -38,11 +38,11 @@ Today your hook is another wager, only this time the students have to create the
 reward (TEALS swag, tickets to the raffle, bonus points, etc.). If you plan to use a badge system,
 this project is a good one to start with (a ‘loop’ badge, perhaps?).
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to Nested for Loops \[15 minutes\]
+### Introduction to Nested for Loops `[15 minutes]`
 
-1. Remind students of yesterday’s bet, then tell your students that you’ll award them \[prize\] if
+1. Remind students of yesterday’s bet, then tell your students that you’ll award them `[prize]` if
    they can rewrite the program from yesterday in 11 lines. The catch is that student can’t use a
    loop that executes more than 10 times! Explain that you’re going to give them a new programming
    tool today, and then they’ll have some time at the end of class to see if they can meet your
@@ -96,7 +96,7 @@ this project is a good one to start with (a ‘loop’ badge, perhaps?).
    - Ask students how many lines Java will output (9), and walk through the loop showing flow of
      control and directing a student to produce the output.
 
-### Practice Activity \[30 minutes\]
+### Practice Activity `[30 minutes]`
 
 Depending on the mood and frustration levels in the class, you may choose to have students work in
 pairs.
@@ -124,7 +124,7 @@ pairs.
 3. If more 25% or more of the class is struggling, return to whole group with the stipulation that
    students who get it may continue working independently.
 
-### Loop Challenge \[30 minutes\]
+### Loop Challenge `[30 minutes]`
 
 1. On the board or the projector, bring up the challenge you introduced in the beginning of class.
 

@@ -31,9 +31,9 @@ Pacing Guide
 Procedure
 ---------
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to Interactive Programming \[10 minutes\]
+### Introduction to Interactive Programming `[10 minutes]`
 
 1. Hook the students with a brief discussion about Pokemon. Be sure that the following points come
    up during discussion (either you bring them up, or you guide the students to bring these points
@@ -128,7 +128,7 @@ Pay close attention to the formulas used when calculating experience points and 
 ---
 
 
-### Student Practice \[35 minutes\]
+### Student Practice `[35 minutes]`
 
 1. Have students complete the following self-check questions:
    1. Self-Check 3.23: promptMultiplyBy2

@@ -41,9 +41,9 @@ behaviors did the animals have in common? What was a behavior that stuck out as 
 animal? The idea here is to get students thinking about how to use inheritance (and eventually
 polymorphism) to reuse code for different classes.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction (with pair work) \[15 minutes\]
+### Introduction (with pair work) `[15 minutes]`
 1. Continue the class discussion by prompting students to pair up and draw out a class hierarchy
    including: *Animal*, *Carnivore*, *Tiger*, and *Donkey*.
 
@@ -85,7 +85,7 @@ polymorphism) to reuse code for different classes.
      not an animal (or array of animals), nor is it a staff member (or array of staff members). A
      zoo contains, or *has*, all of these components.
 
-### Student Practice \[25 minutes\]
+### Student Practice `[25 minutes]`
 1. Students should remain in their student pairs. If your classroom has computers, students should
    complete the following exercise in Eclipse, and you should review the protocol for submitting
    assignments electronically.
@@ -112,7 +112,7 @@ polymorphism) to reuse code for different classes.
    pairs to share their code with the class during whole-group discussion, and help those students
    save and transfer their files to the projecting computer.
 
-### Student Share/Whole Group Review \[10 minutes\]
+### Student Share/Whole Group Review `[10 minutes]`
 In a whole group, ask for students to share their code and explain how the established the *has-a*
 relationship between classes. Check for student understanding by asking why a has-a relationship was
 more appropriate than creating a *is-a (*hierarchical) relationship.

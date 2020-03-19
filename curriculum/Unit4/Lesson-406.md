@@ -12,7 +12,7 @@ Overview
 
 ### Homework — _Students will…_
 - **Read** BJP 10.1 up to “Adding to and Removing from an ArrayList”
-- **Complete** self-check problems \#1 - 6
+- **Complete** self-check problems #1 - 6
 
 
 Materials & Prep
@@ -48,9 +48,9 @@ content, working through several examples with Think Pair Shares before breaking
 Robin Activity. An optional Programming Challenge is included at the end of the lesson if your
 lesson finishes early.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction/Review of Objects & String Processing \[10 minutes\]
+### Introduction/Review of Objects & String Processing `[10 minutes]`
 
 ---
 
@@ -208,7 +208,7 @@ As you learn about their use, remember to consider how you might use multidimens
    - As a final tip, let students know that for multidimensional arrays, `Arrays.toString` won’t
      work correctly, and they should use `Arrays.deepToString` instead.
 
-### Round Robin \[45 minutes\]
+### Round Robin `[45 minutes]`
 
 1. Round-robin is a drilling and error-checking exercise used with worksheets. At minimum, there
    should be 1 question for each student (_e.g._ a class of 15 students would need a worksheet with
@@ -236,7 +236,7 @@ As you learn about their use, remember to consider how you might use multidimens
    Adjust the timing on these questions as needed, but try to keep a brisk pace. Part of the
    engagement factor is the sense of urgency.
 
-### Paper Selection & Grade Announcement \[3 minutes\]
+### Paper Selection & Grade Announcement `[3 minutes]`
 If time allows, randomly select the worksheet and announce the class grade with a bit of fanfare,
 congratulating the class on a job well done. If there are any incorrect answers, use the time at the
 end of class to review the correct solutions or take questions.

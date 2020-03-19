@@ -55,9 +55,9 @@ Scissor game at the link above. After a quick review of Boolean logic and variab
 be asked to build their own Rock Paper Scissor game. This programming project should take between 2
 and 3 55-minute class periods to complete
 
-### Attendance & Student Play \[5 minutes\]
+### Attendance & Student Play `[5 minutes]`
 
-### Introduction to Boolean Logic \[10 minutes\]
+### Introduction to Boolean Logic `[10 minutes]`
 
 1. Students should have already reviewed this material as part of last nights’ homework assignment.
    Before moving on to purely mathematical examples, start with a real-life example of how we apply
@@ -187,7 +187,7 @@ and 3 55-minute class periods to complete
 4. Check for student understanding by having students complete self-check questions
    Self-Check 5.27: assertions1 and Self-Check 5.29: assertions3.
 
-### Student Programming Activity \[40 minutes\]
+### Student Programming Activity `[40 minutes]`
 On the projector, board or as a handout (WS 3.16), give students the following programming prompt. A
 link to the NY Times article about rock paper scissors is included in the Materials section of this
 lesson plan.

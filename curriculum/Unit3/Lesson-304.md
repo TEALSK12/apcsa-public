@@ -44,9 +44,9 @@ Computer Science A lab requirements. It is in your and your students’ best int
 them to help themselves and each other before seeing you. Depending on the length of your class
 periods, this lab may take 2 class periods to complete.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to Programming Project \[10 minutes\]
+### Introduction to Programming Project `[10 minutes]`
 
 Begin with an introduction to today’s programming project.
 
@@ -70,7 +70,7 @@ Begin with an introduction to today’s programming project.
 - Sometimes it’s a good idea to step away from a problem for a few minutes if they’re stuck—work on
   a different method and return to where they were stuck later.
 
-Student Programming Time \[45 minutes\]
+Student Programming Time `[45 minutes]`
 ---------------------------------------
 In an email, on the projector, or as a handout (WS 3.4), give students the following questions to
 work on individually, or in pairs.

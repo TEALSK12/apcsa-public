@@ -41,9 +41,9 @@ Your hook for today is an example of what happens when we don’t stay flexible 
 Have the gif up and looping, and explain that this image is an illustration of what can happen to
 our programs if we don’t make them adaptable.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Instruction \[15 minutes\]
+### Instruction `[15 minutes]`
 
 1. Begin class with a lecture/discussion that introduces parameters
 
@@ -122,7 +122,7 @@ our programs if we don’t make them adaptable.
      a formal parameter (or just “parameter”). Point to a few different examples of each on sample
      code, asking students which one is which, and how they know.
 
-### Student Mini-Lesson Preparation \[10 minutes\]
+### Student Mini-Lesson Preparation `[10 minutes]`
 
 1. Students are going to get a chance to teach the second half of class—the mechanics of parameters.
    Assign each group one section of the sample code in section 3.1 “Mechanics of Parameters.”
@@ -143,11 +143,11 @@ our programs if we don’t make them adaptable.
 
    d. Where and how will you feature the output produced by your code segment?
 
-### Student Mini-Lesson Delivery \[10 minutes\]
+### Student Mini-Lesson Delivery `[10 minutes]`
 Have student groups sequentially teach through the example in the book, demonstrating the changes
 to the stored value, predicting output, and tracing the flow of control.
 
-### Practice Activity (if needed) \[10 minutes\]
+### Practice Activity (if needed) `[10 minutes]`
 If the majority of students are understanding the content, allow students to work individually on
 practice self-check problems:
 
