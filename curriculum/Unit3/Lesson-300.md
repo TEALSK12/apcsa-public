@@ -11,7 +11,6 @@ Overview
   - Credit depends on instructor preference
 
 ### Homework — _Students will…_
-- **Read** BJP 3.1 up to “Limitations of Parameters”
 - **Correct** any incorrect test answers by re-answering on a separate sheet of paper
   - To get back credit, they must justify their new answers
   - Staple new answer sheet to old test and turn in tomorrow

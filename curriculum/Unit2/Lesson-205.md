@@ -15,7 +15,7 @@ Overview
 - **Trace and construct** loops in Practice-It problems
 
 ### Homework — _Students will…_
-- **Read** BJP 2.3 “Nested for Loops”
+- **Read** BJP 2.3 up to “Nested for Loops"
 - **Complete** self-check questions 19-21 (4<sup>th</sup> edition: 22-24)
 
 

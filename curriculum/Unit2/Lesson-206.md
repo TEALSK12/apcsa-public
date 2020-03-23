@@ -11,7 +11,7 @@ Overview
 - **Trace and construct** nested loops in Practice-It problems.
 
 ### Homework — _Students will…_
-- **Read** BJP 2.4 “Scope” and “Pseudocode”
+- **Read** BJP 2.3 “Nested for Loops”
 - **Complete** self-check questions 26, 27 (4<sup>th</sup> edition 29, 30) and exercise 4
 
 
