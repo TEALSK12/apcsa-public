@@ -11,7 +11,7 @@ Overview
 - **Complete** WS 3.5
 
 ### Homework — _Students will…_
-- **Read** BJP 3.3 “Interactive Programming” and “Sample Interactive Program”
+- **Read** BJP 3.3 up to “Interactive Programs and Scanner Objects”
 - **Complete** self-check questions 19-21
 
 

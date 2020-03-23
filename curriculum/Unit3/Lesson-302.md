@@ -10,7 +10,7 @@ Overview
 - **Complete** an art project and “artist statement” justifying their programming choices
 
 ### Homework — _Students will…_
-- **Read** BJP 3.1 “Parameters versus Constants” and “Overloading Methods”
+- **Read** BJP 3.1 “Limitations of Parameters”, “Multiple Parameters”, "Parameters versus Constants"
 - **Jazz up** art projects and programs
 
 

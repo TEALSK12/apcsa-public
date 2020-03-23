@@ -11,6 +11,7 @@ Overview
 - **Write** a program to meet a Pokémon Challenge
 
 ### Homework — _Students will…_
+- ** Read ** BJP "3.1 “Overloading Methods”, 3.2 ""Methods That Return Values"""
 - **Complete** chapter 3 self-check question 17 and exercise \#1
 
 
