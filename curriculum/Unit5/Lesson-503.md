@@ -11,7 +11,7 @@ Overview
 - **Complete** Practice-It questions
 
 ### Homework — _Students will…_
-- **Read** BJP 8.4
+- **Read** BJP 8.3 up to “The Keyword this”
   - **Take notes**, since you will have to teach a mini-lesson later in this unit
 
 

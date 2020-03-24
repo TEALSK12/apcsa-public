@@ -11,6 +11,7 @@ Overview
   invariants, and changing internal implementations
 
 ### Homework — _Students will…_
+- **Read** BJP 8.4
 - **Complete** a quiz at the end of Day 2
 - **Complete** chapter 8 self-check questions 17-21
 
