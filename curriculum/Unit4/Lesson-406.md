@@ -11,7 +11,7 @@ Overview
 - **Complete** WS 4.6
 
 ### Homework — _Students will…_
-- **Read** BJP 10.1 up to “Adding to and Removing from an ArrayList”
+- **Read** BJP 12.1 up to “Structure of recursive solutions”
 - **Complete** self-check problems \#1 - 6
 
 

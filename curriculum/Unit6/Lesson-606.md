@@ -10,7 +10,7 @@ Overview
 - **Complete** an in-class competition
 
 ### Homework — _Students will…_
-- **Read** BJP 9.6
+- **Read** BJP 9.6 (Optional if covering Interfaces)
 - **Summarize notes** in notebook for tomorrow’s notebook check
 - **For extra credit:**
   - Generate your own class hierarchy that demonstrates the same concepts illustrated by the

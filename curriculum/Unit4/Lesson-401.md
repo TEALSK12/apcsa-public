@@ -10,7 +10,7 @@ Overview
 - **Complete** exercises with manipulatives on WS 4.1.
 
 ### Homework — _Students will…_
-- **Read** BJP 7.1 “For-Each Loop” and “The Arrays Class”
+- **Read** BJP 7.1 up to “For-Each Loop”
 - **Complete** self-check questions \#1, 7, 9
 
 

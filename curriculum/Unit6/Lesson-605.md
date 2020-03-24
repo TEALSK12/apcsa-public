@@ -11,7 +11,7 @@ Overview
 -   **Complete** an AP Section II question “Trio”
 
 ### Homework — _Students will…_
--   **Read** BJP 9.5
+-   **Read** BJP 9.5 (Optional if covering Interfaces)
 
 
 Materials & Prep

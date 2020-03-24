@@ -11,7 +11,7 @@ Overview
 - **Extra credit:** complete a Pokémon Challenge
 
 ### Homework — _Students will…_
-- **Read** BJP 7.4 up to “Command-Line Arguments”
+- **Read** BJP 7.3 and 7.4 up to “Command-Line Arguments”
 - **Complete** exercises \#9, 10
 
 

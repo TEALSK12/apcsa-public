@@ -11,8 +11,7 @@ Overview
 - **Complete** some short answer questions on worksheets
 
 ### Homework — _Students will…_
-- **Read** BJP 13.1 “Shuffling.” (**Check Differentiation for advanced homework assignment and
-  alternate classroom activities**)
+- **Read** BJP 13.1 “Sorting.”
 
 
 Materials & Prep
