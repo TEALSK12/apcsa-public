@@ -53,9 +53,9 @@ students to check for common errors. To hook your class, have pictures of punch 
 readers up when students enter. If possible, have physical punch cards available to pass around the
 room for tactile learners as you explain the origins of the phrase “bug” and “debugging.”
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Vocabulary and History of Bugs \[10 minutes\]
+### Vocabulary and History of Bugs `[10 minutes]`
 
 Begin with a lecture about the history of computing with punch cards and the origins of “bugs.”
 
@@ -99,7 +99,7 @@ Begin with a lecture about the history of computing with punch cards and the ori
     (<https://www.youtube.com/watch?v=5VZRdAUbgCk&feature=youtu.be&t=1m9s>), or invite students to
     scan through this list: (<http://tvtropes.org/pmwiki/pmwiki.php/Main/LogicBomb>).
 
-### Error-Checking Algorithm \[10 minutes\]
+### Error-Checking Algorithm `[10 minutes]`
 
 1. Have students distribute paper and markers while you explain that students are going to create a
    personal algorithm (or specific list of steps) that they will follow each time they write code. A
@@ -131,7 +131,7 @@ Begin with a lecture about the history of computing with punch cards and the ori
    - There are no extra punctuation marks
    - All header open-braces are paired with closed-braces
 
-### Worksheet \[20 minutes\]
+### Worksheet `[20 minutes]`
 
 1. For 5 minutes go over documentation and proper commenting. Also go over identifiers, camelCase,
    and do a short introduction to style. Style will be covered in 1.08, but it’s important that
@@ -140,7 +140,7 @@ Begin with a lecture about the history of computing with punch cards and the ori
 2. Students have 15 minutes to complete WS 1.4. As they solve each problem, students should apply
    their personal proofreading algorithm to help check their solution for correctness.
 
-### Students trade work, check, and turn in \[5 minutes\]
+### Students trade work, check, and turn in `[5 minutes]`
 At the end of class, have students trade their worksheets to check each other’s answers before
 turning in the worksheet.
 

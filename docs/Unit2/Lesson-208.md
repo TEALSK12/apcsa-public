@@ -38,9 +38,9 @@ Procedure
 To prepare students for the upcoming unit exam, the next few class periods will be devoted to
 reinforcing concepts and applying the tools, procedures, and code that were introduced this unit.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and Classroom Procedures \[10 minutes\]
+### Introduction and Classroom Procedures `[10 minutes]`
 
 1. If your computer time requires you to move to another room or to change seating, you should teach
    and/or review those procedures before introducing the lab material. It’s been a few weeks since
@@ -109,7 +109,7 @@ In this ASCII art programmming project, create something unique!
 ---
 
 
-### Programming Project \[30 minutes\]
+### Programming Project `[30 minutes]`
 
 Get students started on the ASCII art programming project.  It can be he hour-glass picture, or something different! Offer
 students help after they have tried to answer the questions themselves:
@@ -125,7 +125,7 @@ If the entire class is stuck, return to whole group and work through the program
 together as a class, having students offer an increasing proportion of the answers as you move
 along.
 
-### Students trade work, check, evaluate, and turn in \[5 minutes\]
+### Students trade work, check, evaluate, and turn in `[5 minutes]`
 At the end of class, have students look over each other’s projects before submitting.
 
 Evaluation Question: How many lines of code did this program "save" by using for-loops?  How can the code be modified for some other interesting effect, or embellishment?

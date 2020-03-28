@@ -43,9 +43,9 @@ Return student grades before class begins or while students are completing the b
 Do not return students’ tests before the review session, since you want to motivate students to pay
 attention to the entire review, taking supplemental notes the entire time.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Class Discussion (if needed) \[10 minutes\]
+### Class Discussion (if needed) `[10 minutes]`
 
 1. If grades are low, invite the class to a discussion of what can be improved. With your
    co-teachers and/or TAs you should decide how to shift focus as the AP test is right around the
@@ -69,7 +69,7 @@ attention to the entire review, taking supplemental notes the entire time.
    assignments (if you still have them up), showing students how far they have come since the
    beginning of the school year.
 
-### Test Review and Reteach \[30 minutes\]
+### Test Review and Reteach `[30 minutes]`
 
 1. Walk the students through each question on the test, glossing over questions that everyone
    answered correctly.
@@ -90,7 +90,7 @@ attention to the entire review, taking supplemental notes the entire time.
 4. For Section II questions, select a sample of student work (with any identifying information
    obscured), and work through the answer together as a class.
 
-### Check student notes and return tests \[5 minutes\]
+### Check student notes and return tests `[5 minutes]`
 At the end of class, check student notes, and return the tests in hard copy form if applicable.
 
 

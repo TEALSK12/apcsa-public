@@ -14,7 +14,7 @@ Overview
 
 ### Homework — _Students will…_
 - **Read** BJP 5.1 “Random Numbers”
-- **Complete** self-check questions \#1-4 and exercise 2
+- **Complete** self-check questions #1-4 and exercise 2
 
 
 Materials & Prep
@@ -36,9 +36,9 @@ Pacing Guide
 Procedure
 ---------
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction & Think-Pair-Share \[15 minutes\]
+### Introduction & Think-Pair-Share `[15 minutes]`
 
 1. Ask students to offer pseudocode that explains how they might track damage to a Pokemon.
 
@@ -113,7 +113,7 @@ Procedure
 
    - In the same pairs, have students rewrite the while loop as a for loop.
 
-### Student Practice Activity \[35 minutes\]
+### Student Practice Activity `[35 minutes]`
 1. Have students complete the following practice problems:
 
    1. Self-Check 5.1: whileLoops

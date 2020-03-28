@@ -6,7 +6,7 @@ Overview
 ### Objectives — _Students will be able to…_
 - **Describe** the history of computer science and Java and why they're used today.
 - **Correctly assemble** a complete program with a class header, body, and main method.
-- **Correctly use** print, println, and escape sequences.
+- **Correctly use** print, `println`, and escape sequences.
 
 ### Assessments — _Students will…_
 - **Create** starter Pokémon program
@@ -43,7 +43,7 @@ Procedure
 ---------
 
 In this lesson, you will introduce the parts of a program, then have students create their first
-“Hello World” style program. Your hook for this class is 2-fold: (1) you should pump up the students
+"Hello World" style program. Your hook for this class is 2-fold: (1) you should pump up the students
 to write their very first program ever! (2) Have samples of ASCII art available for them to view,
 and let them know that they will be creating their own pictures today as well.
 
@@ -51,14 +51,14 @@ and let them know that they will be creating their own pictures today as well.
 
 ### Introduction to Vocabulary and Syntax \[10 minutes\]
 
-1. Begin your lecture with a quick overview of Java and why we’re using it.
+1. Begin your lecture with a quick overview of Java and why we're using it.
    - Brief history of Java
    - Key characteristics of Java
 
 2. Lecture on the following talking points. Students should be able to lead you through these
    points, as you are reviewing the materials from the reading they completed for homework:
    - Java programs always begin with a **class** header, which follows these rules:
-   - Starts with “public class” (public because anyone can access it)
+   - Starts with "public class" (public because anyone can access it)
    - Uses a capitalized name, and always starts with a letter
    - Ends with an open curly bracket (think of the curly brackets as a box that holds bits of code
      together; show students where the close curly bracket goes)
@@ -76,7 +76,7 @@ and let them know that they will be creating their own pictures today as well.
    - `public class WhateverIWant {` → _correct!_
    - `public class ThisWorks2 {` → _numbers are OK!_
 
-4. Explain that the “meat” of the program comes from the **methods** (the parts of the program that
+4. Explain that the "meat" of the program comes from the **methods** (the parts of the program that
    tell Java to execute a particular action or computation)
    - You always need a main method, which starts with a method header:
 
@@ -85,10 +85,10 @@ and let them know that they will be creating their own pictures today as well.
      ```
 
    - Explicitly point out that:
-     - This is a nonsense list of words for now, but that we’ll return to what each part means later
+     - This is a nonsense list of words for now, but that we'll return to what each part means later
        on
-     - Curly brackets “hold the code together”, and so there will always need to be a closed curly
-       bracket at the end of the main method, just like there’s a closing curly bracket for the class
+     - Curly brackets "hold the code together", and so there will always need to be a closed curly
+       bracket at the end of the main method, just like there's a closing curly bracket for the class
 
 5. Ask students to volunteer a short phrase that they would like for their very first program to say
    (as in `"Hello, World!"`) and use this phrase in your first `println` statement.
@@ -98,14 +98,14 @@ and let them know that they will be creating their own pictures today as well.
      - Represents 1 complete order/command
      - Tells Java to print the words within the quotation marks, then go to the next line (ln)
 
-   - Have students check the code you’ve written down on the board. With the class, model how to
+   - Have students check the code you've written down on the board. With the class, model how to
      check code by scanning each line, character by character, having students offer the rules for
      class and method headers/body, and statements.
 
-   - Erase the “ln” from your print statement, and ask students to guess what Java will do with
-     that code (it won’t return after outputting the string).
+   - Erase the "ln" from your print statement, and ask students to guess what Java will do with
+     that code (it won't return after outputting the string).
 
-   - Finally, bring students’ attention to **escape sequences**, and add some quotation marks to
+   - Finally, bring students' attention to **escape sequences**, and add some quotation marks to
      your sample code as an example.
 
 
@@ -134,7 +134,7 @@ Write a program called Welcome that outputs the following:
     z(_(")(")
 
 ### Students Trade Work and Debug (5 minutes)
-Have students trade their work and debug each other’s programs.
+Have students trade their work and debug each other's programs.
 
 If Eclipse is available, have students mail you their completed program using the file submission
 procedure of your choice. Otherwise, have students submit a handwritten form AFTER they have traded
@@ -176,9 +176,9 @@ To learn more about the Pokemon storyline, game rules, underlying formulae, and 
 
 Teacher Prior CS Knowledge
 --------------------------
-- The “Hello world!” program is the classic first program taught for many beginner programming
+- The "Hello world!" program is the classic first program taught for many beginner programming
   classes. It demonstrates the simplest way to get output from the program to the user. The Java
-  “Hello world!” program is chock full of syntax heavy constructs that would not be particularly
+  "Hello world!" program is chock full of syntax heavy constructs that would not be particularly
   useful and unduly complicated to a first-time learner to Java. However, knowing these constructs
   are informative to the teacher: <http://www.learnjavaonline.org/en/Hello%2C_World%21>.
 
@@ -187,8 +187,8 @@ Teaching Tips
 -------------
 - Tips For Pair Programming: <http://csteachingtips.org/tips-for-pair-programming>
 - Tips For Lab Rules: <http://csteachingtips.org/tips-for-lab-rules>
-- Explaining “public static void main (String\[\] args)” would be overwhelming for most beginning
-  Java students. It’s important to let the students know that by the end of the course they will
+- Explaining "public static void main (String\[\] args)" would be overwhelming for most beginning
+  Java students. It's important to let the students know that by the end of the course they will
   know what the line means but for now all they need to know is to start a Java program, it needs
   this one line of code.
 

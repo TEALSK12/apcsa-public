@@ -11,7 +11,7 @@ Overview
 - **Write** a program to meet a Pokémon Challenge
 
 ### Homework — _Students will…_
-- **Complete** chapter 3 self-check question 17 and exercise \#1
+- **Complete** chapter 3 self-check question 17 and exercise #1
 
 
 Materials & Prep
@@ -44,9 +44,9 @@ This lesson introduces methods that return values, and familiarizes students wit
 You should hook students by introducing the Pokemon challenge (to be completed at the end of the
 class); students will create more code to be used in their larger Pokemon program.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Review and Introduction to Returning Values \[15 minutes\]
+### Review and Introduction to Returning Values `[15 minutes]`
 
 1. Begin with a lecture/discussion about the Pokémon challenge and returning values.
 
@@ -149,7 +149,7 @@ book.
 If students are getting the material, have them work independently on the practice problems,
 otherwise, work through the problems together as a whole class.
 
-### Practice- \[15 minutes\]
+### Practice- `[15 minutes]`
 Have students work individually or in pairs to complete the following practice self check
 questions:
 
@@ -158,7 +158,7 @@ questions:
   3. Self-Check 3.16: min
 
 
-### Pokémon Challenge \[15 minutes\]
+### Pokémon Challenge `[15 minutes]`
 Once students have completed these exercises, invite them to complete the following Pokémon
 challenge:
 

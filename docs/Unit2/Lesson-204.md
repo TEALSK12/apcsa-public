@@ -49,9 +49,9 @@ Today’s class introduces the concept of mixing types in an expression as well 
 operations in front of the class. There are a variety of metaphors you can use to drive this point 
 home if students are confused -- try talking about types as contagious.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to Mixing Types \[10 minutes\]
+### Introduction to Mixing Types `[10 minutes]`
 
 1. Here are some questions to guide this opening conversation:
 
@@ -79,7 +79,7 @@ home if students are confused -- try talking about types as contagious.
 
      - `2 + 2.3` (evaluates to 4.3 because int 2 is promoted to double 2.0)
 
-### Activity 1 \[15 minutes\]
+### Activity 1 `[15 minutes]`
 
 1. Have students begin WS 2.4 alone or quietly in pairs.
 
@@ -95,7 +95,7 @@ home if students are confused -- try talking about types as contagious.
 3. If students are completing the questions on-pace, bring the class together for another round of
    whole-group instruction.
 
-### Introduction to Casting \[5 minutes\]
+### Introduction to Casting `[5 minutes]`
 
 1. Introduce the concept of **casting** by asking students what to do if they really want to
    preserve one type over another (the int type)?
@@ -115,7 +115,7 @@ home if students are confused -- try talking about types as contagious.
 
    - BUT casting (int)str or (double)str on a String str doesn’t work.
 
-### Activity 2 \[15 minutes\]
+### Activity 2 `[15 minutes]`
 
 ---
 
@@ -137,7 +137,7 @@ Imagine you ask a user to enter their age, you would expect them to enter an int
    few more examples slowly and thoroughly. If you need to add an analogy (contagious infection, zombies, etc) or have students flip
    through their books again, you should do so at this point.
 
-### Turn in Worksheets, Wrap Up \[5 minutes\]
+### Turn in Worksheets, Wrap Up `[5 minutes]`
 At the end of class, collect the completed worksheets.
 
 ### College Board Topic Question

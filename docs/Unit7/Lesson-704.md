@@ -35,9 +35,9 @@ Pacing Guide
 Procedure
 ---------
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Review of Student Questions \[30 minutes\]
+### Review of Student Questions `[30 minutes]`
 
 1. Clearly indicate that you expect all students to have a list of review topics to study this
    evening. Periodically remind students that this list will be checked at the end of class.
@@ -57,7 +57,7 @@ Procedure
 5. After you’ve completed reviewing an idea, remind the class that they should write down that topic
    if they feel they still have to review it tonight.
 
-### Check Student Study Lists \[5 minutes\]
+### Check Student Study Lists `[5 minutes]`
 Spend the last 5 minutes of class checking each student’s review topic list as a class participation
 grade.
 

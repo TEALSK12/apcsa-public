@@ -59,9 +59,9 @@ background to encourage students to relax and focus on spotting errors. Try to a
 music. Reward your class for good grades/behavior by allowing them to select music from a
 pre-selected group of Pandora stations (or the like).
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and Homework Distribution \[5 minutes\]
+### Introduction and Homework Distribution `[5 minutes]`
 
 1. Return student homework packets, or have students place their returned homeworks in a pile on
   their desk.
@@ -70,7 +70,7 @@ pre-selected group of Pandora stations (or the like).
   correcting them now, in class. Ask students for suggestions/ideas on how to make sure they don’t
   miss any errors. (By now students should be used to relying on their error checklist/algorithm.)
 
-### Lecture on style \[10 minutes\]
+### Lecture on style `[10 minutes]`
 
 Add the caveat that they must correct their style to receive that credit. Explain that style is
 necessary to improve readability and that you lose points for having poor style.
@@ -81,13 +81,13 @@ necessary to improve readability and that you lose points for having poor style.
   - There should be no redundant code.
   - There are links to the full style guide we recommend on the slides.
 
-### Student Work \[25 minutes\]
+### Student Work `[25 minutes]`
 Have students work individually to correct their homework grades.
   - Offer time checks for students so they stay on task.
   - If students have not finished their programming project from yesterday’s class, allow them to do
     so today.
 
-### Students trade work, check, and turn in \[10 minutes\]
+### Students trade work, check, and turn in `[10 minutes]`
 At the end of class, have students trade their homework assignments to evaluate each other’s
 corrections before submission.
 

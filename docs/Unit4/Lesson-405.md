@@ -13,7 +13,7 @@ Overview
 
 ### Homework — _Students will…_
 - **Read** BJP 7.4 “Nested Arrays” and BJP 7.5 “Rectangular Two-Dimensional Arrays”
-- **Complete** self-check questions \#27-29 and exercise \#4
+- **Complete** self-check questions #27-29 and exercise #4
 
 
 Materials & Prep
@@ -46,9 +46,9 @@ students to model the changes for the whole class, with you and the other groups
 manipulations. The key to this introduction is to have students working through the examples in
 physical space, so make sure that all groups are working along with their array whiteboards.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction & Small-Group Practice \[10 minutes\]
+### Introduction & Small-Group Practice `[10 minutes]`
 
 1. Introduce your example array called metroCardRides (or dailyDrive, milesWalked, whatever
    represents your students’ commute to school), and hold up an array of ints:
@@ -182,7 +182,7 @@ physical space, so make sure that all groups are working along with their array 
      };
      ```
 
-### Practice Questions \[25-30 minutes\]
+### Practice Questions `[25-30 minutes]`
 1. Depending on the mood and frustration levels in the class, you may choose to have students workin pairs.
 
    a. If students are really having a rough time, work through the first Practice question
@@ -202,7 +202,7 @@ physical space, so make sure that all groups are working along with their array 
    students who understand the task may continue working independently. Otherwise, encourage peer
    tutoring, or using the textbook or notebooks for help.
 
-### Error-Checking Algorithm \[10 minutes\]
+### Error-Checking Algorithm `[10 minutes]`
 At the end of class, if time permits, have students draft an algorithm for error-checking (see below
 for details).
 

@@ -52,9 +52,9 @@ scoreboard before class begins so as to mystify the students. Before you begin l
 students that they should pay close attention, since the lecture content will be tested during the
 game.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Vocabulary and History of Bugs \[10 minutes\]
+### Vocabulary and History of Bugs `[10 minutes]`
 
 1. Begin with a lecture about the topics to be covered.
 
@@ -106,7 +106,7 @@ game.
      - `x++;` OR `++x;`
      - `x--;` OR `--x;`
 
-### Grudgeball \[35 minutes\] \[Optional\]
+### Grudgeball `[35 minutes]` `[Optional]`
 
 If you feel like your class understands increment and string concatenation, consider skipping this
 game and focusing on on-the-board examples (you can use the questions from Grudgeball below) or

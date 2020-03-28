@@ -39,9 +39,9 @@ Hook your students by betting them $100 that you can write a program that output
 integers in fewer than 10 lines of code (adjust these numbers according to the gullibility/jadedness
 of your classroom).
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to for Loops \[15 minutes\]
+### Introduction to for Loops `[15 minutes]`
 
 ---
 
@@ -122,7 +122,7 @@ There are several flow chart creation programs available online, these can help 
    Loops can be also analyzed to determine how many times they run. This is called run-time analysis or a statement execution count. 
    For each of the above examples, ask how many times each loop executes.
    
-### Practice Activity \[35 minutes\]
+### Practice Activity `[35 minutes]`
 
 1. Depending on the mood and frustration levels in the class, you may choose to have students work
    in pairs.
