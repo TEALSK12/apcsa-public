@@ -57,9 +57,9 @@ This is a good day to loosen up the vibe in the classroom a bit. Try playing mus
 background to encourage students to relax and focus on spotting errors. Try to avoid loud, rhythmic
 music, and avoid the pitfall of allowing students to select the station!
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and Homework Distribution \[5 minutes\]
+### Introduction and Homework Distribution `[5 minutes]`
 
 1. Return student homework packets, or have students place their returned homeworks in a pile on
    their desk.
@@ -74,7 +74,7 @@ music, and avoid the pitfall of allowing students to select the station!
       structure diagrams to clarify thinking on program structure, and checking their notes and the
       text book.
 
-### Student Work \[35 minutes\]
+### Student Work `[35 minutes]`
 Have students work individually to correct their homework grades.
 
 - Offer time checks for students so they stay on task.
@@ -82,7 +82,7 @@ Have students work individually to correct their homework grades.
 - If students have not finished their programming project from yesterday’s class, allow them to do
   so today.
 
-### Students trade work, check, and turn in \[10 minutes\]
+### Students trade work, check, and turn in `[10 minutes]`
 At the end of class, have students trade their homework assignments to evaluate each other’s
 corrections before submission.
 

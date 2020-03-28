@@ -11,7 +11,7 @@ Overview
 
 ### Homework — _Students will…_
 - **Read** BJP 5.1 (skip “do/while Loops”)
-- **Complete** Chapter 4 Programming Project \#2
+- **Complete** Chapter 4 Programming Project #2
 
 
 Materials & Prep
@@ -36,14 +36,14 @@ Pacing Guide
 Procedure
 ---------
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to Cumulative Algorithms and Min/Max Loops \[15 minutes\]
+### Introduction to Cumulative Algorithms and Min/Max Loops `[15 minutes]`
 
 1. As your hook, conduct an experiment with your students:
 
    - Announce that you’re going to read a list of six numbers between 1 and 100, and the first
-     person who is done calculating the sum correctly wins \[classroom reward of your choice\].
+     person who is done calculating the sum correctly wins `[classroom reward of your choice]`.
 
    - Students should indicate they are done calculating by raising their hand. Explain that you will
      keep track of raised hands, and that you’ll call on each person until you encounter the correct
@@ -179,7 +179,7 @@ Procedure
    what code to write down for each step, as much as possible.
 
 
-### Programming Activity – Programmer 1 Input \[10 minutes\]
+### Programming Activity – Programmer 1 Input `[10 minutes]`
 
 ---
 
@@ -209,12 +209,12 @@ Also, be sure to leave standardized source code documentation that your partner 
 
    If students are struggling, you may extend the time, or offer universal helpful tips.
 
-### Programming Activity – Programmer 2 Input \[15 minutes\]
+### Programming Activity – Programmer 2 Input `[15 minutes]`
 Have students trade papers with their assigned programming partner.
 1. Remind students to add their name to the paper as “programmer 2.”
 2. Give students another 15 minutes to build on the program and make edits.
 
-### Programming Activity – Edits and Reflection \[10 minutes\]
+### Programming Activity – Edits and Reflection `[10 minutes]`
 Have students return each others’ papers, and have the first student make edits and fill in the
 comment section.
 

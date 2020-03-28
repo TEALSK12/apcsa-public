@@ -52,9 +52,9 @@ in class? Which measurement are they more familiar with? Which do they use more 
 the online calculator and ask if they ever use such online tools, and tell students that they’re
 going to learn how this program is built today.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and Worksheet Exercises \[25 minutes\]
+### Introduction and Worksheet Exercises `[25 minutes]`
 
 ---
 
@@ -97,7 +97,7 @@ help. If they are, great! Post the practice questions on the board so they can c
 assignment once they have completed the worksheet. If your class wants you to walk them through
 string concatenation, go through the examples as above.
 
-### Practice Exercises \[20 minutes\]
+### Practice Exercises `[20 minutes]`
 
 1. Have students complete the following practice self-check questions:
 
@@ -111,7 +111,7 @@ string concatenation, go through the examples as above.
    students collaborate on answers. Be sure to remind students that each student should turn in their
    own set of work.
 
-### Students turn in worksheets, wrap up \[5 minutes\]
+### Students turn in worksheets, wrap up `[5 minutes]`
 At the end of class, collect WS 2.2 and practice problems submissions.
 
 

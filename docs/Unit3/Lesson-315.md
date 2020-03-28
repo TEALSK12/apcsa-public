@@ -12,7 +12,7 @@ Overview
 
 ### Homework — _Students will…_
 - **Read** BJP 5.3
-- **Complete** exercises \#6 & 8
+- **Complete** exercises #6 & 8
 - **Summarize** all of your daily notes if not already done
 
 
@@ -40,7 +40,7 @@ with if statements. Your hook will be to turn the class over to students as soon
 Student groups are expected to generate sample questions; let students know that you will collect
 those questions to use on quizzes or as bellwork.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 On the board, on the projector, or in a group handout, let students know that they need to prepare a
 5 minute lesson and a 2- 5 minute class activity to teach their topic. Use the grading rubric as
 outlined here:
@@ -51,7 +51,7 @@ outlined here:
 | Presentation includes a non-example as helpful contrast. | Presentation includes a non-example that is marginally helpful. | Presentation includes a non-example that does not add to comprehension. | Presentation includes a non-example that adds confusion, or presentation does not include a non-example.
 | Presentation includes a helpful tip that is clearly explained and concisely stated. | Presentation includes a helpful tip that is clearly explained or concisely stated. | Presentation includes a helpful tip that is not clearly explained and may include a small error. | Presentation does not include a helpful tip or hint.
 
-### Mini-Lesson Planning & Prep \[15 minutes\]
+### Mini-Lesson Planning & Prep `[15 minutes]`
 
 1. Assign each group a subsection of section 5.2 “Fencepost Algorithms,” and make sure that you
    circle that assignment on each groups’ copy of WWS 3.15. Student groups should take 15 minutes to
@@ -78,7 +78,7 @@ outlined here:
 
 4. Encourage students to add these strategies to their Tricky Code Cheat Sheet.
 
-### Student Presentations & Practice \[30 minutes\]
+### Student Presentations & Practice `[30 minutes]`
 
 
 Accommodation and Differentiation

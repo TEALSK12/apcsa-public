@@ -45,9 +45,9 @@ splits it down into single elements, and compares the elements, merging them tog
 fashion. The first part of the lesson covers merge as it’s conceptually easier, the second part of
 the lesson covers the splitting of the list.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to MergeSort \[5 minutes\]
+### Introduction to MergeSort `[5 minutes]`
 
 1. Begin your lecture by bringing the class back to selection and insertion sort. Make the case that
    selection and insertion sort both work, but take more time for your computer to process (graph in
@@ -56,7 +56,7 @@ the lesson covers the splitting of the list.
 2. Show your class an example diagram of mergeSort; they should realize (with your help) that the
    worst case performance for mergeSort is faster than either selection or insertion sort.
 
-### Merge \[15 minutes\]
+### Merge `[15 minutes]`
 
 1. Invite your class to try and merge two sorted lists of numbers. How would we compute a single
    sorted list containing all the numbers in list 1 and list 2? Have your class set up the
@@ -73,7 +73,7 @@ the lesson covers the splitting of the list.
    come up with, lead them to the correct merge function. (Shown on slides, using
    `ArrayList<Integer>`)
 
-MergeSort \[30 minutes\]
+MergeSort `[30 minutes]`
 ------------------------
 
 1. Challenge your class to try and implement merge into a sorting algorithm. Those who have done the

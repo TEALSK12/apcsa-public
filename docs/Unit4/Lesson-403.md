@@ -12,8 +12,8 @@ Overview
 - **Complete** a quiz at the end of Day 2
 
 ### Homework — _Students will…_
-- **Day 1:** Complete self-check questions \#15-17 and exercise 3
-- **Day 2:** Read BJP 7.3 and complete self-check questions \#19-21
+- **Day 1:** Complete self-check questions #15-17 and exercise 3
+- **Day 2:** Read BJP 7.3 and complete self-check questions #19-21
 
 
 Materials & Prep
@@ -52,9 +52,9 @@ printed out and sitting at teamwork stations (or on student desks). Encourage st
 their own questions using the instruction sheet and textbook. Frequently asked questions and
 suggestions for student groups are included in Accommodations and Differentiation.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to Assignment \[10 minutes\]
+### Introduction to Assignment `[10 minutes]`
 
 1. Review the assignment as outlined on WS 4.3, and ask students to explain back to you what their
    group presentations need to include for full credit. If you need to, review procedures for group
@@ -63,7 +63,7 @@ suggestions for student groups are included in Accommodations and Differentiatio
    If you feel it will benefit your class, reviewing or distributing the grading rubric before the
    assignment should be done at this point.
 
-### Student Preparation of Lesson and Quiz Questions \[40 minutes\]
+### Student Preparation of Lesson and Quiz Questions `[40 minutes]`
 
 Give students the class period to prepare their presentation and generate quiz questions for
 tomorrow’s class.
