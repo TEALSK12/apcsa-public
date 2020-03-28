@@ -3,57 +3,57 @@
 The following curriculum map is a day-by-day listing of the AP Computer Science course in
 chronological order. The order has been adapted to follow the College Board AP CS A Curriculum. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook.
 
-- [Unit 4 Slides]
-- [Unit 8 Slides]
-- [Unit 4 Word Bank]
-- [Curriculum Assets]
-- [Magpie Chatbot Lab]
+- [Unit 4 Slides][]
+- [Unit 8 Slides][]
+- [Unit 4 Word Bank][]
+- [Curriculum Assets][]
+- [Magpie Chatbot Lab][]
 
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
-| [4.06] |Nested Loop Algorithms & Rectangular Arrays|[WS 4.6]|12.1 up to “Structure of recursive solutions”|SC [TBD]| [VAR-2], [CON-2] | [VAR-2.F], [VAR-2.G], [CON-2.N] | [VAR-2.F.1], [VAR-2.F.2], [VAR-2.F.3], [VAR-2.F.4], [VAR-2.G.1], [CON-2.N.2] |
-| [4.07] |Arraylists|Grudgeball  [Poster 4.7]|10.1 up to “_Adding to and Removing from an ArrayList_”|Outline ch 7 and 10.1
-| [4.08] |Finding & Fixing Errors|Fix HW|Review ch 7, 10.1 for Magpie lab|Submit questions for review
-| [4.09] 01|[Magpie Chatbot Lab] (day&nbsp;1)|Magpie Chatbot Lab Activity 1 & 2|Barrons ch 6 (8th or later: ch 7)|
-| [4.09] 02|[Magpie Chatbot Lab] (day&nbsp;2)|Magpie Chatbot Lab Activity 2|Barrons ch 6 (8th or later: ch 7)|
-| [4.09] 03|[Magpie Chatbot Lab] (day&nbsp;3)|Magpie Chatbot Lab Activity 3|Barrons ch 6 (8th or later: ch 7)|
-| [4.09] 04|[Magpie Chatbot Lab] (day&nbsp;4)|Magpie Chatbot Lab Activity 4||Barrons ch 6 (8th or later: ch 7)practice questions
-| [4.09] 05|[Magpie Chatbot Lab] (day&nbsp;5)|Magpie Chatbot Lab Activity 5||Check and correct Barrons ch 6 (8th or later: ch 7) questions
-| [4.09a] 01|Steganography Lab (day&nbsp;1)|Steganography Lab Activity 1|Barrons ch 6 (8th or later: ch 7)|
-| [4.09a] 02|Steganography Lab (day&nbsp;2)|Steganography Lab Activity 2|Barrons ch 6 (8th or later: ch 7)|
-| [4.09a] 03|Steganography Lab (day&nbsp;3)|Steganography Lab Activity 3|Barrons ch 6 (8th or later: ch 7)|
-| [4.09a] 04|Steganography Lab (day&nbsp;4)|Steganography Lab Activity 4|Barrons ch 6 (8th or later: ch 7)|
-| [4.09a] 05|Steganography Lab (day&nbsp;5)|Steganography Lab Activity 5||Barrons ch 6 (8th or later: ch 7)practice questions
-| [4.09a] 06|Steganography Lab (day&nbsp;6)|Steganography Lab Activity 5 (day 2)||Check and correct Barrons ch 6 (8th or later: ch 7) questions
-| [4.10] |Review|Review questions [WS 4.10] practice test||Study
+| [4.06][] |Nested Loop Algorithms & Rectangular Arrays|[WS 4.6][]|12.1 up to “Structure of recursive solutions”|SC [TBD][]| [VAR-2][], [CON-2][] | [VAR-2.F][], [VAR-2.G][], [CON-2.N][] | [VAR-2.F.1][], [VAR-2.F.2][], [VAR-2.F.3][], [VAR-2.F.4][], [VAR-2.G.1][], [CON-2.N.2][] |
+| [4.07][] |Arraylists|Grudgeball  [Poster 4.7][]|10.1 up to “_Adding to and Removing from an ArrayList_”|Outline ch 7 and 10.1
+| [4.08][] |Finding & Fixing Errors|Fix HW|Review ch 7, 10.1 for Magpie lab|Submit questions for review
+| [4.09][] 01|[Magpie Chatbot Lab][] (day&nbsp;1)|Magpie Chatbot Lab Activity 1 & 2|Barrons ch 6 (8th or later: ch 7)|
+| [4.09][] 02|[Magpie Chatbot Lab][] (day&nbsp;2)|Magpie Chatbot Lab Activity 2|Barrons ch 6 (8th or later: ch 7)|
+| [4.09][] 03|[Magpie Chatbot Lab][] (day&nbsp;3)|Magpie Chatbot Lab Activity 3|Barrons ch 6 (8th or later: ch 7)|
+| [4.09][] 04|[Magpie Chatbot Lab][] (day&nbsp;4)|Magpie Chatbot Lab Activity 4||Barrons ch 6 (8th or later: ch 7)practice questions
+| [4.09][] 05|[Magpie Chatbot Lab][] (day&nbsp;5)|Magpie Chatbot Lab Activity 5||Check and correct Barrons ch 6 (8th or later: ch 7) questions
+| [4.09a][] 01|Steganography Lab (day&nbsp;1)|Steganography Lab Activity 1|Barrons ch 6 (8th or later: ch 7)|
+| [4.09a][] 02|Steganography Lab (day&nbsp;2)|Steganography Lab Activity 2|Barrons ch 6 (8th or later: ch 7)|
+| [4.09a][] 03|Steganography Lab (day&nbsp;3)|Steganography Lab Activity 3|Barrons ch 6 (8th or later: ch 7)|
+| [4.09a][] 04|Steganography Lab (day&nbsp;4)|Steganography Lab Activity 4|Barrons ch 6 (8th or later: ch 7)|
+| [4.09a][] 05|Steganography Lab (day&nbsp;5)|Steganography Lab Activity 5||Barrons ch 6 (8th or later: ch 7)practice questions
+| [4.09a][] 06|Steganography Lab (day&nbsp;6)|Steganography Lab Activity 5 (day 2)||Check and correct Barrons ch 6 (8th or later: ch 7) questions
+| [4.10][] |Review|Review questions [WS 4.10][] practice test||Study
 | 4.99 |Unit 4 test|Test 3 Section I  Test 3 Section II||
-| [5.00]   |Test Review & Reteach|Review test| |Test corrections
-| [4.XX] |[Programming Project](Magpie Alternative)| | | |  [VAR-2], [CON-2] | [VAR-2.F], [VAR-2.G], [CON-2.N]
-| [8.PP] | Unit 8 Personal Progress Check 2D Array |
+| [5.00][]   |Test Review & Reteach|Review test| |Test corrections
+| [4.XX][] |[Programming Project][](Magpie Alternative)| | | |  [VAR-2][], [CON-2][] | [VAR-2.F][], [VAR-2.G][], [CON-2.N][]
+| [8.PP][] | Unit 8 Personal Progress Check 2D Array |
 
 ## 4.06
 
-| [Lesson 4.06]   | _Nested Loop Algorithms & Rectangular Arrays_
+| [Lesson 4.06][]   | _Nested Loop Algorithms & Rectangular Arrays_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will correctly adjust nested loop headers for use with arrays  Students will correctly construct two-dimensional arrays
 | **Assessments** | Students will complete WS 4.6
-| **In Class**    | [WS 4.6]
+| **In Class**    | [WS 4.6][]
 | **Reading**     | 12.1 up to “_Structure of Recursive Solutions_”
-| **Homework**    | SC \[_TBD_\]
+| **Homework**    | 
 
 ## 4.07
 
-| [Lesson 4.07]   | _ArrayList_
+| [Lesson 4.07][]   | _ArrayList_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will construct code using ArrayList  Students will predict the output of methods that take arrays as parameters and/or return arrays.
 | **Assessments** | Students will evaluate statements and predict output during a game of Grudgeball.
-| **In Class**    | Grudgeball  [Poster 4.7]
+| **In Class**    | Grudgeball  [Poster 4.7][]
 | **Reading**     | 10.1 up to “_Adding to and Removing from an ArrayList_”
 | **Homework**    | Outline ch 7 and 10.1
 
 ## 4.08
 
-| [Lesson 4.08]   | _Finding & Fixing Errors_
+| [Lesson 4.08][]   | _Finding & Fixing Errors_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will find errors in their returned homework assignments, and correct their code.
 | **Assessments** | Students will re-submit all homework assignments with corrected answers.
@@ -63,17 +63,17 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 4.09.1
 
-| [Lesson 4.09]   | _Magpie Lab (Day 1)_
+| [Lesson 4.09][]   | _Magpie Lab (Day 1)_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will complete a long-form lab, using if statements, algorithms, the String class, arrays, and ArrayLists.
 | **Assessments** | Students will complete the College Board’s AP CS A Magpie Chatbot Lab.  Students will answer assessment questions on the fourth class exam.
-| **In Class**    | Lab: [Magpie Chatbot Lab]  Magpie Chatbot Lab Activity 1 & 2
+| **In Class**    | Lab: [Magpie Chatbot Lab][]  Magpie Chatbot Lab Activity 1 & 2
 | **Reading**     | 
 | **Homework**    |
 
 ## 4.09.2
 
-| [Lesson 4.09]   | _Magpie Lab (Day 2)_
+| [Lesson 4.09][]   | _Magpie Lab (Day 2)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -83,7 +83,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 4.09.3
 
-| [Lesson 4.09]   | _Magpie Lab (Day 3)_
+| [Lesson 4.09][]   | _Magpie Lab (Day 3)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -93,7 +93,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 4.09.4
 
-| [Lesson 4.09]   | _Magpie Lab (Day 4)_
+| [Lesson 4.09][]   | _Magpie Lab (Day 4)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -103,7 +103,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 4.09.5
 
-| [Lesson 4.09]   | _Magpie Lab (Day 5)_
+| [Lesson 4.09][]   | _Magpie Lab (Day 5)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -113,7 +113,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 4.09a.1
 
-| [Lesson 4.09a]   | _Steganography Lab (Day 1)_
+| [Lesson 4.09a][]   | _Steganography Lab (Day 1)_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will complete a long-form lab, using arithmetic expressions, methods, if statements, algorithms, while/for loops, arrays, and ArrayLists.
 | **Assessments** | Students will complete the College Board’s AP CS A Steganography Lab.  Students will answer end of activity Check your understanding and open-ended activity.
@@ -123,7 +123,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 4.09a.2
 
-| [Lesson 4.09a]   | _Steganography Lab (Day 2)_
+| [Lesson 4.09a][]   | _Steganography Lab (Day 2)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -133,7 +133,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 4.09a.3
 
-| [Lesson 4.09a]   | _Steganography Lab (Day 3)_
+| [Lesson 4.09a][]   | _Steganography Lab (Day 3)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -143,7 +143,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 4.09a.4
 
-| [Lesson 4.09a]   | _Steganography Lab (Day 4)_
+| [Lesson 4.09a][]   | _Steganography Lab (Day 4)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -153,7 +153,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 4.09a.5
 
-| [Lesson 4.09a]   | _Steganography Lab (Day 5)_
+| [Lesson 4.09a][]   | _Steganography Lab (Day 5)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -163,7 +163,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 4.09a.6
 
-| [Lesson 4.09a]   | _Steganography Lab (Day 6)_
+| [Lesson 4.09a][]   | _Steganography Lab (Day 6)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -173,11 +173,11 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 4.10
 
-| [Lesson 4.10]  | _Review_
+| [Lesson 4.10][]  | _Review_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will identify weaknesses in their Unit 4 knowledge.
 | **Assessments** | Students will create a personalized list of review topics to guide tonight’s study session.
-| **In Class**    | Review questions  [WS 4.10]  Practice test
+| **In Class**    | Review questions  [WS 4.10][]  Practice test
 | **Reading**     |
 | **Homework**    | Study
 
@@ -187,7 +187,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 |:----------------|:-----------------------------
 | **In Class**    | Test 3 Section I  Test 3 Section II
 
-| [Lesson 5.00]   | _Test Review & Reteach_
+| [Lesson 5.00][]   | _Test Review & Reteach_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
@@ -197,7 +197,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 4.XX
 
-| [Lesson 4.XX]    |_Programming Project(Magpie Alternative)_
+| [Lesson 4.XX][]    |_Programming Project(Magpie Alternative)_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will be able to conduct user-centered research, plan and create, test evaluate and share
 | **Assessments** | Students will apply if-else, String methods to implement a software application and Submit a complete, functional program.
@@ -207,7 +207,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 8.PP
 
-| [Lesson 8.PP]   | _Unit 8 Personal Progress Check_
+| [Lesson 8.PP][]   | _Unit 8 Personal Progress Check_
 |:----------------|:-----------------------------
 | **Objectives**  | Identify weaknesses in student's Unit 8 knowledge
 | **Assessments** | Students will take Unit 8 Personal Progress Check

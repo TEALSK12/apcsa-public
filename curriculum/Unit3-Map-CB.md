@@ -3,40 +3,40 @@
 The following curriculum map is a day-by-day listing of the AP Computer Science course in
 chronological order. The order has been adapted to follow the College Board AP CS A Curriculum. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook.
 
-- [Unit 3 Slides]
-- [Unit 3 Word Bank]
-- [Curriculum Assets]
+- [Unit 3 Slides][]
+- [Unit 3 Word Bank][]
+- [Curriculum Assets][]
 
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
-| [3.09] |Relational Operators & if/else | [Operator Precedence], Grudgeball | 4.1 “Nested if/else” and “Flow of control” | SC 4.7-4.9; E 4.1-4.2 | [CON-1], [CON-2] |  [CON-1.E], [CON-1.H], [CON-2.A], [CON-2.B] |  [CON-1.E.1], [CON-1.E.2], [CON-2.A.1], [CON-2.A.2], [CON-2.A.3], [CON-2.A.3], [CON-2.A.4], [CON-2.A.5] |
-| [3.10] | Nested if/else Statements|[WS 3.10] Teach mini-lessons, Practice-It SC 4.5, 4.6, E 4.3|4.1, “Factoring if/else statements” and “Testing multiple conditions” | E4.4, 4.5 | [CON-1], [CON-2] |  [CON-1.E], [CON-1.H], [CON-2.A], [CON-2.B], | [CON-1.E.1], [CON-1.E.2], [CON-2.A.1], [CON-2.A.2], [CON-2.A.3], [CON-2.A.3], [CON-2.A.4], [CON-2.A.5] |
-| [3.11] | Reducing Redundancy | (Refactoring competition) | Read 4.2 | Outline Chap 4 (omit 4.4, 4.5) |  | | |
-| [3.PP] | Unit 3 Personal Progress Check Boolean Expressions and if Statements |
+| [3.09][] |Relational Operators & if/else | [Operator Precedence][], Grudgeball | 4.1 “Nested if/else” and “Flow of control” | SC 4.7-4.9; E 4.1-4.2 | [CON-1][], [CON-2][] |  [CON-1.E][], [CON-1.H][], [CON-2.A][], [CON-2.B][] |  [CON-1.E.1][], [CON-1.E.2][], [CON-2.A.1][], [CON-2.A.2][], [CON-2.A.3][], [CON-2.A.3][], [CON-2.A.4][], [CON-2.A.5][] |
+| [3.10][] | Nested if/else Statements|[WS 3.10][] Teach mini-lessons, Practice-It SC 4.5, 4.6, E 4.3|4.1, “Factoring if/else statements” and “Testing multiple conditions” | E4.4, 4.5 | [CON-1][], [CON-2][] |  [CON-1.E][], [CON-1.H][], [CON-2.A][], [CON-2.B][], | [CON-1.E.1][], [CON-1.E.2][], [CON-2.A.1][], [CON-2.A.2][], [CON-2.A.3][], [CON-2.A.3][], [CON-2.A.4][], [CON-2.A.5][] |
+| [3.11][] | Reducing Redundancy | (Refactoring competition) | Read 4.2 | Outline Chap 4 (omit 4.4, 4.5) |  | | |
+| [3.PP][] | Unit 3 Personal Progress Check Boolean Expressions and if Statements |
 
 ## 3.09
 
-| [Lesson 3.09]   | _Relational Operators & if/else_ |
+| [Lesson 3.09][]   | _Relational Operators & if/else_ |
 |:----------------|:-----------------------------
 | **Objectives**  | Students will be able to evaluate relational expressions, predict and trace the flow of an if statement. |
 | **Assessments** | Students will evaluate relational expressions and practice correct if statement syntax during a game of Grudgeball. |
-| **In Class** | [Operator Precedence] Grudgeball |
+| **In Class** | [Operator Precedence][] Grudgeball |
 | **Reading**     | 4.1 “_Nested If/Else_” and “_Flow of Control_” |
 | **Homework**    | SC 4.7–9 E 4.1–2 |
 
 ## 3.10
 
-| [Lesson 3.10]   | _Nested if/else Statements_ |
+| [Lesson 3.10][]   | _Nested if/else Statements_ |
 |:----------------|:-----------------------------
 | **Objectives**  | Students will will be able to choose which if statements to use for different problems Students will use correct syntax for the different if statements. |
 | **Assessments** | Students will teach a mini-lesson on sequential or nested if statements. Students will submit several Practice-It questions. |
-| **In Class** | [WS 3.10] Teach mini-lessons Practice-It SC 4.5–6 E 4.3 |
+| **In Class** | [WS 3.10][] Teach mini-lessons Practice-It SC 4.5–6 E 4.3 |
 | **Reading** | 4.1, “_Factoring If/Else Statements_” and “_Testing Multiple Conditions_” |
 | **Homework** | EX 4.4–5 |
 
 ## 3.11
 
-|  [Lesson 3.11]     |  _Reducing Redundancy_
+|  [Lesson 3.11][]     |  _Reducing Redundancy_
 |:----------------|:-----------------------------
 |  **Objectives**    |  Students will simplify code and reduce redundancy by factoring if/else statements and testing multiple conditions simultaneously.
 |  **Assessments**   |  Students will complete a class competition.
@@ -46,7 +46,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 3.PP
 
-| [Lesson 3.PP]   | _Unit 3 Personal Progress Check_
+| [Lesson 3.PP][]   | _Unit 3 Personal Progress Check_
 |:----------------|:-----------------------------
 | **Objectives**  | Identify weaknesses in student's Unit 3 knowledge
 | **Assessments** | Students will take Unit 3 Personal Progress Check
