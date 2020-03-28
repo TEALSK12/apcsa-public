@@ -2,53 +2,53 @@
 
 The following curriculum map is a day-by-day listing of the AP Computer Science course in chronological order. The order has been adapted to follow the College Board AP CS A Curriculum. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook.
 
-- [Unit 5 Slides]
-- [Unit 6 Slides]
-- [Unit 6 Word Bank]
-- [Curriculum Assets]
-- [Text Excel]
+- [Unit 5 Slides][]
+- [Unit 6 Slides][]
+- [Unit 6 Word Bank][]
+- [Curriculum Assets][]
+- [Text Excel][]
 
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
-| [6.01] 01|Inheritance Basics (day 1)|[WS 6.1] Start class poster [Example 6.1]|"9.2 up to ""Dividend Stock Behavior"""|Collect images|[MOD-3]|[MOD-3.B]|[MOD-3.B.1],[MOD-3.B.2],[MOD-3.B.3],[MOD-3.B.4]
-| [6.01] 02|Inheritance Basics (day 2)|Finish class poster, discuss|||[MOD-3]|[MOD-3.B]|[MOD-3.B.1],[MOD-3.B.2],[MOD-3.B.3],[MOD-3.B.4]
-| [6.02] |Overriding Methods & Accessing Inherited Code|[WS 6.2]|Rest of 9.2 starting from “The Object Class.”||[MOD-2],[MOD-3]|[MOD-2.D],[MOD-3.B]|[MOD-2.D.6],[MOD-3.B.10]
-| [6.03] |Interacting with the Object Superclass|Practice-It SC 9.3, 9.4, 9.9, 9.10, E 9.4;[WS 6.3] [Poster 6.3]|9.3 up to “Interpreting Inheritance Code.” ||[MOD-3]|[MOD-3.B]|[MOD-3.B.14],[MOD-3.B.15]
-| [6.04] |Polymorphism|[WS 6.4.1] [WS 6.4.2] SC 9.11-9.17|Rest of 9.4 “Is-a Versus Has-a Relationships.”|SC 9.18, 9.20|[MOD-3]|[MOD-3.D]|[MOD-3.D.1],[MOD-3.D.2],[MOD-3.D.3]
-| [6.05] |Has-a Relationships|[WS 6.5] ValueMeal exercise? |9.5 (Optional if covering Interfaces)||[MOD-3]|[MOD-3.C]|[MOD-3.C.1],[MOD-3.C.2],[MOD-3.C.3],[MOD-3.C.4]
-| [6.06] |Interfaces (optional)|[Interface examples] [Poster 6.6]|9.6 (Optional if covering Abstract classes|Generate own class hierarchy like Financial hierarchy in book
-| [6.07] 01|Programming project (day 1)|PP 9.1, notebook checks||Outline ch 9 | [MOD-2], [MOD-3] | [MOD-2.D], [MOD-3.B], [MOD-3.C], [MOD-3.D]
-| [6.07] 02|Programming project (day 2)|PP 9.1, outline checks|Read and outline Barrons ch 4 (8th or later: ch 5)|
-| [6.07] 03|Programming project (day 3)|PP 9.3||Barrons ch 4 (8th or later: ch 5) exam, self-grade
-| [6.07] 04|Programming project (day 4)|E 9.8|Read and outline Barrons ch 3 (8th or later: ch 4)|
-| [6.07] 05|Programming project (day 5)|Barrons ch 3 (8th or later: ch 4) exam, outline checks|Review ch 9|Submit questions for review
-| [6.07a] 01|Celebrity Lab (day 1)|Celebrity Lab Activity 1, notebook checks||Outline ch 9
-| [6.07a] 02|Celebrity Lab (day 2)|Celebrity Lab Activity 2, outline checks|Read and outline Barrons ch 4 (8th or later: ch 5)|
-| [6.07a] 03|Celebrity Lab (day 3)|Celebrity Lab Activity 3||Barrons ch 4 (8th or later: ch 5) exam, self-grade
-| [6.07a] 04|Celebrity Lab (day 4)|Celebrity Lab Activity 4|Read and outline Barrons ch 3 (8th or later: ch 4)|
-| [6.07a] 05|Celebrity Lab (day 5)|Celebrity Lab Activity 5|Review ch 9|Submit questions for review
-| [6.07a] 06|Celebrity Lab (day 5)|Celebrity Lab Activity 5 (day 2)|Review ch 9|Submit questions for review
-| [6.07a] 07|Celebrity Lab (day 5)|Celebrity Lab Activity 5 (day 3), outline checks|Review ch 9|Submit questions for review
-| [6.08] |Finding & Fixing Errors|(Fix HW)|Review ch 9|Submit questions for review
-| [6.09] |Review|Review questions [WS 6.5] Test practice||Study
-| 6.99 |Unit 6 test|[Test 5 Guide] Test 5 Section I Test 5 Section II||
-| [7.00] |Test Review & Reteach|Review test|13.1 up to “Sorting”|Test corrections
-| 6.XX |[Text Excel]|[Text Excel Student Guide A] [Text Excel Student Guide B] [Text Excel Student Guide C] [Text Excel Teacher Guide]||| [MOD-2], [MOD-3] | [MOD-2.D], [MOD-3.B], [MOD-3.C], [MOD-3.D] |
-| [9.PP] | Unit 9 Personal Progress Check Inheritance |
+| [6.01][] 01|Inheritance Basics (day 1)|[WS 6.1][] Start class poster [Example 6.1][]|"9.2 up to ""Dividend Stock Behavior"""|Collect images|[MOD-3][]|[MOD-3.B][]|[MOD-3.B.1][],[MOD-3.B.2][],[MOD-3.B.3][],[MOD-3.B.4][]
+| [6.01][] 02|Inheritance Basics (day 2)|Finish class poster, discuss|||[MOD-3][]|[MOD-3.B][]|[MOD-3.B.1][],[MOD-3.B.2][],[MOD-3.B.3][],[MOD-3.B.4][]
+| [6.02][] |Overriding Methods & Accessing Inherited Code|[WS 6.2][]|Rest of 9.2 starting from “The Object Class.”||[MOD-2][],[MOD-3][]|[MOD-2.D][],[MOD-3.B][]|[MOD-2.D.6][],[MOD-3.B.10][]
+| [6.03][] |Interacting with the Object Superclass|Practice-It SC 9.3, 9.4, 9.9, 9.10, E 9.4;[WS 6.3][] [Poster 6.3][]|9.3 up to “Interpreting Inheritance Code.” ||[MOD-3][]|[MOD-3.B][]|[MOD-3.B.14][],[MOD-3.B.15][]
+| [6.04][] |Polymorphism|[WS 6.4.1][] [WS 6.4.2][] SC 9.11-9.17|Rest of 9.4 “Is-a Versus Has-a Relationships.”|SC 9.18, 9.20|[MOD-3][]|[MOD-3.D][]|[MOD-3.D.1][],[MOD-3.D.2][],[MOD-3.D.3][]
+| [6.05][] |Has-a Relationships|[WS 6.5][] ValueMeal exercise? |9.5 (Optional if covering Interfaces)||[MOD-3][]|[MOD-3.C][]|[MOD-3.C.1][],[MOD-3.C.2][],[MOD-3.C.3][],[MOD-3.C.4][]
+| [6.06][] |Interfaces (optional)|[Interface examples][] [Poster 6.6][]|9.6 (Optional if covering Abstract classes|Generate own class hierarchy like Financial hierarchy in book
+| [6.07][] 01|Programming project (day 1)|PP 9.1, notebook checks||Outline ch 9 | [MOD-2][], [MOD-3][] | [MOD-2.D][], [MOD-3.B][], [MOD-3.C][], [MOD-3.D][]
+| [6.07][] 02|Programming project (day 2)|PP 9.1, outline checks|Read and outline Barrons ch 4 (8th or later: ch 5)|
+| [6.07][] 03|Programming project (day 3)|PP 9.3||Barrons ch 4 (8th or later: ch 5) exam, self-grade
+| [6.07][] 04|Programming project (day 4)|E 9.8|Read and outline Barrons ch 3 (8th or later: ch 4)|
+| [6.07][] 05|Programming project (day 5)|Barrons ch 3 (8th or later: ch 4) exam, outline checks|Review ch 9|Submit questions for review
+| [6.07a][] 01|Celebrity Lab (day 1)|Celebrity Lab Activity 1, notebook checks||Outline ch 9
+| [6.07a][] 02|Celebrity Lab (day 2)|Celebrity Lab Activity 2, outline checks|Read and outline Barrons ch 4 (8th or later: ch 5)|
+| [6.07a][] 03|Celebrity Lab (day 3)|Celebrity Lab Activity 3||Barrons ch 4 (8th or later: ch 5) exam, self-grade
+| [6.07a][] 04|Celebrity Lab (day 4)|Celebrity Lab Activity 4|Read and outline Barrons ch 3 (8th or later: ch 4)|
+| [6.07a][] 05|Celebrity Lab (day 5)|Celebrity Lab Activity 5|Review ch 9|Submit questions for review
+| [6.07a][] 06|Celebrity Lab (day 5)|Celebrity Lab Activity 5 (day 2)|Review ch 9|Submit questions for review
+| [6.07a][] 07|Celebrity Lab (day 5)|Celebrity Lab Activity 5 (day 3), outline checks|Review ch 9|Submit questions for review
+| [6.08][] |Finding & Fixing Errors|(Fix HW)|Review ch 9|Submit questions for review
+| [6.09][] |Review|Review questions [WS 6.5][] Test practice||Study
+| 6.99 |Unit 6 test|[Test 5 Guide][] Test 5 Section I Test 5 Section II||
+| [7.00][] |Test Review & Reteach|Review test|13.1 up to “Sorting”|Test corrections
+| 6.XX |[Text Excel][]|[Text Excel Student Guide A][] [Text Excel Student Guide B][] [Text Excel Student Guide C][] [Text Excel Teacher Guide][]||| [MOD-2][], [MOD-3][] | [MOD-2.D][], [MOD-3.B][], [MOD-3.C][], [MOD-3.D][] |
+| [9.PP][] | Unit 9 Personal Progress Check Inheritance |
 
 ## 6.01.1
 
-| [Lesson 6.01]   | _Inheritance Basics (Day 1)_
+| [Lesson 6.01][]   | _Inheritance Basics (Day 1)_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will correctly define inheritance Students will use proper syntax to extend a class. Students will illustrate is-a relationships. Students will properly implement constructors of derived classes using super.
 | **Assessments** | Students will complete a Class Hierarchy Poster as indicated in WS 6.1.
-| **In Class**    | [WS 6.1] Start class poster [Example 6.1]
+| **In Class**    | [WS 6.1][] Start class poster [Example 6.1][]
 | **Reading**     | 8.1
 | **Homework**    | Collect images
 
 ## 6.01.2
 
-| [Lesson 6.01]   | _Inheritance Basics (Day 2)_
+| [Lesson 6.01][]   | _Inheritance Basics (Day 2)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -58,57 +58,57 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 6.02
 
-| [Lesson 6.02]   | _Overriding Methods & Accessing Inherited Code_
+| [Lesson 6.02][]   | _Overriding Methods & Accessing Inherited Code_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will replace superclass behavior by writing overriding methods in the subclass. Students will write subclass methods that access superclass methods.
 | **Assessments** | Students will add code to their Class Posters from the previous lesson.
-| **In Class**    | [WS 6.2]
+| **In Class**    | [WS 6.2][]
 | **Reading**     | 
 | **Homework**    |
 
 ## 6.03
 
-| [Lesson 6.03]   | _Interacting with the Object Superclass_
+| [Lesson 6.03][]   | _Interacting with the Object Superclass_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will replace superclass behavior by writing overriding methods in the subclass. Students will write subclass methods that access superclass methods.
 | **Assessments** | Students will complete Practice-It questions Students will complete a worksheet.
-| **In Class**    | Practice-It SC 9.3–4,9–10 E 9.4 [WS 6.3] [Poster 6.3]
+| **In Class**    | Practice-It SC 9.3–4,9–10 E 9.4 [WS 6.3][] [Poster 6.3][]
 | **Reading**     | Rest of 9.2 starting from “_The Object Class_”
 | **Homework**    |
 
 ## 6.04
 
-| [Lesson 6.04]   | _Polymorphism_
+| [Lesson 6.04][]   | _Polymorphism_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will define polymorphism. Students will trace the execution of methods through a class hierarchy and predict output.
 | **Assessments** | Students will complete a Tracing Inheritance guide and complete worksheet 6.4.
-| **In Class**    | [WS 6.4.1] [WS 6.4.2] SC 9.11–17
+| **In Class**    | [WS 6.4.1][] [WS 6.4.2][] SC 9.11–17
 | **Reading**     | 9.3 up to “_Interpreting Inheritance Code_”
 | **Homework**    | SC 9.18,20
 
 ## 6.05
 
-| [Lesson 6.05]   | _Has-a Relationships_
+| [Lesson 6.05][]   | _Has-a Relationships_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will be able to identify and explain why two classes have an is-a or a has-a relationship. Students will be able to create a has-a relationship between two classes.
 | **Assessments** | Students will complete an AP Section II question “_Trio_”
-| **In Class**    | [WS 6.5] ValueMeal exercise
+| **In Class**    | [WS 6.5][] ValueMeal exercise
 | **Reading**     | Rest of 9.4 “_Is-a Versus Has-a Relationships_”
 | **Homework**    |
 
 ## 6.06
 
-| [Lesson 6.06]   | _Interfaces (Optional)_
+| [Lesson 6.06][]   | _Interfaces (Optional)_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will implement and use interfaces.
 | **Assessments** | Students will complete an in-class competition.
-| **In Class**    | Interface examples [Poster 6.6]
+| **In Class**    | Interface examples [Poster 6.6][]
 | **Reading**     | 9.5 (Optional if covering Interfaces)
 | **Homework**    | Generate own class hierarchy like Financial hierarchy in book
 
 ## 6.07.1
 
-| [Lesson 6.07]   | _Programming project (Day 1)_
+| [Lesson 6.07][]   | _Programming project (Day 1)_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will write complex code that uses polymorphism, and inheritance.
 | **Assessments** | Students will submit a program electronically.
@@ -118,7 +118,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 6.07.2
 
-| [Lesson 6.07]   | _Programming project (Day 2)_
+| [Lesson 6.07][]   | _Programming project (Day 2)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -128,7 +128,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 6.07.3
 
-| [Lesson 6.07]   | _Programming project (Day 3)_
+| [Lesson 6.07][]   | _Programming project (Day 3)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -138,7 +138,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 6.07.4
 
-| [Lesson 6.07]   | _Programming project (Day 4)_
+| [Lesson 6.07][]   | _Programming project (Day 4)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -148,7 +148,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 6.07.5
 
-| [Lesson 6.07]   | _Programming project (Day 5)_
+| [Lesson 6.07][]   | _Programming project (Day 5)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -158,7 +158,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 6.07a.1
 
-| [Lesson 6.07a]   | Celebrity Lab (Day 1)_
+| [Lesson 6.07a][]   | Celebrity Lab (Day 1)_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will complete a long-form lab, using classes, objects, two dimensional arrays of objects, array traversing algorithms, program analysis, while/for loops.
 | **Assessments** | Students will complete the College Board’s AP CS A Celebrity Lab. Students will answer end of activity Check your understanding and open-ended activity.
@@ -168,7 +168,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 6.07a.2
 
-| [Lesson 6.07a]   | Celebrity Lab (Day 2)_
+| [Lesson 6.07a][]   | Celebrity Lab (Day 2)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -178,7 +178,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 6.07a.3
 
-| [Lesson 6.07a]   | Celebrity Lab (Day 3)_
+| [Lesson 6.07a][]   | Celebrity Lab (Day 3)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -188,7 +188,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 6.07a.4
 
-| [Lesson 6.07a]   | Celebrity Lab (Day 4)_
+| [Lesson 6.07a][]   | Celebrity Lab (Day 4)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -198,7 +198,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 6.07a.5
 
-| [Lesson 6.07a]   | Celebrity Lab (Day 5)_
+| [Lesson 6.07a][]   | Celebrity Lab (Day 5)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -208,7 +208,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 6.07a.6
 
-| [Lesson 6.07a]   | Celebrity Lab (Day 6)_
+| [Lesson 6.07a][]   | Celebrity Lab (Day 6)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -218,7 +218,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 6.07a.7
 
-| [Lesson 6.07a]   | Celebrity Lab (Day 7)_
+| [Lesson 6.07a][]   | Celebrity Lab (Day 7)_
 |:----------------|:-----------------------------
 | **Objectives**  |
 | **Assessments** |
@@ -228,7 +228,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 6.08
 
-| [Lesson 6.08]   | _Finding & Fixing Errors_
+| [Lesson 6.08][]   | _Finding & Fixing Errors_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will find errors in their returned homework assignments, and correct their code.
 | **Assessments** | Students will re-submit all homework assignments with corrected answers.
@@ -238,11 +238,11 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 6.09
 
-| [Lesson 6.09]   | _Review_
+| [Lesson 6.09][]   | _Review_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will identify weaknesses in their Unit 6 knowledge.
 | **Assessments** | Students will create a personalized list of review topics to guide tonight’s study session.
-| **In Class**    | Review questions [WS 6.5] Test practice
+| **In Class**    | Review questions [WS 6.5][] Test practice
 | **Reading**     | Review ch 9
 | **Homework**    | Study
 
@@ -250,12 +250,12 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 | Unit 6 Test     | _Inheritance and Polymorphism_
 |:----------------|:-----------------------------
-| **Guide**       | [Test 5 Guide]
+| **Guide**       | [Test 5 Guide][]
 | **In Class**    | Test 5 Section I Test 5 Section II
 
 ## 7.00
 
-| [Lesson 7.00]   | _Test Review & Reteach_
+| [Lesson 7.00][]   | _Test Review & Reteach_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 6.
 | **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
@@ -267,11 +267,11 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 | Unit 6 Project  | _Text Excel_
 |:----------------|:-----------------------------
-| **In Class**    | [Text Excel] [Text Excel Student Guide A] [Text Excel Student Guide B] [Text Excel Student Guide C] [Text Excel Teacher Guide]
+| **In Class**    | [Text Excel][] [Text Excel Student Guide A][] [Text Excel Student Guide B][] [Text Excel Student Guide C][] [Text Excel Teacher Guide][]
 
 ## 9.PP
 
-| [Lesson 9.PP]   | _Unit 8 Personal Progress Check_
+| [Lesson 9.PP][]   | _Unit 8 Personal Progress Check_
 |:----------------|:-----------------------------
 | **Objectives**  | Identify weaknesses in student's Unit 9 knowledge
 | **Assessments** | Students will take Unit 9 Personal Progress Check

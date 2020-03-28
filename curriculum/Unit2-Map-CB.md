@@ -3,28 +3,28 @@
 The following curriculum map is a day-by-day listing of the AP Computer Science course in
 chronological order. The order has been adapted to follow the College Board AP CS A Curriculum. The lesson plans numbers follow the original TEALS curriculum which was taught in the order of the Building Java Programs textbook.
 
-- [Unit 3 Slides]
-- [Unit 3 Word Bank]
-- [Unit 5 Slides]
-- [Unit 5 Word Bank]
-- [Curriculum Assets]
+- [Unit 3 Slides][]
+- [Unit 3 Word Bank][]
+- [Unit 5 Slides][]
+- [Unit 5 Word Bank][]
+- [Curriculum Assets][]
 
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
-| [3.01] |Parameters|Practice-It SC 3.1 - 3.3|3.1 up to “Limitations of Parameters”|SC 3.4-3.7 |[MOD-1]|[MOD-1.C], [MOD-1.D], [MOD-1.E]|[MOD-1.C.3], [MOD-1.C.5], [MOD-1.C.6], [MOD-1.D.1], [MOD-1.D.3], [MOD-1.E.2], [MOD-1.E.3], [MOD-1.E.4]|
-| [3.02] |Limitations of Parameters & Multiple Parameters|(Art project)|3.1 “Limitations of Parameters”, “Multiple Parameters”, "Parameters versus Constants"|Jazz up art project and program |[CON-1], [MOD-1]|[CON-1.D], [MOD-1.C], [MOD-1.F], [MOD-1.G] | [CON-1.D.1], [MOD-1.C.4], [MOD-1.F.2], [MOD-1.G.1]|
-| [3.03] |Return Values|Practice-It SC 3.14 - 3.16|"3.1 “Overloading Methods”, 3.2 ""Methods That Return Values"""|SC 3.17, E 3.1 |[VAR-1] |[VAR-1.E]|[VAR-1.E.10] |
-| [3.04] |Programming Project|[WS 3.4]  [Equestria]||SC 3.18, 3.19 | [CON-1], [MOD-1], [VAR-1] | [CON-1.D], [MOD-1.C], [MOD-1.D],[MOD-1.E], [MOD-1.F], [MOD-1.G], [VAR-1.E]
-| [3.05] |Using Objects & String Processing|[WS 3.5]|3.3 up to “Interactive Programs and Scanner Objects”|SC 3.19-3.21 |[CON-1], [MOD-1], [VAR-1]|[CON-1.D], [MOD-1.B], [MOD-1.C], [MOD-1.D],[MOD-1.E], [MOD-1.F], [VAR-1.D], [VAR-1.E]|[CON-1.D.1], [MOD-1.B.1], [MOD-1.B.2], [MOD-1.C.1], [MOD-1.C.2], [MOD-1.D.2], [MOD-1.D.4], [MOD-1.E.5], [MOD-1.E.6], [MOD-1.F.1],[VAR-1.E.13], [VAR-1.E.2], [VAR-1.E.3], [VAR-1.E.4] |
-| [3.06] |Interactive Programs & Scanner Objects|Practice-It SC 3.24 - 3.26, (5th: 3.23 - 3.25); E 3.12, 3.14, 3.15|3.3 “Interactive programming” and “Sample interactive program”|Outline ch 3 (omit 3.4) |
-| [3.07] |Pokémon Battle Programming Project|[WS 3.7]  LP Battle||Summarize notes since last exam | [CON-1], [MOD-1], [VAR-1]|[CON-1.D], [MOD-1.B], [MOD-1.C], [MOD-1.D],[MOD-1.E], [MOD-1.F], [VAR-1.D], [VAR-1.E]|
-| [3.08] |Finding & Fixing Errors|Fix HW, webmaker.org||SC 4.1-4.4 |
-| [2.PPa] | Unit 2 Personal Progress Check Part A Using Objects |
-| [2.PPb] | Unit 2 Personal Progress Check Part B Using Objects |
+| [3.01][] |Parameters|Practice-It SC 3.1 - 3.3|3.1 up to “Limitations of Parameters”|SC 3.4-3.7 |[MOD-1][]|[MOD-1.C][], [MOD-1.D][], [MOD-1.E][]|[MOD-1.C.3][], [MOD-1.C.5][], [MOD-1.C.6][], [MOD-1.D.1][], [MOD-1.D.3][], [MOD-1.E.2][], [MOD-1.E.3][], [MOD-1.E.4][]|
+| [3.02][] |Limitations of Parameters & Multiple Parameters|(Art project)|3.1 “Limitations of Parameters”, “Multiple Parameters”, "Parameters versus Constants"|Jazz up art project and program |[CON-1][], [MOD-1][]|[CON-1.D][], [MOD-1.C][], [MOD-1.F][], [MOD-1.G][] | [CON-1.D.1][], [MOD-1.C.4][], [MOD-1.F.2][], [MOD-1.G.1][]|
+| [3.03][] |Return Values|Practice-It SC 3.14 - 3.16|"3.1 “Overloading Methods”, 3.2 ""Methods That Return Values"""|SC 3.17, E 3.1 |[VAR-1][] |[VAR-1.E][]|[VAR-1.E.10][] |
+| [3.04][] |Programming Project|[WS 3.4][]  [Equestria][]||SC 3.18, 3.19 | [CON-1][], [MOD-1][], [VAR-1][] | [CON-1.D][], [MOD-1.C][], [MOD-1.D][],[MOD-1.E][], [MOD-1.F][], [MOD-1.G][], [VAR-1.E][]
+| [3.05][] |Using Objects & String Processing|[WS 3.5][]|3.3 up to “Interactive Programs and Scanner Objects”|SC 3.19-3.21 |[CON-1][], [MOD-1][], [VAR-1][]|[CON-1.D][], [MOD-1.B][], [MOD-1.C][], [MOD-1.D][],[MOD-1.E][], [MOD-1.F][], [VAR-1.D][], [VAR-1.E][]|[CON-1.D.1][], [MOD-1.B.1][], [MOD-1.B.2][], [MOD-1.C.1][], [MOD-1.C.2][], [MOD-1.D.2][], [MOD-1.D.4][], [MOD-1.E.5][], [MOD-1.E.6][], [MOD-1.F.1][],[VAR-1.E.13][], [VAR-1.E.2][], [VAR-1.E.3][], [VAR-1.E.4][] |
+| [3.06][] |Interactive Programs & Scanner Objects|Practice-It SC 3.24 - 3.26, (5th: 3.23 - 3.25); E 3.12, 3.14, 3.15|3.3 “Interactive programming” and “Sample interactive program”|Outline ch 3 (omit 3.4) |
+| [3.07][] |Pokémon Battle Programming Project|[WS 3.7][]  LP Battle||Summarize notes since last exam | [CON-1][], [MOD-1][], [VAR-1][]|[CON-1.D][], [MOD-1.B][], [MOD-1.C][], [MOD-1.D][],[MOD-1.E][], [MOD-1.F][], [VAR-1.D][], [VAR-1.E][]|
+| [3.08][] |Finding & Fixing Errors|Fix HW, webmaker.org||SC 4.1-4.4 |
+| [2.PPa][] | Unit 2 Personal Progress Check Part A Using Objects |
+| [2.PPb][] | Unit 2 Personal Progress Check Part B Using Objects |
 
 ## 3.01
 
-| [Lesson 3.01]   | _Parameters_
+| [Lesson 3.01][]   | _Parameters_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will correctly construct formal and actual parameters (arguments).  Students will predict the output of programs that use parameters.
 | **Assessments** | Students will teach a mini-lesson explaining the relationship between parameters and values stored in memory.  Students will submit Practice-It questions.
@@ -34,7 +34,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 3.02
 
-| [Lesson 3.02]   | _Limitations of Parameters & Multiple Parameters_
+| [Lesson 3.02][]   | _Limitations of Parameters & Multiple Parameters_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will modify programs using parameters and class constants to create original artworks.
 | **Assessments** | Students will complete an art project and “artist statement” justifying their programming choices.
@@ -44,7 +44,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 3.03
 
-| [Lesson 3.03]   | _Return Values_
+| [Lesson 3.03][]   | _Return Values_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will write a program that returns values.
 | **Assessments** | Students will complete Practice-It questions and write a program to meet a Pokémon Challenge.
@@ -54,27 +54,27 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 3.04
 
-| [Lesson 3.04]   | _Programming Project_
+| [Lesson 3.04][]   | _Programming Project_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will write a program that uses parameters, the math class, and returns values.
 | **Assessments** | Students will submit an Equestria program by the end of class.
-| **In Class**    | [WS 3.4]  [Equestria]
+| **In Class**    | [WS 3.4][]  [Equestria][]
 | **Reading**     | 
 | **Homework**    | SC 3.18–19
 
 ## 3.05
 
-| [Lesson 3.05]   | _Using Objects & String Processing_
+| [Lesson 3.05][]   | _Using Objects & String Processing_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will be able to differentiate between primitive and object types.  Students will apply 0-indexing and string processing techniques to predict the output of a program.
 | **Assessments** | Students will complete WS 3.5
-| **In Class**    | [WS 3.5]
+| **In Class**    | [WS 3.5][]
 | **Reading**     | 3.3 up to “_Interactive Programs and Scanner Objects_”
 | **Homework**    | SC 3.19–21
 
 ## 3.06
 
-| [Lesson 3.06]   | _Interactive Programs & Scanner Objects_
+| [Lesson 3.06][]   | _Interactive Programs & Scanner Objects_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will write programs that accept user input using a scanner object.
 | **Assessments** | Students will complete Practice-It problems.
@@ -84,17 +84,17 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 3.07
 
-| [Lesson 3.07]   | _Pokémon Battle Programming Project_
+| [Lesson 3.07][]   | _Pokémon Battle Programming Project_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will write a program that requests user input and returns data.
 | **Assessments** | Students will write a program that calculates damage done to Pokémon in a battle.
-| **In Class**    | [WS 3.7]  LP Battle
+| **In Class**    | [WS 3.7][]  LP Battle
 | **Reading**     |
 | **Homework**    | Summarize notes since last exam
 
 ## 3.08
 
-| [Lesson 3.08]   | _Finding & Fixing Errors_
+| [Lesson 3.08][]   | _Finding & Fixing Errors_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will find errors and correct their previously submitted homework and classwork assignment.
 | **Assessments** | Students will re-submit all homework assignments with corrected answers.
@@ -104,14 +104,14 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 2.PPa
 
-| [Lesson 2.PPa]   | _Unit 2 Personal Progress Using Objects A_
+| [Lesson 2.PPa][]   | _Unit 2 Personal Progress Using Objects A_
 |:----------------|:-----------------------------
 | **Objectives**  | Identify weaknesses in student's Unit 2 knowledge
 | **Assessments** | Students will take Unit 2 Personal Progress Check Part A
 
 ## 2.PPb
 
-| [Lesson 2.PPb]   | _Unit 2 Personal Progress Using Objects B_
+| [Lesson 2.PPb][]   | _Unit 2 Personal Progress Using Objects B_
 |:----------------|:-----------------------------
 | **Objectives**  | Identify weaknesses in student's Unit 2 knowledge
 | **Assessments** | Students will take Unit 1 Personal Progress Check Part B
