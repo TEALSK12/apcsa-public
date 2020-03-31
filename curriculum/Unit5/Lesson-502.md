@@ -245,6 +245,10 @@ Constantly evaluating and refining your skills will allow you to create more com
 Have students trade and error-check each other’s papers. Error-checking partners should write their
 name on the sheets to share credit for the work.
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 2 Topic Questions 2.1 Objects - Instances of Classes
+
 Accommodation and Differentiation
 ---------------------------------
 
