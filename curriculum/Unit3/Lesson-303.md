@@ -192,6 +192,9 @@ Pay close attention to the base stats for the Pokemons and how health values are
 When you complete your final project in the course, this information will be very important as you apply these concepts to a new battle context that will be a little different than Pokemon.
 
 ---
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 2 Topic Questions 2.6 String Objects and 2.7 String Methods
 
 Accommodation and Differentiation
 ---------------------------------
