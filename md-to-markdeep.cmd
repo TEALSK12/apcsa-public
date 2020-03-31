@@ -25,6 +25,8 @@ for /r . %%f in (*.md) do (
     type >"%%f-pdf.html" ..\markdeep-header.txt
     %sed% >>"%%f-pdf.html" "s/\.md/.md.html/g" "%%f"
     type >>"%%f-pdf.html" ..\markdeep-footer-tocstyle-none.txt
+    
+    @REM --no-margins does not work, had to edit the javascript
     %chrome% --headless --print-to-pdf="%%~pf%%~nf.pdf" --no-margins "%%f-pdf.html"
     del "%%f-pdf.html"
 
