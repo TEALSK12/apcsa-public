@@ -47,7 +47,7 @@ pdftk README.pdf Video-Tutorials.pdf Assets.pdf  Unit1\Unit1-Map.pdf Unit2\Unit2
   Unit9\Lesson-900.pdf Unit9\Lesson-901.pdf ^
   finalproject\CharacterClashProject.pdf ^
   culturedays\culture_day_lesson_a.pdf culturedays\culture_day_lesson_b.pdf culturedays\culture_day_lesson_c.pdf culturedays\culture_day_lesson_d.pdf ^
-  About.pdf CONTRIBUTING.pdf cat output 
+  About.pdf CONTRIBUTING.pdf cat output AP-CSA.pdf
 
 @REM delete all temporary .pdf files  
 move /Y AP-CSA.pdf AP-CSA.save
