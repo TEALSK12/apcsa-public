@@ -182,6 +182,9 @@ As you learn about the other classes and objects created by your classmates, and
 2. As a ticket to leave, have students write down their name, the name of another group’s class, and
    how they would declare an object according to that groups’ constructor.
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 2 Topic Questions 2.2 Creating and Storing Objects
 
 Accommodation and Differentiation
 ---------------------------------
