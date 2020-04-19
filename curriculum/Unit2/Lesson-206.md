@@ -152,7 +152,9 @@ public class Count1000 {
     }
 }
 ```
-
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 4 Topic Questions 4.2 For Loops and 4.4 Nested iteration. 
 
 Accommodation and Differentiation
 ---------------------------------
