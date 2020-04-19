@@ -184,7 +184,7 @@ As you learn about the other classes and objects created by your classmates, and
 
 College Board Topic Questions
 ---------------------------------
-After this lesson, students will be able to answer questions from the College Board Unit 2 Topic Questions 2.2 Creating and Storing Objects
+After this lesson, students will be able to answer questions from the College Board Unit 2 Topic Questions 2.2 Creating and Storing Objects also Unit 5 Topic Questions 5.2 Constructors and 5.7 Static Variables and Metods
 
 Accommodation and Differentiation
 ---------------------------------
