@@ -66,7 +66,7 @@ questions:
 
 College Board Topic Questions
 ---------------------------------
-After this lesson, students will be able to answer questions from the College Board Unit 3 Topic Questions 3.5 Compound Boolean expressions and Unit 5 Topic Questinos 5.1 Nested if-else First Second Third, 5.2 Nested if-else start end and 5.3 Nested if-else statements
+After this lesson, students will be able to answer questions from the College Board Unit 3 Topic Questions 3.5 Compound Boolean expressions, 3.6 Equivaletn Boolean Expressions, and 3.7 Comparing Objects
 
 Accommodation and Differentiation
 ---------------------------------
