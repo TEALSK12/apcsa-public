@@ -253,6 +253,10 @@ The student lesson for Part 2 uses CS Awesomes [Lesson 6.4: Array Algorithms].  
 find the lesson plan and activities to check for student understanding. The teacher lesson plans are accessible by
 joining the [Teaching CSAwesome google group] and navigating to [6.4. Array Algorithms]. The slide deck for this lesson are located on [Dr. Long Nguyen] GitHub at [For Loops]
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 6 Topic Questions 6.4 Developing Algorithms for Arrays.
+
 
 Video
 -----
