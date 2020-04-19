@@ -64,6 +64,9 @@ questions:
 2. ifElseMystery2<br>
 3. season
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 3 Topic Questions 3.5 Compound Boolean expressions.
 
 Accommodation and Differentiation
 ---------------------------------
