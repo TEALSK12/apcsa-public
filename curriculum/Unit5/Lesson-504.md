@@ -178,6 +178,9 @@ suggestions for student groups are included in Accommodations and Differentiatio
 | Presentation includes a non-example as helpful contrast. | Presentation includes a non-example that is marginally helpful. | Presentation includes a non-example that does not add to comprehension. | Presentation includes a non-example that adds confusion, or presentation does not include a non-example. |
 | Presentation includes a helpful tip that is clearly explained and concisely stated. | Presentation includes a helpful tip that is clearly explained or concisely stated. | Presentation includes a helpful tip that is not clearly explained and may include a small error. | Presentation does not include a helpful tip or hint. |
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 5 Topic Questions 5.4 Accessor Methods, 5.5 Mutator Metods, 5.8 Scope and Access.
 
 Accommodation and Differentiation
 ---------------------------------
