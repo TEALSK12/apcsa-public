@@ -232,7 +232,9 @@ k. Called metroCard that stores the number of metrocard rides each student has l
    today → `ArrayList<Integer> metroCard = new ArrayList<Integer>();`
 
 ----------------------------------------------------------------------------------------------------
-
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 7 Topic Questions 7.1 Introduction to ArrayList, 7.2 ArrayList Methods, and 7.3 Traversing ArrayList
 
 Accommodation and Differentiation
 ---------------------------------
