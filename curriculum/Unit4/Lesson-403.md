@@ -210,6 +210,9 @@ None.
 
 4. Administer the student-generated quiz to assess student understanding.
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 6 Topic Questions 6.2 Traversing Arrays
 
 Accommodation and Differentiation
 ---------------------------------
