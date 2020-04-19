@@ -183,6 +183,9 @@ As you complete this activity, think carefully about how arrays could be used in
 At the end of class, consider choosing one group’s whiteboard to evaluate as a demonstration for the
 class.
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 6 Topic Questions 6.1 Array Creation and Acdess
 
 Accommodation and Differentiation
 ---------------------------------
