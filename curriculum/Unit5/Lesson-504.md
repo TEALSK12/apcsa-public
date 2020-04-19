@@ -180,7 +180,7 @@ suggestions for student groups are included in Accommodations and Differentiatio
 
 College Board Topic Questions
 ---------------------------------
-After this lesson, students will be able to answer questions from the College Board Unit 5 Topic Questions 5.4 Accessor Methods, 5.5 Mutator Metods, 5.8 Scope and Access.
+After this lesson, students will be able to answer questions from the College Board Unit 5 Topic Questions 5.4 Accessor Methods, 5.5 Mutator Metods, 5.6. Writine Methods and 5.8 Scope and Access.
 
 Accommodation and Differentiation
 ---------------------------------
