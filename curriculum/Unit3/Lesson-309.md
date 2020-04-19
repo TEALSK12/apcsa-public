@@ -204,6 +204,9 @@ public class Oops4 {
 ```
 
 ----------------------------------------------------------------------------------------------------
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 3 Topic Questions 3.1 Boolean Expressions, 3.2 if Statements and Control Flow, 3.3 if-else statements, and 3.4 else if Statements.
 
 
 Accommodation and Differentiation
