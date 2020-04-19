@@ -247,7 +247,7 @@ name on the sheets to share credit for the work.
 
 College Board Topic Questions
 ---------------------------------
-After this lesson, students will be able to answer questions from the College Board Unit 2 Topic Questions 2.1 Objects - Instances of Classes
+After this lesson, students will be able to answer questions from the College Board Unit 2 Topic Questions 2.1 Objects - Instances of Classes and Unit 5 5.1 Anatomy of a Class and 5.9 this Keyword
 
 Accommodation and Differentiation
 ---------------------------------
