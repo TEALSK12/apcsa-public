@@ -101,6 +101,9 @@ Procedure
 2. If students complete these problems with time to spare, have them complete Practice-It exercise
    “gcd.”
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 4 Topic Questions 4.1 While Loops and 4.5 Informal Code Analysis.
 
 Accommodation and Differentiation
 ---------------------------------
