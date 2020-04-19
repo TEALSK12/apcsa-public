@@ -258,6 +258,9 @@ If time allows, randomly select the worksheet and announce the class grade with 
 congratulating the class on a job well done. If there are any incorrect answers, use the time at the
 end of class to review the correct solutions or take questions.
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 8 Topic Questions 8.1 2D Arrays and 8.2 Traversing 2D Arrays
 
 Accommodation and Differentiation
 ---------------------------------
