@@ -164,6 +164,9 @@ The steps are:
 
 A useful animation of insertion sort can be found on Wikipedia here: (<http://tinyurl.com/ldw8bj6>).
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 7 Topic Questions 7.4 Developing Algorightms using ArrayList.
 
 Accommodation and Differentiation
 ---------------------------------
