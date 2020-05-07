@@ -1,6 +1,6 @@
-**AP CS A - Endorsed Curriculum**
+# AP CS A - Endorsed Curriculum
 
-# Curriculum Introduction
+## Curriculum Introduction
 
 * [Introduction](README.md)
 * [Video Tutorials](Video-Tutorials.md)

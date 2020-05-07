@@ -1,6 +1,6 @@
-**AP CS A**
+# AP CS A
 
-# Curriculum Introduction
+## Curriculum Introduction
 
 * [Introduction](README.md)
 * [Video Tutorials](Video-Tutorials.md)
