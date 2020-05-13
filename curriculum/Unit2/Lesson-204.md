@@ -53,7 +53,7 @@ home if students are confused -- try talking about types as contagious.
 
 ### Introduction to Mixing Types `[10 minutes]`
 
-1. Here are some questions to guide this opening conversation:
+1. Here are some questions to introduce this lecture:
 
    - Have you needed to change a value's type?
    - What would happen if you asked a user for a number?
@@ -83,14 +83,13 @@ home if students are confused -- try talking about types as contagious.
 
 1. Have students begin WS 2.4 alone or quietly in pairs.
 
-2. Students WILL trip up on the mixed type String questions.
+2. Students WILL get confused on the mixed type String questions.
 
-   a. You should definitely cover an example or two of these on the board, and you may find that you
+   a. We recommend that you cover an example or two of these on the board, and you may find that you
       have to switch to whole group instruction for the majority of these.
 
    b. Your priority should be to thoroughly complete several examples, and to see that students can
-      complete these questions correctly without your aid. If you need to slow down your pace, go for
-      it!
+      complete these questions correctly without your aid. If you need to slow down your pace, we recommend doing it.
 
 3. If students are completing the questions on-pace, bring the class together for another round of
    whole-group instruction.
