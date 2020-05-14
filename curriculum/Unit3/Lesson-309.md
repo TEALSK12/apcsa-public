@@ -20,7 +20,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** (optional)
 - **Whiteboard and** **markers**
-- **Classroom copies** of [Operator Precedence][]
+- **Classroom copies Poster 3.16.2:** [Operator Precedence][]
 - **Rules** for grudgeball (see website for details:
   <http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html>)
 
@@ -45,7 +45,7 @@ Procedure
 ---------
 Rather than drill new rules with worksheets, the drilling/activity portion of the class will serve
 to tie the lesson together in the form of a class competition. If space and whiteboard setup allow,
-set up the grudgeball “court” and scoreboard before class begins so as to mystify the students.
+set up the grudgeball “court” and scoreboard before class begins to excite the students when they walk in.
 
 ### Bell-work and Attendance `[5 minutes]`
 
@@ -113,8 +113,8 @@ lecture content will be tested during the game.
 - You can only use a relational operator on primitive data types! (Ask students which types are
   included, which ones are excluded.)
   
-- Review the mod % operator.  Ask the students how they could use the mod operator to check for if a numbe is an odd or even number.
-  Follow up with can a similiar algorithm be used to check if any number is evenly divisible by another.
+- Review the mod % operator.  Ask the students how they could use the mod operator to check for if a number is an odd or even number.
+  Follow up with can a similar algorithm be used to check if any number is evenly divisible by another.
 
 ### Activity: Grudgeball `[35 minutes]` `[Optional]`
 
@@ -220,15 +220,15 @@ finished Grudgeball.
 
 Teacher Prior CS Knowledge
 --------------------------
-- The unary not operator `!` (commonly read as “bang”) is commonly used in logical expressions to
+- The not operator `!` (commonly read as “bang”) is commonly used in logical expressions to
   negate a boolean value. The use of not is unique among the logical operators as it takes only one
-  operand. Not is analogous to the negative sign (`-`) where a minus before a numeric value or
+  operand. Not is comparable to the negative sign (`-`) where a minus before a numeric value or
   expression represents the negative of the value whereas a not (`!`) before a boolean value
   represents the opposite truth value: `true` becomes `false` and `false` becomes `true`.
 
 - Programming languages have a default order of evaluating expressions commonly referred to as
   operator precedence. We usually teach students to be explicit in their logical expressions for
-  clarity and to avoid mistakes. However, a knowledge of the languages precedence rules is valuable
+  clarity and to avoid mistakes. However, a knowledge of the language's precedence rules is valuable
   when both reading and debugging code. See the following for Java’s precedence rules:
   <https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html>. In order to grade
   correctly, it is essential to know Java’s order of operations.
@@ -243,12 +243,12 @@ Conditionals common mistakes:
 Misconceptions
 --------------
 - Confusing the assignment operator (`=`) with the comparison operator (`==`) is one of the most
-  common mistakes done by beginning programmers. Unfortunately, semantically a single equal sign is
+  common mistakes done by beginning programmers. A single equal sign is
   used to denote equality in mathematics and for most students they have been doing math much longer
   than computer science.
 
-  It is important for the teacher when reading code aloud to differentiate single equals as
-  assignment and double equals as comparison. The following would be read as:
+  It is important for the teacher when reading code aloud to differentiate single equals as an
+  assignment and double equals as a comparison. The following would be read as:
 
   ``` Java
   x = 5;      // “x is assigned 5”
