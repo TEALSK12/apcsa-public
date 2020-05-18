@@ -278,8 +278,7 @@ Misconceptions
   ```
 
   For students that ask about compound conditionals, you will need to defer and state they will be
-  covered shortly in a future lesson. For students with prior programming experience inevitably
-  searching for the correct syntax since the English words “and” and “or” do not work in Java.
+  covered shortly in a future lesson. For students with prior programming experience, they will search for the correct syntax because the English words “and” and “or” do not work in Java.
 
 - One common error is mismatched the parentheses:
 
