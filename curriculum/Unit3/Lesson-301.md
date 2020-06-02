@@ -21,7 +21,7 @@ Materials & Prep
 - **Projector and computer**
 - **Whiteboard and** **markers**
 - **Assignments** for 5 student groups
-- **Animated GIF** of software development gone awry (<https://g.redditmedia.com/tPgaGgDXL0yZyLe_4pjr1ZO2_qpIOk8t5eopSErOwVk.gif?w=320&s=c5345cd1b395f874f92f51e2509e97ae>)
+- [**Animated GIF** of software development gone awry](<hhttps://external-preview.redd.it/tPgaGgDXL0yZyLe_4pjr1ZO2_qpIOk8t5eopSErOwVk.gif?s=674376994007c4af35b432d3de7257f1f0d5df57>)
 
 
 Pacing Guide
