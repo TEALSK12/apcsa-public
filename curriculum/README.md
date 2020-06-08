@@ -29,6 +29,12 @@ the past, students who are gifted/talented, students who are otherwise “outsid
 
 ## Accessing the Curriculum
 
+[College Board endorsed curriculum sequence (2020)](SUMMARY-Endorsed.md)
+This curriculum map follows the College Board Sequence of lessons.
+
+[Textbook sequence (before 2020)](SUMMARY.md)
+This curriculum map follows the Building Java Program Textbook sequence of lessons
+
 The AP Computer Science A Curriculum GitBook is located at
 
 <!-- double linebreak necessary for pandoc to render .pdf -->https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details.

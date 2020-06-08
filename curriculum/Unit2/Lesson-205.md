@@ -33,11 +33,10 @@ Pacing Guide
 Procedure
 ---------
 For loops are very confusing in the beginning, so we’ve prepared a student handout that diagrams the
-parts of a loop. Encourage students to take supplemental notes in their notebook and on the handout.
+parts of a loop. Encourage students to take notes in their notebook and on the handout.
 
 Hook your students by betting them $100 that you can write a program that outputs the first 1,000
-integers in fewer than 10 lines of code (adjust these numbers according to the gullibility/jadedness
-of your classroom).
+integers in fewer than 10 lines of code (feel free to adjust these numbers to challenge your students).
 
 ### Bell-work and Attendance `[5 minutes]`
 
@@ -119,7 +118,7 @@ There are several flow chart creation programs available online, these can help 
    - If any of these examples stump your class (and they will), take them through the loop, one
      step at a time, writing down sample output to find the new pattern.
 
-   Loops can be also analyzed to determine how many times they run. This is called run-time analysis or a statement execution count. 
+   Loops can be analyzed to determine how many times they run. This is called run-time analysis or a statement execution count. 
    For each of the above examples, ask how many times each loop executes.
    
 ### Practice Activity `[35 minutes]`
@@ -139,7 +138,7 @@ There are several flow chart creation programs available online, these can help 
    c. Self-Check 2.27: howManyLines
 
 3. If more 25% or more of the class is struggling, return to whole group with the stipulation that
-   students who get it may continue working independently.
+   students who understand it may continue working independently.
 
 
 Accommodation and Differentiation
@@ -185,9 +184,7 @@ Misconceptions
   statement.
 
   When walking through examples of a for loop, it is tempting to use boxes to represent the loop
-  variable. However, as the loop variable changes, the value is repeated erased to indicate the new
-  value. If a table is used and the value of the loop variable crossed out, the students can see the
-  progression of the variable through the iterations.
+  variable. However, as the loop variable changes, the value is erased to indicate the new value. We recommend using a table and crossing out the value of the loop, the students can then see the progression of the variable through the iterations.
 
 
 Video

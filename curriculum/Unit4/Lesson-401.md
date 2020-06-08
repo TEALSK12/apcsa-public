@@ -58,7 +58,7 @@ As you complete this activity, think carefully about how arrays could be used in
 
 ---
 
-1. Open up with the example of daily temperature on the slides.
+1. Open  with the example of daily temperature on the slides.
 
    - Ask the class to build the program, they should reach the point where they calculate the
      average, but are unable to calculate the days above average as they must access the data a
@@ -75,7 +75,7 @@ As you complete this activity, think carefully about how arrays could be used in
      integer index (the position). Ask students what element is stored at index 2, 4, and 7 in this
      string/array.
 
-   - Since an array is an object, you have to construct it (you can’t just declare it as a
+   - Since an array is an object, you must construct it (you can’t just declare it as a
      variable).
 
      ``` Java
@@ -111,7 +111,7 @@ As you complete this activity, think carefully about how arrays could be used in
        int[] numbers = {0, 1, 2, 3, 4, 5};
        ```
 
-2. Both of these sample arrays are only ½ done right now—they’re arrays filled with 0s because Java
+2. Both sample arrays are only ½ done right now—they’re arrays filled with 0s because Java
    auto-initializes arrays to a default value of 0 (for `char`, `double`, and `int`) or `false` (for
    boolean). So our *number* array looks something like this:
 
@@ -146,7 +146,7 @@ As you complete this activity, think carefully about how arrays could be used in
 3. Briefly touch on other types of arrays and common errors.
 
    - You can have arrays of almost anything: `String`, `double`, `boolean`, _etc._ Examples of an
-     instantiated double and boolean array are on the slides. Ask the class what they must change to
+     instantiated double and Boolean array are on the slides. Ask the class what they must change to
      create these arrays.
 
    - Cover the common index-out-of-bounds exception. If the program calls illegal indexes or indexes
@@ -199,7 +199,7 @@ of “array whiteboards” following these instructions:
 
 1. Purchase panel board from your local hardware store (http://tinyurl.com/zgtlbhr)
 
-2. Have the assistant cut the board into long strips that you can use as 1 dimensional arrays.
+2. Have the assistant cut the board into long strips that you can use as 1 dimensional array.
 
    1. If you like to use individual whiteboards to check for student understanding, you can have
       whiteboards cut to individual student squares, then have students line up the little white

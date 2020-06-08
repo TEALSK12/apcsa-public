@@ -47,7 +47,7 @@ Procedure
    - If you want to know what your EV value is (so you can determine strategy and gain the most
      points), you need to compute it yourself given the values that you can see.
 
-   - The formula for calculating HP is on Bulbepedia, and if we do some algebra we can calculate EV.
+   - The formula for calculating HP is on Bulbepedia, and if we do some algebra, we can calculate EV.
      Let’s write a program that will help us calculate EV for any Pokemon stats a trainer enters.
 
 2. Have a student (or sequential students) come to the board to write the console output as you work

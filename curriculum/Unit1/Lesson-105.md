@@ -11,7 +11,7 @@ Overview
 - **Complete** Practice problems
 
 ### Homework — _Students will…_
-- **Read** BJP 1.5
+- **Read** 1.5 from the Building Java Programs textbook
 - **Complete** Ch.1 Exercises 11, 12, 14, 16
 
 
@@ -34,9 +34,9 @@ Pacing Guide
 
 Procedure
 ---------
-This class introduces many new, intertwined concepts in one class period. These concepts will be
+This class introduces many new concepts in one class period. These concepts will be
 re-taught in the next class, but you should be aware that your students have a lot of information to
-absorb in a short amount of time. This lesson will be a good litmus test—if students have been doing
+absorb in a short amount of time. This lesson will be a good assessment to see if students have been doing
 their reading and homework, the class should move along smoothly. If students are not completing the
 readings, you will probably only get through ~50% of the material. If needed, use this opportunity
 to convince students of the pace and commitment level required for the class.
@@ -50,8 +50,8 @@ to convince students of the pace and commitment level required for the class.
    those to pass around too.
 
    Start class off with a whole group discussion about why the instructions or diagrams are
-   confusing, and ask students what strategies could be used to make them easier to understand. The
-   diagram listed in materials is an actual slide from the Pentagon, and illustrates how too much
+   confusing and ask students what strategies could be used to make them easier to understand. The
+   diagram listed in the materials is an actual slide from the Pentagon, and illustrates how too much
    complexity can cause all meaning to be lost. Guide the conversation towards decomposition to begin
    your lecture:
 
@@ -102,8 +102,8 @@ to convince students of the pace and commitment level required for the class.
    - A method call interrupts the sequential execution of statements, causing the program to first execute 
    the statements in the method before continuing. 
    
-   - Once the last statement in the method or constructor has executed or a return statement is executed, 
-   flow of control is returned to the point immediately following where the method or constructor was called. 
+   - Once the last statement in the method has executed or a return statement is executed, 
+   flow of control is returned to the point immediately following where the method was called. 
 
 4. Ask students what simple unit we should build into a static method (have them refer to the
    structure diagram), and have them suggest a name for the method.
@@ -161,18 +161,13 @@ If need be, work on “Tricky” as a whole group, so you can model the correct 
 problem. If your class decides on an algorithm for “predict the output” type questions, have a
 student make that algorithm into a poster for the whole class to refer to.
 
-### Students trade work, check, and hand in `[5 minutes]`
-Have students trade work and check each other’s responses on Practice-It before submitting.
-
-
 Accommodation and Differentiation
 ---------------------------------
-In ELL classrooms, this lesson should be delivered over the course of 2 days. Extra time should be
+In English Language Learner (ELL) classrooms, this lesson should be delivered over the course of 2 days. Extra time should be
 spent drilling static methods, methods that call other methods, and flow of control. Try adapting
 some of the examples from the book to include students’ native language so they can focus on
 structuring code instead of translating language. One easy way to introduce familiar, repetitive
-content would be to have students output the lyrics to a song with a refrain. For a physical
-activity to demonstrate flow-of-control, check out lesson plan 1.6.
+content would be to have students output the lyrics to a song with a refrain.
 
 If you have students who are speeding through this lesson, you should encourage them to:
   - Complete the remaining 
@@ -188,8 +183,8 @@ Teacher Prior CS Knowledge
 --------------------------
 Java has both static and non-static methods. Static methods allow the programmer to call the method
 without creating an object from the class. Non-static methods covered in the 2<sup>nd</sup> half of
-the course requires an object be created from the class before calling the method. Because “Building
-Java Programs” introduces functions before objects, methods in early lesson plans are static. For a
+the course requires an object be created from the class before calling the method. Because the _Building
+Java Programs_ textbook introduces functions before objects, methods in early lesson plans are static. For a
 description of the difference between static and non-static methods see
 http://beginnersbook.com/2013/05/static-vs-non-static-methods/.
 

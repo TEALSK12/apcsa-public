@@ -25,7 +25,7 @@ Materials & Prep
 Since most of today’s lesson follows WS 2.2, you should have read through the worksheet. You may
 prefer to delete the notes from the worksheet (so it is only a sheet of exercises) if you are
 working on developing note-taking skills in your classroom. We recommend leaving these sections in
-for ELL classrooms, so your students can focus on syntax rules instead of translating what they are
+for English Language Learner (ELL) classrooms, so your students can focus on syntax rules instead of translating what they are
 hearing to vocabulary they need to then write in their notebooks.
 
 
@@ -42,7 +42,7 @@ Pacing Guide
 Procedure
 ---------
 
-Since much of this class involves learning syntax, there will be a lot of drilling during the class.
+Since much of this class involves learning syntax, there will be a lot of practicing during the class.
 Try to spice up the lesson by allowing students to work in pairs, or playing soft music in the
 background to put students in the right headspace to settle down for work.
 

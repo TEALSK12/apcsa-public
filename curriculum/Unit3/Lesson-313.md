@@ -75,8 +75,8 @@ Procedure
      }
      ```
 4. Introduce tracing while loops by using a trace table:
-   - Columns represent variables 
-   - Rows represents values variables during each iteration
+   - Columns represent variables
+   - Rows represent values during each iteration
   
    ``` Java
    int n = 172;
@@ -126,19 +126,9 @@ Procedure
 
 Accommodation and Differentiation
 ---------------------------------
-If students are having difficulty tracing while loops, using proper syntax, or predicting the output
-of the loop, you can change the Practice-It exercise to a reciprocal teaching exercise, where ¼ of
-the class does each problem, and they come to the front of the room to explain their solution and
-process to the rest of the class.
 
 If you have students that finished the classwork ahead of time, encourage them to explore do/while
-loops (which are NOT part of the AP subset).
-
-
-Common Mistakes
----------------
-Loops common mistakes:
-<http://interactivepython.org/runestone/static/JavaReview/LoopBasics/lMistakes.html>
+loops
 
 [WS 3.13]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.13.docx
 
