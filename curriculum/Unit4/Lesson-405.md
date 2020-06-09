@@ -223,7 +223,7 @@ If the checklist is thorough, brief, and complete, have students create a handou
 can hang up or share with the class.
 
 To adjust for reading/comprehension challenges in the ELL classroom, consider having students work
-in small groups with the array whiteboards instead of answering questions within Practice It. Give
+in small groups with the array whiteboards. Give
 each group/student a print out with the questions, and have them turn in the worksheets at the end
 of class.
 
