@@ -10,6 +10,7 @@ Overview
 - **Complete** Practice problems
 
 ### Homework — _Students will…_
+- **Read** BJP 3.3 “Interactive programming” and “Sample interactive program”
 - **Outline** Chapter 3, except for BJP 3.4
 
 

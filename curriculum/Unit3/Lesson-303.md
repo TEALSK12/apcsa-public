@@ -11,7 +11,8 @@ Overview
 - **Write** a program to meet a Pokémon Challenge
 
 ### Homework — _Students will…_
-- **Complete** chapter 3 self-check question 17 and exercise #1
+- ** Read ** BJP "3.1 “Overloading Methods”, 3.2 ""Methods That Return Values"""
+- **Complete** chapter 3 self-check question 17 and exercise \#1
 
 
 Materials & Prep
@@ -195,6 +196,9 @@ Pay close attention to the base stats for the Pokemons and how health values are
 When you complete your final project in the course, this information will be very important as you apply these concepts to a new battle context that will be a little different than Pokemon.
 
 ---
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 2 Topic Questions 2.3 Calling a void method, 2.4 Calling a void method with parameter, 2.6 String Objects and 2.7 String Methods
 
 Accommodation and Differentiation
 ---------------------------------

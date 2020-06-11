@@ -14,7 +14,7 @@ Overview
 - **Complete** Practice questions
 
 ### Homework — _Students will…_
-- **Read** BJP 5.2
+- **Read** BJP 5.1 “Random Numbers”
 - **Complete** programming project 1
 
 

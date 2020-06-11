@@ -12,8 +12,8 @@ Overview
 - **Complete** a quiz at the end of Day 2
 
 ### Homework — _Students will…_
-- **Day 1:** Complete self-check questions #15-17 and exercise 3
-- **Day 2:** Read BJP 7.3 and complete self-check questions #19-21
+- **Day 1:** - Read BJP 7.2 up to “Reversing an Array” Complete self-check questions \#15-17 and exercise 3
+- **Day 2:** - Finish 7.2 and complete self-check questions \#19-21
 
 
 Materials & Prep
@@ -210,6 +210,9 @@ None.
 
 4. Administer the student-generated quiz to assess student understanding.
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 6 Topic Questions 6.2 Traversing Arrays
 
 Accommodation and Differentiation
 ---------------------------------

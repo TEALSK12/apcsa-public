@@ -11,7 +11,7 @@ Overview
 - **Complete** Practice questions
 
 ### Homework — _Students will…_
-- **Read** BJP 8.2 up to “Mutators and Accessors”
+- **Read** BJP 8.1
 
 
 Materials & Prep
@@ -21,6 +21,9 @@ Materials & Prep
 - **Classroom copies** of [WS 5.1.1][]
 - **Classroom copies** of the textbook (or just section 8.1)
 - **Bookmarks on student computers (or emailed links) to Bulbapedia**
+- Teacher access to CS Awesome **[Unit 5 Lesson 01 Anatomy of a Java Class Lesson Plan]** Sign up at [CS Awesome AP CSA Java Curriculum]
+- Access to Dr. Nguyen **[Anatomy of a Java Class]** slide deck
+- Access to CS Awesome **[5.1. Anatomy of a Java Class]** 
 
 If you decide to email or link to the Pokemon wiki page, the complete address is:
 <http://bulbapedia.bulbagarden.net/wiki/Main_Page>. Students can also easily search for the page by
@@ -234,6 +237,13 @@ customized classes that they’ve built themselves.
      - **Constructors** — code that initializes each object as its being constructed with the new
        keyword
 
+     - See CS Awesome [Unit 5 Lesson 01 Anatomy of a Java Class Lesson Plan]
+     
+     - The slide deck for this lesson and Using the enhanced for and array algorithms are located on [Dr. Long Nguyen] GitHub 
+     at [Anatomy of a Java Class]. Slides 1-9, 15-16 of can be used to introduce this topic
+     
+     - Have students navigate to CS Awesome [5.1. Anatomy of a Java Class], view the Activity 1 video and complete Activities 2-6.
+     
    - A class uses encapsulation to protect the object’s data from outside access (by the client
      code). You do this by making each field private.
 
@@ -365,3 +375,11 @@ Forum discussion
 
 
 [WS 5.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.1.1.pdf
+
+[Dr. Long Nguyen]: https://longbaonguyen.github.io/courses/apcsa/apjava.html
+[Teaching CSAwesome google group]: https://groups.google.com/forum/#!forum/teaching-csawesome
+[CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials
+
+[Unit 5 Lesson 01 Anatomy of a Java Class Lesson Plan]: https://docs.google.com/document/d/1x4n_pde03dlV_5zyDvvs-SNcCvZi4awnRc5vVgEflaQ/edit?usp=drive_web
+[Anatomy of a Java Class]: https://longbaonguyen.github.io/courses/apcsa/lecture13.ppt
+[5.1. Anatomy of a Java Class]: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/topic-5-1-parts-of-class.html

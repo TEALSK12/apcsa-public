@@ -12,6 +12,7 @@ Overview
 - **Submit** any Applied Design documents and resources.
 
 ### Homework — _Students will…_
+- **Read** BJP 5.3
 - **Outline** Chapter 5 (up to and including BJP 5.3)
 
 

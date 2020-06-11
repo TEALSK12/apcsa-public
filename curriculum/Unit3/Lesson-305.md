@@ -11,15 +11,23 @@ Overview
 - **Complete** WS 3.5
 
 ### Homework — _Students will…_
-- **Read** BJP 3.3 “Interactive Programming” and “Sample Interactive Program”
+- **Read** BJP 3.3 up to “Interactive Programs and Scanner Objects”
 - **Complete** self-check questions 19-21
 
 
 Materials & Prep
 ----------------
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- Day 1
 - **Whiteboard and** **markers**
 - **Classroom copies** of [WS 3.5][]
+- Day 2
+- Teacher access to CS Awesome **[Unit 2 Lesson 8 Wrapper Classes - Integer and Double Lesson Plan]** Sign up at [CS Awesome AP CSA Java Curriculum]
+- Teacher access to CS Awesome **[Unit 2 Lesson 9 Using The Math Class Lesson Plan]** 
+- Access to Dr. Nguyen **[Math Class And Wrapper Classes]** slide deck
+- Access to CS Awesome **[Lesson 2.8 Wrapper Classes - Integer and Double]** 
+- Access to CS Awesome **[Lesson 2.9. Using the Math Class]** 
+
 
 The handouts for this lesson include notes as well as exercises. If you are working on developing
 note-taking skills in your classroom, you may prefer to delete the notes from the worksheet (so it
@@ -29,7 +37,7 @@ If you teach in an ELL or SpEd classroom, leaving the worksheet as-is will allow
 on content instead of translating notes into their notebooks.
 
 
-Pacing Guide
+Pacing Guide: Day 1
 ------------
 | Section                                     | Total Time |
 |---------------------------------------------|-----------:|
@@ -39,7 +47,18 @@ Pacing Guide
 | Paper selection & grade announcement        |       3min |
 
 
-Procedure
+Pacing Guide: Day 2
+------------
+| Section                                         | Total Time |
+|-------------------------------------------------|-----------:|
+| Bell-work and attendance                        |       5min |
+| Review of Math class and Intro Random Class     |    5–10min |
+| Intro of Integer/Double Class and Autoboxing    |    5–10min |
+| CS Awesome Activities from Lesson 2.8 & 2.9     |   30–40min |
+
+
+
+Procedure Day 1
 ---------
 There are several ways you can teach today’s class. You should first check in with your students to
 see how prepared they are for today’s lesson. If students understood most of what they read for
@@ -58,7 +77,7 @@ original worksheet).
 
 #### Content - Advanced programming structures
         
-This activity introduces the concept of objects and classes. This means we are going into some more advanced and complex programming ideas and structures. As you learn about these things, its important to read through the instructions carefully and to think about the code that you are writing in your programs.
+This activity introduces the concept of objects and classes. This means we are going into some more advanced and complex programming ideas and structures. As you learn about these things, it's important to read through the instructions carefully and to think about the code that you are writing in your programs.
 
 Using advanced programming structures can be tricky, but it will allow you to create some very cool projects!
 
@@ -109,7 +128,7 @@ Using advanced programming structures can be tricky, but it will allow you to cr
    all topics and allow students to do all Round Robin exercises at the end of the introduction.)
 
 In reviewing substring, indexOf, toUpperCase, toLowerCase, and equals methods, work through some
-additional examples on the board if needed. If providing the students the complete worksheet (with
+additional examples on the board if needed. If providing students the complete worksheet (with
 notes), encourage them to highlight, circle, or transcribe the definitions or syntax examples into
 their notebook.
 
@@ -143,13 +162,16 @@ text isn’t found. (Answer: `-1` is never a valid index into a String.)
 
    d. Exercise 4 questions (the last set of 4 questions) should take ~1 minute each.
 
-   Adjust the timing on these questions as needed, but try to keep a brisk pace. Part of the
+   Adjust the timing on these questions as needed but try to keep a brisk pace. Part of the
    engagement factor is the sense of urgency.
 
 ### Paper selection and grade announcement `[3 minutes]`
 If time allows, randomly select the worksheet and announce the class grade with a bit of fanfare,
 congratulating the class on a job well done.
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 2 Topic Questions 2.8 Wrapper Classes
 
 Accommodation and Differentiation
 ---------------------------------
@@ -175,6 +197,29 @@ Misconceptions
   is inconsistent in its treatment of strings.
 
 
+Procedure Day 2
+---------
+The AP CS A curriculum is circular in nature where topics are introduced and then reintroduced later in
+the semester.  The Integer and Double classes are introduced here as part of the using classes lesson.
+Students will use them when in a subsequent unit on ArrayLists when it will be necessary to create Integer
+and Double objects to store primitives in an ArrayList.  Autoboxing and unboxing is introduced here to 
+simplify the need for explicitly calling the constructors.
+
+The Math class is introduced here with the inclusion of the Random class.
+
+### Bell-work and Attendance \[5 minutes\]
+
+### Introduction of Integer/Double Classes and Autoboxing \[10 minutes\]
+The student lesson for Part 2 uses CS Awesomes [Lesson 2.8 Wrapper Classes - Integer and Double].  There you will
+find the lesson plan and activities to check for student understanding. The teacher lesson plans are accessible by
+joining the [Teaching CSAwesome google group] and navigating to [Unit 2 Lesson 8 Wrapper Classes - Integer and Double Lesson Plan]. The slide deck for this lesson and Using the Math Class are located on [Dr. Long Nguyen] GitHub at [Math Class And Wrapper Classes]
+
+### Introduction of Using the Math Class \[10 minutes\]
+The student lesson for Part 2 uses CS Awesomes [Lesson 2.9. Using the Math Class].  There you will
+find the lesson plan and activities to check for student understanding. The teacher lesson plans are accessible by
+joining the [Teaching CSAwesome google group] and navigating to [Unit 2 Lesson 9 Using The Math Class Lesson Plan].
+
+
 Videos
 ------
 - BJP 3-3, _Working with Strings Values_<br>
@@ -193,3 +238,11 @@ Forum discussion
 
 
 [WS 3.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.5.docx
+[Dr. Long Nguyen]: https://longbaonguyen.github.io/courses/apcsa/apjava.html
+[Math Class And Wrapper Classes]: https://longbaonguyen.github.io/courses/apcsa/lecture7.ppt
+[Lesson 2.8 Wrapper Classes - Integer and Double]: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-8-IntegerDouble.html
+[Lesson 2.9. Using the Math Class]: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-9-Math.html
+[Unit 2 Lesson 8 Wrapper Classes - Integer and Double Lesson Plan]: https://docs.google.com/document/d/1ewEzB4VZbhmJWiuZSHZkzftXs-sumpVPYemS_h3zCys/edit
+[Unit 2 Lesson 9 Using The Math Class Lesson Plan]: https://docs.google.com/document/d/1mS8wU0lk89oQUh41DQ-pr-RcX7Z6_PjN2MvebGLlVzQ/edit#heading=h.h9j0e8nxmv2f
+[Teaching CSAwesome google group]: https://groups.google.com/forum/#!forum/teaching-csawesome
+[CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials

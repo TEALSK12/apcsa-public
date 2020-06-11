@@ -11,7 +11,7 @@ Overview
 - **Trace and construct** nested loops in practice problems.
 
 ### Homework — _Students will…_
-- **Read** BJP 2.4 “Scope” and “Pseudocode”
+- **Read** BJP 2.3 “Nested for Loops”
 - **Complete** self-check questions 26, 27 (4<sup>th</sup> edition 29, 30) and exercise 4
 
 
@@ -152,7 +152,9 @@ public class Count1000 {
     }
 }
 ```
-
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 4 Topic Questions 4.2 For Loops and 4.4 Nested iteration. 
 
 Accommodation and Differentiation
 ---------------------------------

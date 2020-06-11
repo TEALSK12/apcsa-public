@@ -18,16 +18,21 @@ Overview
 
 Materials & Prep
 ----------------
+- Day 1
 - **Projector and computer** with this page: <http://www.legendarypokemon.net/javacalc.html>
 - **Classroom whiteboard & markers**
 - **Array whiteboard & markers**
 - **Small group assignments & seating arrangements** (if possible)
+- Day 2
+- Teacher access to CS Awesome **[Lesson 6.4: Array Algorithms]** Sign up at [CS Awesome AP CSA Java Curriculum]
+- Access to Dr. Nguyen **[For Loops]** slide deck
+- Access to CS Awesome **[6.4. Array Algorithms]** 
 
 If your classroom structure allows it, arrange array whiteboards and markers at stations where
 students can gather around them to model the concepts you teach during your intro. Ideally, students
 will be standing huddled around the arrays, actively moving and rearranging items.
 
-Pacing Guide
+Pacing Guide: Day 1
 ------------
 | Section                              | Total Time |
 |--------------------------------------|-----------:|
@@ -36,8 +41,14 @@ Pacing Guide
 | Practice Questions                |   25–30min |
 | Error-checking algorithm (see below) |      10min |
 
+Pacing Guide: Day 2
+------------
+| Section                              | Total Time |
+|--------------------------------------|-----------:|
+| Bell-work and attendance             |       5min |
+| CS Awesome Array Algoritms 6.4       |   35–45min |
 
-Procedure
+Procedure 1
 ---------
 Hook your class today by having them in small groups with the array whiteboards during your
 Introduction. As you write out the code samples on the whiteboard, pause at different stages to
@@ -227,6 +238,22 @@ in small groups with the array whiteboards. Give
 each group/student a print out with the questions, and have them turn in the worksheets at the end
 of class.
 
+Procedure Day 2
+---------
+This lesson continues with array algorithms with examples from the College Board AP CS A examps free response questions using
+CS Awesome's Lesson 6.4 Array Algorithms.
+
+### Bell-work and Attendance \[5 minutes\]
+
+### CS Awesome Array Algoritms 6.4  \[35-40 minutes\]
+The student lesson for Part 2 uses CS Awesomes [Lesson 6.4: Array Algorithms].  There you will
+find the lesson plan and activities to check for student understanding. The teacher lesson plans are accessible by
+joining the [Teaching CSAwesome google group] and navigating to [6.4. Array Algorithms]. The slide deck for this lesson are located on [Dr. Long Nguyen] GitHub at [For Loops]
+
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 6 Topic Questions 6.4 Developing Algorithms for Arrays.
+
 
 Video
 -----
@@ -246,3 +273,11 @@ Video
 Forum discussion
 ----------------
 [Lesson 4.05 Shifting Values & Arrays of Objects (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-4/4-05-shifting-values-arrays-of-objects)
+
+[Dr. Long Nguyen]: https://longbaonguyen.github.io/courses/apcsa/apjava.html
+[Teaching CSAwesome google group]: https://groups.google.com/forum/#!forum/teaching-csawesome
+[CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials
+
+[Lesson 6.4: Array Algorithms]: https://docs.google.com/document/d/1GF1h9DPMPgIb2timBAh7WbQYOdsm_5AG4PEjBa2LhJg/edit
+[For Loops]: https://longbaonguyen.github.io/courses/apcsa/lecture11.ppt
+[6.4. Array Algorithms]: https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/topic-6-4-array-algorithms.html

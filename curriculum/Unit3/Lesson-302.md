@@ -10,7 +10,7 @@ Overview
 - **Complete** an art project and “artist statement” justifying their programming choices
 
 ### Homework — _Students will…_
-- **Read** BJP 3.1 “Parameters versus Constants” and “Overloading Methods”
+- **Read** BJP 3.1 “Limitations of Parameters”, “Multiple Parameters”, "Parameters versus Constants"
 - **Jazz up** art projects and programs
 
 
@@ -150,6 +150,9 @@ a 2 period coding session. The more opportunity students have to manipulate code
 the more intuition they will have down the road as they internalize what individual pieces of code
 mean.
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 2 Topic Questions 2.9 Using Math Class
 
 Accommodation and Differentiation
 ---------------------------------

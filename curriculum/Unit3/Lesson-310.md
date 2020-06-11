@@ -12,7 +12,7 @@ Overview
 - **Submit** several practice questions
 
 ### Homework — _Students will…_
-- **Read** BJP 4.1 “Factoring if/else Statements” and “Testing Multiple Conditions”
+- **Read** BJP 4.1, “Factoring if/else statements” and “Testing multiple conditions”
 - **Complete** exercises 4 and 5
 
 
@@ -64,6 +64,9 @@ questions:
 2. Self-Check 4.6: ifElseMystery2
 3. Exercise 4.3: season
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 3 Topic Questions 3.5 Compound Boolean expressions, 3.6 Equivaletn Boolean Expressions, and 3.7 Comparing Objects
 
 Accommodation and Differentiation
 ---------------------------------

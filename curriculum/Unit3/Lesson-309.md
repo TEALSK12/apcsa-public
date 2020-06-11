@@ -12,7 +12,7 @@ Overview
   grudgeball.
 
 ### Homework — _Students will…_
-- **Read** BJP 4.1 “Nested if/else” and “Object Equality”
+- **Read** BJP 4.1 “Nested if/else” and “Flow of control”
 - **Complete** self-check questions 7–9 and exercises 1 & 2
 
 
@@ -207,6 +207,9 @@ public class Oops4 {
 ```
 
 ----------------------------------------------------------------------------------------------------
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 3 Topic Questions 3.1 Boolean Expressions, 3.2 if Statements and Control Flow, 3.3 if-else statements, and 3.4 else if Statements.
 
 
 Accommodation and Differentiation

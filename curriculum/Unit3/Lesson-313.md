@@ -13,8 +13,8 @@ Overview
 - **Complete** Practice questions
 
 ### Homework — _Students will…_
-- **Read** BJP 5.1 “Random Numbers”
-- **Complete** self-check questions #1-4 and exercise 2
+- **Read** BJP 5.1 (skip “do/while Loops”)
+- **Complete** self-check questions \#1-4 and exercise 2
 
 
 Materials & Prep
@@ -123,6 +123,9 @@ Procedure
 
 2. If students complete these problems with time to spare, have them complete  Exercise 5.2: gcd.
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 4 Topic Questions 4.1 While Loops and 4.5 Informal Code Analysis.
 
 Accommodation and Differentiation
 ---------------------------------

@@ -12,7 +12,7 @@ Overview
 - **Develop** a personal checklist for spotting syntax errors
 
 ### Homework — _Students will…_
-- **Read** BJP 1.4
+- **Read** BJP 1.3
 - **Complete** Ch.1 Exercises 6, 7, 9
 
 

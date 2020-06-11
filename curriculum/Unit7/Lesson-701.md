@@ -10,7 +10,6 @@ Overview
 - **Complete** some short-answer questions.
 
 ### Homework — _Students will…_
-- **Read** BJP 13.1 “Sorting.”
 - **Complete** self-check questions \#4-6 and exercises \#1-3
 
 
