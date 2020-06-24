@@ -12,6 +12,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [3.09][] |Relational Operators & if/else | [Operator Precedence][], Grudgeball | 4.1 up to “nested if else statements” | SC 4.7-4.9; E 4.1-4.2 | [CON-1][], [CON-2][] |  [CON-1.E][], [CON-1.H][], [CON-2.A][], [CON-2.B][] |  [CON-1.E.1][], [CON-1.E.2][], [CON-2.A.1][], [CON-2.A.2][], [CON-2.A.3][], [CON-2.A.3][], [CON-2.A.4][], [CON-2.A.5][] |
 | [3.10][] | Nested if/else Statements|[WS 3.10][] Teach mini-lessons, Practice-It SC 4.5, 4.6, E 4.3|4.1 “Nested if/else” and “Flow of control” | E4.4, 4.5 | [CON-1][], [CON-2][] |  [CON-1.E][], [CON-1.H][], [CON-2.A][], [CON-2.B][], | [CON-1.E.1][], [CON-1.E.2][], [CON-2.A.1][], [CON-2.A.2][], [CON-2.A.3][], [CON-2.A.3][], [CON-2.A.4][], [CON-2.A.5][] |
 | [3.11][] | Reducing Redundancy | (Refactoring competition) | 4.1 “Factoring if/else statements” and “Testing multiple conditions” | Outline Chap 4 (omit 4.4, 4.5) |  | | |
+|  [3.16][].1  | Boolean Logic                | Practice-It SC 5.27, 5.29 [WS 3.16][] (RPS, Pig) [DeMorgan’s Law][], [Poster 3.16.1][], [Poster 3.16.2][]  | 5.3  | Outline   Chap 5 (through 5.3)   |
+|  [3.16][].2  | Boolean Logic (Day 2)        |   |   |    |
 | [3.PP][] | Unit 3 Personal Progress Check Boolean Expressions and if Statements |
 
 ## 3.09
@@ -44,6 +46,21 @@ chronological order. The order has been adapted to follow the College Board AP C
 |  **Reading**       |  4.2
 |  **Homework**      |  Outline   Chap 4 (omit 4.4, 4.5)
 
+## 3.16.1
+
+|  [Lesson 3.16][]     |  _Boolean Logic (Day 1)_
+|:----------------|:-----------------------------
+|  **Objectives**    |  Students will work in pairs to write a game that plays Rock Paper Scissors.
+|  **Assessments**   |  Students will submit a program at the end of 2 or 3 class periods.
+|  **In Class**      |  Practice-It SC 5.27, 5.29 [WS 3.16][] (RPS, Pig) [DeMorgan’s Law][] [Poster 3.16.1][] [Poster 3.16.2][]
+|  **Reading**       |  5.3
+|  **Homework**      |  Outline   Chap 5 (through 5.3)
+
+## 3.16.2
+
+|  [Lesson 3.16][]     |  _Boolean Logic (Day 2)_
+|:----------------|:-----------------------------
+
 ## 3.PP
 
 | [Lesson 3.PP][]   | _Unit 3 Personal Progress Check_
@@ -61,6 +78,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [3.09]: Unit3/Lesson-309.md
 [3.10]: Unit3/Lesson-310.md
 [3.11]: Unit3/Lesson-311.md
+[3.16]: Unit3/Lesson-316.md
 
 [Algorithm for Solving Problems]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx
 [Curriculum Assets]: ../Assets.md
@@ -71,6 +89,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [Lesson 3.09]: Unit3/Lesson-309.md
 [Lesson 3.10]: Unit3/Lesson-310.md
 [Lesson 3.11]: Unit3/Lesson-311.md
+[Lesson 3.16]: Unit3/Lesson-316.md
 
 [3.PP]: Lesson-3PP.md
 [Lesson 3.PP]: Lesson-3PP.md
