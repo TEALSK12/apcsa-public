@@ -29,6 +29,15 @@ chronological order. The order has been adapted to follow the College Board AP C
 | 4.99 |Unit 4 test|Test 3 Section I  Test 3 Section II||
 | [5.00][]   |Test Review & Reteach|Review test| |Test corrections
 | [4.XX][] |[Programming Project][](Magpie Alternative)| | | |  [VAR-2][], [CON-2][] | [VAR-2.F][], [VAR-2.G][], [CON-2.N][]
+| [5.06][] 01|[Picture Lab][] (day 1)|Picture Lab Activity 1 & 2  Picture Lab||Summarize notes since last exam| | | |
+| [5.06][] 02|[Picture Lab][] (day 2)|Picture Lab Activity 3 & 4, notebook checks||Outline ch 8| | | |
+| [5.06][] 03|[Picture Lab][] (day 3)|Picture Lab Activity 5, notebook checks|| | | |
+| [5.06][] 04|[Picture Lab][] (day 4)|Picture Lab Activity 5 & 6, notebook checks|Read and highlight Barrons ch 2, skip this keyword|Barrons ch 2 exam, skip #20| | | |
+| [5.06][] 05|[Picture Lab][] (day 5)|Picture Lab Activity 6, Barron's checks|| | | |
+| [5.06][] 06|[Picture Lab][] (day 6)|Picture Lab Activity 7|Read and highlight Barrons ch 5|SC 8.28, 8.30| | | |
+| [5.06][] 07|[Picture Lab][] (day 7)|Picture Lab Activity 8||Finish Picture Lab Activity 8| | | |
+| [5.06][] 08|[Picture Lab][] (day 8)|Picture Lab Activity 9|8.5|Cont. Picture Lab Activity 9| | | |
+| [5.06][] 09|[Picture Lab][] (day 9)|Picture Lab Activity 9, cont.||Submit questions for review| | | |
 | [8.PP][] | Unit 8 Personal Progress Check 2D Array |
 
 ## 4.06
@@ -205,6 +214,96 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Reading**     |
 | **Homework**    | Conduct user-centered research to find design opportunities and barriers.
 
+## 5.06.1
+
+| [Lesson 5.06][]   | _Picture Lab (Day 1)_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will complete a long-form lab, using two dimensional arrays of objects, array traversing algorithms, program analysis, binary numbers, and inheritance.
+| **Assessments** | Picture Lab
+| **In Class**    | Picture Lab Activity 1 & 2  Picture Lab
+| **Reading**     |
+| **Homework**    | Summarize notes since last exam
+
+## 5.06.2
+
+| [Lesson 5.06][]   | _Picture Lab (Day 2)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Picture Lab Activity 3 & 4  Notebook checks
+| **Reading**     |
+| **Homework**    | Outline ch 8
+
+## 5.06.3
+
+| [Lesson 5.06][]   | _Picture Lab (Day 3)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Picture Lab Activity 5  Notebook checks
+| **Reading**     | 
+| **Homework**
+
+## 5.06.4
+
+| [Lesson 5.06][]   | _Picture Lab (Day 4)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Picture Lab Activity 5 & 6  Notebook checks
+| **Reading**     | Read and highlight Barrons ch 2, skip `this` keyword
+| **Homework**    | Barrons ch 2 exam (skip #20)
+
+## 5.06.5
+
+| [Lesson 5.06][]   | _Picture Lab (Day 5)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Picture Lab Activity 6  Barron's checks
+| **Reading**     | 
+| **Homework**    |
+
+## 5.06.6
+
+| [Lesson 5.06][]   | _Picture Lab (Day 6)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Picture Lab Activity 7
+| **Reading**     | Read and highlight Barrons ch 5
+| **Homework**    | SC 8.28,30
+
+## 5.06.7
+
+| [Lesson 5.06][]   | _Picture Lab (Day 7)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Picture Lab Activity 8
+| **Reading**     | 
+| **Homework**    | Finish Picture Lab Activity 8
+
+## 5.06.8
+
+| [Lesson 5.06][]   | _Picture Lab (Day 8)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Picture Lab Activity 9
+| **Reading**     | 8.5
+| **Homework**    | Cont. Picture Lab Activity 9
+
+## 5.06.9
+
+| [Lesson 5.06][]   | _Picture Lab (Day 9)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Picture Lab Activity 9, cont.
+| **Reading**     |
+| **Homework**    | Submit questions for review
+
 ## 8.PP
 
 | [Lesson 8.PP][]   | _Unit 8 Personal Progress Check_
@@ -233,6 +332,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [4.10]: Unit4/Lesson-410.md
 [4.XX]: Unit4/Lesson-4XX.md
 [5.00]: Unit5/Lesson-500.md
+[5.06]: Unit5/Lesson-506.md
 [Curriculum Assets]: ../Assets.md
 
 [Lesson 4.00]: Unit4/Lesson-400.md
@@ -249,7 +349,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [Lesson 4.10]: Unit4/Lesson-410.md
 [Lesson 4.XX]: Unit4/Lesson-4XX.md
 [Lesson 5.00]: Unit5/Lesson-500.md
-
+[Lesson 5.06]: Unit5/Lesson-506.md
 [8.PP]: Lesson-8PP.md
 [Lesson 8.PP]: Lesson-8PP.md
 
