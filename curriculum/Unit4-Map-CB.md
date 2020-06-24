@@ -24,8 +24,6 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  [3.13][]    | while Loops                  | Practice-It SC 5.1 - 5.4, E 5.2 [WS 3.13][]  | 5.1 skip “do/while loops” | E 5.2 | [CON-2][]  | [CON-2.C][], [CON-2.D][], [CON-2.E][] | [CON-2.C.1][], [CON-2.C.2][], [CON-2.C.3][], [CON-2.C.4][], [CON-2.E.4][] |
 |  [3.14][]    | Random Numbers               | Practice-It SC 5.5-5.7; E 5.4, 5.5  |   5.1 ”Random numbers” | PP 5.1   | [CON-2][] | [CON-2.D][], [CON-2.E][] | [CON-2.E.5][] |
 |  [3.15][]    | Fencepost & Sentinel Loops   | [WS 3.15][] Tea  Chap mini-lessons  |  5.2 | E 5.6, 5.8   | [CON-1][] | [CON-1.F][] |[CON-1.F.1][]
-|  [3.16][].1  | Boolean Logic                | Practice-It SC 5.27, 5.29 [WS 3.16][] (RPS, Pig) [DeMorgan’s Law][], [Poster 3.16.1][], [Poster 3.16.2][]  | 5.3  | Outline   Chap 5 (through 5.3)   |
-|  [3.16][].2  | Boolean Logic (Day 2)        |   |   |    |
 |  [3.17][]    | Finding & Fixing Errors      | (Fix HW)  | Review   Chap 3-5  | Submit questions for review   |
 |  [3.18][].1  | Consumer Review Lab (day 1)  | Consumer Review Lab Activity 1  |   |
 |  [3.18][].2  | Consumer Review Lab (day 2)  | Consumer Review Lab Activity 2  |   |
@@ -165,21 +163,6 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  **In Class**      |  [WS 3.15][] Tea  Chap mini-lessons
 |  **Reading**       |  5.2
 |  **Homework**      |  EX 5.6,8
-
-## 3.16.1
-
-|  [Lesson 3.16][]     |  _Boolean Logic (Day 1)_
-|:----------------|:-----------------------------
-|  **Objectives**    |  Students will work in pairs to write a game that plays Rock Paper Scissors.
-|  **Assessments**   |  Students will submit a program at the end of 2 or 3 class periods.
-|  **In Class**      |  Practice-It SC 5.27, 5.29 [WS 3.16][] (RPS, Pig) [DeMorgan’s Law][] [Poster 3.16.1][] [Poster 3.16.2][]
-|  **Reading**       |  5.3
-|  **Homework**      |  Outline   Chap 5 (through 5.3)
-
-## 3.16.2
-
-|  [Lesson 3.16][]     |  _Boolean Logic (Day 2)_
-|:----------------|:-----------------------------
 
 ## 3.17
 
@@ -324,7 +307,6 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 [3.13]: Unit3/Lesson-313.md
 [3.14]: Unit3/Lesson-314.md
 [3.15]: Unit3/Lesson-315.md
-[3.16]: Unit3/Lesson-316.md
 [3.17]: Unit3/Lesson-317.md
 [3.18]: Unit3/Lesson-318.md
 [3.19]: Unit3/Lesson-319.md
@@ -352,7 +334,6 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 [Lesson 3.13]: Unit3/Lesson-313.md
 [Lesson 3.14]: Unit3/Lesson-314.md
 [Lesson 3.15]: Unit3/Lesson-315.md
-[Lesson 3.16]: Unit3/Lesson-316.md
 [Lesson 3.17]: Unit3/Lesson-317.md
 [Lesson 3.18]: Unit3/Lesson-318.md
 [Lesson 3.19]: Unit3/Lesson-319.md
