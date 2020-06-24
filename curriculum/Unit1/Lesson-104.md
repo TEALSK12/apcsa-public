@@ -20,7 +20,8 @@ Overview
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
 | [1.04][] | _Common Errors & Comments_            | [WS 1.4][] | 1.3 | EX 1.6–9|[MOD-2][]|[MOD-2.B][]|[MOD-2.B.1][],[MOD-2.B.2][]|
 
-Students will start compuational thinking skills [MOD-2][] practice 2: Code logic [MOD-2.B][] by completing the code tracing in [WS 1.4][] to determine output.
+Students will start compuational thinking skills Practice 2: Code logic and 4 Code Testing by completing [WS 1.4][].
+Students will to determine output by tracing code and identify errors in existing code.
 Code logic is 40-45% of the AP exam.  Student can expect questions similiar to the following example from the AP Computer Science A CED:
 
 ``` Java
