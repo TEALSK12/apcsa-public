@@ -16,15 +16,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [5.03][]   |Object Initialization: Constructors|[WS 5.3.1][]<br>[WS 5.3.2][]|8.3 up to “The Keyword this.”||[MOD-2][]|[MOD-2.A][],[MOD-2.B][],[VAR-1.H][]|[MOD-2.A.1][],[MOD-2.A.5][],[MOD-2.A][],[MOD-2.B.2][],[MOD-2.B.3][][MOD-2.B.5][],[VAR-1.H.1][],[VAR-1.H.2][]|
 | [5.04][]   |Encapsulation|[WS 5.4][] Mini-lessons|8.4|SC 8.22-8.28|[MOD-2][],[MOD-3][]|[MOD-2.A][],[MOD-2.F][],[MOD-3.A][]|[MOD-2.A.2][],[MOD-2.A.4][],[MOD-2.A.6][],[MOD-2.D.1][],[MOD-2.E.2][],[MOD-2.F.1][],[MOD-3.A.1][],[MOD-3.A.2][],[MOD-3.A.3][],[MOD-3.A.4][]|
 | [5.05][]   |Finding & Fixing Errors|Fix HW|Review ch 8 for Picture Lab|Submit questions for review|[MOD-2][],[MOD-3][] |[MOD-2.A][],[MOD-3.A][] |[MOD-2.A.4][],[MOD-3.A.1][],[MOD-3.A.2][],[MOD-3.A.3][],[MOD-3.A.4][]|
-| [5.06][] 01|[Picture Lab][] (day 1)|Picture Lab Activity 1 & 2  Picture Lab||Summarize notes since last exam| | | |
-| [5.06][] 02|[Picture Lab][] (day 2)|Picture Lab Activity 3 & 4, notebook checks||Outline ch 8| | | |
-| [5.06][] 03|[Picture Lab][] (day 3)|Picture Lab Activity 5, notebook checks|| | | |
-| [5.06][] 04|[Picture Lab][] (day 4)|Picture Lab Activity 5 & 6, notebook checks|Read and highlight Barrons ch 2, skip this keyword|Barrons ch 2 exam, skip #20| | | |
-| [5.06][] 05|[Picture Lab][] (day 5)|Picture Lab Activity 6, Barron's checks|| | | |
-| [5.06][] 06|[Picture Lab][] (day 6)|Picture Lab Activity 7|Read and highlight Barrons ch 5|SC 8.28, 8.30| | | |
-| [5.06][] 07|[Picture Lab][] (day 7)|Picture Lab Activity 8||Finish Picture Lab Activity 8| | | |
-| [5.06][] 08|[Picture Lab][] (day 8)|Picture Lab Activity 9|8.5|Cont. Picture Lab Activity 9| | | |
-| [5.06][] 09|[Picture Lab][] (day 9)|Picture Lab Activity 9, cont.||Submit questions for review| | | |
 | [5.06a][] 01|Data Lab (day 1)|Data Lab Activity 1  Data Lab||Summarize notes since last exam| | | |
 | [5.06a][] 02|Data Lab (day 2)|Data Lab Activity 2, notebook checks||Outline ch 8| | | |
 | [5.06a][] 03|Data Lab (day 3)|Data Lab Activity 3, notebook checks|| | | |
@@ -75,96 +66,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **In Class**    | [WS 5.4][] Teach mini-lessons
 | **Reading**     | 8.4
 | **Homework**    | SC 8.22–28
-
-## 5.06.1
-
-| [Lesson 5.06][]   | _Picture Lab (Day 1)_
-|:----------------|:-----------------------------
-| **Objectives**  | Students will complete a long-form lab, using two dimensional arrays of objects, array traversing algorithms, program analysis, binary numbers, and inheritance.
-| **Assessments** | Picture Lab
-| **In Class**    | Picture Lab Activity 1 & 2  Picture Lab
-| **Reading**     |
-| **Homework**    | Summarize notes since last exam
-
-## 5.06.2
-
-| [Lesson 5.06][]   | _Picture Lab (Day 2)_
-|:----------------|:-----------------------------
-| **Objectives**  |
-| **Assessments** |
-| **In Class**    | Picture Lab Activity 3 & 4  Notebook checks
-| **Reading**     |
-| **Homework**    | Outline ch 8
-
-## 5.06.3
-
-| [Lesson 5.06][]   | _Picture Lab (Day 3)_
-|:----------------|:-----------------------------
-| **Objectives**  |
-| **Assessments** |
-| **In Class**    | Picture Lab Activity 5  Notebook checks
-| **Reading**     | 
-| **Homework**
-
-## 5.06.4
-
-| [Lesson 5.06][]   | _Picture Lab (Day 4)_
-|:----------------|:-----------------------------
-| **Objectives**  |
-| **Assessments** |
-| **In Class**    | Picture Lab Activity 5 & 6  Notebook checks
-| **Reading**     | Read and highlight Barrons ch 2, skip `this` keyword
-| **Homework**    | Barrons ch 2 exam (skip #20)
-
-## 5.06.5
-
-| [Lesson 5.06][]   | _Picture Lab (Day 5)_
-|:----------------|:-----------------------------
-| **Objectives**  |
-| **Assessments** |
-| **In Class**    | Picture Lab Activity 6  Barron's checks
-| **Reading**     | 
-| **Homework**    |
-
-## 5.06.6
-
-| [Lesson 5.06][]   | _Picture Lab (Day 6)_
-|:----------------|:-----------------------------
-| **Objectives**  |
-| **Assessments** |
-| **In Class**    | Picture Lab Activity 7
-| **Reading**     | Read and highlight Barrons ch 5
-| **Homework**    | SC 8.28,30
-
-## 5.06.7
-
-| [Lesson 5.06][]   | _Picture Lab (Day 7)_
-|:----------------|:-----------------------------
-| **Objectives**  |
-| **Assessments** |
-| **In Class**    | Picture Lab Activity 8
-| **Reading**     | 
-| **Homework**    | Finish Picture Lab Activity 8
-
-## 5.06.8
-
-| [Lesson 5.06][]   | _Picture Lab (Day 8)_
-|:----------------|:-----------------------------
-| **Objectives**  |
-| **Assessments** |
-| **In Class**    | Picture Lab Activity 9
-| **Reading**     | 8.5
-| **Homework**    | Cont. Picture Lab Activity 9
-
-## 5.06.9
-
-| [Lesson 5.06][]   | _Picture Lab (Day 9)_
-|:----------------|:-----------------------------
-| **Objectives**  |
-| **Assessments** |
-| **In Class**    | Picture Lab Activity 9, cont.
-| **Reading**     |
-| **Homework**    | Submit questions for review
 
 ## 5.06a.1
 
@@ -311,7 +212,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 [5.03]: Unit5/Lesson-503.md
 [5.04]: Unit5/Lesson-504.md
 [5.05]: Unit5/Lesson-505.md
-[5.06]: Unit5/Lesson-506.md
 [5.06a]: Unit5/Lesson-506a.md
 [5.07]: Unit5/Lesson-507.md
 [5.XX]: Unit5/Lesson-5XX.md
@@ -319,7 +219,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 [6.00]: Unit6/Lesson-600.md
 
 
-[Lesson 5.06]: Unit5/Lesson-506.md
 [Lesson 5.06a]: Unit5/Lesson-506a.md
 [Lesson 5.07]: Unit5/Lesson-507.md
 [Lesson 5.XX]: Unit5/Lesson-5XX.md
