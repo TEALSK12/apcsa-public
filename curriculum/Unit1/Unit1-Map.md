@@ -12,11 +12,11 @@ classroom.
 
 | **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|
-| [1.01][] | _Using Eclipse & Practice-It_         | [WS 1.1.1][]<br>[WS 1.1.2][] | | Explore Pokémon (pokemon.com, console, web site) |
+| [1.01][] | _Using Eclipse_         | [WS 1.1.1][]<br>[WS 1.1.2][] | | Explore Pokémon (pokemon.com, console, web site) |
 | [1.02][] | _Algorithms & Computational Thinking_ | PB&J | | Reflect on PB&J assignment<br>Continue exploring Pokémon |
-| [1.03][] | _String & Console Output_             | Practice-It<br>SC 1.6–9, 1.11–14<br>LP Welcome | 1.2 | EX 1.1–5 |
+| [1.03][] | _String & Console Output_             | SC 1.6–9, 1.11–14<br>LP Welcome | 1.2 | EX 1.1–5 |
 | [1.04][] | _Common Errors & Comments_            | [WS 1.4][] | 1.3 | EX 1.6–9|
-| [1.05][] | _Static Methods & Method Calls_       | Practice-It<br>SC 1.22, 1.23, 1.26, 1.29 | 1.4 | EX 1.11, 1.12, 1.14, 1.16 |
+| [1.05][] | _Static Methods & Method Calls_       | SC 1.22, 1.23, 1.26, 1.29 | 1.4 | EX 1.11, 1.12, 1.14, 1.16 |
 | [1.06][] | _Static Methods & Method Calls_       | LP StarFigures<br>LP PikachuChatter | 1.5 | Outline ch 1<br>PP 1.1, 1.3 |
 | [1.07][] | _Programming Project_                 | PP 1.2, 1.5 | | Note check (add summaries if needed) |
 | [1.08][] | _Finding & Fixing Errors_             | Fix homework | | Submit questions for review |
@@ -49,8 +49,8 @@ classroom.
 | [Lesson 1.03][]   | _String & Console Output_
 |:----------------|:-------------------------
 | **Objectives**  | Students will correctly assemble a complete program that uses a class header, body, and main method.<br>Students will correctly use print, println, and escape sequences.
-| **Assessments** | Students will create a starter Pokémon program<br>Students will complete several Practice-It questions.
-| **In Class**    | Practice-It<br>SC 1.6–9, 1.11–14<br>LP Welcome
+| **Assessments** | Students will create a starter Pokémon program<br>Students will complete several questions.
+| **In Class**    | SC 1.6–9, 1.11–14<br>LP Welcome
 | **Reading**     | 1.2
 | **Homework**    | EX 1.1–5
 
@@ -69,8 +69,8 @@ classroom.
 | [Lesson 1.05][]   | _Static Methods & Method Calls_
 |:----------------|:-------------------------------
 | **Objectives**  | Students will use procedural decomposition to plan complex programs using structure diagrams.<br>Students will manage complexity by using method calls.
-| **Assessments** | Students will complete Practice-It problems.
-| **In Class**    | Practice-It<br>SC 1.22, 1.23, 1.26, 1.29
+| **Assessments** | Students will complete problems.
+| **In Class**    | SC 1.22, 1.23, 1.26, 1.29
 | **Reading**     | 1.4
 | **Homework**    | EX 1.11, 1.12, 1.14, 1.16
 
@@ -79,7 +79,7 @@ classroom.
 | [Lesson 1.06][]   | _Static Methods & Method Calls_
 |:----------------|:-------------------------------
 | **Objectives**  | Students will use structure diagrams to plan complex programs.<br>Students will manage complexity by using method calls.
-| **Assessments** | Students will complete Practice-It problems, students will write a structured Pikachu program.
+| **Assessments** | Students will complete problems, students will write a structured Pikachu program.
 | **In Class**    | LP StarFigures<br>LP PikachuChatter
 | **Reading**     | 1.5
 | **Homework**    | Outline ch 1<br>PP 1.1, 1.3

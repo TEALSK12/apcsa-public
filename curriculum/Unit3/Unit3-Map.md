@@ -11,22 +11,22 @@ Refer to the Introduction document for information about how to adjust this paci
 | LP | Title | In Class | Reading | Homework |
 | :-- | :--- | :------- | :------ | :------- |
 | [3.00][] |Test Review & Reteach|[Algorithm for Solving Problems][]||Test corrections |
-| [3.01][] |Parameters|Practice-It SC 3.1 - 3.3 | 3.1 up to “Limitations of Parameters”|SC 3.4-3.7 |
+| [3.01][] |Parameters|SC 3.1 - 3.3 | 3.1 up to “Limitations of Parameters”|SC 3.4-3.7 |
 | [3.02][] | Limitations of Parameters & Multiple Parameters | (Art project) | "3.1 “Limitations of Parameters”, “Multiple Parameters”, ""Parameters versus Constants"""| Jazz up art project and program |
-| [3.03][] | Return Values|Practice-It SC 3.14 - 3.16 |"3.1 “Overloading Methods”, 3.2 ""Methods That Return Values"""| SC 3.17, E 3.1 |
+| [3.03][] | Return Values|SC 3.14 - 3.16 |"3.1 “Overloading Methods”, 3.2 ""Methods That Return Values"""| SC 3.17, E 3.1 |
 | [3.04][] | Programming Project|[WS 3.4][] [Equestria][] |  | SC 3.18, 3.19 |
 | [3.05][] | Using Objects & String Processing | [WS 3.5][] | 3.3 up to “Interactive Programs and Scanner Objects”| SC 3.19-3.21 |
-| [3.06][] | Interactive Programs & Scanner Objects | Practice-It SC 3.24 - 3.26, (5th: 3.23 - 3.25); E 3.12, 3.14, 3.15 |3.3 “Interactive programming” and “Sample interactive program”  | Outline ch 3 (omit 3.4) |
+| [3.06][] | Interactive Programs & Scanner Objects | SC 3.24 - 3.26, (5th: 3.23 - 3.25); E 3.12, 3.14, 3.15 |3.3 “Interactive programming” and “Sample interactive program”  | Outline ch 3 (omit 3.4) |
 | [3.07][] | Pokémon Battle Programming Project | [WS 3.7][] LP Battle | | Summarize notes since last exam |
 | [3.08][] | Finding & Fixing Errors | Fix HW webmaker.org |  | SC 4.1-4.4 |
 | [3.09][] | Relational Operators & if/else | [Operator Precedence][]Grudgeball | 4.1 up to “nested if else statements” | SC 4.7-4.9; E 4.1-4.2 |
-| [3.10][] | Nested if/else Statements | [WS 3.10][] Teach mini-lessons Practice-It SC 4.5, 4.6, E 4.3 | 4.1 “Nested if/else” and “Flow of control” | E 4.4, 4.5 |
+| [3.10][] | Nested if/else Statements | [WS 3.10][] Teach mini-lessons SC 4.5, 4.6, E 4.3 | 4.1 “Nested if/else” and “Flow of control” | E 4.4, 4.5 |
 | [3.11][] | Reducing Redundancy | (Refactoring com petition) | 4.1, “Factoring if/else statements” and “Testing multiple conditions”|Outline ch 4 (omit 4.4, 4.5) |
 | [3.12][] | Cumulative Algorithms | Tally code on board,Collaborative Programming Exercise [WS 3.12][] | Read 4.2 | PP 4.2 |
-| [3.13][] | while Loops | Practice-It SC 5.1 - 5.4, E 5.2 [WS 3.13][] | 5.1 skip “do/while loops” | E 5.2 |
-| [3.14][] | Random Numbers | Practice-It SC 5.5-5.7; E 5.4, 5.5 | 5.1 ”Random numbers”  | PP 5.1 |
+| [3.13][] | while Loops | SC 5.1 - 5.4, E 5.2 [WS 3.13][] | 5.1 skip “do/while loops” | E 5.2 |
+| [3.14][] | Random Numbers | SC 5.5-5.7; E 5.4, 5.5 | 5.1 ”Random numbers”  | PP 5.1 |
 | [3.15][] | Fencepost & Sentinel Loops | [WS 3.15][] Teach mini-lessons | 5.2 | E 5.6, 5.8 |
-| [3.16][].1 | Boolean Logic | Practice-It SC 5.27, 5.29 [WS 3.16][] (RPS, Pig) [DeMorgan’s Law][] [Poster 3.16.1][] [Poster 3.16.2][] | 5.3 |Outline ch 5 (through 5.3) |
+| [3.16][].1 | Boolean Logic | SC 5.27, 5.29 [WS 3.16][] (RPS, Pig) [DeMorgan’s Law][] [Poster 3.16.1][] [Poster 3.16.2][] | 5.3 |Outline ch 5 (through 5.3) |
 | [3.16][].2 |Boolean Logic (Day 2) | | | |
 | [3.17][] |Finding & Fixing Errors | (Fix HW) |  | Submit questions for review |
 | [3.18][].1 | Consumer Review Lab (day 1) | Consumer Review Lab Activity 1 | Review ch 3-5 |
@@ -59,8 +59,8 @@ Students are expected to work on project in class.
 | [Lesson 3.01][]   | _Parameters_
 |:----------------|:------------
 | **Objectives**  | Students will correctly construct formal and actual parameters (arguments). Students will predict the output of programs that use parameters.
-| **Assessments** | Students will teach a mini-lesson explaining the relationship between parameters and values stored in memory. Students will submit Practice-It questions.
-| **In Class**    | Practice-It SC 3.1–3
+| **Assessments** | Students will teach a mini-lesson explaining the relationship between parameters and values stored in memory. Students will submit questions.
+| **In Class**    | SC 3.1–3
 | **Reading**     | 3.1 up to “_Limitations of Parameters_”
 | **Homework**    | SC 3.4–7
 
@@ -79,8 +79,8 @@ Students are expected to work on project in class.
 | [Lesson 3.03][]   | _Return Values_
 |:----------------|:---------------
 | **Objectives**  | Students will write a program that returns values.
-| **Assessments** | Students will complete Practice-It questions and write a program to meet a Pokémon Challenge.
-| **In Class**    | Practice-It SC 3.14–16
+| **Assessments** | Students will complete questions and write a program to meet a Pokémon Challenge.
+| **In Class**    | SC 3.14–16
 | **Reading**     | 3.1 “_Overloading Methods_” 3.2 “_Methods That Return Values_”
 | **Homework**    | SC 3.17 E 3.1
 
@@ -109,8 +109,8 @@ Students are expected to work on project in class.
 | [Lesson 3.06][]   | _Interactive Programs & Scanner Objects_
 |:----------------|:----------------------------------------
 | **Objectives**  | Students will write programs that accept user input using a scanner object.
-| **Assessments** | Students will complete Practice-It problems.
-| **In Class**    | Practice-It SC 3.24–26 E 3.12,14,15
+| **Assessments** | Students will complete problems.
+| **In Class**    | SC 3.24–26 E 3.12,14,15
 | **Reading**     | 3.3 “_Interactive Programming_” and “_Sample Interactive Program_”
 | **Homework**    | Outline ch 3 (omit 3.4)
 
@@ -149,8 +149,8 @@ Students are expected to work on project in class.
 | [Lesson 3.10][]   | _Nested if/else Statements_
 |:----------------|:---------------------------
 | **Objectives**  | Students will will be able to choose which if statements to use for different problems Students will use correct syntax for the different if statements.
-| **Assessments** | Students will teach a mini-lesson on sequential or nested if statements. Students will submit several Practice-It questions.
-| **In Class**    | [WS 3.10][] Teach mini-lessons Practice-It SC 4.5–6 E 4.3
+| **Assessments** | Students will teach a mini-lesson on sequential or nested if statements. Students will submit several questions.
+| **In Class**    | [WS 3.10][] Teach mini-lessons SC 4.5–6 E 4.3
 | **Reading**     | 4.1 “_Nested If/Else_” and “_Flow of Control_”
 | **Homework**    | EX 4.4–5
 
@@ -179,8 +179,8 @@ Students are expected to work on project in class.
 | [Lesson 3.13][]   | _while Loops_
 |:----------------|:-------------
 | **Objectives**  | Students will trace while loops to predict (1) the number of times the body executes and (2) the output of the code. Students will be able to differentiate between while loops, if statements, and for loops.
-| **Assessments** | Students will complete Practice-It questions.
-| **In Class**    | Practice-It SC 5.1–4 E 5.2 [WS 3.13][]
+| **Assessments** | Students will complete questions.
+| **In Class**    | SC 5.1–4 E 5.2 [WS 3.13][]
 | **Reading**     | 5.1 (skip “_Do/While Loops_”)
 | **Homework**    | EX 5.2
 
@@ -189,8 +189,8 @@ Students are expected to work on project in class.
 | [Lesson 3.14][]   | _Random Numbers_
 |:----------------|:----------------
 | **Objectives**  | Students will be able to write expressions that generate a random integer between any two values.
-| **Assessments** | Students will complete Practice-It questions.
-| **In Class**    | Practice-It SC 5.5–7 E 5.4–5
+| **Assessments** | Students will complete questions.
+| **In Class**    | SC 5.5–7 E 5.4–5
 | **Reading**     | 5.1 “_Random Numbers_”
 | **Homework**    | PP 5.1
 
@@ -210,7 +210,7 @@ Students are expected to work on project in class.
 |:----------------|:-----------------------
 | **Objectives**  | Students will work in pairs to write a game that plays Rock Paper Scissors.
 | **Assessments** | Students will submit a program at the end of 2 or 3 class periods.
-| **In Class**    | Practice-It SC 5.27, 5.29 [WS 3.16][] (RPS, Pig) [DeMorgan’s Law][] [Poster 3.16.1][] [Poster 3.16.2][]
+| **In Class**    | SC 5.27, 5.29 [WS 3.16][] (RPS, Pig) [DeMorgan’s Law][] [Poster 3.16.1][] [Poster 3.16.2][]
 | **Reading**     | 5.3
 | **Homework**    | Outline ch 5 (through 5.3)
 

@@ -13,7 +13,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | [6.01][] 01|Inheritance Basics (day 1)|[WS 6.1][] Start class poster [Example 6.1][]||Collect images|[MOD-3][]|[MOD-3.B][]|[MOD-3.B.1][],[MOD-3.B.2][],[MOD-3.B.3][],[MOD-3.B.4][]
 | [6.01][] 02|Inheritance Basics (day 2)|Finish class poster, discuss|"9.2 up to ""Dividend Stock Behavior"""||[MOD-3][]|[MOD-3.B][]|[MOD-3.B.1][],[MOD-3.B.2][],[MOD-3.B.3][],[MOD-3.B.4][]
 | [6.02][] |Overriding Methods & Accessing Inherited Code|[WS 6.2][]|||[MOD-2][],[MOD-3][]|[MOD-2.D][],[MOD-3.B][]|[MOD-2.D.6][],[MOD-3.B.10][]
-| [6.03][] |Interacting with the Object Superclass|Practice-It SC 9.3, 9.4, 9.9, 9.10, E 9.4;[WS 6.3][] [Poster 6.3][]|Rest of 9.2 starting from “The Object Class.”||[MOD-3][]|[MOD-3.B][]|[MOD-3.B.14][],[MOD-3.B.15][]
+| [6.03][] |Interacting with the Object Superclass|SC 9.3, 9.4, 9.9, 9.10, E 9.4;[WS 6.3][] [Poster 6.3][]|Rest of 9.2 starting from “The Object Class.”||[MOD-3][]|[MOD-3.B][]|[MOD-3.B.14][],[MOD-3.B.15][]
 | [6.04][] |Polymorphism|[WS 6.4.1][] [WS 6.4.2][] SC 9.11-9.17|9.3 up to “Interpreting Inheritance Code.” |SC 9.18, 9.20|[MOD-3][]|[MOD-3.D][]|[MOD-3.D.1][],[MOD-3.D.2][],[MOD-3.D.3][]
 | [6.05][] |Has-a Relationships|[WS 6.5][] ValueMeal exercise? |Rest of 9.4 “Is-a Versus Has-a Relationships.”||[MOD-3][]|[MOD-3.C][]|[MOD-3.C.1][],[MOD-3.C.2][],[MOD-3.C.3][],[MOD-3.C.4][]
 | [6.06][] |Interfaces (optional)|[Interface examples][] [Poster 6.6][]|9.5 (Optional if covering Interfaces)|Generate own class hierarchy like Financial hierarchy in book
@@ -71,8 +71,8 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | [Lesson 6.03][]   | _Interacting with the Object Superclass_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will replace superclass behavior by writing overriding methods in the subclass. Students will write subclass methods that access superclass methods.
-| **Assessments** | Students will complete Practice-It questions Students will complete a worksheet.
-| **In Class**    | Practice-It SC 9.3–4,9–10 E 9.4 [WS 6.3][] [Poster 6.3][]
+| **Assessments** | Students will complete questions Students will complete a worksheet.
+| **In Class**    | SC 9.3–4,9–10 E 9.4 [WS 6.3][] [Poster 6.3][]
 | **Reading**     | Rest of 9.2 starting from “_The Object Class_”
 | **Homework**    |
 

@@ -10,9 +10,9 @@ chronological order. The order has been adapted to follow the College Board AP C
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
 | [3.09][] |Relational Operators & if/else | [Operator Precedence][], Grudgeball | 4.1 up to “nested if else statements” | SC 4.7-4.9; E 4.1-4.2 | [CON-1][], [CON-2][] |  [CON-1.E][], [CON-1.H][], [CON-2.A][], [CON-2.B][] |  [CON-1.E.1][], [CON-1.E.2][], [CON-2.A.1][], [CON-2.A.2][], [CON-2.A.3][], [CON-2.A.3][], [CON-2.A.4][], [CON-2.A.5][] |
-| [3.10][] | Nested if/else Statements|[WS 3.10][] Teach mini-lessons, Practice-It SC 4.5, 4.6, E 4.3|4.1 “Nested if/else” and “Flow of control” | E4.4, 4.5 | [CON-1][], [CON-2][] |  [CON-1.E][], [CON-1.H][], [CON-2.A][], [CON-2.B][], | [CON-1.E.1][], [CON-1.E.2][], [CON-2.A.1][], [CON-2.A.2][], [CON-2.A.3][], [CON-2.A.3][], [CON-2.A.4][], [CON-2.A.5][] |
+| [3.10][] | Nested if/else Statements|[WS 3.10][] Teach mini-lessons, SC 4.5, 4.6, E 4.3|4.1 “Nested if/else” and “Flow of control” | E4.4, 4.5 | [CON-1][], [CON-2][] |  [CON-1.E][], [CON-1.H][], [CON-2.A][], [CON-2.B][], | [CON-1.E.1][], [CON-1.E.2][], [CON-2.A.1][], [CON-2.A.2][], [CON-2.A.3][], [CON-2.A.3][], [CON-2.A.4][], [CON-2.A.5][] |
 | [3.11][] | Reducing Redundancy | (Refactoring competition) | 4.1 “Factoring if/else statements” and “Testing multiple conditions” | Outline Chap 4 (omit 4.4, 4.5) |  | | |
-|  [3.16][].1  | Boolean Logic                | Practice-It SC 5.27, 5.29 [WS 3.16][] (RPS, Pig) [DeMorgan’s Law][], [Poster 3.16.1][], [Poster 3.16.2][]  | 5.3  | Outline   Chap 5 (through 5.3)   |
+|  [3.16][].1  | Boolean Logic                | SC 5.27, 5.29 [WS 3.16][] (RPS, Pig) [DeMorgan’s Law][], [Poster 3.16.1][], [Poster 3.16.2][]  | 5.3  | Outline   Chap 5 (through 5.3)   |
 |  [3.16][].2  | Boolean Logic (Day 2)        |   |   |    |
 | [3.PP][] | Unit 3 Personal Progress Check Boolean Expressions and if Statements |
 
@@ -31,8 +31,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [Lesson 3.10][]   | _Nested if/else Statements_ |
 |:----------------|:-----------------------------
 | **Objectives**  | Students will will be able to choose which if statements to use for different problems Students will use correct syntax for the different if statements. |
-| **Assessments** | Students will teach a mini-lesson on sequential or nested if statements. Students will submit several Practice-It questions. |
-| **In Class** | [WS 3.10][] Teach mini-lessons Practice-It SC 4.5–6 E 4.3 |
+| **Assessments** | Students will teach a mini-lesson on sequential or nested if statements. Students will submit several questions. |
+| **In Class** | [WS 3.10][] Teach mini-lessons SC 4.5–6 E 4.3 |
 | **Reading** | 4.1, “_Factoring If/Else Statements_” and “_Testing Multiple Conditions_” |
 | **Homework** | EX 4.4–5 |
 
@@ -52,7 +52,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 |:----------------|:-----------------------------
 |  **Objectives**    |  Students will work in pairs to write a game that plays Rock Paper Scissors.
 |  **Assessments**   |  Students will submit a program at the end of 2 or 3 class periods.
-|  **In Class**      |  Practice-It SC 5.27, 5.29 [WS 3.16][] (RPS, Pig) [DeMorgan’s Law][] [Poster 3.16.1][] [Poster 3.16.2][]
+|  **In Class**      |  SC 5.27, 5.29 [WS 3.16][] (RPS, Pig) [DeMorgan’s Law][] [Poster 3.16.1][] [Poster 3.16.2][]
 |  **Reading**       |  5.3
 |  **Homework**      |  Outline   Chap 5 (through 5.3)
 

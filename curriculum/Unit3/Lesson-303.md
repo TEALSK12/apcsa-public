@@ -150,7 +150,7 @@ book.
 If students are getting the material, have them work independently on the practice problems,
 otherwise, work through the problems together as a whole class.
 
-### Practice- `[15 minutes]`
+### Practice `[15 minutes]`
 Have students work individually or in pairs to complete the following practice self check
 questions:
 

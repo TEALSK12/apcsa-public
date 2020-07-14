@@ -11,11 +11,11 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
-| [1.01][] | _Using Eclipse & Practice-It_         | [WS 1.1.1][] [WS 1.1.2][] | | Explore Pokémon (pokemon.com, console, web site) |
+| [1.01][] | _Using Eclipse_         | [WS 1.1.1][] [WS 1.1.2][] | | Explore Pokémon (pokemon.com, console, web site) |
 | [1.02][] | _Algorithms & Computational Thinking_ | PB&J |  | Reflect on PB&J assignment Continue exploring Pokémon |[VAR-1][]|[VAR-1.G][]|[VAR-1.G.4][]|
-| [1.03][] | _String & Console Output_             | Practice-It SC 1.6–9, 1.11–14 LP Welcome | 1.2 | EX 1.1–5 |[MOD-1][], [VAR-1][] | [MOD-1.A][], [VAR-1.A][] | [MOD-1.A.1][], [MOD-1.A.2][], [VAR-1.A.1][]
+| [1.03][] | _String & Console Output_             | SC 1.6–9, 1.11–14 LP Welcome | 1.2 | EX 1.1–5 |[MOD-1][], [VAR-1][] | [MOD-1.A][], [VAR-1.A][] | [MOD-1.A.1][], [MOD-1.A.2][], [VAR-1.A.1][]
 | [1.04][] | _Common Errors & Comments_            | [WS 1.4][] | 1.3 | EX 1.6–9|[MOD-2][]|[MOD-2.C][]|[MOD-2.C.1][],[MOD-2.C.2][]|
-| [1.05][] | _Static Methods & Method Calls_       | Practice-It SC 1.22, 1.23, 1.26, 1.29 | 1.4 | EX 1.11, 1.12, 1.14, 1.16 |[MOD-2][]|[MOD-2.G][]|[MOD-2.G.1][],[MOD-2.G.2][]
+| [1.05][] | _Static Methods & Method Calls_       | SC 1.22, 1.23, 1.26, 1.29 | 1.4 | EX 1.11, 1.12, 1.14, 1.16 |[MOD-2][]|[MOD-2.G][]|[MOD-2.G.1][],[MOD-2.G.2][]
 | [1.06][] | _Static Methods & Method Calls_       | LP StarFigures LP PikachuChatter |1.5 | Outline ch 1 PP 1.1, 1.3 |[MOD-2][]|[MOD-2.G][]|[MOD-2.G.1][],[MOD-2.G.2][]
 | [1.07][] | _Programming Project_                 | PP 1.2, 1.5 | | Note check (add summaries if needed) | [MOD-1][], [MOD-2][], [VAR-1][] | [VAR-1.A][], [MOD-1.A][], [MOD-2.C][], [MOD-2.G][], [VAR-1.G][]
 | [1.XX][] | _Lesson 1.07 Alternative_  | Ideate and Construct Project  |  |  |
@@ -24,7 +24,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [1.99][] | _Unit 1 Test_                         | Test 0 Section I Test 0 Section II | | |
 | [2.00][] | Test Review & Reteach            | Review test |  | Test corrections |
 | [2.01][] | Basic Data Concepts                 | [WS 2.1][]      | 2.1 except for “Mixing types and Casting” | SC 2.1-2.3  (4th, 5th : 2.1,2.3,2.4)|[CON-1][], [VAR-1][]|[CON-1.A][], [CON-1.B][], [VAR-1.B][]|[CON-1.A.1][], [CON-1.A.2][],[CON-1.A.3][],[CON-1.A.4][],[CON-1.A.5][], [CON-1.A.6][],[CON-1.A.7][],[CON-1.A.8][], [CON-1.B.2][], [CON-1.B.3][], [VAR-1.B.1][], [VAR-1.B.2][], [VAR-1.B.3][], [VAR-1.C.2][], [VAR-1.C.3][]|
-| [2.02][] | Declaring & Assigning Variables    | [WS 2.2][] Practice-It SC 2.7, 2.11 (4th, 5th: 2.8, 2.13) E 2.1 | 2.2 up to “String Concatenation” | SC 2.5,2.6,2.9, 2.12-2.15 (4th, 5th: 2.6,2.7,2.1,2.14-2.17) |[CON-1][], [VAR-1][]|[CON-1.A][], [CON-1.B][], [VAR-1.B][]| [CON-1.A.8][], [CON-1.B.1][], [VAR-1.B.1][]|
+| [2.02][] | Declaring & Assigning Variables    | [WS 2.2][] SC 2.7, 2.11 (4th, 5th: 2.8, 2.13) E 2.1 | 2.2 up to “String Concatenation” | SC 2.5,2.6,2.9, 2.12-2.15 (4th, 5th: 2.6,2.7,2.1,2.14-2.17) |[CON-1][], [VAR-1][]|[CON-1.A][], [CON-1.B][], [VAR-1.B][]| [CON-1.A.8][], [CON-1.B.1][], [VAR-1.B.1][]|
 | [1.PPa][] | Unit 1 Personal Progress Check Part A Primitive Types |
 | [2.03][] | String Concatenation & Increment Decrement Operators | Grudgeball | Rest of 2.2 | SC 2.4 (4th, 5th: 2.5) |[CON-1][]|[CON-1.B][]|[CON-1.B.4][], [CON-1.B.5][]|
 | [2.04][] | Mixing Types & Casting               | [WS 2.4][] [Poster 2.4][] | Rest of 2.2 | finish [WS 2.4][] |[CON-1][]|[CON-1.C][]|[CON-1.C.1][], [CON-1.C.2][], [CON-1.C.4][]
@@ -32,10 +32,10 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 ## 1.01
 
-| [Lesson 1.01][] | _Using Eclipse & Practice-It_
+| [Lesson 1.01][] | _Using Eclipse_
 |:----------------|:-----------------------------
-| **Objectives**  | Students will be able to open Eclipse, create and save a file in Eclipse, and use Practice-It.
-| **Assessments** | Students will demonstrate Plug-In and Un-Plug procedures for the teacher. Students will log in and submit a sample problem in Practice-It.
+| **Objectives**  | Students will be able to open Eclipse, create and save a file in Eclipse.
+| **Assessments** | Students will demonstrate Plug-In and Un-Plug procedures for the teacher.
 | **In Class**    | [WS 1.1.1][] [WS 1.1.2][]
 | **Reading**     |
 | **Homework**    | Explore Pokémon (pokemon.com, console, web site)
@@ -55,8 +55,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [Lesson 1.03][]   | _String & Console Output_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will correctly assemble a complete program that uses a class header, body, and main method. Students will correctly use print, println, and escape sequences.
-| **Assessments** | Students will create a starter Pokémon program Students will complete several Practice-It questions.
-| **In Class**    | Practice-It SC 1.6–9, 1.11–14 LP Welcome
+| **Assessments** | Students will create a starter Pokémon program Students will complete several questions for BJP.
+| **In Class**    | SC 1.6–9, 1.11–14 LP Welcome
 | **Reading**     | 1.2
 | **Homework**    | EX 1.1–5
 
@@ -75,8 +75,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [Lesson 1.05][]   | _Static Methods & Method Calls_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will use procedural decomposition to plan complex programs using structure diagrams. Students will manage complexity by using method calls.
-| **Assessments** | Students will complete Practice-It problems.
-| **In Class**    | Practice-It SC 1.22, 1.23, 1.26, 1.29
+| **Assessments** | Students will complete problems from BJP.
+| **In Class**    | SC 1.22, 1.23, 1.26, 1.29
 | **Reading**     | 1.4
 | **Homework**    | EX 1.11, 1.12, 1.14, 1.16
 
@@ -85,7 +85,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [Lesson 1.06][]   | _Static Methods & Method Calls_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will use structure diagrams to plan complex programs. Students will manage complexity by using method calls.
-| **Assessments** | Students will complete Practice-It problems, students will write a structured Pikachu program.
+| **Assessments** | Students will complete problems from BJP, students will write a structured Pikachu program.
 | **In Class**    | LP StarFigures LP PikachuChatter
 | **Reading**     | 1.5
 | **Homework**    | Outline ch 1 PP 1.1, 1.3
@@ -162,7 +162,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 |:----------------|:-----------------------------
 | **Objectives**  | Students will be able to identify, declare, and assign variables.
 | **Assessments** | Students will write a program that converts temperature from Fahrenheit to Celsius.
-| **In Class**    | [WS 2.2][] Practice-It SC 2.7, 2.11 (4th: 2.8, 2.13) E 2.1
+| **In Class**    | [WS 2.2][] SC 2.7, 2.11 (4th: 2.8, 2.13) E 2.1
 | **Reading**     | 2.2 up to “_String Concatenation_”
 | **Homework**    | SC 2.5, 2.6, 2.9, 2.12–15 (4th: 2.6, 2.7, 2.10, 2.14–17)
 

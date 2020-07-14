@@ -14,11 +14,11 @@ classroom.
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|
 | [2.00][] | Test Review & Reteach	               | Review test	|| Test corrections |
 | [2.01][] | Basic Data Concepts	                 | [WS 2.1][]	      | 2.1 except for “Mixing types and Casting”	| SC 2.1-2.3<br> (4th, 5th : 2.1,2.3,2.4)|
-| [2.02][] | Declaring & Assigning Variables	     | [WS 2.2][]<br>Practice-It SC 2.7, 2.11<br>(4th, 5th: 2.8, 2.13) E 2.1 | 2.2 up to “String Concatenation” | SC 2.5,2.6,2.9, 2.12-2.15<br>(4th, 5th: 2.6,2.7,2.1,2.14-2.17) |
+| [2.02][] | Declaring & Assigning Variables	     | [WS 2.2][] SC 2.7, 2.11<br>(4th, 5th: 2.8, 2.13) E 2.1 | 2.2 up to “String Concatenation” | SC 2.5,2.6,2.9, 2.12-2.15<br>(4th, 5th: 2.6,2.7,2.1,2.14-2.17) |
 | [2.03][] | String Concatenation & Increment<br>Decrement Operators | Grudgeball | Rest of 2.2 | SC 2.4<br>(4th, 5th: 2.5) |
 | [2.04][] | Mixing Types & Casting	               | [WS 2.4][]<br>[Poster 2.4][]	| Rest of 2.2 | finish [WS 2.4][] |
-| [2.05][] | for Loops	                           | [WS 2.5][]<br>Practice-It SC 2.18,2.23, 2.24<br>(4th, 5th: 2.21,2.26,2.27) | 2.3 up to “Nested for Loops" | SC 2.19-2.21<br>(4th, 5th: 2.22-2.24) |
-| [2.06][] | nested for Loops	                     | Practice-It SC 2.28-2.30<br>(4th, 5th: 2.31-2.33), E 2.5 |	2.3 “Nested for Loops” | SC 2.26, 2.27<br>(4th, 5th: 2.29, 2.30),E 2.4 |
+| [2.05][] | for Loops	                           | [WS 2.5][] SC 2.18,2.23, 2.24<br>(4th, 5th: 2.21,2.26,2.27) | 2.3 up to “Nested for Loops" | SC 2.19-2.21<br>(4th, 5th: 2.22-2.24) |
+| [2.06][] | nested for Loops	                     | SC 2.28-2.30<br>(4th, 5th: 2.31-2.33), E 2.5 |	2.3 “Nested for Loops” | SC 2.26, 2.27<br>(4th, 5th: 2.29, 2.30),E 2.4 |
 | [2.07][] | Scope & Pseudocode	                   | [WS 2.7][]<br>Discuss PP 2.1 | 2.4 “Scope” and “Pseudocode" |SC 2.31-2.33<br>(4th, 5th: 2.34-2.36)|
 | [2.08][] | Programming Project	                 | Start PP 2.4	   | Read 2.4 “Class Constants” | Outline ch 2 (omit 2.5) |
 | [2.09][] | Programming Project	                 | Complete PP 2.4 | | \[_TBD practice question_\] |
@@ -49,7 +49,7 @@ classroom.
 |:----------------|:---------------------------------
 | **Objectives**  | Students will be able to identify, declare, and assign variables.
 | **Assessments** | Students will write a program that converts temperature from Fahrenheit to Celsius.
-| **In Class**    | [WS 2.2][]<br>Practice-It<br>SC 2.7, 2.11 (4th: 2.8, 2.13)<br>E 2.1
+| **In Class**    | [WS 2.2][] SC 2.7, 2.11 (4th: 2.8, 2.13)<br>E 2.1
 | **Reading**     | 2.2 up to “_String Concatenation_”
 | **Homework**    | SC 2.5, 2.6, 2.9, 2.12–15 (4th: 2.6, 2.7, 2.10, 2.14–17)
 
@@ -75,8 +75,8 @@ classroom.
 | [Lesson 2.05][]   | _for Loops_
 |:----------------|:-----------
 | **Objectives**  | Students will trace loops to predict program behavior<br>Students will construct loops to execute simple tasks.
-| **Assessments** | Students will trace and construct loops in Practice-It problems.
-| **In Class**    | [WS 2.5][]<br>Practice-It<br>SC 2.18, 2.23, 2.24 (4th: 2.21, 2.26, 2.27)
+| **Assessments** | Students will trace and construct loops in  problems.
+| **In Class**    | [WS 2.5][] SC 2.18, 2.23, 2.24 (4th: 2.21, 2.26, 2.27)
 | **Reading**     | 2.3 up to “_Nested for Loops_”
 | **Homework**    | SC 2.19–21 (4th: 2.22–24)
 
@@ -84,8 +84,8 @@ classroom.
 | [Lesson 2.06][]   | _Nested for Loops_
 |:----------------|:------------------
 | **Objectives**  | Students will trace nested loops to predict program behavior<br>Students will construct loops to execute simple tasks.
-| **Assessments** | Students will trace and construct nested loops in Practice-It problems.
-| **In Class**    | Practice-It<br>SC 2.28–30 (4th: 2.31–33)<br>E 2.5
+| **Assessments** | Students will trace and construct nested loops in problems.
+| **In Class**    | SC 2.28–30 (4th: 2.31–33)<br>E 2.5
 | **Reading**     | 2.3 “_Nested for Loops_”
 | **Homework**    | SC 2.26, 2.27 (4th: 2.29, 2.30)<br>E 2.4
 
