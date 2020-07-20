@@ -35,13 +35,13 @@ This curriculum map follows the College Board Sequence of lessons.
 [Textbook sequence (before 2020)](SUMMARY.md)
 This curriculum map follows the Building Java Program Textbook sequence of lessons
 
-The AP Computer Science A Curriculum GitBook is located at
-
-<!-- double linebreak necessary for pandoc to render .pdf -->https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details.
-
-The following is an Alpha release of the AP Computer Science A Curriculum in GitHub pages:
+The AP Computer Science A Curriculum is located on GitHub pages:
 
 <!-- double linebreak necessary for pandoc to render .pdf -->https://tealsk12.github.io/apcsa-public/
+
+The AP Computer Science A Curriculum GitBook has been deprecated:
+
+<!-- double linebreak necessary for pandoc to render .pdf -->https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details.
 
 For contributions to the curriculum, the AP Computer Science A GitHub repository is located at
 
