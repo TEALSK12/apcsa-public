@@ -13,11 +13,11 @@ chronological order. The order has been adapted to follow the College Board AP C
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
 | [4.01][] |Array Basics|[WS 4.1][]  [Poster 4.2][]|7.1 up to “_For-Each Loop_”|SC 7.1, 7.7, 7.9|[VAR-2][]|[VAR-2.A][],[VAR-2.B][]|[VAR-2.A.1][],[VAR-2.A.2][],[VAR-2.A.4][],[VAR-2.A.5][],[VAR-2.A.6][],[VAR-2.A.7][],[VAR-2.B.1][],[VAR-2.B.2][],[VAR-2.B.3][],[VAR-2.B][]|
 | [4.02][] |For-Each Loop & Arrays Class|[WS 4.2][]|7.1 “_For-Each Loop_” and “_The Arrays Class_”|SC 7.12-7.14|[VAR-2][]|[VAR-2.C][]|[VAR-2.C.1][],[VAR-2.C.2][],[VAR-2.C.3][],[VAR-2.C.4][]|
-| [4.03][] |Printing, Searching, & Testing for Equality|[WS 4.3][] Mini-lessons|7.2 up to “_Reversing an Array_”|SC 7.14-7.17, E 7.3
-| [4.03][] |Printing, Searching, & Testing for Equality (Day 2)||7.2|SC 7.19-7.21
-| [4.04][] |Reference Semantics|[WS 4.4][] |7.3 7.4 up to “_Command-Line Arguments_” |E 7.9, 7.10
-| [4.05][] |Shifting Values & Arrays of Objects|SC 7.22, 7.23, 7.25, 7.26, 7.30; E 7.16|7.4 Nested Arrays, 7.5 Rectangular Two Dimensional Arrays|SC 7.27-7.29, E 7.14
-| [6.PP][] | Unit 6 Personal Progress Check Array |
+| [4.03][] |Printing, Searching, & Testing for Equality|[WS 4.3][] Mini-lessons|7.2 up to “_Reversing an Array_”|SC 7.14-7.17, E 7.3 | | | |
+| [4.03][] |Printing, Searching, & Testing for Equality (Day 2)||7.2|SC 7.19-7.21| | | |
+| [4.04][] |Reference Semantics|[WS 4.4][] |7.3 7.4 up to “_Command-Line Arguments_” |E 7.9, 7.10| | | |
+| [4.05][] |Shifting Values & Arrays of Objects|SC 7.22, 7.23, 7.25, 7.26, 7.30; E 7.16|7.4 Nested Arrays, 7.5 Rectangular Two Dimensional Arrays|SC 7.27-7.29, E 7.14| | | |
+| [6.PP][] | Unit 6 Personal Progress Check Array | | | | | | |
 
 ## 4.01
 

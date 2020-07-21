@@ -14,11 +14,11 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [8.02][] |Writing Recursive Solutions|Grudgeball SC 12.1 - 12.4|Rest of 12.1|SC 12.5, 12.7-12.9, E 12.1|[CON-2][]|[CON-2.O][]|[CON-2.O.1][],[CON-2.O.2][],[CON-2.O.3][],[CON-2.O.4][],[CON-2.O.5][]
 | [8.03][] |Mechanics of Recursion|[WS 8.3][] [Teacher Demo 8.3][]|12.2|SC 12.6, 12.10, E 12.3|[CON-2][]|[CON-2.O][]|[CON-2.O.1][],[CON-2.O.2][],[CON-2.O.3][],[CON-2.O.4][],[CON-2.O.5][]
 | [8.04][] |MergeSort|Implement mergeSort|13.4|SC 13.27-13.30 Notebook Check|[CON-2][]|[CON-2.P][],[CON-2.Q][]|[CON-2.P.1][],[CON-2.P.2][],[CON-2.P.3][],[CON-2.P.4][],[CON-2.Q.1][]
-| [8.05][] |Finding & Fixing Errors|Fix HW|Review ch 12.1, 12.2|Submit questions for review
-| [8.06][] |Review||Study|
-| [8.07][] |Quiz|[Quiz 8.5][]|Barrons ch 7 (8th or later: ch 8)|
-| [8.08][] |Quiz Review & Reteach|Review quiz||Barrons ch 7 (8th or later: ch 8)|
-| [10.PP][] | Unit 10 Personal Progress Check Recursion |
+| [8.05][] |Finding & Fixing Errors|Fix HW|Review ch 12.1, 12.2|Submit questions for review| | | |
+| [8.06][] |Review||Study|| | | |
+| [8.07][] |Quiz|[Quiz 8.5][]|Barrons ch 7 (8th or later: ch 8)|| | | |
+| [8.08][] |Quiz Review & Reteach|Review quiz||Barrons ch 7 (8th or later: ch 8)|| | | |
+| [10.PP][] | Unit 10 Personal Progress Check Recursion || | | | | |
 
 ## 8.01
 

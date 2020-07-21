@@ -9,7 +9,7 @@ echo %time%
 @REM usage to capture output and errors: md-tomarkdeep > out.txt 2>&1
 
 @REM -- Set up the GitHub pages directory structure by copying curriculum content.
-robocopy /mir .\curriculum .\docs
+robocopy /E .\curriculum .\docs
 
 @REM -- Move to docs directory
 cd .\docs
