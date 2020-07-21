@@ -1,6 +1,6 @@
 
-C:\Users\kencha\Documents\GitHub\apcsa-public>echo 15:47:50.58 
-15:47:50.58
+C:\Users\kencha\Documents\GitHub\apcsa-public>echo 17:06:03.92 
+17:06:03.92
 
 C:\Users\kencha\Documents\GitHub\apcsa-public>robocopy /E .\curriculum .\docs 
 
@@ -8,7 +8,7 @@ C:\Users\kencha\Documents\GitHub\apcsa-public>robocopy /E .\curriculum .\docs
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, July 20, 2020 3:47:50 PM
+  Started : Monday, July 20, 2020 5:06:03 PM
    Source : C:\Users\kencha\Documents\GitHub\apcsa-public\curriculum\
      Dest : C:\Users\kencha\Documents\GitHub\apcsa-public\docs\
 
@@ -44,16 +44,16 @@ C:\Users\kencha\Documents\GitHub\apcsa-public>robocopy /E .\curriculum .\docs
 	  *EXTRA File 		   19122	SUMMARY College Board.md.html
 	  *EXTRA File 		    9868	SUMMARY-Endorsed.md.html
 	  *EXTRA File 		   10105	SUMMARY.md.html
-	  *EXTRA File 		   27989	Unit1-Map-CB.md.html
-	  *EXTRA File 		   19848	Unit10-Map-CB.md.html
-	  *EXTRA File 		   24041	Unit2-Map-CB.md.html
-	  *EXTRA File 		   19307	Unit3-Map-CB.md.html
-	  *EXTRA File 		   31862	Unit4-Map-CB.md.html
-	  *EXTRA File 		   24836	Unit5-Map-CB.md.html
-	  *EXTRA File 		   19866	Unit6-Map-CB.md.html
-	  *EXTRA File 		   24462	Unit7-Map-CB.md.html
-	  *EXTRA File 		   29619	Unit8-Map-CB.md.html
-	  *EXTRA File 		   29705	Unit9-Map-CB.md.html
+	  *EXTRA File 		   27357	Unit1-Map-CB.md.html
+	  *EXTRA File 		   19218	Unit10-Map-CB.md.html
+	  *EXTRA File 		   23411	Unit2-Map-CB.md.html
+	  *EXTRA File 		   18677	Unit3-Map-CB.md.html
+	  *EXTRA File 		   31232	Unit4-Map-CB.md.html
+	  *EXTRA File 		   24206	Unit5-Map-CB.md.html
+	  *EXTRA File 		   19236	Unit6-Map-CB.md.html
+	  *EXTRA File 		   23832	Unit7-Map-CB.md.html
+	  *EXTRA File 		   28989	Unit8-Map-CB.md.html
+	  *EXTRA File 		   29075	Unit9-Map-CB.md.html
 	  *EXTRA File 		    1537	Video-Tutorials.md.html
 	    New File  		    1999	About.md  0%  100%  
 	    New File  		    2546	Assets.md  0%  100%  
@@ -80,16 +80,16 @@ C:\Users\kencha\Documents\GitHub\apcsa-public>robocopy /E .\curriculum .\docs
 	    New File  		   17144	SUMMARY College Board.md  0%  100%  
 	    New File  		    8545	SUMMARY-Endorsed.md  0%  100%  
 	    New File  		    8792	SUMMARY.md  0%  100%  
-	    New File  		   25611	Unit1-Map-CB.md  0%  100%  
-	    New File  		   17555	Unit10-Map-CB.md  0%  100%  
-	    New File  		   21688	Unit2-Map-CB.md  0%  100%  
-	    New File  		   17039	Unit3-Map-CB.md  0%  100%  
-	    New File  		   29459	Unit4-Map-CB.md  0%  100%  
-	    New File  		   22533	Unit5-Map-CB.md  0%  100%  
-	    New File  		   17588	Unit6-Map-CB.md  0%  100%  
-	    New File  		   22169	Unit7-Map-CB.md  0%  100%  
-	    New File  		   27251	Unit8-Map-CB.md  0%  100%  
-	    New File  		   27357	Unit9-Map-CB.md  0%  100%  
+	    New File  		   24979	Unit1-Map-CB.md  0%  100%  
+	    New File  		   16925	Unit10-Map-CB.md  0%  100%  
+	    New File  		   21058	Unit2-Map-CB.md  0%  100%  
+	    New File  		   16409	Unit3-Map-CB.md  0%  100%  
+	    New File  		   28829	Unit4-Map-CB.md  0%  100%  
+	    New File  		   21903	Unit5-Map-CB.md  0%  100%  
+	    New File  		   16958	Unit6-Map-CB.md  0%  100%  
+	    New File  		   21539	Unit7-Map-CB.md  0%  100%  
+	    New File  		   26621	Unit8-Map-CB.md  0%  100%  
+	    New File  		   26727	Unit9-Map-CB.md  0%  100%  
 	    New File  		     914	Video-Tutorials.md  0%  100%  
 	                   4	C:\Users\kencha\Documents\GitHub\apcsa-public\curriculum\culturedays\
 	  *EXTRA File 		    7854	culture_day_lesson_a.md.html
@@ -202,8 +202,6 @@ C:\Users\kencha\Documents\GitHub\apcsa-public>robocopy /E .\curriculum .\docs
 	    New File  		    4662	Lesson-318.md  0%  100%  
 	    New File  		    4180	Lesson-319.md  0%  100%  
 	    New File  		    7995	Lesson-3XX1.md  0%  100%  
-	    New File  		  221944	Poster 3.16.1.pdf  0%   59%  100%  
-	    New File  		  222857	Poster 3.16.2.pdf  0%   58%  100%  
 	    New File  		    1203	Test-2-Guide.md  0%  100%  
 	    New File  		   19275	Unit3-Map.md  0%  100%  
 	                   1	C:\Users\kencha\Documents\GitHub\apcsa-public\curriculum\Unit3\media\
@@ -260,7 +258,6 @@ C:\Users\kencha\Documents\GitHub\apcsa-public>robocopy /E .\curriculum .\docs
 	    New File  		    2985	Lesson-507.md  0%  100%  
 	    New File  		    7686	Lesson-5XX.md  0%  100%  
 	    New File  		   13938	Unit5-Map.md  0%  100%  
-	    New File  		   43426	WS 5.1.1.pdf  0%  100%  
 	                  29	C:\Users\kencha\Documents\GitHub\apcsa-public\curriculum\Unit6\
 	  *EXTRA File 		    4928	Lesson-600.md.html
 	  *EXTRA File 		   16670	Lesson-601.md.html
@@ -338,14 +335,14 @@ C:\Users\kencha\Documents\GitHub\apcsa-public>robocopy /E .\curriculum .\docs
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :        18         0        18         0         0         0
-   Files :       264       150       114         0         0       147
-   Bytes :   35.42 m    1.69 m   33.73 m         0         0    1.33 m
+   Files :       264       147       117         0         0       147
+   Bytes :   35.42 m    1.22 m   34.19 m         0         0    1.33 m
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :             8425279 Bytes/sec.
-   Speed :             482.098 MegaBytes/min.
-   Ended : Monday, July 20, 2020 3:47:50 PM
+   Speed :             8789075 Bytes/sec.
+   Speed :             502.914 MegaBytes/min.
+   Ended : Monday, July 20, 2020 5:06:04 PM
 
 
 C:\Users\kencha\Documents\GitHub\apcsa-public>cd .\docs 
@@ -2735,7 +2732,7 @@ C:\Users\kencha\Documents\GitHub\apcsa-public\docs>move /Y AP-CSA.save AP-CSA.pd
 
 C:\Users\kencha\Documents\GitHub\apcsa-public\docs>cd .. 
 
-C:\Users\kencha\Documents\GitHub\apcsa-public>echo 15:53:55.32 
-15:53:55.32
+C:\Users\kencha\Documents\GitHub\apcsa-public>echo 17:11:55.57 
+17:11:55.57
 
 C:\Users\kencha\Documents\GitHub\apcsa-public>Exit /B 
