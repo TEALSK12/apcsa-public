@@ -14,13 +14,13 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [3.01][] |Parameters|SC 3.1 - 3.3|3.1 up to “Limitations of Parameters”|SC 3.4-3.7 |[MOD-1][]|[MOD-1.C][], [MOD-1.D][], [MOD-1.E][]|[MOD-1.C.3][], [MOD-1.C.5][], [MOD-1.C.6][], [MOD-1.D.1][], [MOD-1.D.3][], [MOD-1.E.2][], [MOD-1.E.3][], [MOD-1.E.4][]|
 | [3.02][] |Limitations of Parameters & Multiple Parameters|(Art project)|3.1 “Limitations of Parameters”, “Multiple Parameters”, "Parameters versus Constants"|Jazz up art project and program |[CON-1][], [MOD-1][]|[CON-1.D][], [MOD-1.C][], [MOD-1.F][], [MOD-1.G][] | [CON-1.D.1][], [MOD-1.C.4][], [MOD-1.F.2][], [MOD-1.G.1][]|
 | [3.03][] |Return Values|SC 3.14 - 3.16|"3.1 “Overloading Methods”, 3.2 ""Methods That Return Values"""|SC 3.17, E 3.1 |[VAR-1][] |[VAR-1.E][]|[VAR-1.E.10][] |
-| [3.04][] |Programming Project|[WS 3.4][]  [Equestria][]||SC 3.18, 3.19 | [CON-1][], [MOD-1][], [VAR-1][] | [CON-1.D][], [MOD-1.C][], [MOD-1.D][],[MOD-1.E][], [MOD-1.F][], [MOD-1.G][], [VAR-1.E][]
+| [3.04][] |Programming Project|[WS 3.4][]  [Equestria][]||SC 3.18, 3.19 | [CON-1][], [MOD-1][], [VAR-1][] | [CON-1.D][], [MOD-1.C][], [MOD-1.D][],[MOD-1.E][], [MOD-1.F][], [MOD-1.G][], [VAR-1.E][] | |
 | [3.05][] |Using Objects & String Processing|[WS 3.5][]|3.3 up to “Interactive Programs and Scanner Objects”|SC 3.19-3.21 |[CON-1][], [MOD-1][], [VAR-1][]|[CON-1.D][], [MOD-1.B][], [MOD-1.C][], [MOD-1.D][],[MOD-1.E][], [MOD-1.F][], [VAR-1.D][], [VAR-1.E][]|[CON-1.D.1][], [MOD-1.B.1][], [MOD-1.B.2][], [MOD-1.C.1][], [MOD-1.C.2][], [MOD-1.D.2][], [MOD-1.D.4][], [MOD-1.E.5][], [MOD-1.E.6][], [MOD-1.F.1][],[VAR-1.E.13][], [VAR-1.E.2][], [VAR-1.E.3][], [VAR-1.E.4][] |
-| [3.06][] |Interactive Programs & Scanner Objects|SC 3.24 - 3.26, (5th: 3.23 - 3.25); E 3.12, 3.14, 3.15|3.3 “Interactive programming” and “Sample interactive program”|Outline ch 3 (omit 3.4) |
-| [3.07][] |Pokémon Battle Programming Project|[WS 3.7][]  LP Battle||Summarize notes since last exam | [CON-1][], [MOD-1][], [VAR-1][]|[CON-1.D][], [MOD-1.B][], [MOD-1.C][], [MOD-1.D][],[MOD-1.E][], [MOD-1.F][], [VAR-1.D][], [VAR-1.E][]|
-| [3.08][] |Finding & Fixing Errors|Fix HW, webmaker.org||SC 4.1-4.4 |
-| [2.PPa][] | Unit 2 Personal Progress Check Part A Using Objects |
-| [2.PPb][] | Unit 2 Personal Progress Check Part B Using Objects |
+| [3.06][] |Interactive Programs & Scanner Objects|SC 3.24 - 3.26, (5th: 3.23 - 3.25); E 3.12, 3.14, 3.15|3.3 “Interactive programming” and “Sample interactive program”|Outline ch 3 (omit 3.4) | | | |
+| [3.07][] |Pokémon Battle Programming Project|[WS 3.7][]  LP Battle||Summarize notes since last exam | [CON-1][], [MOD-1][], [VAR-1][]|[CON-1.D][], [MOD-1.B][], [MOD-1.C][], [MOD-1.D][],[MOD-1.E][], [MOD-1.F][], [VAR-1.D][], [VAR-1.E][]| |
+| [3.08][] |Finding & Fixing Errors|Fix HW, webmaker.org||SC 4.1-4.4 | | | |
+| [2.PPa][] | Unit 2 Personal Progress Check Part A Using Objects | | | | | | |
+| [2.PPb][] | Unit 2 Personal Progress Check Part B Using Objects | | | | | | |
 
 ## 3.01
 

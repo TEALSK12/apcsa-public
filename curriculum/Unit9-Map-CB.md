@@ -16,25 +16,25 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | [6.03][] |Interacting with the Object Superclass|SC 9.3, 9.4, 9.9, 9.10, E 9.4;[WS 6.3][] [Poster 6.3][]|Rest of 9.2 starting from “The Object Class.”||[MOD-3][]|[MOD-3.B][]|[MOD-3.B.14][],[MOD-3.B.15][]
 | [6.04][] |Polymorphism|[WS 6.4.1][] [WS 6.4.2][] SC 9.11-9.17|9.3 up to “Interpreting Inheritance Code.” |SC 9.18, 9.20|[MOD-3][]|[MOD-3.D][]|[MOD-3.D.1][],[MOD-3.D.2][],[MOD-3.D.3][]
 | [6.05][] |Has-a Relationships|[WS 6.5][] ValueMeal exercise? |Rest of 9.4 “Is-a Versus Has-a Relationships.”||[MOD-3][]|[MOD-3.C][]|[MOD-3.C.1][],[MOD-3.C.2][],[MOD-3.C.3][],[MOD-3.C.4][]
-| [6.06][] |Interfaces (optional)|[Interface examples][] [Poster 6.6][]|9.5 (Optional if covering Interfaces)|Generate own class hierarchy like Financial hierarchy in book
-| [6.07][] 01|Programming project (day 1)|PP 9.1, notebook checks|9.6 (Optional if covering Abstract classes|Outline ch 9 | [MOD-2][], [MOD-3][] | [MOD-2.D][], [MOD-3.B][], [MOD-3.C][], [MOD-3.D][]
-| [6.07][] 02|Programming project (day 2)|PP 9.1, outline checks||
-| [6.07][] 03|Programming project (day 3)|PP 9.3|Read and outline Barrons ch 4 (8th or later: ch 5)|Barrons ch 4 (8th or later: ch 5) exam, self-grade
-| [6.07][] 04|Programming project (day 4)|E 9.8||
-| [6.07][] 05|Programming project (day 5)|Barrons ch 3 (8th or later: ch 4) exam, outline checks|Read and outline Barrons ch 3 (8th or later: ch 4)|Submit questions for review
-| [6.07a][] 01|Celebrity Lab (day 1)|Celebrity Lab Activity 1, notebook checks||Outline ch 9
-| [6.07a][] 02|Celebrity Lab (day 2)|Celebrity Lab Activity 2, outline checks||
-| [6.07a][] 03|Celebrity Lab (day 3)|Celebrity Lab Activity 3|Read and outline Barrons ch 4 (8th or later: ch 5)|Barrons ch 4 (8th or later: ch 5) exam, self-grade
-| [6.07a][] 04|Celebrity Lab (day 4)|Celebrity Lab Activity 4||
-| [6.07a][] 05|Celebrity Lab (day 5)|Celebrity Lab Activity 5|Read and outline Barrons ch 3 (8th or later: ch 4)|Submit questions for review
-| [6.07a][] 06|Celebrity Lab (day 5)|Celebrity Lab Activity 5 (day 2)|Review ch 9|Submit questions for review
-| [6.07a][] 07|Celebrity Lab (day 5)|Celebrity Lab Activity 5 (day 3), outline checks|Review ch 9|Submit questions for review
-| [6.08][] |Finding & Fixing Errors|(Fix HW)|Review ch 9|Submit questions for review
-| [6.09][] |Review|Review questions [WS 6.5][] Test practice|Review ch 9|Study
-| 6.99 |Unit 6 test|[Test 5 Guide][] Test 5 Section I Test 5 Section II||
-| [7.00][] |Test Review & Reteach|Review test|13.1 up to “Sorting”|Test corrections
-| 6.XX |[Text Excel][]|[Text Excel Student Guide A][] [Text Excel Student Guide B][] [Text Excel Student Guide C][] [Text Excel Teacher Guide][]||| [MOD-2][], [MOD-3][] | [MOD-2.D][], [MOD-3.B][], [MOD-3.C][], [MOD-3.D][] |
-| [9.PP][] | Unit 9 Personal Progress Check Inheritance |
+| [6.06][] |Interfaces (optional)|[Interface examples][] [Poster 6.6][]|9.5 (Optional if covering Interfaces)|Generate own class hierarchy like Financial hierarchy in book| | | |
+| [6.07][] 01|Programming project (day 1)|PP 9.1, notebook checks|9.6 (Optional if covering Abstract classes|Outline ch 9 | [MOD-2][], [MOD-3][] | [MOD-2.D][], [MOD-3.B][], [MOD-3.C][], [MOD-3.D][]| |
+| [6.07][] 02|Programming project (day 2)|PP 9.1, outline checks||| | | |
+| [6.07][] 03|Programming project (day 3)|PP 9.3|Read and outline Barrons ch 4 (8th or later: ch 5)|Barrons ch 4 (8th or later: ch 5) exam, self-grade| | | |
+| [6.07][] 04|Programming project (day 4)|E 9.8||| | | |
+| [6.07][] 05|Programming project (day 5)|Barrons ch 3 (8th or later: ch 4) exam, outline checks|Read and outline Barrons ch 3 (8th or later: ch 4)|Submit questions for review| | | |
+| [6.07a][] 01|Celebrity Lab (day 1)|Celebrity Lab Activity 1, notebook checks||Outline ch 9| | | |
+| [6.07a][] 02|Celebrity Lab (day 2)|Celebrity Lab Activity 2, outline checks||| | | |
+| [6.07a][] 03|Celebrity Lab (day 3)|Celebrity Lab Activity 3|Read and outline Barrons ch 4 (8th or later: ch 5)|Barrons ch 4 (8th or later: ch 5) exam, self-grade| | | |
+| [6.07a][] 04|Celebrity Lab (day 4)|Celebrity Lab Activity 4||| | | |
+| [6.07a][] 05|Celebrity Lab (day 5)|Celebrity Lab Activity 5|Read and outline Barrons ch 3 (8th or later: ch 4)|Submit questions for review| | | |
+| [6.07a][] 06|Celebrity Lab (day 5)|Celebrity Lab Activity 5 (day 2)|Review ch 9|Submit questions for review| | | |
+| [6.07a][] 07|Celebrity Lab (day 5)|Celebrity Lab Activity 5 (day 3), outline checks|Review ch 9|Submit questions for review| | | |
+| [6.08][] |Finding & Fixing Errors|(Fix HW)|Review ch 9|Submit questions for review| | | |
+| [6.09][] |Review|Review questions [WS 6.5][] Test practice|Review ch 9|Study| | | |
+| 6.99 |Unit 6 test|[Test 5 Guide][] Test 5 Section I Test 5 Section II||| | | |
+| [7.00][] |Test Review & Reteach|Review test|13.1 up to “Sorting”|Test corrections| | | |
+| 6.XX |[Text Excel][]|[Text Excel Student Guide A][] [Text Excel Student Guide B][] [Text Excel Student Guide C][] [Text Excel Teacher Guide][]||| [MOD-2][], [MOD-3][] | [MOD-2.D][], [MOD-3.B][], [MOD-3.C][], [MOD-3.D][] | |
+| [9.PP][] | Unit 9 Personal Progress Check Inheritance || | | | | |
 
 ## 6.01.1
 

@@ -14,26 +14,26 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [4.07][] |ArrayList|Grudge Ball [Poster 4.7][]||Outline ch 7 and 10.1| [VAR-2][], [CON-2][] | [VAR-2.D][], [VAR-2.E][], [CON-2.J][] | [VAR-2.D.1][], [VAR-2.D.2][], [VAR-2.D.3][], [VAR-2.D.4][], [VAR-2.D.5][], [VAR-2.D.6][], [VAR-2.D.7][], [VAR-2.E.1][], [VAR-2.E.2][], [VAR-2.E.3][], [VAR-2.E.4][], [CON-2.J.1][], [CON-2.J.2][] |
 | [7.01][] |Searching Algorithms|(CS Unplugged Battleship) [WS 7.1][]||SC 2, E 13.1-13.3 | [CON-2][] | [CON-2.K][] | [CON-2.K.1][], [CON-2.K.2][] |
 | [7.02][] |Sorting Algorithms||13.1 “Sorting”|| [CON-2][] | [CON-2.L][], [CON-2.M][] | [CON-2.L.1][], [CON-2.M.1][]|
-| [7.03][] 01|[Elevens Lab][] (day 1)| Elevens Lab Activity 1|13.1 “Shuffling”|SC 13.16-13.18, 13.21, 13.22
-| [7.03][] 02|[Elevens Lab][] (day 2)| Elevens Lab Activity 2 (begin)|"13.3 skip ""Recursive Binary Search"|
-| [7.03][] 03|[Elevens Lab][] (day 3)| Elevens Lab Activity 2 (end)||Summarize notes since last exam
-| [7.03][] 04|[Elevens Lab][] (day 4)| Elevens Lab Activity 3 (begin), notebook checks||Outline ch 13
-| [7.03][] 05|[Elevens Lab][] (day 5)| Elevens Lab Activity 3 (end), notebook checks|Read and outline Barrons ch 8|
-| [7.03][] 06|[Elevens Lab][] (day 6)| Elevens Lab Activity 4||Barrons ch 8 exam, self-grade
-| [7.03][] 07|[Elevens Lab][] (day 7)| Elevens Lab Activity 5 (begin), Barron's checks||
-| [7.03][] 08|[Elevens Lab][] (day 8)| Elevens Lab Activity 5 (end)||
-| [7.03][] 09|[Elevens Lab][] (day 9)| Elevens Lab Activity 6||(Fix HW)
-| [7.03][] 10|[Elevens Lab][] (day 10)| Elevens Lab Activity 7||(Fix HW)
-| [7.03][] 11|[Elevens Lab][] (day 11)| Elevens Lab Activity 8, re-grade fixed HW||
-| [7.03][] 12|[Elevens Lab][] (day 12)| Elevens Lab Activity 9 (begin), re-grade fixed HW||
-| [7.03][] 13|[Elevens Lab][] (day 13)| Elevens Lab Activity 9 (end), re-grade fixed HW||Submit questions for review
-| [7.03][] 14|[Elevens Lab][] (day 14)| Elevens Lab Activity 10, re-grade fixed HW||
-| [7.03][] 15|[Elevens Lab][] (day 15)| Elevens Lab Activity 11 (begin)||
-| [7.03][] 16|[Elevens Lab][] (day 16)| Elevens Lab Activity 11 (end)||
-| [7.04][]|Review|Review questions||Study
-| 7.99|Unit 7 test|[Test 6 Guide][] Test 6 Section I Test 6 Section II||
-| [8.00][] |Test Review & Reteach|Review test||Test corrections
-| [7.PP][] | Unit 7 Personal Progress Check ArrayList |
+| [7.03][] 01|[Elevens Lab][] (day 1)| Elevens Lab Activity 1|13.1 “Shuffling”|SC 13.16-13.18, 13.21, 13.22 | | | |
+| [7.03][] 02|[Elevens Lab][] (day 2)| Elevens Lab Activity 2 (begin)|"13.3 skip ""Recursive Binary Search"| | | | |
+| [7.03][] 03|[Elevens Lab][] (day 3)| Elevens Lab Activity 2 (end)||Summarize notes since last exam| | | |
+| [7.03][] 04|[Elevens Lab][] (day 4)| Elevens Lab Activity 3 (begin), notebook checks||Outline ch 13| | | |
+| [7.03][] 05|[Elevens Lab][] (day 5)| Elevens Lab Activity 3 (end), notebook checks|Read and outline Barrons ch 8| | | | |
+| [7.03][] 06|[Elevens Lab][] (day 6)| Elevens Lab Activity 4||Barrons ch 8 exam, self-grade| | | |
+| [7.03][] 07|[Elevens Lab][] (day 7)| Elevens Lab Activity 5 (begin), Barron's checks||| | | |
+| [7.03][] 08|[Elevens Lab][] (day 8)| Elevens Lab Activity 5 (end)||| | | |
+| [7.03][] 09|[Elevens Lab][] (day 9)| Elevens Lab Activity 6||(Fix HW)| | | |
+| [7.03][] 10|[Elevens Lab][] (day 10)| Elevens Lab Activity 7||(Fix HW)| | | |
+| [7.03][] 11|[Elevens Lab][] (day 11)| Elevens Lab Activity 8, re-grade fixed HW||| | | | |
+| [7.03][] 12|[Elevens Lab][] (day 12)| Elevens Lab Activity 9 (begin), re-grade fixed HW||| | | |
+| [7.03][] 13|[Elevens Lab][] (day 13)| Elevens Lab Activity 9 (end), re-grade fixed HW||Submit questions for review| | | |
+| [7.03][] 14|[Elevens Lab][] (day 14)| Elevens Lab Activity 10, re-grade fixed HW||| | | |
+| [7.03][] 15|[Elevens Lab][] (day 15)| Elevens Lab Activity 11 (begin)||| | | |
+| [7.03][] 16|[Elevens Lab][] (day 16)| Elevens Lab Activity 11 (end)||| | | |
+| [7.04][]|Review|Review questions||Study| | | |
+| 7.99|Unit 7 test|[Test 6 Guide][] Test 6 Section I Test 6 Section II||| | | |
+| [8.00][] |Test Review & Reteach|Review test||Test corrections| | | |
+| [7.PP][] | Unit 7 Personal Progress Check ArrayList | | | | | | |
 
 
 ## 4.07
