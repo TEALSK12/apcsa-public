@@ -57,7 +57,7 @@ for /r . %%f in (*.md) do (
 @REM - move /Y AP-CSA.save AP-CSA.pdf
 
 @REM move GitBook Pages index file
-move /Y index.md.html index.html
+move /Y README.md.html index.html
 
 cd ..
 
