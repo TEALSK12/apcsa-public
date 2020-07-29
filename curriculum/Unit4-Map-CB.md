@@ -15,6 +15,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  [2.06][]    | nested for Loops             | SC 2.28-2.30 (4th, 5th: 2.31-2.33), E 2.5 | 2.3 “Nested for Loops” | SC 2.26, 2.27 (4th, 5th: 2.29, 2.30),E 2.4 | | | |
 |  [2.07][]    | Scope & Pseudocode           | [WS 2.7][] Discuss PP 2.1 | 2.4 “Scope” and “Pseudocode" |SC 2.31-2.33 (4th, 5th: 2.34-2.36) | | | |
 |  [2.08][]    | Programming Project          | Start PP 2.4    | Read 2.4 “Class Constants” | Outline ch 2 (omit 2.5) | [CON-1][], [VAR-1][] | [CON-1.A][], [CON-1.B][], [CON-1.C][], [VAR-1.B][] | |
+|  [2.08a][]    | Programming Project          | Start PP 2.4    | Read 2.4 “Class Constants” | Outline ch 2 (omit 2.5) | [CON-1][], [VAR-1][] | [CON-1.A][], [CON-1.B][], [CON-1.C][], [VAR-1.B][] | |
 |  [2.09][]    | Programming Project          | Complete PP 2.4 | | \[_TBD practice question_\][] | | | |
 |  [2.10][]    | Finding & Fixing Errors      | Fix HW        | | Submit questions for review | | | |
 |  [2.11][]    | Review (Review questions)    | [WS 2.11][] practice test | Review ch 2 (omit 2.5) | Study | | | |
@@ -71,6 +72,16 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 ## 2.08
 
 | [Lesson 2.08][]   | _Programming Project_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will plan and construct a structured program containing nested loops.
+| **Assessments** | Students will submit a complete, functional program by the end of next class.
+| **In Class**    | Start PP 2.4
+| **Reading**     | Read 2.4 “_Class Constants_”
+| **Homework**    | Outline ch 2 (omit 2.5)
+
+## 2.08a
+
+| [Lesson 2.08a][]   | _Programming Project_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will plan and construct a structured program containing nested loops.
 | **Assessments** | Students will submit a complete, functional program by the end of next class.
@@ -297,6 +308,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 [2.06]: ./Unit2/Lesson-206.md
 [2.07]: ./Unit2/Lesson-207.md
 [2.08]: ./Unit2/Lesson-208.md
+[2.08a]: ./Unit2/Lesson-208a.md
 [2.09]: ./Unit2/Lesson-209.md
 [2.10]: ./Unit2/Lesson-210.md
 [2.11]: ./Unit2/Lesson-211.md
@@ -325,6 +337,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 [Lesson 2.06]: ./Unit2/Lesson-206.md
 [Lesson 2.07]: ./Unit2/Lesson-207.md
 [Lesson 2.08]: ./Unit2/Lesson-208.md
+[Lesson 2.08a]: ./Unit2/Lesson-208a.md
 [Lesson 2.09]: ./Unit2/Lesson-209.md
 [Lesson 2.10]: ./Unit2/Lesson-210.md
 [Lesson 2.11]: ./Unit2/Lesson-211.md
