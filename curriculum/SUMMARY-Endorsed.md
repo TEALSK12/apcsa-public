@@ -63,6 +63,7 @@
 * [Lesson 2.06: nested for Loops](Unit2/Lesson-206.md)
 * [Lesson 2.07: Scope & Pseudocode](Unit2/Lesson-207.md)
 * [Lesson 2.08: Programming Project](Unit2/Lesson-208.md)
+* [Lesson 2.08a: Programming Project](Unit2/Lesson-208a.md)
 * [Lesson 2.09: Programming Project](Unit2/Lesson-209.md)
 * [Lesson 2.10: Finding & Fixing Errors](Unit2/Lesson-210.md)
 * [Lesson 2.11: Review](Unit2/Lesson-211.md)
