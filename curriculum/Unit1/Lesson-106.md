@@ -18,7 +18,7 @@ Overview
 
 Materials & Prep
 ----------------
-- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- **Projector and computer**
 - **Whiteboard and** **markers**
 - **Rosters** for class teams
 - **Ball** (preferably a large inflatable ball or kickball)

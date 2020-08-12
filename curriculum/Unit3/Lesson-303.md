@@ -17,7 +17,7 @@ Overview
 
 Materials & Prep
 ----------------
-- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- **Projector and computer**
 - **Whiteboard and** **markers**
 - **Poster or image** of
   - Blastoise (<http://tinyurl.com/ndy3v69>) and

@@ -16,7 +16,7 @@ Overview
 
 Materials & Prep
 ----------------
-- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- **Projector and computer**
 - **Student self-help system** (such as C2B4 or student pairing)
 
 Today is day 2 of the programming project; be sure to remind students that they only have the first
@@ -64,7 +64,7 @@ class.
 2. Trace or run the program with the updated class constants to demonstrate that this does indeed
    work.
 
-3. If you are running the program in Eclipse, show that you can easily change the constants. Change
+3. If you are running the program in IDE, show that you can easily change the constants. Change
    the values several times, running the program each time to drive this home.
 
 ### Students Update Their Code `[10 minutes]`
