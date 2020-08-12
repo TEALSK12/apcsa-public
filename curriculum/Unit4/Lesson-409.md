@@ -81,7 +81,7 @@ Unit 4 exam.
 - Alternatively, you can save time spent on the lab by checking activities as homework.
 
 ### General Project Notes
-- To help students start the lab smoothly, start Activity 2 as a whole group. Open Eclipse and guide
+- To help students start the lab smoothly, start Activity 2 as a whole group. Open IDE and guide
   students through opening the Magpie and Magpie Runner files.
 
 - Encourage students to use their Tricky Code Cheat Sheets, 4 Commandments of Scope, notebooks,

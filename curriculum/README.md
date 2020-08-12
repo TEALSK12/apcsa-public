@@ -335,15 +335,13 @@ Video Tutorials
 
 ### Recommended Hardware
 
-In the classroom, it is recommended that each student have an internet-connected desktop computer capable of running an Integrated Design Environment (IDE), like Eclipse.  Students will need to be able to save and access their programming projects locally or in the cloud.
+In the classroom, it is recommended that each student have an internet-connected desktop computer capable of running an Integrated Design Environment (IDE).  Students will need to be able to save and access their programming projects locally or in the cloud.
 
-In the classroom, it is recommended that each student have an internet-connected desktop computer capable of running an Integrated Design Environment (IDE), like Eclipse.  Students will need to be able to save and access their programming projects locally or in the cloud.
-
-### Integrated Design Environment (IDE) — Eclipse
+### Integrated Design Environment (IDE)/Code Editor
 
 Coding in Java requires the Java Development Kit and a text editor or IDE. There are many Java IDEs
-available. Currently most of the TEALS classrooms use Eclipse. Unit 1 includes directions for
-installing Eclipse.
+available. There are any IDEs/Coded editors that can be used to teach AP CS A.  Unit 1 includes directions for
+installing IDE/Code Editor for Eclipse and VS Code.  You are free to choose the IDE/Code Editor that best fits your class.
 
 ### Textbook
 

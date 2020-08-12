@@ -141,7 +141,7 @@ Once students have completed these exercises, distribute worksheet 6.3.
 
 - Read through the questions aloud, if needed.
 
-- If you are having the students work in Eclipse, be sure to review your procedure for submitting
+- If you are having the students work in IDE, be sure to review your procedure for submitting
   work electronically before students begin.
 
 - Encourage students to explore the drink bottles to get ideas for fields they can use in their

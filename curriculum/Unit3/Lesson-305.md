@@ -17,7 +17,7 @@ Overview
 
 Materials & Prep
 ----------------
-- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- **Projector and computer**
 - Day 1
 - **Whiteboard and** **markers**
 - **Classroom copies** of [WS 3.5][]

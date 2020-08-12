@@ -17,7 +17,7 @@ Overview
 
 Materials & Prep
 ----------------
-- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- **Projector and computer**
 - **Whiteboard and marker**
 - **Overly complicated diagram** (<https://tinyurl.com/y67z3cym>)
 

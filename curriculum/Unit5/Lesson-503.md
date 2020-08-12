@@ -17,7 +17,7 @@ Overview
 
 Materials & Prep
 ----------------
-- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- **Projector and computer**
 - **Whiteboard and** **markers**
 - **Classroom copies** of [WS 5.3.1][], [WS 5.3.2][]
 - **Student small-group assignments** (3-4 per group)

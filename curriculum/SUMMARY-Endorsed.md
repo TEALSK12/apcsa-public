@@ -23,7 +23,7 @@
 
 ## [CB Unit 1: Primitive Types](Unit1-Map-CB.md)
 
-* [Lesson 1.01: Using Eclipse](Unit1/Lesson-101.md)
+* [Lesson 1.01: Using IDE/Code Editor](Unit1/Lesson-101.md)
 * [Lesson 1.02: Algorithms & Computational Thinking](Unit1/Lesson-102.md)
 * [Lesson 1.03: String & Console Output](Unit1/Lesson-103.md)
 * [Lesson 1.04: Common Errors & Comments](Unit1/Lesson-104.md)

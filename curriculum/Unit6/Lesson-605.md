@@ -17,7 +17,7 @@ Overview
 Materials & Prep
 ----------------
 - Day 1
-- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- **Projector and computer**
 - **Whiteboard and** **markers**
 - **Projection or classroom copies** of [WS 6.5][] (an AP Section II question)
 - **Student pair assignments**
@@ -97,7 +97,7 @@ polymorphism) to reuse code for different classes.
 
 ### Student Practice `[25 minutes]`
 1. Students should remain in their student pairs. If your classroom has computers, students should
-   complete the following exercise in Eclipse, and you should review the protocol for submitting
+   complete the following exercise and you should review the protocol for submitting
    assignments electronically.
 
 2. Before students get started, ask students what types of meals they see in fast food restaurants,
@@ -154,7 +154,7 @@ Accommodation and Differentiation
 
 - If your students have been having trouble tracing the flow of control as a method calls another
   method in a different class, take some time to demonstrate how to use the step-into and step-over
-  buttons in Eclipse.
+  buttons in the IDE.
 
   - The step-over and step-into buttons can be found in the top toolbar.
 
@@ -185,7 +185,7 @@ If you’d like for students to expand on the AP question given, have students:
 
 If students are struggling with the assignment, allow more time (up to two class periods) to
 complete the lesson. Read the prompt aloud for the class, and do the steps together if needed. In
-classes with ELLs, you can distribute saved Eclipse files that contain an entire functional program,
+classes with ELLs, you can distribute saved .java files that contain an entire functional program,
 with shuffled components. Students will need to organize the code fragments into the proper order (a
 Parsons problem).
 

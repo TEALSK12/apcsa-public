@@ -12,7 +12,7 @@ classroom.
 
 | **LP** | **Title**                             | **In Class**   | **Reading**     | **Homework**    |
 |:-------|:--------------------------------------|:---------------|:----------------|:----------------|
-| [1.01][] | _Using Eclipse_         | [WS 1.1.1][]<br>[WS 1.1.2][] | | Explore Pokémon (pokemon.com, console, web site) |
+| [1.01][] | _Using IDE/Code Editor_         | [WS 1.1.1][]<br>[WS 1.1.2][] | | Explore Pokémon (pokemon.com, console, web site) |
 | [1.02][] | _Algorithms & Computational Thinking_ | PB&J | | Reflect on PB&J assignment<br>Continue exploring Pokémon |
 | [1.03][] | _String & Console Output_             | SC 1.6–9, 1.11–14<br>LP Welcome | 1.2 | EX 1.1–5 |
 | [1.04][] | _Common Errors & Comments_            | [WS 1.4][] | 1.3 | EX 1.6–9|
@@ -26,9 +26,9 @@ classroom.
 
 ## 1.01
 
-| [Lesson 1.01][]   | _Using Eclipse_
+| [Lesson 1.01][]   | _Using IDE/Code Editor_
 |:----------------|:-----------------------------
-| **Objectives**  | Students will be able to open Eclipse, create and save a file in Eclipse, and use Practice.
+| **Objectives**  | Students will be able to open IDE/Code Editor, create and save a file in IDE/Code.
 | **Assessments** | Students will demonstrate Plug-In and Un-Plug procedures for the teacher. Students will log in and submit a sample problem in Practice.
 | **In Class**    | [WS 1.1.1][] [WS 1.1.2][]
 | **Reading**     |
