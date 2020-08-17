@@ -22,7 +22,8 @@ Materials & Prep
 - **Projector and computer** (if you are able to/opt to use Eclipse with your students)
 - **Whiteboard and** **markers**
 - **Classroom copies** of [WS 6.1] Start class poster, [Example 6.1]
-- **Pictures** of Pokémon (<http://tinyurl.com/l6mybmr>) or Pokémon Cards
+- **Pictures** of Pokémon (<http://tinyurl.com/l6mybmr>) or Pokémon Cards (optional)
+- **Video** about bees (<https://www.youtube.com/watch?v=K3oMN1a_pdg>)
 - **Student pair assignments**
 - **Art supplies** for each group:
   - Poster paper or cut sheets of butcher paper
