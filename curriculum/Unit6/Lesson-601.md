@@ -21,8 +21,9 @@ Materials & Prep
 ----------------
 - **Projector and computer** 
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 6.1][] Start class poster, [Example 6.1][]
-- **Pictures** of Pokémon (<http://tinyurl.com/l6mybmr>) or Pokémon Cards
+- **Classroom copies** of [WS 6.1] Start class poster, [Example 6.1]
+- **Pictures** of Pokémon (<http://tinyurl.com/l6mybmr>) or Pokémon Cards (optional)
+- **Video** about bees (<https://www.youtube.com/watch?v=K3oMN1a_pdg>)
 - **Student pair assignments**
 - **Art supplies** for each group:
   - Poster paper or cut sheets of butcher paper
@@ -61,9 +62,9 @@ Pacing Guide: Day 2
 
 Procedure
 ---------
-Hook your students by prominently displaying pictures or cards of Pokémon, art materials, and sample
+Hook your students by prominently displaying art materials and sample
 work (of your own making, or saved from a previous year). To feature the most engaging student
-examples, look for work that has many instances of each class, and uses classes/objects that are
+examples, look for work that has many instances of each class and uses classes/objects that are
 popular with your class. Invoke an air of mystery and don’t offer an explanation for any of it.
 
 ### Bell-work and Attendance `[5 minutes]`
@@ -82,49 +83,31 @@ Many of the programs you create could be altered, remixed and tweaked to create 
 
 ---
 
-1. Have a class discussion about the Pokémon picture/cards. Ask a few probing questions to model the
-   use of proper programming terminology as you have students work through a starter assignment:
+1. Have a quick class discussion about bees with the students jotting down some notes on the board.
 
-2. Ask students what the picture is of. Do they know the names or types of the Pokémon featured?
-   Assign a quick Think-Pair-Share assignment having the students creating the instance of that
-   Pokémon. Here’s a sample prompt:
+2. Watch the video about bees and ask again what they now know adding to the notes.
 
-   “Create the object Pikachu. Pikachu should have a type, a level, and 2 methods.”
+3. Ask them to help you create a Bee class with attributes (ex: boolen carryingPolen) and methods (ex: fly(), gatherNectar()). This does not need to be compilable code -- a UML class diagram would work well here.
 
-3. Show a few more cards/pictures. Ask students to do another Think-Pair-Share with another prompt
-   to create another instance (your prompt should have whatever Pokémon you’ve just discussed):
+4. They may come up with this on their own, but steer them in the direction of multiple types of bees -- worker, queen, drone (male). Create another UML box, but don't connect them yet.
 
-   “Create the object Squirtle. Squirtle should have a type, a level, and 2 methods.”
+5. Ask what all bees have in common. Write everything down even if it doesn't have a perfect programming analogue (e.g. yellow stripes) or if it isn't something that all bees do (e.g. sting or gather nectar).
 
-4. Repeat this sequence one more time; showing the cards, and having students create a Pokémon
-   instance object. Your students should be getting annoyed at having to write the same things over
-   and over again.
+6. Start explaining the idea of superclasses and subclasses. Explain that subclasses are specialized versions of the superclasss. Suggest that the Bee class could be the superclass. 
 
-5. Ask students what all of the Pokémon have in common. Encourage them to list additional traits
-   other than the ones you’ve required them to include in your class exercises.
-
-6. Ask students if they can think of a way to create new Pokémon objects without having to “reinvent
-   the wheel” each time. (They might be able to sketch out an answer based on the previous night’s
-   readings.)
-
-7. Students might suggest subclasses of Pokémon, in which case you should point out that they’re
-   creating a class that is included within the larger classification of “all Pokémon.”
-
-   The individual Pokémon demonstrate an *instance of* the Pokémon class. Each *subclass* of
-   Pokémon is a specialized version of the parent class (or *superclass*) Pokémon.
+7. Ask students what the specialized subclasses would be. Start mapping out the heirarchy with arrows. Explain that the arrow represents an "is a" relationship. Give other examples of "is a" relationships
 
    #### Examples
+   - An apple tree is a tree.
+   - A stegasoraus is a dinosaur.
    - An electric Pokémon is a Pokémon.
    - A computer science student is a student.
    - A math teacher is a teacher.
    - Soda is a drink.
+   - A square is a rectangle.
+   - A smart phone is a computer.
 
-   Have students describe the hierarchical structure of each relationship above. Electric Pokémon is
-   a subclass, Pokémon is the superclass. Student is the superclass, computer science student is the
-   subclass. Drink is the superclass, soda is the subclass.
-
-8. Confirm understanding by asking for students to generate some examples. In each case, their two
-   categories exhibit a hierarchical connection; one type is a specialized version of the other.
+8. Have students give examples of other things have have this relationship and ask them to point out the superclasses and subclasses. Allow examples to have multiple subclasses.
 
 9. Ask students to define an inheritance hierarchy in their own words. Briefly discuss why you would
    want to use inheritance in programming.
@@ -161,100 +144,132 @@ Many of the programs you create could be altered, remixed and tweaked to create 
      think-pair-share, and ask several volunteers to come to the front of the room to demonstrate
      the correct class header.
 
-12. For the following example, we will create subclasses that extend the *Drink* superclass written
-   below. If your students need additional practice building classes of objects, you can have them
-   help you write this code. In more advanced classes, you may just reveal this class as a
-   fully-formed starting point to demonstrate how to write subclasses.
+12. For the following example, we will create subclasses that extend the *Vehicle* superclass written
+   below. Show the slide with this code and/or create a new file with the code below. If you think your students can come up with the methods relatively quickly, you can show portions of the code and have them fill in the methods in pairs.
 
    ``` Java
-   public class Drink {
-       private String  name;
-       private boolean hasCarbonation;
-       private double  gramsOfSugar;
-       private double  ounces;
+   class Vehicle {
+    static final int FEET_IN_MILE = 5280;
+    private int xCord;
+    private int yCord;
 
-       public Drink (String n, Boolean h, double g) {
-           name = n;
-           hasCarbonation = h;
-           gramsOfSugar = g;
-           ounces = 8;           //FDA defines a serving as 8 oz.
-       }
+    private double fuelGallons;
+    private double maxFuel; 
+    private double mileFuelRatio;
 
-       public void chug (double gulp) {
-           if (ounces < gulp) {
-               throw new IllegalArgumentException ("Not enough " + name + " left.");
-           } else {
-               System.out.println ("Glug, glug, glug!");
-               ounces -=gulp;
-               System.out.println("You have " + ounces + "oz. of " + name + " left.");
-           }
-       }
+    public Vehicle(int xStart, int yStart,  double fuelGallons, double maxFuel, double milePerGallon){
+      this.xCord = xStart;
+      this.yCord = yStart;
 
-       public String getState() {
-           return "liquid";
-       }
+      this.fuelGallons = fuelGallons;
+      this.maxFuel = maxFuel;
+      this.milePerGallon = milePerGallon;
+    }
 
-       public void printLabel() {
-           System.out.println ("Enjoy refreshing " + name + " !");
-       }
-   }
+    public void move(int dx, int dy){
+      // if there is enough fuel, move dx and dy feet.
+      double distance = Math.sqrt(Math.pow(dx, 2) + Math.pow(dy, 2));
+      double fuelUsed = distance / (FEET_IN_MILE * milePerGallon); 
+      
+      if (fuelGallons - fuelUsed > 0){
+        this.xCord += dx;
+        this.yCord += dy;
+        this.fuelGallons -= fuelUsed;
+      } else {
+        System.out.println("Not enough fuel.");
+      }
+    }
+
+    public void refuel(double fuel){
+      this.fuelGallons += fuel;
+      if (this.fuelGallons > this.maxFuel){
+        this.fuelGallons = this.maxFuel;
+      }
+    }
+
+    public int getX(){
+      return xCord;
+    }
+
+    public int getY(){
+      return yCord;
+    }
+
+    public double getFuel(){
+      return fuelGallons;
+    }
+
+  }
    ```
 
-13. Because the subclass is still a class, you should add fields and constructors, as you do with
-   any class:
+13. Explain that this is a superclass and you wouldn't necessarily instantiate something as simply a vehicle. Ask for examples of subclasses. Write down all examples -- even if someone says airplane right away -- but tell the class that to keep it simple you'll start with a couple land-based examples like car and truck. Here are some examples that are in the slide. Feel free to hide that slide and make these classes with the students. Make sure you are repeating OOP vocab like inheritance, "is a", superclass, subclass, constructors, etc.
+
+``` Java
+class Car extends Vehicle {
+
+  public Car(int xStart, int yStart){
+    super(xStart, yStart, 15, 15, 20);
+  }
+}
+```
+``` Java
+class Semi extends Vehicle {
+
+  public Semi(int xStart, int yStart){
+    super(xStart, yStart, 130, 130, 6.5);
+  }
+  
+}
+```
+``` Java
+class Motorcycle extends Vehicle {
+
+  public Motorcycle(int xStart, int yStart){
+    super(xStart, yStart, 5, 5, 50);
+  }
+}
+```
+
+14. When you have a couple land-based examples down, ask students to create a vehicle subclass and constructor that calls the superclass. Good examples could be Tractor, PickupTruck, SportsCar, SUV, Tank. Advanced students can try something that doesn't have fuel like Bicycle, Skateboard, HorseDrawnCarriage.
+
+15. Ask them to share their classes with a neighbor, and optionally share with the class.
+
+16. Bring them back together and ask how they would start an Airplane class. Ask them what attributes and methods they will need in the Airplane class that the Vehicle class doesn't have. Here is an example that is also in the slide deck:
 
    ``` Java
-   public class SugarFreeDrink extends Drink {
-       private boolean hasSweetener;
-       private double  caffeineContent;
-   ```
+    class Airplane extends Vehicle {
+      
+      private int zCord;
+      private boolean landingGear;
 
-   The additional fields `hasSweetener` and `caffeineContent` characterize all `SugarFreeDrink`
-   `Drink` objects. You point out to students that `SugarFreeDrink` “is a kind of `Drink`.”
-   Spot-check student understanding by asking if objects of the `Drink` superclass will initialize
-   with a value for `hasSweetener` or `caffeineContent`. (_No_.)
+      public void liftoff(int dx, int dy, int dz){
+        if (zCord > 0){
+          System.out.println("We're already flying!");
+          return;
+        }
 
-14. `SugarFreeDrink` drinks still have a name, a boolean carbonation value, sugar content, and
-   ounces, but we’ve added a new fields specifying whether or not the sugar free drinks have
-   caffeine and artificial sweeteners. The constructor then looks like this:
+        // if there is enough fuel, move dx, dy, and dz feet.
+        double distance = Math.sqrt(Math.pow(dx, 2) + Math.pow(dy, 2) + Math.pow(dz, 2));
+        double fuelUsed = distance / (5280 * milePerGallon); 
+        
+        if (fuelGallons - fuelUsed > 0){
+          xCord += dx;
+          yCord += dy;
+          zCord += dz;
+          fuelGallons -= fuelUsed;
+          landingGear = false;
+        } else{
+          System.out.println("Not enough fuel.");
+        }
+      }
+    }
+  ```
 
-   ``` Java
-   public SugarFreeDrink(String name, boolean hasCarbonation, boolean h, double c) {
-   ```
+   Your students may point out different attributes and methods -- write down ideas as they come and allow other students to edit them to function better. Emphasize that designing classes is not an exact science and there are lots of right answers. Explain that they should expect to have to restructure their classes as they iterate through the design process.
 
-   - The fields in the subclass’ constructor now contain &lt;type&gt; &lt;superclass parameter
-     values&gt; (highlighted), except for the new fields, which still have a formal parameter (in
-     this case h and c).
+   If you have time, ask the students to write the constructor for Airplane in pairs.
 
-   - To complete the constructor so it can access the fields you already wrote in the superclass,
-     you use the keyword super:
-     ``` Java
-         // must be first line after constructor header
-         super(name, hasCarbonation, 0.0);
-     ```
-
-   - Notice that we’ve initialized all objects in the *SugarFreeDrink* class to have 0.0 grams of
-     sugar.
-
-   - Complete the constructor with your subclass’ new fields:
-     ```Java
-         hasSweetener = h;
-         caffieneContent = c;
-     }
-     ```
-
-15. You can also add methods that only apply to your subclass, just the way you normally write
-   object methods:
-
-   ``` Java
-   public void printWarningLabel() {
-       if (hasSweetener) {
-           System.out.println("This drink is not safe for Phenylketonurics.");
-       } else {
-           System.out.println("This drink contains no artificial sweeteners.");
-       }
-   }
-   ```
+   Note: some students may notice we are accessing private attributes in Airplane (xCord and yCord), but explain that we will have some fixes for that later.
 
 ### Review of the Project `[5 minutes]`
 1. Briefly review the assignment with your students, reading the directions aloud if need be.
@@ -292,25 +307,13 @@ Encourage advanced students to add additional classes, fields, methods, and clie
 still have time to spare, encourage them to read on method overriding, and invite them to add that
 code as well. Students can attach this “extra code” using paper and tape/glue or sticky notes.
 
-If you have a few students that are struggling with the class, give them your starter Drink class
-and SugarFree subclass, and let them build off of your examples. You can print out your starter code
+If you have a few students that are struggling with the class, give them your starter Vehicle class
+and some subclasses, and let them build off of your examples. You can print out your starter code
 and cut it into pieces and shuffle them so students have to place each line in the correct location
 (as with a Parson problem).
 
 If your students need further instruction on calling a superclass’ constructor, go through a few
-more examples using the Drink superclass, or classes that you created as a whole group. One example
-has been outlined below:
-
-``` Java
-public class SugarDrink extends Drink {
-    private boolean isJuice;
-
-    public SugarDrink (String name, boolean hasCarbonation, double gramsOfSugar,
-                       double ounces, boolean iJ) {
-        super(name, hasCarbonation, gramsOfSugar, ounces);
-        isJuice = iJ;
-    }
-```
+more examples using the Vehicle superclass, or classes that you created as a whole group.
 
 
 Teacher Prior CS Knowledge
