@@ -167,7 +167,7 @@ The original programmer can also think carefully about how additional features a
    
    If we want to change the value in a private attribute, we could use a setter that would check to make sure the value is valid.
 
-6. Have students offer additional examples using the *Drink* superclass, or using examples from
+6. Have students offer additional examples using the *Vehicle* superclass, or using examples from
    their own class hierarchy.
 
 7. Complete the introduction by asking students to explain what the difference is between overriding
