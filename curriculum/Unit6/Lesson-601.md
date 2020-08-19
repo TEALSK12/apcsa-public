@@ -62,9 +62,9 @@ Pacing Guide: Day 2
 
 Procedure
 ---------
-Hook your students by prominently displaying art materials, and sample
+Hook your students by prominently displaying art materials and sample
 work (of your own making, or saved from a previous year). To feature the most engaging student
-examples, look for work that has many instances of each class, and uses classes/objects that are
+examples, look for work that has many instances of each class and uses classes/objects that are
 popular with your class. Invoke an air of mystery and don’t offer an explanation for any of it.
 
 ### Bell-work and Attendance \[5 minutes\]
@@ -149,57 +149,57 @@ Many of the programs you create could be altered, remixed and tweaked to create 
 
    ``` Java
    class Vehicle {
-  private int xCord;
-  private int yCord;
+    static final int FEET_IN_MILE = 5280;
+    private int xCord;
+    private int yCord;
 
-  private double fuelGallons;
-  private double maxFuel; 
-  private double mileFuelRatio;
+    private double fuelGallons;
+    private double maxFuel; 
+    private double mileFuelRatio;
 
-  public Vehicle(int xStart, int yStart,  double fuelGallons, double maxFuel, double milePerGallon){
-    this.xCord = xStart;
-    this.yCord = yStart;
+    public Vehicle(int xStart, int yStart,  double fuelGallons, double maxFuel, double milePerGallon){
+      this.xCord = xStart;
+      this.yCord = yStart;
 
-    this.fuelGallons = fuelGallons;
-    this.maxFuel = maxFuel;
-    this.milePerGallon = milePerGallon;
-  }
-
-  public void move(int dx, int dy){
-    // if there is enough fuel, move dx and dy feet.
-    double distance = Math.sqrt(Math.pow(dx, 2) + Math.pow(dy, 2));
-    double fuelUsed = distance / (5280 * milePerGallon); 
-    
-    if (fuelGallons - fuelUsed > 0){
-      this.xCord += dx;
-      this.yCord += dy;
-      this.fuelGallons -= fuelUsed;
+      this.fuelGallons = fuelGallons;
+      this.maxFuel = maxFuel;
+      this.milePerGallon = milePerGallon;
     }
-    else{
-      System.out.println("Not enough fuel.");
+
+    public void move(int dx, int dy){
+      // if there is enough fuel, move dx and dy feet.
+      double distance = Math.sqrt(Math.pow(dx, 2) + Math.pow(dy, 2));
+      double fuelUsed = distance / (FEET_IN_MILE * milePerGallon); 
+      
+      if (fuelGallons - fuelUsed > 0){
+        this.xCord += dx;
+        this.yCord += dy;
+        this.fuelGallons -= fuelUsed;
+      } else {
+        System.out.println("Not enough fuel.");
+      }
     }
-  }
 
-  public void refuel(double fuel){
-    this.fuelGallons += fuel;
-    if (this.fuelGallons > this.maxFuel){
-      this.fuelGallons = this.maxFuel;
+    public void refuel(double fuel){
+      this.fuelGallons += fuel;
+      if (this.fuelGallons > this.maxFuel){
+        this.fuelGallons = this.maxFuel;
+      }
     }
-  }
 
-  public int getX(){
-    return xCord;
-  }
+    public int getX(){
+      return xCord;
+    }
 
-  public int getY(){
-    return yCord;
-  }
+    public int getY(){
+      return yCord;
+    }
 
-  public double getFuel(){
-    return fuelGallons;
-  }
+    public double getFuel(){
+      return fuelGallons;
+    }
 
-}
+  }
    ```
 
 13. Explain that this is a superclass and you wouldn't necessarily instantiate something as simply a vehicle. Ask for examples of subclasses. Write down all examples -- even if someone says airplane right away -- but tell the class that to keep it simple you'll start with a couple land-based examples like car and truck. Here are some examples that are in the slide. Feel free to hide that slide and make these classes with the students. Make sure you are repeating OOP vocab like inheritance, "is a", superclass, subclass, constructors, etc.
@@ -237,35 +237,33 @@ class Motorcycle extends Vehicle {
 16. Bring them back together and ask how they would start an Airplane class. Ask them what attributes and methods they will need in the Airplane class that the Vehicle class doesn't have. Here is an example that is also in the slide deck:
 
    ``` Java
-   class Airplane extends Vehicle {
-  
-  private int zCord;
-  private boolean landingGear;
+    class Airplane extends Vehicle {
+      
+      private int zCord;
+      private boolean landingGear;
 
-  public void liftoff(int dx, int dy, int dz){
-    if (zCord > 0){
-      System.out.println("We're already flying!");
-      return;
-    }
+      public void liftoff(int dx, int dy, int dz){
+        if (zCord > 0){
+          System.out.println("We're already flying!");
+          return;
+        }
 
-    // if there is enough fuel, move dx, dy, and dz feet.
-    double distance = Math.sqrt(Math.pow(dx, 2) + Math.pow(dy, 2) + Math.pow(dz, 2));
-    double fuelUsed = distance / (5280 * milePerGallon); 
-    
-    if (fuelGallons - fuelUsed > 0){
-      xCord += dx;
-      yCord += dy;
-      zCord += dz;
-      fuelGallons -= fuelUsed;
-      landingGear = false;
+        // if there is enough fuel, move dx, dy, and dz feet.
+        double distance = Math.sqrt(Math.pow(dx, 2) + Math.pow(dy, 2) + Math.pow(dz, 2));
+        double fuelUsed = distance / (5280 * milePerGallon); 
+        
+        if (fuelGallons - fuelUsed > 0){
+          xCord += dx;
+          yCord += dy;
+          zCord += dz;
+          fuelGallons -= fuelUsed;
+          landingGear = false;
+        } else{
+          System.out.println("Not enough fuel.");
+        }
+      }
     }
-    else{
-      System.out.println("Not enough fuel.");
-    }
-  }
-
-}
-   ```
+  ```
 
    Your students may point out different attributes and methods -- write down ideas as they come and allow other students to edit them to function better. Emphasize that designing classes is not an exact science and there are lots of right answers. Explain that they should expect to have to restructure their classes as they iterate through the design process.
 

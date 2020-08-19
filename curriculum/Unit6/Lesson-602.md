@@ -86,41 +86,41 @@ The original programmer can also think carefully about how additional features a
      subclass *Submarine*:
 
      ``` Java
-class Submarine extends Vehicle {
-  
-  private int zCord;
+      class Submarine extends Vehicle {
+        
+        private int zCord;
 
-  public void move(int dx, int dy){
-    // Nuclear subs don't really run out of fuel so no need to check.
-    this.xCord += dx;
-    this.yCord += dy;
-  }
+        public void move(int dx, int dy){
+          // Nuclear subs don't really run out of fuel so no need to check.
+          this.xCord += dx;
+          this.yCord += dy;
+        }
 
-  public void move(int dx, int dy, int dz){
-    this.xCord += dx;
-    this.yCord += dy;
-    this.zCord += dz;
-  }
-}
+        public void move(int dx, int dy, int dz){
+          this.xCord += dx;
+          this.yCord += dy;
+          this.zCord += dz;
+        }
+      }
      ```
 
    - Compare this to the Vehicle superclass method move, which is reproduced here for convenience:
 
      ``` Java
-public void move(int dx, int dy){
-    // if there is enough fuel, move dx and dy feet.
-    double distance = Math.sqrt(Math.pow(dx, 2) + Math.pow(dy, 2));
-    double fuelUsed = distance / (5280 * milePerGallon); 
-    
-    if (fuelGallons - fuelUsed > 0){
-      this.xCord += dx;
-      this.yCord += dy;
-      this.fuelGallons -= fuelUsed;
-    }
-    else{
-      System.out.println("Not enough fuel.");
-    }
-  }
+      public void move(int dx, int dy){
+          // if there is enough fuel, move dx and dy feet.
+          double distance = Math.sqrt(Math.pow(dx, 2) + Math.pow(dy, 2));
+          double fuelUsed = distance / (5280 * milePerGallon); 
+          
+          if (fuelGallons - fuelUsed > 0){
+            this.xCord += dx;
+            this.yCord += dy;
+            this.fuelGallons -= fuelUsed;
+          }
+          else{
+            System.out.println("Not enough fuel.");
+          }
+        }
      ```
 
 3. Have students point out the differences between the two methods, predict the new output, and
@@ -130,22 +130,22 @@ public void move(int dx, int dy){
 4. In this example, HybridCar uses the battery if it is charged, otherwise it reverts to the same move method the Car and therefore Vehicle class use.
 
    ``` Java
-class HybridCar extends Car {
-  private double batteryLife;
-  private double batteryPerMile;
+    class HybridCar extends Car {
+      private double batteryLife;
+      private double batteryPerMile;
 
-  public void move(int dx, int dy){
-    // If the battery is charged use it, otherwise use the fuel (use super.move())
-    double distance = Math.sqrt(Math.pow(dx, 2) + Math.pow(dy, 2));
-    double batteryUsed = distance / (5280 * batteryPerMile);
-    if (batteryLife - batteryUsed > 0){
-      batteryLife -= batteryUsed;
+      public void move(int dx, int dy){
+        // If the battery is charged use it, otherwise use the fuel (use super.move())
+        double distance = Math.sqrt(Math.pow(dx, 2) + Math.pow(dy, 2));
+        double batteryUsed = distance / (5280 * batteryPerMile);
+        if (batteryLife - batteryUsed > 0){
+          batteryLife -= batteryUsed;
+        }
+        else{
+          super.move(dx, dy);
+        }
+      }
     }
-    else{
-      super.move(dx, dy);
-    }
-  }
-}
    ```
    - Ask students why it’s valid to call the overridden method *move*, and reference the superclass
      method *move* by the same name. (The superclass method is accessed using dot notation, which
@@ -158,9 +158,9 @@ class HybridCar extends Car {
    - If we wanted to write a method in our *HybridCar* subclass that accesses the data contained in *xCord*, we would have to add a *get* method first in the Superclass *Vehicle*:
 
      ``` Java
-  public int getX(){
-    return xCord;
-  }
+      public int getX(){
+        return xCord;
+      }
      ```
 
    - This makes a copy of *xCord* that is public, and can be accessed outside of the *Vehicle* class.
