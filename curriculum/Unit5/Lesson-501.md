@@ -8,19 +8,22 @@ Overview
 - **Predict** the output of the code that uses objects.
 
 ### Assessments — _Students will…_
-- **Complete** Practice-It questions
+- **Complete** Practice questions
 
 ### Homework — _Students will…_
-- **Read** BJP 8.2 up to “Mutators and Accessors”
+- **Read** BJP 8.1
 
 
 Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 5.1.1]
+- **Classroom copies** of [WS 5.1.1][]
 - **Classroom copies** of the textbook (or just section 8.1)
 - **Bookmarks on student computers (or emailed links) to Bulbapedia**
+- Teacher access to CS Awesome **[Unit 5 Lesson 01 Anatomy of a Java Class Lesson Plan]** Sign up at [CS Awesome AP CSA Java Curriculum]
+- Access to Dr. Nguyen **[Anatomy of a Java Class]** slide deck
+- Access to CS Awesome **[5.1. Anatomy of a Java Class]** 
 
 If you decide to email or link to the Pokemon wiki page, the complete address is:
 <http://bulbapedia.bulbagarden.net/wiki/Main_Page>. Students can also easily search for the page by
@@ -34,7 +37,7 @@ Pacing Guide
 | Bell-work and attendance                   |       5min |
 | Introduction: Discussion                   |   10–30min |
 | Introduction: Syntax Notes                 |   10–20min |
-| Activity 1: Practice-It                    |      15min |
+| Activity 1: Practice                   |      15min |
 | Activity 2: Researching for a custom class |      15min |
 
 Read through all of the Instructor’s notes before you plan this lesson. **In some classrooms, it
@@ -60,9 +63,9 @@ Up until now we have used pre-made objects and classes that are given to us by i
 classes (bonus points if students can name some examples). Moving forward, they’ll be using
 customized classes that they’ve built themselves.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction: Discussion \[10-30 minutes\]
+### Introduction: Discussion `[10-30 minutes]`
 
 1. Give students permission to put down their pencils to participate in a discussion (you can review
    important definitions as part of a recap before class practice). **It’s important to get students
@@ -121,7 +124,7 @@ customized classes that they’ve built themselves.
        down the road. I want my code to be easy for other programmers to read/interpret.
 
 
-### Introduction: Syntax Notes \[10-20 minutes\]
+### Introduction: Syntax Notes `[10-20 minutes]`
 1. Distribute graphic organizers WS 5.1 to the students that need extra structure for their notes.
    Start by showing students the difference between a program that is a set of actions (commands),
    and a program that contains data and behavior (data and methods).
@@ -234,6 +237,13 @@ customized classes that they’ve built themselves.
      - **Constructors** — code that initializes each object as its being constructed with the new
        keyword
 
+     - See CS Awesome [Unit 5 Lesson 01 Anatomy of a Java Class Lesson Plan]
+     
+     - The slide deck for this lesson and Using the enhanced for and array algorithms are located on [Dr. Long Nguyen] GitHub 
+     at [Anatomy of a Java Class]. Slides 1-9, 15-16 of can be used to introduce this topic
+     
+     - Have students navigate to CS Awesome [5.1. Anatomy of a Java Class], view the Activity 1 video and complete Activities 2-6.
+     
    - A class uses encapsulation to protect the object’s data from outside access (by the client
      code). You do this by making each field private.
 
@@ -243,26 +253,25 @@ customized classes that they’ve built themselves.
      here is to give them a design problem that they can work through, making choices about content
      and behavior that result in a model of the Pokémon game.
 
-### Activity 1: Practice-It \[15 minutes\]
+### Activity 1: Practice `[15 minutes]`
 
 1. Students will be working in groups for much of the week, so have them work independently today.
-   If students are really having a rough time, work through the first Practice-It question together
-   as a whole group.
+   If students are really having a rough time, work through the first Practice question together as a whole group.
 
-2. Have students read through the Point Class example before moving on to the Practice It questions.
+2. Have students read through the Point Class example before moving on to the Practice questions.
 
-3. Have students log in to Practice It to complete the following self-check questions:
+3. Have students log in to back of the chapter to complete the following self-check questions:
 
-   a. whatIsOOP<br>
-   b. whatIsAnObject<br>
-   c. StringObject<br>
-   d. ReferenceMystery3<br>
-   e. CalculatorObject
+   a. Self-Check 8.1: whatIsOOP
+   b. Self-Check 8.2: whatIsAnObject
+   c. Self-Check 8.3: StringObject
+   d. Self-Check 8.4: ReferenceMystery3
+   e. Self-Check 8.5: CalculatorObject
 
 4. If more 25% or more of the class is struggling, return to whole group with the stipulation that
    students who get it may continue working independently.
 
-### Activity 2: Researching For a Custom Class \[5 minutes\]
+### Activity 2: Researching For a Custom Class `[5 minutes]`
 
 1. Ask students to take a few minutes to research the Pokémon game in earnest. An ongoing design
    challenge will be for them to construct a model of the Pokémon game that resembles the one they
@@ -315,7 +324,7 @@ objects with:
 
 - Class name
 - Object
-- Instance of \[name of class\]
+- Instance of `[name of class]`
 - Sample code or pseudocode (on index cards or pieces of paper) for:
   - Fields
   - Constructors
@@ -366,3 +375,11 @@ Forum discussion
 
 
 [WS 5.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.1.1.pdf
+
+[Dr. Long Nguyen]: https://longbaonguyen.github.io/courses/apcsa/apjava.html
+[Teaching CSAwesome google group]: https://groups.google.com/forum/#!forum/teaching-csawesome
+[CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials
+
+[Unit 5 Lesson 01 Anatomy of a Java Class Lesson Plan]: https://docs.google.com/document/d/1x4n_pde03dlV_5zyDvvs-SNcCvZi4awnRc5vVgEflaQ/edit?usp=drive_web
+[Anatomy of a Java Class]: https://longbaonguyen.github.io/courses/apcsa/lecture13.ppt
+[5.1. Anatomy of a Java Class]: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/topic-5-1-parts-of-class.html

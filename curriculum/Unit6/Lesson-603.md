@@ -8,7 +8,7 @@ Overview
 - **Write** subclass methods that access superclass methods.
 
 ### Assessments — _Students will…_
-- **Complete** Practice-It questions
+- **Complete** Practice questions
 - **Complete** a worksheet
 
 ### Homework — _Students will…_
@@ -19,9 +19,12 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 6.3], [Poster 6.3]
+- **Classroom copies** of [WS 6.3][], [Poster 6.3][]
 - **Poster 6.3**
 - **Empty & washed, or non-refrigerated, drink bottles**, with labels affixed (**optional**)
+- Teacher access to CS Awesome **[Unit 3 Lesson 07 Comparing Objects Lesson Plan][]** Sign up at [CS Awesome AP CSA Java Curriculum][]
+- Access to Dr. Nguyen **[Compound Boolean Expressions and Comparing Objects][]** slide deck
+- Access to CS Awesome **[3.7. Comparing Objects][]** 
 
 Poster 6.3 is set to print a movie-sized poster of 15” x 20”. If you do not want to print a poster
 this size, access the .pptx version of the poster, and reset the page size to legal, ledger, or
@@ -39,7 +42,7 @@ Pacing Guide
 |-------------------------------|-----------:|
 | Bell-work and attendance      |       5min |
 | Review of the project         |      10min |
-| Student practice: Practice-It |      15min |
+| Student practice    |      15min |
 | Student practice: WS 6.3      |      25min |
 
 
@@ -49,9 +52,9 @@ Most of student practice today is a review and further integration of the concep
 introduced since the beginning of this unit. The only new concept being drilled today is the equals
 method.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Review of the Project \[10 minutes\]
+### Review of the Project `[10 minutes]`
 1. All classes are subclasses of the *Object* class. Whether you write extends in the header or not,
    all classes inherit the *Object* class. It is built into Java this way, so you never have to
    explicitly write *extends Object* in a class header.
@@ -103,17 +106,24 @@ method.
          return name.equals(other.name) && (ounces == other.ounces);
      }
      ```
+     
+5. Comparing Objects with  *==* and *!=*
 
-### Student Practice: Practice-It \[15 minutes\]
-1. Have students work individually or in pairs to complete the following Practice-It questions:
+     - See CS Awesome [Unit 3 Lesson 07 Comparing Objects Lesson Plan][]
+     
+     - Slides 22-25 of [Compound Boolean Expressions and Comparing Objects][] can be used to introduce this topic
+     
+     - Have students navigate to CS Awesome [3.7. Comparing Objects][], view the Activity 1 video and complete Activities 1-7.
+     
+### Student Practice: `[15 minutes]`
+1. Have students work individually or in pairs to complete the following Practice questions:
 
-   a. subclassSyntax<br>
-   b. inheritanceVariableSyntax<br>
-   c. CarTruck<br>
-   d. CarTruck2<br>
-   e. MonsterTruck
+   a. Self-Check 9.3: subclassSyntax
+   b. Self-Check 9.10: inheritanceVariableSyntax
+   c. Self-Check 9.8: CarTruck
+   d. Self-Check 9.9: CarTruck2
 
-### Student Practice: WS 6.3 \[25 minutes\]
+### Student Practice: WS 6.3 `[25 minutes]`
 
 ---
 
@@ -131,7 +141,7 @@ Once students have completed these exercises, distribute worksheet 6.3.
 
 - Read through the questions aloud, if needed.
 
-- If you are having the students work in Eclipse, be sure to review your procedure for submitting
+- If you are having the students work in IDE, be sure to review your procedure for submitting
   work electronically before students begin.
 
 - Encourage students to explore the drink bottles to get ideas for fields they can use in their
@@ -186,3 +196,11 @@ Forum discussion
 
 [WS 6.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/WS%206.3.docx
 [Poster 6.3]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Poster%206.3.pptx
+
+[Dr. Long Nguyen]: https://longbaonguyen.github.io/
+[Teaching CSAwesome google group]: https://groups.google.com/forum/#!forum/teaching-csawesome
+[CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials
+
+[Unit 3 Lesson 07 Comparing Objects Lesson Plan]: https://docs.google.com/document/d/1kgYFJeXqGsM5tef0zhkJE2VQyy7g2Pi2cN-ErrN7XNA/edit?usp=drive_web
+[Compound Boolean Expressions and Comparing Objects]: https://longbaonguyen.github.io/courses/apcsa/lecture9.ppt
+[3.7. Comparing Objects]: https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-7-comparing-objects.html

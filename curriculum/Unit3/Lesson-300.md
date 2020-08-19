@@ -11,7 +11,6 @@ Overview
   - Credit depends on instructor preference
 
 ### Homework — _Students will…_
-- **Read** BJP 3.1 up to “Limitations of Parameters”
 - **Correct** any incorrect test answers by re-answering on a separate sheet of paper
   - To get back credit, they must justify their new answers
   - Staple new answer sheet to old test and turn in tomorrow
@@ -43,9 +42,9 @@ Return student grades before class begins or while students are completing the b
 Do not return students’ tests before the review session, since you want to motivate students to pay
 attention to the entire review, taking supplemental notes the entire time.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Class Discussion (if needed) \[10 minutes\]
+### Class Discussion (if needed) `[10 minutes]`
 
 1. If grades are low, invite the class to a discussion of what can be improved. Begin with student
    complaints and suggestions to build student buy-in. Ask students:
@@ -69,7 +68,7 @@ attention to the entire review, taking supplemental notes the entire time.
      underperforming student will slow your entire class down, and color that student against CS for
      the future!
 
-### Test Review and Reteach \[30 minutes\]
+### Test Review and Reteach `[30 minutes]`
 
 1. Walk the students through each question on the test, glossing over questions that everyone
    answered correctly.
@@ -90,7 +89,7 @@ attention to the entire review, taking supplemental notes the entire time.
 4. For Section II questions, select a sample of student work (with any identifying information
    obscured), and work through the answer together as a class.
 
-### Check student notes and return tests \[5 minutes\]
+### Check student notes and return tests `[5 minutes]`
 At the end of class, check student notes, and return the tests in hard copy form if applicable.
 
 
@@ -109,7 +108,7 @@ a few options (some more drastic than others):
   complicated assignments that would normally be done at home, can be completed with your help when
   they come to class.
 
-  If students don’t have a computer to work on Practice-It problems at home, create printed-out
+  Create printed-out
   sheets instead that students can write code onto. Class time should then be filled with reading
   assignments, and more complicated coding practice so that you are available to tutor as needed.
 

@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** for hook (<https://youtu.be/3WBvS_n2oTY>)
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 8.3], [Teacher Demo 8.3]
+- **Classroom copies** of [WS 8.3][], [Teacher Demo 8.3][]
 - **One pair of scissors** for each group
 - **Small group assignments** (~4 students per group)
 - **Classroom copies** of the textbook (**optional**)
@@ -32,7 +32,7 @@ class before the activity, use the pre-printed example so students can’t just 
 method from the book.
 
 
-Pacing Guide \[Optional, Lessons Vary\]
+Pacing Guide `[Optional, Lessons Vary]`
 ---------------------------------------
 | Section                                | Total Time |
 |----------------------------------------|-----------:|
@@ -49,9 +49,9 @@ On your classroom projector or screen, have the animation of the Dragon Curve pl
 want to mute the music. As bell-work, ask students how this animation is an example of recursion.
 Their explanation should describe the recursive case in pseudocode.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Discussion of Hook & Introduction \[15 minutes\]
+### Discussion of Hook & Introduction `[15 minutes]`
 
 1. Begin by reviewing the hook/Bellwork with students. There may be some debate as to what the
    recursive and base cases are for this curve; allow time for students to argue and come to
@@ -129,7 +129,7 @@ Their explanation should describe the recursive case in pseudocode.
       understands the process. At this point, students should be able to help each other learn the
       concepts during their activity.
 
-### Activity 1: Modeling Recursive Methods \[20 minutes\]
+### Activity 1: Modeling Recursive Methods `[20 minutes]`
 
 ---
 
@@ -176,7 +176,7 @@ This activity helps you organize recursion in your program. It’s advised that 
 7. If students do not answer all of these questions correctly, give them time to regroup and assess
    them again after they have corrected their thinking.
 
-### Activity 2: Modeling a Peer’s Methods \[10 minutes\]
+### Activity 2: Modeling a Peer’s Methods `[10 minutes]`
 
 1. After 20 minutes (or when students finish), have groups trade code sheets, and challenge the
    groups to work their way through the code again.
@@ -187,7 +187,7 @@ This activity helps you organize recursion in your program. It’s advised that 
 3. You can opt to select some student groups that have a smooth presentation to share with the
    entire class before class dismisses.
 
-### Activity 3: Iterative to Recursive and Vice-Versa \[Optional\]
+### Activity 3: Iterative to Recursive and Vice-Versa `[Optional]`
 
 1. Introduce iterative and recursive methods that produce the same result. For example, here is an
    iterative and recursive example for solving factorials:
@@ -205,8 +205,8 @@ This activity helps you organize recursion in your program. It’s advised that 
 
 2. Invite your class to take a recursive function and turn it into an iterative function. You can
    provide a new recursive function or they can use one’s they’ve previously worked with. To help
-   your class, put the recursive step into a for loop that worked to reach the base case \[i
-   (=&lt;&gt;) (\#)\].
+   your class, put the recursive step into a for loop that worked to reach the base case `[i
+   (=&lt;&gt;) (\#)]`.
 
 3. Discuss what needed to change between the recursive and iterative calls.
 
@@ -214,7 +214,7 @@ This activity helps you organize recursion in your program. It’s advised that 
    one. Based off your discussion and the previous change between recursion and iteration, this task
    should be easier.
 
-### Activity 4: Creating Fractals with Recursion \[Optional\]
+### Activity 4: Creating Fractals with Recursion `[Optional]`
 
 1. Explain to your students that the dragon curve we worked with earlier is called a fractal, a
    fractal being a geometric figure in which each part has the same statistical character as the
@@ -256,9 +256,8 @@ If you have students who are speeding through this lesson, you should encourage 
 - Make a poster for the classroom illustrating the mnemonic or acrostic
 - Help another student with the worksheet (explain, not solve-for-them)
 
-
-About Error Checking in Eclipse
--------------------------------
+About Error Checking in
+-----------------------
 
 If your students are enthusiastic about the Dragon Curve, expand on the discussion by pointing out
 that there are 2 repetitions in the Dragon curve, one left and one right. This means that there are

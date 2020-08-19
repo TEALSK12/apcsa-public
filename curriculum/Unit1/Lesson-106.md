@@ -8,17 +8,17 @@ Overview
 - **Manage** complexity by using method calls.
 
 ### Assessments — _Students will…_
-- **Complete** Practice-It problems
 - **Write** a structured Pikachu program
 
 ### Homework — _Students will…_
+- **Read** BJP 1.5
 - **Outline** Ch.1
-- **Complete** Programming Project \#1\* & \#3 (must include a structure diagram for each)
+- **Complete** Programming Project #1 & 3 (must include a structure diagram for each)
 
 
 Materials & Prep
 ----------------
-- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- **Projector and computer**
 - **Whiteboard and** **markers**
 - **Rosters** for class teams
 - **Ball** (preferably a large inflatable ball or kickball)
@@ -49,9 +49,9 @@ of a competition) to determine how much re-teaching you need to do. The competit
 work in disguise, and will encourage students to teach and help each other while writing the sample
 program.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and Challenge \[10 minutes\]
+### Introduction and Challenge `[10 minutes]`
 
 1. As your hook, grandly announce a class competition between teams and announce the prize for the
   winning team (this might be TEALS swag, bonus classroom participation points, or additional raffle
@@ -94,7 +94,7 @@ program.
   If students are struggling, you may extend the time, or offer universal helpful tips. The team
   that has the **correct answer first** wins the prize.
 
-### Review/Teach \[5-15 minutes\]
+### Review/Teach `[5-15 minutes]`
 
 Review student answers together as a whole group, revisiting concepts taught earlier in the week as
 mistakes come up. Whenever possible, have students volunteer the correct procedure, approach, or
@@ -148,7 +148,7 @@ with them (bonus: this activity can be built on later in the year when discussin
       make some sort of “error” noise. Bonus: encourage the students to make the error noise for
       you.
 
-### Pikachu Challenge \[10-15 minutes\]
+### Pikachu Challenge `[10-15 minutes]`
 On the board or projector, have the students finish the class with the Pikachu challenge:
 
 _Write a program called PikachuChatter that outputs the following:_
@@ -170,7 +170,7 @@ z(_(")(")
 - You should include a comment at the start of the program that explains what the code does (you
   might want to use this code later in the year when we build a larger Pokémon program).
 
-### Students trade work, check, and turn in \[5 minutes\]
+### Students trade work, check, and turn in `[5 minutes]`
 At the end of class, have students review one another’s Pikachu challenge codes before submitting.
 
 
@@ -178,7 +178,11 @@ Accommodation and Differentiation
 ---------------------------------
 If you have students who are speeding through this lesson, you should encourage them to:
 
-- Complete the remaining Strange 2, Strange 3, Complicated 2 and Complicated 3 Practice-It
+- Complete the remaining problems:
+    1. Self-Check 1.24: Strange2
+    2. Self-Check 1.25: Strange3
+    3. Self-Check 1.27: Confusing2
+    4. Self-Check 1.28: Confusing3
   questions.
 
 - Have the student write a sample test question with output that can be written using method

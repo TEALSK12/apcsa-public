@@ -44,9 +44,9 @@ Your hook today is to invite students to play the Tower of Hanoi game as soon as
 classroom. You should not offer any clues or hints as to why they are playing the game; only supply
 the information outlined in the “Activity” section below.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Activity: Tower of Hanoi Game \[15 minutes\]
+### Activity: Tower of Hanoi Game `[15 minutes]`
 
 1. Have students navigate to the Tower of Hanoi game at the link listed in “Materials & Prep”.
 
@@ -67,7 +67,7 @@ the information outlined in the “Activity” section below.
 4. After 10–15 minutes of play (or sooner, if you have a particularly advanced class), call the
    class back together for a whole group discussion.
 
-### Class Discussion & Solutions \[20 minutes\]
+### Class Discussion & Solutions `[20 minutes]`
 
 1. Begin the group discussion with the following series of warm-up questions. Use these soft-ball
    questions to engage students who are usually shy or quiet in class.
@@ -106,7 +106,7 @@ the information outlined in the “Activity” section below.
    - A less attractive, but easier to follow animation can be found here:
      <https://www.youtube.com/channel/UCMDuzeB8MqT_-AwFGT8qQ-g/search?query=Hanoi>
 
-### Lecture \[10 minutes\]
+### Lecture `[10 minutes]`
 
 1. Provide students with the following definitions:
 

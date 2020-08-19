@@ -11,14 +11,14 @@ Overview
 
 ### Homework — _Students will…_
 - **Read** BJP 7.2 up to “Reversing an Array”
-- **Complete** self-check questions \#12-14
+- **Complete** self-check questions #12-14
 
 
 Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 4.2]
+- **Classroom copies** of [WS 4.2][]
 - **Poster** 4.2
 - **Array whiteboards** (see notes at end of LP 4.2) **and dry erase markers**
 - **Student small-group assignments** (≈3-4 students per group)
@@ -43,9 +43,9 @@ bogged down in the introductory lesson. Many students will learn from physically
 for-each control structure using the array whiteboards. Circulate around the room to check for
 understanding, but let students help and challenge each other.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to Arrays \[10 minutes\]
+### Introduction to Arrays `[10 minutes]`
 
 1. Briefly introduce the **for-each loop**, **array initialization**, and the **Arrays class**
    before dismissing the class to work on their group activity:
@@ -106,7 +106,7 @@ understanding, but let students help and challenge each other.
    - Make a point of having your students write a note to remind themselves that for-each loops
      cannot modify values within an array, only examine each value in sequence.
 
-### Student Array Activity \[35 minutes\]
+### Student Array Activity `[35 minutes]`
 
 1. Distribute white boards and markers or paper printouts to group workstations before students get
    seated.
@@ -125,9 +125,13 @@ understanding, but let students help and challenge each other.
 4. Walk around the room, spot-checking for student understanding and answering any student
    questions.
 
-### Paper Selection & Grade Announcement \[5 minutes\]
+### Paper Selection & Grade Announcement `[5 minutes]`
 At the end of class, consider choosing one group’s whiteboard to evaluate as a demonstration for the
 class.
+
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 6 Topic Questions 6.3 Enhanced for Loop for Arrays
 
 
 Accommodation and Differentiation

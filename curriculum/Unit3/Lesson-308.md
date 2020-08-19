@@ -11,7 +11,6 @@ Overview
 - **Re-submit** all homework assignments with corrected answers.
 
 ### Homework — _Students will…_
-- **Read** BJP 4.1 up to “Nested if else Statements”
 - **Complete** Chapter 4 self-check problems 1–6
 
 
@@ -22,7 +21,7 @@ Materials & Prep
 - **Bookmarks** on students’ computers to webmaker.org
 
 If you are not yet familiar with X-ray Goggles, Thimble, or Popcorn Maker, you should take some time
-to explore [webmaker.org] before class. The site is rich with enrichment tools and hooks for your
+to explore [webmaker.org][] before class. The site is rich with enrichment tools and hooks for your
 classroom!
 
 
@@ -45,12 +44,12 @@ may allow them time to work on those projects today.
 
 Reward students that did their work correctly with quiet free time. Alternatively, give them a fun
 programming assignment to do, such as generating a meme, animations, gig posters, or comic strip on
-Mozilla’s [Webmaker.org]. These activities teach HTML and CSS, so you might avoid them if you think
+Mozilla’s [webmaker.org][]. These activities teach HTML and CSS, so you might avoid them if you think
 exploring different syntax will confuse your students.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and Homework Distribution \[5 minutes\]
+### Introduction and Homework Distribution `[5 minutes]`
 
 1. Return student homework packets, or have students place their returned homework in a pile on
    their desk.
@@ -59,13 +58,13 @@ exploring different syntax will confuse your students.
    correcting them now, in class. Ask students for suggestions/ideas on how to make sure they don’t
    miss any errors. (By now students should be used to relying on their error checklist/algorithm.)
 
-### Student Work \[35 minutes\]
+### Student Work `[35 minutes]`
 Have students work individually to correct their homework grades.
 - Offer time checks for students so they stay on task.
 - If students have not finished their programming project from yesterday’s class, allow them to do
   so today.
 
-### Students trade work, check, and turn in \[10 minutes\]
+### Students trade work, check, and turn in `[10 minutes]`
 At the end of class, have students trade their homework assignments to evaluate each other’s
 corrections before submission.
 

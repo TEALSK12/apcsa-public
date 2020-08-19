@@ -12,6 +12,7 @@ Overview
 - **Submit** any Applied Design documents and resources.
 
 ### Homework — _Students will…_
+- **Read** BJP 5.3
 - **Outline** Chapter 5 (up to and including BJP 5.3)
 
 
@@ -19,7 +20,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 3.16] (RPS, Pig), [DeMorgan’s Law], [Poster 3.16.1], [Poster 3.16.2]
+- **Classroom copies** of [WS 3.16][] (RPS, Pig), [DeMorgan’s Law][], [Poster 3.16.1][], [Poster 3.16.2][]
 - **Link** to rock-paper-scissor game (<http://tinyurl.com/bubyvtu>)
 - **Poster** 3.16.1
 - **Poster** 3.16.2
@@ -55,9 +56,9 @@ Scissor game at the link above. After a quick review of Boolean logic and variab
 be asked to build their own Rock Paper Scissor game. This programming project should take between 2
 and 3 55-minute class periods to complete
 
-### Attendance & Student Play \[5 minutes\]
+### Attendance & Student Play `[5 minutes]`
 
-### Introduction to Boolean Logic \[10 minutes\]
+### Introduction to Boolean Logic `[10 minutes]`
 
 1. Students should have already reviewed this material as part of last nights’ homework assignment.
    Before moving on to purely mathematical examples, start with a real-life example of how we apply
@@ -184,10 +185,10 @@ and 3 55-minute class periods to complete
 3. Review operator precedence on your classroom poster 3.16.2 (or projected overhead, if you’re
    having a student make the poster for you during class).
 
-4. Check for student understanding by having students complete Practice-It self-check questions
-   assertions1 and assertions3.
+4. Check for student understanding by having students complete self-check questions
+   Self-Check 5.27: assertions1 and Self-Check 5.29: assertions3.
 
-### Student Programming Activity \[40 minutes\]
+### Student Programming Activity `[40 minutes]`
 On the projector, board or as a handout (WS 3.16), give students the following programming prompt. A
 link to the NY Times article about rock paper scissors is included in the Materials section of this
 lesson plan.
@@ -240,7 +241,7 @@ The small game you design above will implement interesting game play ideas. Bool
 Accommodation and Differentiation
 ---------------------------------
 Invite your artistic students to create posters 3.16.1 and 3.16.2 for your classroom. If needed,
-work through the 2 Practice-It questions as a whole class.
+work through the 2 practice questions as a whole class.
 
 For your more advanced students, you might encourage them to create more complex algorithms, or more
 advanced interaction with the user. If they are interested in AI and machine learning, invite them

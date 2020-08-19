@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard** **and** **markers**
-- **Classroom copies** of [WS 6.2]
+- **Classroom copies** of [WS 6.2][]
 - **Class posters** from 6.1
 - **Art supplies** for each group:
   - Markers
@@ -46,9 +46,9 @@ have the time, this would be a great opportunity to display some complex code fo
 examine on their own time. The more intricate the string pattern on the poster, the more intriguing
 the sample will appear.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction & Review of the Project \[10 minutes\]
+### Introduction & Review of the Project `[10 minutes]`
 
 ---
 
@@ -174,7 +174,7 @@ The original programmer can also think carefully about how additional features a
    and overloading methods. (Overloading methods is when one class contains multiple methods with
    the same name, but a different number of parameters—sometimes called the *parameter signature*.)
 
-### Student Work \[15 minutes\]
+### Student Work `[15 minutes]`
 1. Briefly review WS 6.2 with your students, reading the directions aloud if need be.
 
 2. If you haven’t already distributed project materials at this point, do so while your students are
@@ -190,10 +190,10 @@ The original programmer can also think carefully about how additional features a
    review tour of others’ work, remind them to take notes on their feedback so they will be able to
    contribute to the group critique/discussion at the end of class.
 
-### Peer Review \[10 minutes\]
+### Peer Review `[10 minutes]`
 Allow students 10 minutes to tour each other’s work and offer feedback.
 
-### Whole-group Discussion/Critique \[10 minutes\]
+### Whole-group Discussion/Critique `[10 minutes]`
 If possible, rearrange student seats into a circle for the critique to encourage informal
 discussion.
 

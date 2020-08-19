@@ -8,36 +8,47 @@ Overview
 - **Construct** arrays of objects
 
 ### Assessments — _Students will…_
-- **Complete** Practice-It questions
+- **Complete** Practice questions
 - **Model** memory manipulation using array whiteboards
 
 ### Homework — _Students will…_
 - **Read** BJP 7.4 “Nested Arrays” and BJP 7.5 “Rectangular Two-Dimensional Arrays”
-- **Complete** self-check questions \#27-29 and exercise \#4
+- **Complete** self-check questions #27-29 and exercise #4
 
 
 Materials & Prep
 ----------------
+- Day 1
 - **Projector and computer** with this page: <http://www.legendarypokemon.net/javacalc.html>
 - **Classroom whiteboard & markers**
 - **Array whiteboard & markers**
 - **Small group assignments & seating arrangements** (if possible)
+- Day 2
+- Teacher access to CS Awesome **[Lesson 6.4: Array Algorithms]** Sign up at [CS Awesome AP CSA Java Curriculum]
+- Access to Dr. Nguyen **[For Loops]** slide deck
+- Access to CS Awesome **[6.4. Array Algorithms]** 
 
 If your classroom structure allows it, arrange array whiteboards and markers at stations where
 students can gather around them to model the concepts you teach during your intro. Ideally, students
 will be standing huddled around the arrays, actively moving and rearranging items.
 
-Pacing Guide
+Pacing Guide: Day 1
 ------------
 | Section                              | Total Time |
 |--------------------------------------|-----------:|
 | Bell-work and attendance             |       5min |
 | Introduction & small-group practice  |   20–25min |
-| Practice-It Questions                |   25–30min |
+| Practice Questions                |   25–30min |
 | Error-checking algorithm (see below) |      10min |
 
+Pacing Guide: Day 2
+------------
+| Section                              | Total Time |
+|--------------------------------------|-----------:|
+| Bell-work and attendance             |       5min |
+| CS Awesome Array Algoritms 6.4       |   35–45min |
 
-Procedure
+Procedure 1
 ---------
 Hook your class today by having them in small groups with the array whiteboards during your
 Introduction. As you write out the code samples on the whiteboard, pause at different stages to
@@ -46,9 +57,9 @@ students to model the changes for the whole class, with you and the other groups
 manipulations. The key to this introduction is to have students working through the examples in
 physical space, so make sure that all groups are working along with their array whiteboards.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction & Small-Group Practice \[10 minutes\]
+### Introduction & Small-Group Practice `[10 minutes]`
 
 1. Introduce your example array called metroCardRides (or dailyDrive, milesWalked, whatever
    represents your students’ commute to school), and hold up an array of ints:
@@ -182,30 +193,27 @@ physical space, so make sure that all groups are working along with their array 
      };
      ```
 
-### Practice-It Questions \[25-30 minutes\]
-1. Depending on the mood and frustration levels in the class, you may choose to have students work
-   in pairs.
+### Practice Questions `[25-30 minutes]`
+1. Depending on the mood and frustration levels in the class, you may choose to have students workin pairs.
 
-   a. If students are really having a rough time, work through the first Practice-It question
+   a. If students are really having a rough time, work through the first Practice question
       together as a whole group.
 
    b. Put soft, soothing (but upbeat) music on in the background to encourage work
 
-2. Have students log in to Practice-It to complete the following Practice-It self-check questions:
+2. Have students complete the following Self Check practice problems at the back of the chapter. 
 
-   a. arrayCodeTracing3<br>
-   b. arrayCodeTracing4<br>
-   c. arrayMystery2<br>
-   d. arrayMystery3<br>
-   e. isPalindrome
+   a. Self-Check 7.22: arrayCodeTracing3
+   b. Self-Check 7.23: arrayCodeTracing4
+   c. Self-Check 7.25: arrayMystery2
+   d. Self-Check 7.26: arrayMystery3
+   e. Self-Check 7.30: isPalindrome
 
-3. Have students complete Practice-It Exercise append.
-
-4. If more 25% or more of the class is struggling, return to whole group with the stipulation that
+3. If more 25% or more of the class is struggling, return to whole group with the stipulation that
    students who understand the task may continue working independently. Otherwise, encourage peer
    tutoring, or using the textbook or notebooks for help.
 
-### Error-Checking Algorithm \[10 minutes\]
+### Error-Checking Algorithm `[10 minutes]`
 At the end of class, if time permits, have students draft an algorithm for error-checking (see below
 for details).
 
@@ -226,9 +234,25 @@ If the checklist is thorough, brief, and complete, have students create a handou
 can hang up or share with the class.
 
 To adjust for reading/comprehension challenges in the ELL classroom, consider having students work
-in small groups with the array whiteboards instead of answering questions within Practice It. Give
+in small groups with the array whiteboards. Give
 each group/student a print out with the questions, and have them turn in the worksheets at the end
 of class.
+
+Procedure Day 2
+---------
+This lesson continues with array algorithms with examples from the College Board AP CS A examps free response questions using
+CS Awesome's Lesson 6.4 Array Algorithms.
+
+### Bell-work and Attendance \[5 minutes\]
+
+### CS Awesome Array Algoritms 6.4  \[35-40 minutes\]
+The student lesson for Part 2 uses CS Awesomes [Lesson 6.4: Array Algorithms].  There you will
+find the lesson plan and activities to check for student understanding. The teacher lesson plans are accessible by
+joining the [Teaching CSAwesome google group] and navigating to [6.4. Array Algorithms]. The slide deck for this lesson are located on [Dr. Long Nguyen] GitHub at [For Loops]
+
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 6 Topic Questions 6.4 Developing Algorithms for Arrays.
 
 
 Video
@@ -249,3 +273,11 @@ Video
 Forum discussion
 ----------------
 [Lesson 4.05 Shifting Values & Arrays of Objects (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-4/4-05-shifting-values-arrays-of-objects)
+
+[Dr. Long Nguyen]: https://longbaonguyen.github.io/courses/apcsa/apjava.html
+[Teaching CSAwesome google group]: https://groups.google.com/forum/#!forum/teaching-csawesome
+[CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials
+
+[Lesson 6.4: Array Algorithms]: https://docs.google.com/document/d/1GF1h9DPMPgIb2timBAh7WbQYOdsm_5AG4PEjBa2LhJg/edit
+[For Loops]: https://longbaonguyen.github.io/courses/apcsa/lecture11.ppt
+[6.4. Array Algorithms]: https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/topic-6-4-array-algorithms.html

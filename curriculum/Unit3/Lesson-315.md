@@ -11,20 +11,25 @@ Overview
 - **Teach** a mini-lesson explaining the relationship between parameters and values stored in memory
 
 ### Homework — _Students will…_
-- **Read** BJP 5.3
+- **Read** BJP 5.2
 - **Complete** exercises \#6 & 8
 - **Summarize** all of your daily notes if not already done
 
 
 Materials & Prep
 ----------------
+Day 1
 - **Projector and computer**
 - **Whiteboard and markers**
-- **Group copies** of [WS 3.15]
+- **Group copies** of [WS 3.15][]
 - **3 or more classroom copies** of the textbook
 
+Day 2
+- Teacher access to CS Awesome **[Unit 4 Lesson 03 Loops and Strings Lesson Plan]** Sign up at [CS Awesome AP CSA Java Curriculum] 
+- Access to CS Awesome **[4.3. Loops and Strings]** 
 
-Pacing Guide
+
+Pacing Guide Day 1
 ------------
 | Section                          | Total Time |
 |----------------------------------|-----------:|
@@ -32,15 +37,22 @@ Pacing Guide
 | Mini-lesson planning & prep      |      15min |
 | Student presentations & practice |      30min |
 
+Pacing Guide Day 2
+------------
+| Section                          | Total Time |
+|----------------------------------|-----------:|
+| Bell-work and attendance         |       5min |
+| CS Awesome 4.3 Loops and Strings |   30-40min |
+| Wrap up                          |       5min |
 
-Procedure
+Procedure Day 1
 ---------
 Today 3 student teams will teach a lesson on fencepost algorithms, sentinel loops, or sentinel loops
 with if statements. Your hook will be to turn the class over to students as soon as they enter.
 Student groups are expected to generate sample questions; let students know that you will collect
 those questions to use on quizzes or as bellwork.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 On the board, on the projector, or in a group handout, let students know that they need to prepare a
 5 minute lesson and a 2- 5 minute class activity to teach their topic. Use the grading rubric as
 outlined here:
@@ -51,7 +63,7 @@ outlined here:
 | Presentation includes a non-example as helpful contrast. | Presentation includes a non-example that is marginally helpful. | Presentation includes a non-example that does not add to comprehension. | Presentation includes a non-example that adds confusion, or presentation does not include a non-example.
 | Presentation includes a helpful tip that is clearly explained and concisely stated. | Presentation includes a helpful tip that is clearly explained or concisely stated. | Presentation includes a helpful tip that is not clearly explained and may include a small error. | Presentation does not include a helpful tip or hint.
 
-### Mini-Lesson Planning & Prep \[15 minutes\]
+### Mini-Lesson Planning & Prep `[15 minutes]`
 
 1. Assign each group a subsection of section 5.2 “Fencepost Algorithms,” and make sure that you
    circle that assignment on each groups’ copy of WWS 3.15. Student groups should take 15 minutes to
@@ -78,7 +90,7 @@ outlined here:
 
 4. Encourage students to add these strategies to their Tricky Code Cheat Sheet.
 
-### Student Presentations & Practice \[30 minutes\]
+### Student Presentations & Practice `[30 minutes]`
 
 
 Accommodation and Differentiation
@@ -90,6 +102,17 @@ class, invite them to create a song, poem, or narrated dance/play that teaches t
 poems or songs, encourage students to write them out or record them so you can display them around
 your room.
 
+Procedure Day 2
+---------
+This lesson continues with fencepost and sentinal loops as applied to Strings.  It utilizes the CS Awesome's Lesson 4.3 Loops and Strings.
+
+### Bell-work and Attendance \[5 minutes\]
+
+### Loops and Strings \[35 minutes\]
+The student lesson for Part 2 uses CS Awesomes [4.3. Loops and Strings].  There you will
+find the lesson plan and activities to check for student understanding. The teacher lesson plans are accessible by
+joining the [Teaching CSAwesome google group] and navigating to [Unit 4 Lesson 03 Loops and Strings Lesson Plan].
+Have students log into [4.3. Loops and Strings] and complete activitie 1-4.
 
 Common Student Questions
 ------------------------
@@ -137,3 +160,10 @@ Forum discussion
 
 
 [WS 3.15]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.15.docx
+
+[Teaching CSAwesome google group]: https://groups.google.com/forum/#!forum/teaching-csawesome
+[CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials
+
+[Unit 4 Lesson 03 Loops and Strings Lesson Plan]: https://docs.google.com/document/d/1zx9EpN-vI8AQeyzQK_KiEE85PK6xVL7dEaGWu_aTvgY/edit?usp=drive_web
+[4.3. Loops and Strings]: https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/topic-4-3-strings-loops.html
+

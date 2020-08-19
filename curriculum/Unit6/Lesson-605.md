@@ -11,19 +11,22 @@ Overview
 -   **Complete** an AP Section II question “Trio”
 
 ### Homework — _Students will…_
--   **Read** BJP 9.5
+-   **Read** BJP 9.5 (Optional if covering Interfaces)
 
 
 Materials & Prep
 ----------------
-- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- Day 1
+- **Projector and computer**
 - **Whiteboard and** **markers**
-- **Projection or classroom copies** of [WS 6.5] (an AP Section II question)
+- **Projection or classroom copies** of [WS 6.5][] (an AP Section II question)
 - **Student pair assignments**
 - **Video for hook:** <https://vimeo.com/18439821>
+- Day 2
+- Teacher access to CS Awesome **[Unit 9 Lesson 5 Inheritance Hierarchies Lesson Plan]** Sign up at [CS Awesome AP CSA Java Curriculum]
+- Access to CS Awesome **[Lesson 9.5. Inheritance Hierarchies]** 
 
-
-Pacing Guide
+Pacing Guide Day 1
 ------------
 | Section                          | Total Time |
 |----------------------------------|-----------:|
@@ -32,8 +35,15 @@ Pacing Guide
 | Student practice                 |      25min |
 | Student share/whole group review |      10min |
 
+Pacing Guide Day 2
+------------    
+| Section                                    | Total Time |
+|--------------------------------------------|-----------:|
+| Bell-work and attendance                   |       5min |
+| CS Awesome 9.5. Inheritance Hierarchies    |      35min |
 
-Procedure
+
+Procedure Day 1
 ---------
 Hook your class today with the Shapeshifter video (link in “Materials & Prep”). Ask students what
 the different animals had in common in the video, and what real animals have in common. What
@@ -41,9 +51,9 @@ behaviors did the animals have in common? What was a behavior that stuck out as 
 animal? The idea here is to get students thinking about how to use inheritance (and eventually
 polymorphism) to reuse code for different classes.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction (with pair work) \[15 minutes\]
+### Introduction (with pair work) `[15 minutes]`
 1. Continue the class discussion by prompting students to pair up and draw out a class hierarchy
    including: *Animal*, *Carnivore*, *Tiger*, and *Donkey*.
 
@@ -85,9 +95,9 @@ polymorphism) to reuse code for different classes.
      not an animal (or array of animals), nor is it a staff member (or array of staff members). A
      zoo contains, or *has*, all of these components.
 
-### Student Practice \[25 minutes\]
+### Student Practice `[25 minutes]`
 1. Students should remain in their student pairs. If your classroom has computers, students should
-   complete the following exercise in Eclipse, and you should review the protocol for submitting
+   complete the following exercise and you should review the protocol for submitting
    assignments electronically.
 
 2. Before students get started, ask students what types of meals they see in fast food restaurants,
@@ -112,11 +122,21 @@ polymorphism) to reuse code for different classes.
    pairs to share their code with the class during whole-group discussion, and help those students
    save and transfer their files to the projecting computer.
 
-### Student Share/Whole Group Review \[10 minutes\]
+### Student Share/Whole Group Review `[10 minutes]`
 In a whole group, ask for students to share their code and explain how the established the *has-a*
 relationship between classes. Check for student understanding by asking why a has-a relationship was
 more appropriate than creating a *is-a (*hierarchical) relationship.
 
+Procedure Day 2
+---------
+
+### Bell-work and Attendance \[5 minutes\]
+
+### CS Awesome Lesson 9.5. Inheritance Hierarchies \[35 minutes\]
+The student lesson uses CS Awesomes [Lesson 9.5. Inheritance Hierarchies].  There you will
+find the lesson plan and activities to check for student understanding. The teacher lesson plans are accessible by
+joining the [Teaching CSAwesome google group] and navigating to [Unit 9 Lesson 5 Inheritance Hierarchies Lesson Plan]. 
+Students should complete activities 1-6.
 
 Accommodation and Differentiation
 ---------------------------------
@@ -134,7 +154,7 @@ Accommodation and Differentiation
 
 - If your students have been having trouble tracing the flow of control as a method calls another
   method in a different class, take some time to demonstrate how to use the step-into and step-over
-  buttons in Eclipse.
+  buttons in the IDE.
 
   - The step-over and step-into buttons can be found in the top toolbar.
 
@@ -165,7 +185,7 @@ If you’d like for students to expand on the AP question given, have students:
 
 If students are struggling with the assignment, allow more time (up to two class periods) to
 complete the lesson. Read the prompt aloud for the class, and do the steps together if needed. In
-classes with ELLs, you can distribute saved Eclipse files that contain an entire functional program,
+classes with ELLs, you can distribute saved .java files that contain an entire functional program,
 with shuffled components. Students will need to organize the code fragments into the proper order (a
 Parsons problem).
 
@@ -189,3 +209,8 @@ Forum discussion
 
 
 [WS 6.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/WS%206.5.docx
+[Dr. Long Nguyen]: https://longbaonguyen.github.io/courses/apcsa/apjava.html
+[Lesson 9.5. Inheritance Hierarchies]: https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/topic-9-5-hierarchies.html
+[Unit 9 Lesson 5 Inheritance Hierarchies Lesson Plan]: https://docs.google.com/document/d/1IWcn38zBqWVnZ-AoyMXI-H9tZHjXuifTzbZQHak2rGs/edit?usp=drive_web
+[Teaching CSAwesome google group]: https://groups.google.com/forum/#!forum/teaching-csawesome
+[CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials

@@ -16,16 +16,16 @@ Overview
 
 Materials & Prep
 ----------------
-- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- **Projector and computer**
 - **White paper** **and** **markers**
-- **Classroom copies** of [WS 2.2]
+- **Classroom copies** of [WS 2.2][]
 - **Pair or small group** student assignments
 - **Sample online temperature converter** (<http://www.onlineconversion.com/temperature.htm>)
 
 Since most of today’s lesson follows WS 2.2, you should have read through the worksheet. You may
 prefer to delete the notes from the worksheet (so it is only a sheet of exercises) if you are
 working on developing note-taking skills in your classroom. We recommend leaving these sections in
-for ELL classrooms, so your students can focus on syntax rules instead of translating what they are
+for English Language Learner (ELL) classrooms, so your students can focus on syntax rules instead of translating what they are
 hearing to vocabulary they need to then write in their notebooks.
 
 
@@ -35,14 +35,14 @@ Pacing Guide
 |--------------------------------------|-----------:|
 | Bell-work and attendance             |       5min |
 | Introduction and worksheet exercises |      25min |
-| Practice-It exercises                |      20min |
+| Practice exercises                   |      20min |
 | Turn in worksheets, wrap up          |       5min |
 
 
 Procedure
 ---------
 
-Since much of this class involves learning syntax, there will be a lot of drilling during the class.
+Since much of this class involves learning syntax, there will be a lot of practicing during the class.
 Try to spice up the lesson by allowing students to work in pairs, or playing soft music in the
 background to put students in the right headspace to settle down for work.
 
@@ -52,9 +52,9 @@ in class? Which measurement are they more familiar with? Which do they use more 
 the online calculator and ask if they ever use such online tools, and tell students that they’re
 going to learn how this program is built today.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and Worksheet Exercises \[25 minutes\]
+### Introduction and Worksheet Exercises `[25 minutes]`
 
 ---
 
@@ -62,7 +62,7 @@ going to learn how this program is built today.
 
 #### Content - Debugging Tools
 
-As you continue to program in Eclipse you will notice some of the debugging tools that are available to you. One of these tools is the syntax coloring whereby syntax errors will be highlighted or underlined a specific color. This draws the programmer’s attention to the error and allows for quicker fixes.
+As you continue to program in IDE you will notice some of the debugging tools that are available to you. One of these tools is the syntax coloring whereby syntax errors will be highlighted or underlined a specific color. This draws the programmer’s attention to the error and allows for quicker fixes.
 
 Even though these tools exist, it is still important for you to get good at identifying syntax and other errors. This will speed up the development process and will result in fewer errors in the final program.
 
@@ -93,26 +93,26 @@ Even though these tools exist, it is still important for you to get good at iden
    let students work on 5b in pairs.
 
 At this point, your class may be raring to get started on the rest of the assignment without your
-help. If they are, great! Post the Practice-it questions on the board so they can continue to that
+help. If they are, great! Post the practice questions on the board so they can continue to that
 assignment once they have completed the worksheet. If your class wants you to walk them through
 string concatenation, go through the examples as above.
 
-### Practice-It Exercises \[20 minutes\]
+### Practice Exercises `[20 minutes]`
 
-1. Have students log in to Practice-It to complete the following Practice-It self-check questions:
+1. Have students complete the following practice self-check questions:
 
-   a. studentVariables
+   a. Self-Check 2.8: studentVariables
 
-   b. values of A,B,C
+   b. Self-Check 2.13: valuesOfABC
 
-2. Have students complete Practice-It exercise “displacement.”
+2. Have students complete Exercise 2.1: displacement.
 
 3. Students should work on their own, but if the exercise is too challenging, you might opt to have
    students collaborate on answers. Be sure to remind students that each student should turn in their
    own set of work.
 
-### Students turn in worksheets, wrap up \[5 minutes\]
-At the end of class, collect WS 2.2 and Practice-It submissions.
+### Students turn in worksheets, wrap up `[5 minutes]`
+At the end of class, collect WS 2.2 and practice problems submissions.
 
 
 Accommodation and Differentiation
@@ -120,7 +120,7 @@ Accommodation and Differentiation
 
 If you have students who are speeding through this lesson, you should encourage them to:
 
-- Complete Practice-It self-check problem “timesOperator.”
+- Complete Self-Check 2.18: timesOperator.
 
 - Challenge them to build their own program that converts Fahrenheit to Celsius (this version won’t
   take user input—yet!)

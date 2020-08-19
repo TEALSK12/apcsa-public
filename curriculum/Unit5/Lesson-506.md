@@ -120,7 +120,7 @@ About Barron’s
 --------------
 - Barron’s is an AP CS A review book that some school provide students. If your school doesn’t
   provide Barron’s there are many alternative homework assignments that can be found at
-  http://codingbat.com/java (no classes) or practice-it.
+  http://codingbat.com/java (no classes).
 
 - Alternatively, you can save time spent on the lab by checking activities as Homework.
 

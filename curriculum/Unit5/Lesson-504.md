@@ -11,13 +11,14 @@ Overview
   invariants, and changing internal implementations
 
 ### Homework — _Students will…_
+- **Read** BJP 8.4
 - **Complete** a quiz at the end of Day 2
 - **Complete** chapter 8 self-check questions 17-21
 
 
 Materials & Prep
 ----------------
-- **Group copies** of [WS 5.4]
+- **Group copies** of [WS 5.4][]
 - **Assignments for 4 student groups**
 - **4 classroom copies** of the textbook (or have students bring books to class)
 - **Copies of the grading rubric** on the overhead or printed out (optional)
@@ -50,9 +51,9 @@ printed out and sitting at teamwork stations (or on student desks). Encourage st
 their own questions using the instruction sheet and textbook. Frequently asked questions and
 suggestions for student groups are included in Accommodations and Differentiation.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction & Reviewing the Assignment \[10 minutes\]
+### Introduction & Reviewing the Assignment `[10 minutes]`
 
 1. Prepare students by telling them that the 4 topics covered today are the 4 subsections of 8.4,
    the reading that was due today.
@@ -162,7 +163,7 @@ suggestions for student groups are included in Accommodations and Differentiatio
 
 ----------------------------------------------------------------------------------------------------
 
-### Student Preparation of Lesson \[30 minutes\]
+### Student Preparation of Lesson `[30 minutes]`
 
 1. Give each group 7 minutes to present their topic and 2 minutes for questions.
 
@@ -177,6 +178,9 @@ suggestions for student groups are included in Accommodations and Differentiatio
 | Presentation includes a non-example as helpful contrast. | Presentation includes a non-example that is marginally helpful. | Presentation includes a non-example that does not add to comprehension. | Presentation includes a non-example that adds confusion, or presentation does not include a non-example. |
 | Presentation includes a helpful tip that is clearly explained and concisely stated. | Presentation includes a helpful tip that is clearly explained or concisely stated. | Presentation includes a helpful tip that is not clearly explained and may include a small error. | Presentation does not include a helpful tip or hint. |
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 5 Topic Questions 5.4 Accessor Methods, 5.5 Mutator Metods, 5.6. Writine Methods and 5.8 Scope and Access.
 
 Accommodation and Differentiation
 ---------------------------------

@@ -7,9 +7,10 @@ Overview
 - **Write** programs that accept user input using a scanner object.
 
 ### Assessments — _Students will…_
-- **Complete** Practice-It problems
+- **Complete** Practice problems
 
 ### Homework — _Students will…_
+- **Read** BJP 3.3 “Interactive programming” and “Sample interactive program”
 - **Outline** Chapter 3, except for BJP 3.4
 
 
@@ -31,9 +32,9 @@ Pacing Guide
 Procedure
 ---------
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to Interactive Programming \[10 minutes\]
+### Introduction to Interactive Programming `[10 minutes]`
 
 1. Hook the students with a brief discussion about Pokemon. Be sure that the following points come
    up during discussion (either you bring them up, or you guide the students to bring these points
@@ -47,7 +48,7 @@ Procedure
    - If you want to know what your EV value is (so you can determine strategy and gain the most
      points), you need to compute it yourself given the values that you can see.
 
-   - The formula for calculating HP is on Bulbepedia, and if we do some algebra we can calculate EV.
+   - The formula for calculating HP is on Bulbepedia, and if we do some algebra, we can calculate EV.
      Let’s write a program that will help us calculate EV for any Pokemon stats a trainer enters.
 
 2. Have a student (or sequential students) come to the board to write the console output as you work
@@ -128,17 +129,17 @@ Pay close attention to the formulas used when calculating experience points and 
 ---
 
 
-### Student Practice \[35 minutes\]
+### Student Practice `[35 minutes]`
 
-1. Have students complete the following Practice-It self-check questions:
-   1. promptMultiplyBy2
-   2. SumNumbers
-   3. RobertPaulson
+1. Have students complete the following self-check questions:
+   1. Self-Check 3.23: promptMultiplyBy2
+   2. Self-Check 3.24: SumNumbers
+   3. Self-Check 3.25: RobertPaulson
 
-2. Have students complete the following Practice-It example questions:
-   1. scientific
-   2. cylinderSurfaceArea
-   3. sphereVolume
+2. Have students complete the following exercise questions:
+   1. Exercise 3.12: scientific
+   2. Exercise 3.14: cylinderSurfaceArea
+   3. Exercise 3.15: sphereVolume
 
 
 Accommodation and Differentiation

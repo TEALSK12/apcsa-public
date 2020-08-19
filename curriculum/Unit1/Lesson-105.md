@@ -8,16 +8,16 @@ Overview
 - **Manage** complexity by using method calls
 
 ### Assessments — _Students will…_
-- **Complete** Practice-It problems
+- **Complete** Practice problems
 
 ### Homework — _Students will…_
-- **Read** BJP 1.5
+- **Read** BJP 1.4
 - **Complete** Ch.1 Exercises 11, 12, 14, 16
 
 
 Materials & Prep
 ----------------
-- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- **Projector and computer**
 - **Whiteboard and marker**
 - **Overly complicated diagram** (<https://tinyurl.com/y67z3cym>)
 
@@ -28,30 +28,30 @@ Pacing Guide
 |-----------------------------------------|-----------:|
 | Bell-work and attendance                |       5min |
 | Introduction and note-taking            |      15min |
-| Practice-It questions                   |      25min |
+| Practice questions                      |      25min |
 | Students trade work, check, and turn in |       5min |
 
 
 Procedure
 ---------
-This class introduces many new, intertwined concepts in one class period. These concepts will be
+This class introduces many new concepts in one class period. These concepts will be
 re-taught in the next class, but you should be aware that your students have a lot of information to
-absorb in a short amount of time. This lesson will be a good litmus test—if students have been doing
+absorb in a short amount of time. This lesson will be a good assessment to see if students have been doing
 their reading and homework, the class should move along smoothly. If students are not completing the
 readings, you will probably only get through ~50% of the material. If needed, use this opportunity
 to convince students of the pace and commitment level required for the class.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and Note-Taking \[15 minutes\]
+### Introduction and Note-Taking `[15 minutes]`
 
 1. Have the **complicated algorithm** up on the board, or printed out for students to pass around.
    If you have any confusing furniture assembly manuals, or overly complicated directions, bring
    those to pass around too.
 
    Start class off with a whole group discussion about why the instructions or diagrams are
-   confusing, and ask students what strategies could be used to make them easier to understand. The
-   diagram listed in materials is an actual slide from the Pentagon, and illustrates how too much
+   confusing and ask students what strategies could be used to make them easier to understand. The
+   diagram listed in the materials is an actual slide from the Pentagon, and illustrates how too much
    complexity can cause all meaning to be lost. Guide the conversation towards decomposition to begin
    your lecture:
 
@@ -93,11 +93,17 @@ to convince students of the pace and commitment level required for the class.
 3. Point out to students that anything they would cut and paste to save time on creating would make
    a good unit to turn into a “static method”
 
-   **Static method** — a block of Java statements that is given its own name (ask students to point
+   - **Static method** — a block of Java statements that is given its own name (ask students to point
    to a Java statement)
-
+   
    - Has the same structure we’re familiar with from the main method we already wrote, but we
      give it a different name than “main”.
+     
+   - A method call interrupts the sequential execution of statements, causing the program to first execute 
+   the statements in the method before continuing. 
+   
+   - Once the last statement in the method has executed or a return statement is executed, 
+   flow of control is returned to the point immediately following where the method was called. 
 
 4. Ask students what simple unit we should build into a static method (have them refer to the
    structure diagram), and have them suggest a name for the method.
@@ -132,15 +138,15 @@ to convince students of the pace and commitment level required for the class.
    If the student seems nervous, encourage the rest of the class to call out directions to the
    student. Make sure students are drawing the flow of control on their own notes as well.
 
-### Practice-It questions \[25 minutes\]
+### Practice questions `[25 minutes]`
 
-1. Have students complete the following Practice-It questions:
-   1. Tricky
-   2. Strange
-   3. Confusing
-   4. Lots-of-errors
+1. Have students complete the following practice questions:
+   1. Self-Check 1.22: Tricky
+   2. Self-Check 1.23: Strange
+   3. Self-Check 1.26: Confusing
+   4. Self-Check 1.29: LotsOfErrors-errors
 
-If you do not have access to computers in your classroom, copy the Practice-it questions to a
+Copy the practice questions to a
 worksheet and have students complete the practice problems by writing out the answers and using
 their error-checking algorithm sheets.
 
@@ -155,22 +161,20 @@ If need be, work on “Tricky” as a whole group, so you can model the correct 
 problem. If your class decides on an algorithm for “predict the output” type questions, have a
 student make that algorithm into a poster for the whole class to refer to.
 
-### Students trade work, check, and hand in \[5 minutes\]
-Have students trade work and check each other’s responses on Practice-It before submitting.
-
-
 Accommodation and Differentiation
 ---------------------------------
-In ELL classrooms, this lesson should be delivered over the course of 2 days. Extra time should be
+In English Language Learner (ELL) classrooms, this lesson should be delivered over the course of 2 days. Extra time should be
 spent drilling static methods, methods that call other methods, and flow of control. Try adapting
 some of the examples from the book to include students’ native language so they can focus on
 structuring code instead of translating language. One easy way to introduce familiar, repetitive
-content would be to have students output the lyrics to a song with a refrain. For a physical
-activity to demonstrate flow-of-control, check out lesson plan 1.6.
+content would be to have students output the lyrics to a song with a refrain.
 
 If you have students who are speeding through this lesson, you should encourage them to:
-  - Complete the remaining Strange 2, Strange 3, Complicated 2 and Complicated 3 Practice-It
-    questions
+  - Complete the remaining 
+    1. Self-Check 1.24: Strange2
+    2. Self-Check 1.25: Strange3
+    3. Self-Check 1.27: Confusing2
+    4. Self-Check 1.28: Confusing3
   - Have the student write a sample test question with output that can be written using method
     calls. Be sure they include the answer key with the sample question!
 
@@ -179,8 +183,8 @@ Teacher Prior CS Knowledge
 --------------------------
 Java has both static and non-static methods. Static methods allow the programmer to call the method
 without creating an object from the class. Non-static methods covered in the 2<sup>nd</sup> half of
-the course requires an object be created from the class before calling the method. Because “Building
-Java Programs” introduces functions before objects, methods in early lesson plans are static. For a
+the course requires an object be created from the class before calling the method. Because the _Building
+Java Programs_ textbook introduces functions before objects, methods in early lesson plans are static. For a
 description of the difference between static and non-static methods see
 http://beginnersbook.com/2013/05/static-vs-non-static-methods/.
 
@@ -191,7 +195,7 @@ Teaching Tips
   abstraction. This lesson has a number of new syntax constructs for students to create methods and
   it is important to give students the big picture idea of factoring code and reducing redundancy.
 
-- The practice-it problems have students tracing code where methods call other methods. Giving
+- The practice problems have students tracing code where methods call other methods. Giving
   students a way of tracing code like using a table to keep track of the method calls. If you are
   using a black/white board, we recommend crossing out the method call when it completes instead of
   erasing the name so the student can review the entire flow of control from beginning to end after

@@ -16,9 +16,9 @@ Overview
 
 Materials & Prep
 ----------------
-- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- **Projector and computer**
 - **Whiteboard and markers**
-- **Classroom copies** of [WS 3.7] LP Battle
+- **Classroom copies** of [WS 3.7][] LP Battle
 - **Video** of sample battle (<http://youtu.be/k7K5LEE9xxw?t=48s>)
 - **Advanced damage calculator** (<https://pokemonshowdown.com/damagecalc/>)
 
@@ -51,12 +51,12 @@ numbers to determine battle outcomes (or roll-of-the-dice or spin for the card-g
 versions), and return game text. Capitalize on student frustration by (or motivate students with the
 prospect of) hinting at a more interactive program after the next few lessons on Ch. 4 and Ch. 5.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to Lab and Viewing of Battle \[10 minutes\]
+### Introduction to Lab and Viewing of Battle `[10 minutes]`
 At the beginning of class, introduce the lab and watch the sample battle video.
 
-### Student Programming Practice \[40 minutes\]
+### Student Programming Practice `[40 minutes]`
 
 1. Have students complete this programming project individually. Before you break out the class for
    lab time, read the question out loud to the class, taking time to pause between each of the

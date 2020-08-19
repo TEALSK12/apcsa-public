@@ -84,7 +84,7 @@ All guides, sample code, answer code, and example code may be found by logging i
 
 
 ### General Project Notes
-- Open Eclipse and guide students through opening the Consumer Review files.
+- Open IDE and guide students through opening the Consumer Review files.
 
 - Encourage students to use their Tricky Code Cheat Sheets, 4 Commandments of Scope, notebooks,
   textbooks, classroom posters, and homework assignments.

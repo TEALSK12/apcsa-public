@@ -21,7 +21,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **White paper** **and** **markers**
-- **Classroom sets** of operator/operand expression cards created from [WS 2.1]
+- **Classroom sets** of operator/operand expression cards created from [WS 2.1][]
 - **Pair or small group** student assignments
 
 Operator/Operand Expression sets can be printed and cut from regular printer paper, or you can write
@@ -46,9 +46,9 @@ Procedure
 Hook your class today by explaining that they’re going to be able to create a calculator by the end
 of this week.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to Data Types \[10 minutes\]
+### Introduction to Data Types `[10 minutes]`
 
 Begin with a brief lecture about data types.
 
@@ -59,17 +59,26 @@ Begin with a brief lecture about data types.
   - **Primative data types**:  Store the actual value in the variable
 
     - **Type int** describes all whole numbers, or integers (have students name some examples)
-      -int variables take up 8 bits of space in memory (see chart in slide deck)
+      -int variables take up 4 Bytes of space in memory (see chart below)
       -Remember to talk about data overflow and what happens if you put too large a value into an int
 
     - **Type double** describes all numbers with decimal points (have students give some examples)
-      - double variables take up 64 bits of space in memory (see chart in slide deck)
+      - double variables take up 8 Bytes of space in memory (see chart below)
       - You can remember if something is a double because there are numbers on both sides of a
         decimal point (like 2 numbers, double numbers)
 
     - **Type boolean** describes logical values—this means true or false. There are no other
       values in type boolean.
       
+      Pacing Guide
+------------
+| Data Type                                | Total Size |          Range of Values          |
+|------------------------------------------|------------|-----------------------------------|
+| int                                      |   4 Bytes  | -2,147,483,648 to 2,147,483, 647  |
+| double                                   |   8 Bytes  |  approximately 15 significant     |
+|                                          |            |  decimal digits                   |
+| boolean                                  |   1 bit    |  true or false                    |
+
   - **Refrence data types**: store the location in memory of the object the code is referring to
       -A String variable would be an example of a reference data type 
 
@@ -86,7 +95,7 @@ Begin with a brief lecture about data types.
 
 - We refer to the values as **operands**—both int and double are operands.
 
-### Think-Pair-Share Activity \[5 minutes\]
+### Think-Pair-Share Activity `[5 minutes]`
 
 1. While students are finishing writing down definitions in their notes, write an assortment of data
    type examples on the board.
@@ -97,7 +106,7 @@ Begin with a brief lecture about data types.
 
 3. Bring the class back to whole group, and call on students to share a category for each data type.
 
-### Introduction to Operators and Precedence \[10 minutes\]
+### Introduction to Operators and Precedence `[10 minutes]`
 
 1. Do a quick review of arithmetic operators. Students should be able to volunteer most of these,
    but you may have to spend some review on mod, especially if your class is not on grade level for
@@ -141,7 +150,7 @@ Begin with a brief lecture about data types.
     - for negative numbers:
       - (int) (x - 0.5)
    
-### Evaluating Expressions Activity \[20 minutes\]
+### Evaluating Expressions Activity `[20 minutes]`
 
 1. Depending on your class size, have students form pairs or small groups
 
@@ -155,9 +164,11 @@ Begin with a brief lecture about data types.
 
 5. Encourage groups to check each others’ answers and help each other if they get stuck.
 
-### Check Student Study Lists \[5 minutes\]
+### Check Student Study Lists `[5 minutes]`
 At the end of class, go over student notebooks.
 
+### College Board Topic Question
+After this lesson, students will be able to answer questions from the College Board Unit 1 Topic Questions 1.2: Variables and Data Types
 
 Accommodation and Differentiation
 ---------------------------------

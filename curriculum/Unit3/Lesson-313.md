@@ -10,10 +10,10 @@ Overview
 - **Differentiate** between while loops, if statements, and for loops
 
 ### Assessments — _Students will…_
-- **Complete** Practice-It questions
+- **Complete** Practice questions
 
 ### Homework — _Students will…_
-- **Read** BJP 5.1 “Random Numbers”
+- **Read** BJP 5.1 (skip “do/while Loops”)
 - **Complete** self-check questions \#1-4 and exercise 2
 
 
@@ -21,7 +21,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 3.13]
+- **Classroom copies** of [WS 3.13][]
 
 
 Pacing Guide
@@ -30,15 +30,15 @@ Pacing Guide
 |---------------------------------|-----------:|
 | Bell-work and attendance        |       5min |
 | Introduction & think-pair-share |      15min |
-| Student Practice-It activity    |      35min |
+| Student practice activity    |      35min |
 
 
 Procedure
 ---------
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction & Think-Pair-Share \[15 minutes\]
+### Introduction & Think-Pair-Share `[15 minutes]`
 
 1. Ask students to offer pseudocode that explains how they might track damage to a Pokemon.
 
@@ -74,8 +74,31 @@ Procedure
          i++;
      }
      ```
+4. Introduce tracing while loops by using a trace table:
+   - Columns represent variables
+   - Rows represent values during each iteration
+  
+   ``` Java
+   int n = 172;
+   int sum = n;
+   while (n<0) {
+      int digit = n % 10;
+      sum = sum + digit;
+      n = n / 10;
+   }
+   System.out.println (sum);
+   ```
+   
+   - Trace the above code using the trace table below.
+   
+   | n | sum | digit | output |
+   |---|-----|-------|--------|
+   |||||
+   |||||
+   |||||
+   |||||
 
-4. Invite students to Think-pair-share on the following example:
+5. Invite students to Think-pair-share on the following example:
 
    ``` Java
    int n = 91;
@@ -90,33 +113,25 @@ Procedure
 
    - In the same pairs, have students rewrite the while loop as a for loop.
 
-### Student Practice-It Activity \[35 minutes\]
-1. Have students complete the following Practice-It problems:
+### Student Practice Activity `[35 minutes]`
+1. Have students complete the following practice problems:
 
-   1. whileLoops<br>
-   2. forToWhile<br>
-   3. whileLoopMystery1<br>
-   4. whileLoopMystery2
+   1. Self-Check 5.1: whileLoops
+   2. Self-Check 5.2: forToWhile
+   3. Self-Check 5.3: whileLoopMystery1
+   4. Self-Check 5.4: whileLoopMystery2
 
-2. If students complete these problems with time to spare, have them complete Practice-It exercise
-   “gcd.”
+2. If students complete these problems with time to spare, have them complete  Exercise 5.2: gcd.
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 4 Topic Questions 4.1 While Loops and 4.5 Informal Code Analysis.
 
 Accommodation and Differentiation
 ---------------------------------
-If students are having difficulty tracing while loops, using proper syntax, or predicting the output
-of the loop, you can change the Practice-It exercise to a reciprocal teaching exercise, where ¼ of
-the class does each problem, and they come to the front of the room to explain their solution and
-process to the rest of the class.
 
 If you have students that finished the classwork ahead of time, encourage them to explore do/while
-loops (which are NOT part of the AP subset).
-
-
-Common Mistakes
----------------
-Loops common mistakes:
-<http://interactivepython.org/runestone/static/JavaReview/LoopBasics/lMistakes.html>
+loops
 
 [WS 3.13]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.13.docx
 

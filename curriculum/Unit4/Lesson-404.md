@@ -11,7 +11,7 @@ Overview
 - **Extra credit:** complete a Pokémon Challenge
 
 ### Homework — _Students will…_
-- **Read** BJP 7.4 up to “Command-Line Arguments”
+- **Read** BJP 7.3 and 7.4 up to “Command-Line Arguments”
 - **Complete** exercises \#9, 10
 
 
@@ -19,7 +19,7 @@ Materials & Prep
 ----------------
 - **Projector and computer** with this page: <http://www.legendarypokemon.net/javacalc.html>
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 4.4]
+- **Classroom copies** of [WS 4.4][]
 - **Instructor copy** of WS 4.4 Answer
 
 The “worksheet” for today is a 5-page work packet, so if your school has long lines/production time
@@ -43,13 +43,13 @@ gleaned from last night’s reading (and perhaps some help from a friend), stude
 through as much of the worksheet as they can in the time allotted (~30 minutes). Finish the class
 with whole-class note taking on the topics that were challenging in the sheet.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Student Activity \[25-30 minutes\]
+### Student Activity `[25-30 minutes]`
 Have students start working on WS 4.4 in pairs or alone. Use a timer to help students pace
 themselves.
 
-### Students Trade & Check \[5 minutes\]
+### Students Trade & Check `[5 minutes]`
 After 25–30 minutes give students a few minutes to check each others’ work.
 
 ### Whole Group Review & Paper Submission

@@ -20,8 +20,8 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 6.4.1]
-- **Tracing Inheritance Guide** [WS 6.4.2]
+- **Classroom copies** of [WS 6.4.1][]
+- **Tracing Inheritance Guide** [WS 6.4.2][]
 - **Class hierarchies and client code** from Section 9.3 (on board or projector)
 
 The Round Robin worksheet is 11 pages long, so it may take a while to print out/copy.
@@ -45,9 +45,9 @@ whether they think the code is valid. Raise the stakes by offering extra class p
 to the students that vote correctly. Ask students to explain their reasoning behind the answer, and
 allow a little time for debate.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to Polymorphism \[10 minutes\]
+### Introduction to Polymorphism `[10 minutes]`
 1. Be forewarned that students may have a hard time with polymorphic syntax. Up until now, we’ve
    been drilling matching keywords and types. Passing different types as parameters within the same
    method may seem counterintuitive. You should drill and repeat that such behavior is only valid
@@ -112,7 +112,7 @@ allow a little time for debate.
    Have your students read the table of outputs (on the slides) and fill in the original method to
    find their answer. It will help them with the worksheet.
 
-### Tracing Inheritance Guide \[10 minutes\]
+### Tracing Inheritance Guide `[10 minutes]`
 1. Distribute copies of WS 6.4.2 and review the steps that all students should use to determine the
    output of a polymorphic program like the example you just showed. They should use this handout
    the way they use their problem-solving algorithm, as a procedure to be used on every polymorphic
@@ -155,7 +155,7 @@ allow a little time for debate.
    9.3). Give students a few minutes to use the Tracing Inheritance guide to create a table of
    output for classes `E`, `F`, `G` and `H`.
 
-Student Practice: WS 6.4.1 \[25 minutes\]
+Student Practice: WS 6.4.1 `[25 minutes]`
 -----------------------------------------
 1. Round-robin is a drilling and error-checking exercise used with worksheets. Students write their
    name on the worksheet, complete the first problem, then pass the paper to the student on the
@@ -196,7 +196,7 @@ Student Practice: WS 6.4.1 \[25 minutes\]
       Adjust the timing on these questions as needed, but try to keep a brisk pace. Part of the
       engagement factor is the sense of urgency.
 
-### Grade A Worksheet and Announce Class Grade \[5 minutes\]
+### Grade A Worksheet and Announce Class Grade `[5 minutes]`
 If time allows, randomly select the worksheet and announce the class grade with a bit of fanfare,
 congratulating the class on a job well done. Otherwise, select one paper to grade after class, then
 return the paper to the student for study practice.

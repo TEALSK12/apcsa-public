@@ -10,7 +10,7 @@ Overview
 - **Complete** exercises with manipulatives on WS 4.1.
 
 ### Homework — _Students will…_
-- **Read** BJP 7.1 “For-Each Loop” and “The Arrays Class”
+- **Read** BJP 7.1 up to “For-Each Loop”
 - **Complete** self-check questions \#1, 7, 9
 
 
@@ -18,7 +18,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 4.1], [Poster 4.2]
+- **Classroom copies** of [WS 4.1][], [Poster 4.2][]
 - **Array whiteboards** (see notes at end of lesson) **and dry-erase markers**
 - **Student small-group assignments** (~3-4 students per group)
 - **Large manipulative** for teacher demo (**optional**)
@@ -42,9 +42,9 @@ belabor instruction; students may have better success physically working through
 Circulate around the room to check for understanding, but let students help and challenge each
 other.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to Arrays \[20 minutes\]
+### Introduction to Arrays `[20 minutes]`
 
 ---
 
@@ -58,7 +58,7 @@ As you complete this activity, think carefully about how arrays could be used in
 
 ---
 
-1. Open up with the example of daily temperature on the slides.
+1. Open  with the example of daily temperature on the slides.
 
    - Ask the class to build the program, they should reach the point where they calculate the
      average, but are unable to calculate the days above average as they must access the data a
@@ -75,7 +75,7 @@ As you complete this activity, think carefully about how arrays could be used in
      integer index (the position). Ask students what element is stored at index 2, 4, and 7 in this
      string/array.
 
-   - Since an array is an object, you have to construct it (you can’t just declare it as a
+   - Since an array is an object, you must construct it (you can’t just declare it as a
      variable).
 
      ``` Java
@@ -111,7 +111,7 @@ As you complete this activity, think carefully about how arrays could be used in
        int[] numbers = {0, 1, 2, 3, 4, 5};
        ```
 
-2. Both of these sample arrays are only ½ done right now—they’re arrays filled with 0s because Java
+2. Both sample arrays are only ½ done right now—they’re arrays filled with 0s because Java
    auto-initializes arrays to a default value of 0 (for `char`, `double`, and `int`) or `false` (for
    boolean). So our *number* array looks something like this:
 
@@ -140,10 +140,13 @@ As you complete this activity, think carefully about how arrays could be used in
    `------------------'---'---'---'---'
    ```
 
+    - Now that students can create an array of integers, ask the students how would they create an array of temeratures 
+    and calculate the average temperature? What intermediate step would be needed before calculating the average temperature?
+
 3. Briefly touch on other types of arrays and common errors.
 
    - You can have arrays of almost anything: `String`, `double`, `boolean`, _etc._ Examples of an
-     instantiated double and boolean array are on the slides. Ask the class what they must change to
+     instantiated double and Boolean array are on the slides. Ask the class what they must change to
      create these arrays.
 
    - Cover the common index-out-of-bounds exception. If the program calls illegal indexes or indexes
@@ -169,7 +172,7 @@ As you complete this activity, think carefully about how arrays could be used in
    }
    ```
 
-### Student Array Activity \[25 minutes\]
+### Student Array Activity `[25 minutes]`
 
 1. Distribute white boards and markers to group workstations before students get seated.
 
@@ -179,10 +182,13 @@ As you complete this activity, think carefully about how arrays could be used in
 3. Walk around the room, spot-checking for student understanding and answering any student
    questions.
 
-### Paper Selection & Grade Announcement \[5 minutes\]
+### Paper Selection & Grade Announcement `[5 minutes]`
 At the end of class, consider choosing one group’s whiteboard to evaluate as a demonstration for the
 class.
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 6 Topic Questions 6.1 Array Creation and Acdess
 
 Accommodation and Differentiation
 ---------------------------------
@@ -196,7 +202,7 @@ of “array whiteboards” following these instructions:
 
 1. Purchase panel board from your local hardware store (http://tinyurl.com/zgtlbhr)
 
-2. Have the assistant cut the board into long strips that you can use as 1 dimensional arrays.
+2. Have the assistant cut the board into long strips that you can use as 1 dimensional array.
 
    1. If you like to use individual whiteboards to check for student understanding, you can have
       whiteboards cut to individual student squares, then have students line up the little white
@@ -218,7 +224,7 @@ In mathematics, a **manipulative** is an object which is designed so that a lear
 some mathematical concept by manipulating it, hence its name. The use of manipulatives provides a
 way for children to learn concepts in a developmentally appropriate, hands-on and experiential way.
 
-\[TEST: hello world\]
+`[TEST: hello world]`
 
 
 Teacher Prior CS Knowledge

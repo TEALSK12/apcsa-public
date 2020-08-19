@@ -43,12 +43,12 @@ winning team (this might be TEALS swag, bonus classroom participation points, or
 entries in the year-end TEALS giveaway). Use this class competition as an assessment to determine
 how much re-teaching you need to do.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Reviewing Procedures and Forming Groups \[5 minutes\]
+### Reviewing Procedures and Forming Groups `[5 minutes]`
 Announce class teams and rearrange students as needed.
 
-### Competition Question 1 \[15 minutes\]
+### Competition Question 1 `[15 minutes]`
 
 Give students 5 minutes to complete the challenge, and take note of which team finishes first.
 
@@ -80,7 +80,7 @@ if (x < 30) {
 }
 ```
 
-### Competition Question 2 \[15 minutes\]
+### Competition Question 2 `[15 minutes]`
 Once you’ve completed this exercise, offer up the second challenge question, as before. This
 question may take up to 10 minutes for students to complete.
 
@@ -111,7 +111,7 @@ if (times == 2) {
 
 ----------------------------------------------------------------------------------------------------
 
-### Students Begin Outlining Chapter 4 \[15 minutes\]
+### Students Begin Outlining Chapter 4 `[15 minutes]`
 Once you have completed the competition and review, have students begin outlining Chapter 4.
 Whatever they do not finish outlining they should complete tonight for homework.
 

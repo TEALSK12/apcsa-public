@@ -18,7 +18,7 @@ Materials & Prep
 - **Projector and computer**
 - **Whiteboard and marker**
 - **Results** from electronic survey of review topics
-- **Classroom copies** of the practice test [WS 5.7]
+- **Classroom copies** of the practice test [WS 5.7][]
 
 Once students have submitted their review requests, assemble those topics into categories and
 prepare to re-teach the topics as needed. If you are crunched for time, hold the review session
@@ -38,15 +38,15 @@ Pacing Guide
 Procedure
 ---------
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Review of Student Questions \[30 minutes\]
+### Review of Student Questions `[30 minutes]`
 1. Clearly indicate that you expect all students to have a list of review topics to study this
    evening. Periodically remind students that this list will be checked at the end of class.
 
 2. Begin with a review of student-submitted questions before reviewing the practice questions.
 
-### Sample Test Review \[15 minutes\]
+### Sample Test Review `[15 minutes]`
 
 1. Begin review with practice test WS 5.7. Have students work through section I questions, then
    review the answers as a class.
@@ -66,7 +66,7 @@ Procedure
 5. After you’ve completed reviewing an idea, remind the class that they should write down that topic
    if they feel they still have to review it tonight.
 
-### Check Student Study Lists \[5 minutes\]
+### Check Student Study Lists `[5 minutes]`
 Spend the last 5 minutes of class checking each student’s review topic list.
 
 

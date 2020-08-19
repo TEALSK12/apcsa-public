@@ -11,6 +11,7 @@ Overview
 - **Evaluate** statements and **predict** output during a game of grudgeball
 
 ### Homework — _Students will…_
+- **Read** BJP 10.1 up to “Adding to and Removing from an ArrayList”
 - **Outline** Chapter 7 and BJP 10.1 “ArrayList”
 - **Complete** self-check questions \#3-6 and exercise \#3
 
@@ -18,19 +19,28 @@ Overview
 Materials & Prep
 ----------------
 - **Projector and computer** (optional)
+- Day 1
 - **White paper** **and** **markers**
-- **Classroom copies** of [Poster 4.7]
+- **Classroom copies** of [Poster 4.7][]
 - **Rules** for grudgeball (see website for details:
   <http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html>)
 - **Team assignments** that divide your class into 5 or 6 teams
 - **Nerf hoop & ball** (or wastepaper and trash can)
 - **Taped 2- and 3-point lines**
+- Day 2
+- Teacher access to CS Awesome **[Unit 7 Lesson 4 ArrayList Algorithms Lesson Plan]** Sign up at [CS Awesome AP CSA Java Curriculum][]
+<!--
+Not available as of 11/21/19
+  - Access to Dr. Nguyen **[ArrayList Algorithms]** slide deck
+-->
+- Access to CS Awesome **[7.4. ArrayList Algorithms][]** 
+
 
 Briefly review the rules of Grudgeball if you have forgotten them. If you have removed your 2 and 3
 point lines from last time you played, test out your 2 and 3 point lines before class begins.
 
 
-Pacing Guide
+Pacing Guide: Day 1
 ------------
 | Section                      | Total Time |
 |------------------------------|-----------:|
@@ -38,16 +48,22 @@ Pacing Guide
 | Introduction and note-taking |      15min |
 | Grudgeball                   |      35min |
 
+Pacing Guide: Day 2
+------------
+| Section                                         | Total Time |
+|-------------------------------------------------|-----------:|
+| Bell-work and attendance                        |       5min |
+| CS Awesome Activities from Lesson 7.4           |   35–45min |
 
-Procedure
+Procedure: Day 1
 ---------
 To hook your class for today’s material, and if space and whiteboard setup allow, set up the
 grudgeball “court” and scoreboard before class begins. Remind students that lecture content will be
 tested during the game.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and note-taking \[10 minutes\]
+### Introduction and note-taking `[10 minutes]`
 
 1. Ask students to name some limitations of arrays: shifting values is an ordeal, adding elements
    requires forming a new, larger array and copying values over, deleting elements leaves empty,
@@ -88,6 +104,8 @@ tested during the game.
      `ArrayList<String> spongebob = new ArrayList<String>`**`()`**`;`
 
    - Whenever you see empty parentheses, it means that you’re not using parameters.
+   
+   - The ArrayList constructor ArrayList<>() constructs an empty list. 
 
 4. Using Poster 4.7, review some of the methods you can use to manipulate ArrayLists. Add some
    `spongebob` elements to your `ArrayList`:
@@ -146,6 +164,13 @@ tested during the game.
 System.out.println(spongebob.get(3));
 ```
 
+##### Index Out of Bounds Exception
+``` Java
+Exception in thread "main" java.lang.IndexOutOfBoundsException:
+```
+
+Since the indices for an ArrayList start at 0 and end at the number of elements  - 1, accessing an index value outside of this range will result in an ArrayIndexOutOfBoundsException being thrown.
+
 ##### To get the number of elements in the ArrayList and print it
 ``` Java
 System.out.println(spongebob.size());
@@ -180,9 +205,24 @@ spongebob.clear();
 This removes all elements from the list and leaves null values at each index (it’s an empty array
 now).
 
+##### Enhanced for each loop
+``` Java
+ArrayList<Integer> intList = new ArrayList<Integer>();
+intList.add(95);
+intList.add(85);
+int total = 0;
+for (Integer value: intList)
+{
+    total = total + value;
+}
+System.out.println(total);
+```
+
+Changing the size of an ArrayList while traversing it using an enhanced for loop can result in a ConcurrentModificationException being thrown. Therefore, when using an enhanced for loop to traverse an ArrayList, you should not add or remove elements.
+
 ----------------------------------------------------------------------------------------------------
 
-### Grudgeball \[35 minutes\]
+### Grudgeball `[35 minutes]`
 
 1. Divide students into their assigned teams.
 
@@ -231,13 +271,30 @@ k. Called metroCard that stores the number of metrocard rides each student has l
    today → `ArrayList<Integer> metroCard = new ArrayList<Integer>();`
 
 ----------------------------------------------------------------------------------------------------
-
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 7 Topic Questions 7.1 Introduction to ArrayList, 7.2 ArrayList Methods, and 7.3 Traversing ArrayList
 
 Accommodation and Differentiation
 ---------------------------------
 In ELL classrooms, read the questions aloud in addition to showing the question on the board or
 projector. Consider distributing a worksheet with the questions on it so students can write down
 answers during the game.
+
+
+Procedure Day 2
+---------
+Students will be introduced to a variety of ArrayLists algorithms.
+
+The student lesson for Part 2 uses CS Awesomes [7.4. ArrayList Algorithms].  There you will
+find the lesson plan and activities to check for student understanding. The teacher lesson plans are accessible by
+joining the [Teaching CSAwesome google group][] and navigating to [Unit 7 Lesson 4 ArrayList Algorithms Lesson Plan][].
+
+<!--
+Not available as of 11/21/19
+The slide deck for this lesson and Using the Math Class are located on [Dr. Long Nguyen][] GitHub at [Math Class And Wrapper Classes][]
+-->
+
 
 
 Common Mistakes
@@ -278,3 +335,15 @@ Forum discussion
 
 
 [Poster 4.7]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.7.pptx
+
+[Dr. Long Nguyen]: https://longbaonguyen.github.io/
+[Teaching CSAwesome google group]: https://groups.google.com/forum/#!forum/teaching-csawesome
+[CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials
+
+
+[Unit 7 Lesson 4 ArrayList Algorithms Lesson Plan]: https://docs.google.com/document/d/15J_OTPtM2pDqVuc1pvWJrK0z83o50hG9xLKU-Nw8wGA/edit?usp=drive_web
+<!--
+Not available as of 11/21/19
+[ArrayList Algorithms]: https://longbaonguyen.github.io/courses/apcsa/lectureXX.ppt
+-->
+[7.4. ArrayList Algorithms]: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-4-arraylist-algorithms.html

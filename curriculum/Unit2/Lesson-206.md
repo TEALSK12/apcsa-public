@@ -8,10 +8,10 @@ Overview
 - **Construct** loops to execute simple tasks.
 
 ### Assessments — _Students will…_
-- **Trace and construct** nested loops in Practice-It problems.
+- **Trace and construct** nested loops in practice problems.
 
 ### Homework — _Students will…_
-- **Read** BJP 2.4 “Scope” and “Pseudocode”
+- **Read** BJP 2.3 “Nested for Loops”
 - **Complete** self-check questions 26, 27 (4<sup>th</sup> edition 29, 30) and exercise 4
 
 
@@ -27,7 +27,7 @@ Pacing Guide
 |----------------------------------|-----------:|
 | Bell-work and attendance         |       5min |
 | Introduction to nested for loops |      15min |
-| Practice-It Activity             |      30min |
+| Practice Activity             |      30min |
 | Loop Challenge                   |       5min |
 
 
@@ -38,11 +38,11 @@ Today your hook is another wager, only this time the students have to create the
 reward (TEALS swag, tickets to the raffle, bonus points, etc.). If you plan to use a badge system,
 this project is a good one to start with (a ‘loop’ badge, perhaps?).
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to Nested for Loops \[15 minutes\]
+### Introduction to Nested for Loops `[15 minutes]`
 
-1. Remind students of yesterday’s bet, then tell your students that you’ll award them \[prize\] if
+1. Remind students of yesterday’s bet, then tell your students that you’ll award them `[prize]` if
    they can rewrite the program from yesterday in 11 lines. The catch is that student can’t use a
    loop that executes more than 10 times! Explain that you’re going to give them a new programming
    tool today, and then they’ll have some time at the end of class to see if they can meet your
@@ -96,23 +96,23 @@ this project is a good one to start with (a ‘loop’ badge, perhaps?).
    - Ask students how many lines Java will output (9), and walk through the loop showing flow of
      control and directing a student to produce the output.
 
-### Practice-It Activity \[30 minutes\]
+### Practice Activity `[30 minutes]`
 
 Depending on the mood and frustration levels in the class, you may choose to have students work in
 pairs.
 
-- If students are really having a rough time, work through the first Practice-It question together
+- If students are really having a rough time, work through the first practice question together
   as a whole group.
 
 - Put soft, soothing (but upbeat) music on in the background to ease tension!
 
-1. Have students log in to Practice-It to complete the following Practice-It self-check questions:
+1. Have students complete the following self-check questions:
 
-   a. starExclamation1
-   b. starExclamation2
-   c. starExclamation3
+   a. Self-Check 2.31: starExclamation1
+   b. Self-Check 2.32: starExclamation2
+   c. Self-Check 2.33: starExclamation3
 
-2. Have students complete the Practice-It Exercise “starTriangle.”
+2. Have students complete the Exercise 2.5: starTriangle.
 
    a. You should emphasize the importance of constructing a structure diagram before they start
      coding.
@@ -124,11 +124,11 @@ pairs.
 3. If more 25% or more of the class is struggling, return to whole group with the stipulation that
    students who get it may continue working independently.
 
-### Loop Challenge \[30 minutes\]
+### Loop Challenge `[30 minutes]`
 
 1. On the board or the projector, bring up the challenge you introduced in the beginning of class.
 
-   - Students may begin on the challenge once they have finished their Practice-It exercises.
+   - Students may begin on the challenge once they have finished their practice exercises.
 
    - In order to encourage all students to try the challenge, allow slower students to submit their
      challenge answer electronically by the end of the day. (This compromise gives them time to work
@@ -152,13 +152,15 @@ public class Count1000 {
     }
 }
 ```
-
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 4 Topic Questions 4.2 For Loops and 4.4 Nested iteration. 
 
 Accommodation and Differentiation
 ---------------------------------
 If you have students who are speeding through this lesson, you should encourage them to:
 
-- Complete Practice-It self-check Exercises “fibonacci” and “numberTriangle.”
+- Complete Exercise 2.3: fibonacci and Exercise 2.6: numberTriangle.
 
 - Develop an algorithm for tackling complex coding problems. (What generalizable steps did they
   take to correctly build the nested loop programs?)

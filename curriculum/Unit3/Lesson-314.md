@@ -11,10 +11,10 @@ Overview
 - **Write** expressions that generate a random integer between any two values.
 
 ### Assessments — _Students will…_
-- **Complete** Practice-It questions
+- **Complete** Practice questions
 
 ### Homework — _Students will…_
-- **Read** BJP 5.2
+- **Read** BJP 5.1 “Random Numbers”
 - **Complete** programming project 1
 
 
@@ -30,7 +30,7 @@ Pacing Guide
 |-----------------------------------|-----------:|
 | Bell-work and attendance          |       5min |
 | Introduction and think-pair-share |      15min |
-| Student Practice-It activity      |      35min |
+| Student Practice activity      |      35min |
 
 
 Procedure
@@ -46,9 +46,9 @@ Hook your class by talking about randomized tasks that arise in games they may p
 
 - Make a ball bounce, but not precisely, by adding random angles to the bounce.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and Think-Pair-Share \[15 minutes\]
+### Introduction and Think-Pair-Share `[15 minutes]`
 
 1. Once students have all had a chance to explore the dice, show them how to generate random numbers
    that they can use in their game program, computer simulations, or security programs (moving
@@ -95,29 +95,29 @@ Hook your class by talking about randomized tasks that arise in games they may p
    - Priming the loop: remind students that they must initialize variables before the loop (this
      makes sure that Java knows how to enter/start the loop).
 
-### Student Practice-It Activity \[35 minutes\]
+### Student Practice Activity `[35 minutes]`
 
-1. Have students complete the following Practice-It self-check problems:
+1. Have students complete the following self-check problems:
 
-   a. randomRangeABCDE<br>
-   b. randomInteger0to1<br>
-   c. randomOddInteger50to99
+   a. Self-Check 5.5: randomRangeABCDE
+   b. Self-Check 5.6: randomInteger0to10
+   c. Self-Check 5.7: randomOddInteger50to99
 
-2. If students complete these problems with time to spare, have them complete Practice-It exercises:
+2. If students complete these problems with time to spare, have them complete exercises:
 
-   a. randomX<br>
-   b. randomLines
+   a. Exercise 5.4: randomX
+   b. Exercise 5.5: randomLines
 
 
 Accommodation and Differentiation
 ---------------------------------
 If students are having difficulty tracing while loops, using proper syntax, or predicting the output
-of the loop, you can change the Practice-It exercise to a reciprocal teaching exercise, where 1/5 of
+of the loop, you can change the practice exercise to a reciprocal teaching exercise, where 1/5 of
 the class does each problem, and they come to the front of the room to explain their solution and
 process to the rest of the class.
 
 If you have students that finished the classwork ahead of time, encourage them to complete
-Practice-It Exercise _threeHeads_.
+ Exercise 5.11: threeHeads.
 
 
 Video

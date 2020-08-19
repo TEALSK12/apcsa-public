@@ -10,15 +10,14 @@ Overview
 - **Submit** an Equestria program by the end of class.
 
 ### Homework — _Students will…_
-- **Read** BJP 3.3 up to “Interactive Programs and Scanner Objects”
 - **Complete** Ch.3 self-check questions 18 & 19
 
 
 Materials & Prep
 ----------------
-- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- **Projector and computer**
 - **White paper** **and** **markers**
-- **Classroom copies** of [WS 3.4], [Equestria]
+- **Classroom copies** of [WS 3.4][], [Equestria][]
 - **Classroom copies** of Algorithm for Solving Problems
 - **Poster or image** of Equestria map with Cartesian coordinates (Poster 3.4)
 
@@ -44,9 +43,9 @@ Computer Science A lab requirements. It is in your and your students’ best int
 them to help themselves and each other before seeing you. Depending on the length of your class
 periods, this lab may take 2 class periods to complete.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to Programming Project \[10 minutes\]
+### Introduction to Programming Project `[10 minutes]`
 
 Begin with an introduction to today’s programming project.
 
@@ -70,7 +69,7 @@ Begin with an introduction to today’s programming project.
 - Sometimes it’s a good idea to step away from a problem for a few minutes if they’re stuck—work on
   a different method and return to where they were stuck later.
 
-Student Programming Time \[45 minutes\]
+Student Programming Time `[45 minutes]`
 ---------------------------------------
 In an email, on the projector, or as a handout (WS 3.4), give students the following questions to
 work on individually, or in pairs.

@@ -7,11 +7,15 @@ Overview
 - **Trace** loops to predict program behavior.
 - **Construct** loops to execute simple tasks.
 
+### Prerequisite Skills
+- 1.B Determine Code that would be used to complete code segment
+- 2.B Determine the result or output based on statement execution order in a code segment without method calls
+
 ### Assessments — _Students will…_
-- **Trace and construct** loops in Practice-It problems
+- **Trace and construct** loops in practice problems
 
 ### Homework — _Students will…_
-- **Read** BJP 2.3 “Nested for Loops”
+- **Read** BJP 2.3 up to “Nested for Loops"
 - **Complete** self-check questions 19-21 (4<sup>th</sup> edition: 22-24)
 
 
@@ -19,7 +23,7 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **White paper** **and** **markers**
-- **Classroom copies** of [WS 2.5]
+- **Classroom copies** of [WS 2.5][]
 
 
 Pacing Guide
@@ -28,21 +32,19 @@ Pacing Guide
 |---------------------------|-----------:|
 | Bell-work and attendance  |       5min |
 | Introduction to for loops |      15min |
-| Practice-It activity      |      35min |
 
 
 Procedure
 ---------
 For loops are very confusing in the beginning, so we’ve prepared a student handout that diagrams the
-parts of a loop. Encourage students to take supplemental notes in their notebook and on the handout.
+parts of a loop. Encourage students to take notes in their notebook and on the handout.
 
 Hook your students by betting them $100 that you can write a program that outputs the first 1,000
-integers in fewer than 10 lines of code (adjust these numbers according to the gullibility/jadedness
-of your classroom).
+integers in fewer than 10 lines of code (feel free to adjust these numbers to challenge your students).
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction to for Loops \[15 minutes\]
+### Introduction to for Loops `[15 minutes]`
 
 ---
 
@@ -120,30 +122,33 @@ There are several flow chart creation programs available online, these can help 
    - If any of these examples stump your class (and they will), take them through the loop, one
      step at a time, writing down sample output to find the new pattern.
 
-### Practice-It Activity \[35 minutes\]
+   Loops can be analyzed to determine how many times they run. This is called run-time analysis or a statement execution count. 
+   For each of the above examples, ask how many times each loop executes.
+   
+### Practice Activity `[35 minutes]`
 
 1. Depending on the mood and frustration levels in the class, you may choose to have students work
    in pairs.
 
-   a. If students are really having a rough time, work through the first Practice-It question
+   a. If students are really having a rough time, work through the first practice question
       together as a whole group.
 
    b. Put soft, soothing (but upbeat) music on in the background to ease tension!
 
-2. Have students log in to Practice-It to complete the following Practice-It self-check questions:
+2. Have students complete the following self-check questions:
 
-   a. Count2
-   b. fingerTrap
-   c. howManyLines
+   a. Self-Check 2.21: Count2
+   b. Self-Check 2.26: fingerTrap
+   c. Self-Check 2.27: howManyLines
 
 3. If more 25% or more of the class is struggling, return to whole group with the stipulation that
-   students who get it may continue working independently.
+   students who understand it may continue working independently.
 
 
 Accommodation and Differentiation
 ---------------------------------
 If you have students who are speeding through this lesson, you should encourage them to complete
-Practice-It self-check problems “numberTotal” and “blastoff”.
+Self-Check 2.25: numberTotal and Self-Check 2.28: blastOff.
 
 
 Teacher Prior CS Knowledge
@@ -183,9 +188,7 @@ Misconceptions
   statement.
 
   When walking through examples of a for loop, it is tempting to use boxes to represent the loop
-  variable. However, as the loop variable changes, the value is repeated erased to indicate the new
-  value. If a table is used and the value of the loop variable crossed out, the students can see the
-  progression of the variable through the iterations.
+  variable. However, as the loop variable changes, the value is erased to indicate the new value. We recommend using a table and crossing out the value of the loop, the students can then see the progression of the variable through the iterations.
 
 
 Video

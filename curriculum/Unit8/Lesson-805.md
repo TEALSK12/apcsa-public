@@ -49,9 +49,9 @@ classwork assignments. It may be the case that students need to practice the mod
 the previous lesson. You should set up a section of the room for students to help each other model
 code execution quietly.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and Homework Distribution \[5 minutes\]
+### Introduction and Homework Distribution `[5 minutes]`
 
 1. Return student homework packets, or have students place their returned homeworks in a pile on
    their desk.
@@ -71,7 +71,7 @@ code execution quietly.
 
    By now students should be used to relying on their error checklist/algorithm.
 
-### Student Work \[35 minutes\]
+### Student Work `[35 minutes]`
 
 Have students work individually to correct their homework grades.
 
@@ -80,7 +80,7 @@ Have students work individually to correct their homework grades.
 - If students have not finished homework assignments, allow them time today to complete these
   assignments to turn in for partial credit.
 
-### Students trade work, check, and turn in \[10 minutes\]
+### Students trade work, check, and turn in `[10 minutes]`
 At the end of class, have students trade their homework assignments to evaluate each other’s
 corrections before submission.
 

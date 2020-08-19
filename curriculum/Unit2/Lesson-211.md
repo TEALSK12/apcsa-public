@@ -10,7 +10,7 @@ Overview
 - **Create** a personalized list of review topics to guide tonight’s study session.
 
 ### Homework — _Students will…_
-- **Study** for tomorrow’s test!
+- **Study** for tomorrow’s test! Review ch 2 (omit 2.5)
 
 
 Materials & Prep
@@ -18,7 +18,7 @@ Materials & Prep
 - **Projector and computer**
 - **Whiteboard and marker**
 - **Results** from electronic survey of review topics
-- **Classroom copies** of the practice test [WS 2.11]
+- **Classroom copies** of the practice test [WS 2.11][]
 
 Once students have submitted their review requests, assemble those topics into categories and
 prepare to re-teach the topics as needed.
@@ -40,9 +40,9 @@ Engage the class in the review session by pointing out that your review topics h
 selected by the class. Explain that you will review test-taking strategies in addition to reviewing
 subject matter.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and Test Format Orientation \[15 minutes\]
+### Introduction and Test Format Orientation `[15 minutes]`
 
 1. Clearly indicate that you expect all students to have a list of review topics to study this
    evening. Periodically remind students that this list will be checked at the end of class.
@@ -53,7 +53,7 @@ subject matter.
 3. Work through the sample problems on the test as a way of reviewing topics, and answer any
    questions that students bring up as you go.
 
-### Test Review \[30 minutes\]
+### Test Review `[30 minutes]`
 
 1. Using the results from the electronic survey, address the various review topics, prioritizing
    questions that popped up the most.
@@ -74,7 +74,7 @@ subject matter.
    but it will pay off later when students start creating review lists without prompting later in the
    year!)
 
-### Check student study lists \[5 minutes\]
+### Check student study lists `[5 minutes]`
 Spend the last 5 minutes of class checking each student’s review topic list.
 
 

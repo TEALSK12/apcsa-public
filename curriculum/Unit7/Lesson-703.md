@@ -33,7 +33,8 @@ Pacing Guide: Day 1
 | Section                                        | Total Time
 |------------------------------------------------|-----------
 | **Student Activity 1**                         | Full class
-| **Homework:**<br>_Read section 13.3_<br>_Complete self-check questions \#16–21, 23–24_ | TONIGHT
+| **Homework:**<br>_- **Read** BJP 13.1 “Shuffling.” (**Check Differentiation for advanced homework assignment and
+  alternate classroom activities**)_<br>_Complete self-check questions \#16–21, 23–24_ | TONIGHT
 
 
 Pacing Guide: Day 2
@@ -41,7 +42,7 @@ Pacing Guide: Day 2
 | Section                                 | Total Time
 |-----------------------------------------|-----------
 | **Student Activity 2**                  | Full class
-| **Homework:**<br>_Read section 13.4_<br>_Complete self-check questions \#27-30_ | TONIGHT
+| **Homework:**<br>_Read section 13.3 skip "Recursive Binary Search"_<br>_Complete self-check questions \#27-30_ | TONIGHT
 
 
 Pacing Guide: Day 3
@@ -177,7 +178,7 @@ Elevens Lab.”
 ### About Barron’s
 Barron’s is an AP CS A review book that some schools provide students. If your school doesn’t
 provide Barron’s there are many alternative homework assignments that can be found at
-codingbat.com/java or practice-it.
+codingbat.com/java.
 
 Alternatively, you can save time spent on the lab by checking activities as homework.
 

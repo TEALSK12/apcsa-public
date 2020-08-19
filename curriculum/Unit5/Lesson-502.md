@@ -11,7 +11,7 @@ Overview
 - **Complete** WS 5.2 individually or in pairs.
 
 ### Homework — _Students will…_
-- **Read** BJP 8.3 up to “The Keyword this”
+- **Read** BJP 8.1 up to “Mutators and Accessors”
 - **Complete** self-check questions \#9-11, 13-16
 
 
@@ -19,7 +19,10 @@ Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 5.2]
+- **Classroom copies** of [WS 5.2][]
+- Teacher access to CS Awesome **[Lesson 5.6: Writing Methods Class Lesson Plan]** Sign up at [CS Awesome AP CSA Java Curriculum]
+- Access to Dr. Nguyen **[Writing Methods]** slide deck
+- Access to CS Awesome **[5.6. Writing Methods]** 
 
 You should read the introduction on the Bulbepedia website so you understand the main ideas behind
 the Pokémon game. If you search YouTube, you can find recorded games to see how a Pokémon battle
@@ -48,9 +51,9 @@ stats? Are there any behaviors (methods) you think all instance objects should h
 examples of instances of the Pokémon class? (Any individual Pokémon is an instance of the Pokémon
 class, for example Pikachu, Bulbasaur.)
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction \[15-30 minutes\]
+### Introduction `[15-30 minutes]`
 
 1. Ask students to review their notes from the day before, reminding you what the main components of
    a class are. (Fields, methods, constructors, and encapsulation.)
@@ -175,7 +178,10 @@ class, for example Pikachu, Bulbasaur.)
        …
    }
    ```
-
+   - See CS Awesome [Lesson 5.6: Writing Methods Class Lesson Plan]
+   - The slide deck for this lesson and Using the enhanced for and array algorithms are located on [Dr. Long Nguyen] GitHub at [Writing Methods] and can be used to review this topic      
+   - Have students navigate to CS Awesome [5.6. Writing Methods] and complete Activity 1-4
+   
 6. Since we know that all instances of our Pokémon class will have initial values to their stats, we
    could create a constructor to initialize all of our values.
 
@@ -214,7 +220,7 @@ class, for example Pikachu, Bulbasaur.)
      and attack parameters. Since you wrote a custom-made constructor for your class, Java won’t let
      you call new Pokémon() anymore. Instead, your code just won’t compile.
 
-### Student Practice: WS 5.2 \[25 minutes\]
+### Student Practice: WS 5.2 `[25 minutes]`
 
 ---
 
@@ -235,9 +241,13 @@ Constantly evaluating and refining your skills will allow you to create more com
 
 2. Encourage students to work independently until the last 10 minutes of class.
 
-### Students trade work, check, and turn in \[10 minutes\]
+### Students trade work, check, and turn in `[10 minutes]`
 Have students trade and error-check each other’s papers. Error-checking partners should write their
 name on the sheets to share credit for the work.
+
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 2 Topic Questions 2.1 Objects - Instances of Classes and Unit 5 5.1 Anatomy of a Class and 5.9 this Keyword
 
 Accommodation and Differentiation
 ---------------------------------
@@ -305,5 +315,11 @@ Forum discussion
 ----------------
 [Lesson 5.02 Object State & Behavior (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-5/5-02-object-state-behavior)
 
+[Dr. Long Nguyen]: https://longbaonguyen.github.io/courses/apcsa/apjava.html
+[Teaching CSAwesome google group]: https://groups.google.com/forum/#!forum/teaching-csawesome
+[CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials
 
 [WS 5.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.2.docx
+[Lesson 5.6: Writing Methods Class Lesson Plan]: https://docs.google.com/document/d/1cjzzkbT6Y6zrUxqdw0QOiIzTu-AlHplEVZnlVH_wxcE/edit?usp=drive_web
+[Writing Methods]: https://longbaonguyen.github.io/courses/apcsa/lecture14.ppt
+[5.6. Writing Methods]: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/topic-5-6-writing-methods.html

@@ -33,8 +33,8 @@ Imagine that you are creating a national anthem medley for your class to perform
 
 Materials & Prep
 ----------------
-- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
-- **Student self-help system** such as C2B4 (“see two before seeing me”) or student pairing
+- **Projector and computer**
+- **Student self-help system** such as C2B4 ("see two before seeing me") or student pairing
 
 Make sure you are set up to grade student notebooks today while the students work on the project. If
 possible, you should only collect 3–5 notebooks at a time so students have their notebooks available
@@ -56,16 +56,16 @@ Procedure
 The second week part of this unit will be spent on reinforcing concepts and applying the tools,
 procedures, and code that were introduced last week. While these classes require little prep before
 class, you should set up a system that will allow students to help themselves and each other so you
-aren’t running around the computer lab the whole time.
+aren't running around the computer lab the whole time.
 
 If your computer time requires you to move to another room or to change seating, you should teach
 and/or review those procedures before introducing the lab material. If you expect students to submit
 assignments electronically, you should also model and review those procedures before students begin
 work.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Introduction and Classroom Procedure Review \[10 minutes\]
+### Introduction and Classroom Procedure Review `[10 minutes]`
 
 1. Introduce the program assignment, taking a moment to talk strategy with your class.
 
@@ -85,7 +85,7 @@ work.
    suggest drawing a structural diagram, building the program one method at a time (iterative
    development), and following the correction steps on their personal algorithms (debugging).
 
-### Programming Project  \[30 minutes\]
+### Programming Project  `[30 minutes]`
 
 Reference the exercise above, where you write (ie, output, or print) similar letters to different people.  The main program has common parts.  In the main method, make calls to static methods that do other variations.
 
@@ -103,8 +103,8 @@ What other types of output have repeated patterns?
 What are other types of printed output that can benefit from static methods?
 Choose one to implement. 
 
-### Students trade work, check, evaluate and turn in \[5 minutes\]
-At the end of class, have students briefly look at each other’s projects and review their work
+### Students trade work, check, evaluate and turn in `[5 minutes]`
+At the end of class, have students briefly look at each other's projects and review their work
 before they submit.  
 
 **Evaluation Question:**  How many lines of code did this program "save" by calling static methods, instead of calling print statements to output every single line of text?

@@ -7,16 +7,17 @@ Overview
 - **Write** a program that returns values.
 
 ### Assessments — _Students will…_
-- **Complete** Practice-It questions
+- **Complete** Practice questions
 - **Write** a program to meet a Pokémon Challenge
 
 ### Homework — _Students will…_
+- ** Read ** BJP "3.1 “Overloading Methods”, 3.2 ""Methods That Return Values"""
 - **Complete** chapter 3 self-check question 17 and exercise \#1
 
 
 Materials & Prep
 ----------------
-- **Projector and computer** (if you are able to/opt to use Eclipse with your students)
+- **Projector and computer**
 - **Whiteboard and** **markers**
 - **Poster or image** of
   - Blastoise (<http://tinyurl.com/ndy3v69>) and
@@ -34,7 +35,7 @@ Pacing Guide
 |--------------------------------------|-----------:|
 | Bell-work and attendance             |       5min |
 | Review and intro to returning values |      15min |
-| Practice-It                          |      15min |
+| Practice                             |      15min |
 | Pokémon Challenge                    |      15min |
 
 
@@ -44,9 +45,9 @@ This lesson introduces methods that return values, and familiarizes students wit
 You should hook students by introducing the Pokemon challenge (to be completed at the end of the
 class); students will create more code to be used in their larger Pokemon program.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Review and Introduction to Returning Values \[15 minutes\]
+### Review and Introduction to Returning Values `[15 minutes]`
 
 1. Begin with a lecture/discussion about the Pokémon challenge and returning values.
 
@@ -146,19 +147,19 @@ book.
   number between 0 and 100. We can use our new pokemonRandom method whenever we need a random number
   from that range.
 
-If students are getting the material, have them work independently on the Practice-It problems,
+If students are getting the material, have them work independently on the practice problems,
 otherwise, work through the problems together as a whole class.
 
-### Practice-It \[15 minutes\]
-Have students work individually or in pairs to complete the following Practice-It self check
+### Practice `[15 minutes]`
+Have students work individually or in pairs to complete the following practice self check
 questions:
 
-  1. parameterMysteryReturn
-  2. mathExpressions2
-  3. min
+  1. Self-Check 3.6: parameterMysteryNumbers
+  2. Self-Check 3.13: mathExpressions
+  3. Self-Check 3.16: min
 
 
-### Pokémon Challenge \[15 minutes\]
+### Pokémon Challenge `[15 minutes]`
 Once students have completed these exercises, invite them to complete the following Pokémon
 challenge:
 
@@ -195,6 +196,9 @@ Pay close attention to the base stats for the Pokemons and how health values are
 When you complete your final project in the course, this information will be very important as you apply these concepts to a new battle context that will be a little different than Pokemon.
 
 ---
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 2 Topic Questions 2.3 Calling a void method, 2.4 Calling a void method with parameter, 2.6 String Objects and 2.7 String Methods
 
 Accommodation and Differentiation
 ---------------------------------

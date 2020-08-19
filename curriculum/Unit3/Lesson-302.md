@@ -10,7 +10,7 @@ Overview
 - **Complete** an art project and “artist statement” justifying their programming choices
 
 ### Homework — _Students will…_
-- **Read** BJP 3.1 “Parameters versus Constants” and “Overloading Methods”
+- **Read** BJP 3.1 “Limitations of Parameters”, “Multiple Parameters”, "Parameters versus Constants"
 - **Jazz up** art projects and programs
 
 
@@ -48,9 +48,9 @@ Hook your students by showing an example of a completed art project, statement, 
 you don’t have previous work to share with students, show them some samples of ASCII art and ask
 students to predict how many lines of code they’d need to design the images.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Review and Introduction to Multiple Parameters \[15 minutes\]
+### Review and Introduction to Multiple Parameters `[15 minutes]`
 
 1. If you will be holding a reception for student art (see end of lesson for details), announce that
    now. Segue into today’s lesson by explaining that you’re going to give students a few additional
@@ -126,7 +126,7 @@ students to predict how many lines of code they’d need to design the images.
    - Have students predict how the output will change if you change 1 or 2 things in the code, then
      allow them to start their open-ended activity.
 
-### Student Practice \[30 minutes\]
+### Student Practice `[30 minutes]`
 
 1. Encourage students to spend a few minutes fiddling with the code we reviewed in class to see how
    it changes the outputted image. It’s really important that students have time and space to fiddle
@@ -150,6 +150,9 @@ a 2 period coding session. The more opportunity students have to manipulate code
 the more intuition they will have down the road as they internalize what individual pieces of code
 mean.
 
+College Board Topic Questions
+---------------------------------
+After this lesson, students will be able to answer questions from the College Board Unit 2 Topic Questions 2.9 Using Math Class
 
 Accommodation and Differentiation
 ---------------------------------

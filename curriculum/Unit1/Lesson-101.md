@@ -1,4 +1,4 @@
-Lesson 1.01 — Using Eclipse & Practice-It
+Lesson 1.01 — Using IDE/Code Editor
 ====================================================================================================
 _N.B. THIS LESSON IS OPTIONAL_
 
@@ -12,7 +12,6 @@ Overview
 
 ### Assessments — _Students will…_
 - **Demonstrate** Plug-In and Un-Plug procedures
-- **Log in and submit** a sample problem in Practice-It
 
 ### Homework — _Students will…_
 - **Visit** http://www.pokemon.com and play a few games or **play** Pokémon on a
@@ -23,15 +22,15 @@ Overview
 Materials & Prep
 ----------------
 - **Projector and computer**
-- **Student Computers** with Eclipse installed
-- **Classroom copies** of [WS 1.1.1] and [WS 1.1.2]
+- **Student Computers** with IDE/Code Editor installed
+- **Classroom copies** of [WS 1.1.1][] or [WS 1.1.1 VS Code][] and [WS 1.1.2][] or [WS 1.1.2 VS Code][]
 - **USB Drives or Network Drives** for each student (if applicable to school)
 - **Handout/Slide Deck** demonstrating file submission procedure
 
-If your school does not have a designated IT specialist available to install Eclipse on the
-classroom computers, **WS 1.1.1** offers step-by-step installation directions, with screenshots.
+If your school does not have a designated IT specialist available to install IDE/Code Editor on the
+classroom computers, **WS 1.1.1** offers step-by-step installation directions for Eclipse and **WS 1.1.1 VS Code** instructions for installing VS Code.
 If your students have computers at home, or if your school loans them laptops for homework and
-labs, you can print out copies of WS 1.1.1 for your students so they can install Eclipse on their
+labs, you can print out copies of WS 1.1.1 for your students so they can install IDE/Code Editor on their
 home computers.
 
 If your school distributes USB drives, model best practices by **wearing your USB drive** on your
@@ -52,7 +51,7 @@ teach these procedures.
 
 As you begin your journey in this course, think carefully about the tools you use to program. A carpenter, a bricklayer, a painter… all of these people need tools in order to create and build. In much the same way, a computer programmer requires tools to create and build programs.
 
-The Eclipse IDE is a tool that programmers can use to create computer software. Just like how a saw or a hammer or a paint brush can be used to create a wide variety of things, the Eclipse IDE can be used to create a wide variety of software applications.
+An IDE/Code Editor is a tool that programmers can use to create computer software. Just like how a saw or a hammer or a paint brush can be used to create a wide variety of things, the IDE/Code Editor can be used to create a wide variety of software applications.
 
 ---
 
@@ -63,16 +62,15 @@ Pacing Guide
 | Bell-work and attendance                                    |       5min |
 | Classroom Introduction<br>_Icebreakers & Background_        |      20min |
 | Plug-In & Un-Plug Procedure<br>_Demonstration and practice_ |      10min |
-| Practice-It<br>_Account setup and login practice_           |      10min |
 | File Submission Procedure<br>_Demonstration and practice_   |      10min |
 
 
 Procedure
 ---------
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance `[5 minutes]`
 
-### Classroom Introduction \[20 minutes\]
+### Classroom Introduction `[20 minutes]`
 
 1. Using the slide deck as a base (edit the deck to fit your needs):
    - Poll your class to learn their names, experience, and rationale behind taking the course.
@@ -82,7 +80,7 @@ Procedure
 
 2. Class icebreakers (varies school to school).
 
-### Plug-In & Un-Plug Procedure \[10 minutes\]
+### Plug-In & Un-Plug Procedure `[10 minutes]`
 
 ---
 
@@ -90,16 +88,15 @@ Procedure
 
 #### Content - Collaboration Tools for programming
 
-1. Using WS 1.1.2, model the steps for:
+1. Using WS 1.1.2/WS 1.1.2 VS Code, model the steps for:
 
-   - Opening Eclipse and a workspace
+   - Opening IDE/Code Editor
    - Creating and saving a program
    - Ejecting the USB (if applicable)
    
-2. Have students demonstrate the Plug In and Un-Plug procedures for you before you move on to the
-   Practice-It exercise.
+2. Have students demonstrate the Plug In and Un-Plug procedures for you.
 
-If your classroom has a projector hooked up to the teacher’s computer, project each step as you
+If your classroom has a projector hooked up to the teacher's computer, project each step as you
 model it for the students.
 
 Can you think of other ways that you might collaborate with others in this course as you create and share programs? What methods are used in the field of programming when there are several of programmers working on developing the same software application?
@@ -116,29 +113,11 @@ Expect this exercise to take 10 minutes or longer.
 
 #### Big Ideas - Personal design interests require the evaluation and refinement of skills
 
-Practice-It is a place that will allow you to practice and refine your computer programming and computer science skills beyond the resources within this course. It’s important for you to use Practice-It, and to find other sources of computer programming help and information.
-
-
-Throughout this course you will create a wide range of programs, and you will want to extend projects and add your own creative touch to each one. As you do this, it’s important to carefully evaluate and build on the skills that you have. Resources like Practice-It can help you develop further as a programmer, which will allow you to create even more engaging software applications.
+Throughout this course you will create a wide range of programs, and you will want to extend projects and add your own creative touch to each one. As you do this, it's important to carefully evaluate and build on the skills that you have. Resources can help you develop further as a programmer, which will allow you to create even more engaging software applications.
 
 ---
 
-### Practice-It \[10 minutes\]
-
-1. Using WS 1.1.2, model the steps for creating a Practice-It account. Since you will probably
-   already have an account, select a student account to use as a model.
-
-2. Have all students submit a Practice-It problem to demonstrate that they know how to use
-   Practice-It.
-
-Wait until all students have completed this step before moving on to another step.
-
-If you have extra time in class, introduce a “Scavenger Hunt” on Practice-It, and have students find:
-   - Where their account information is located
-   - Where a record of their completed problems are located
-   - Where the 3rd Self-Check problem for Chapter 7 is located
-
-### File Submission Procedure \[10 minutes\]
+### File Submission Procedure `[10 minutes]`
 
 1. Demonstrate your procedure for file submission. Use a handout or slide deck to illustrate this
    procedure.
@@ -155,10 +134,10 @@ screen rather than typing or using the mouse to complete the action.
 Teacher Prior CS Knowledge
 --------------------------
 IDEs (Integrated Development Environments) are widely used in industry to develop software. Prior to
-IDEs, software engineers used simple text editors to write programs. While teachers are welcome to
+IDEs, software engineers used simple text editors to write programs. Teachers are welcome to
 choose from a wide variety of IDEs (see <https://jaxenter.com/the-top-java-ides-114599.html> for a
-comparison) or even use text editors, TEALS supports Eclipse in the AP CS A curriculum. Whichever
-IDE/editor you choose, it’s a good idea to run through a few IDE tutorials to familiarize yourself
+comparison) or even use text editors. Whichever
+IDE/editor you choose, it's a good idea to run through a few IDE tutorials to familiarize yourself
 with the workflow before demonstrating to the class.
 
 
@@ -176,10 +155,10 @@ Teaching Tips
   + I like computers
   + It fit in my schedule
   + It showed up in my schedule
-  + It’s an AP class and would look good on my transcript
+  + It's an AP class and would look good on my transcript
   + I build apps in my spare time
 
-- By knowing the student’s motivation, you can better understand where the student is coming from. I
+- By knowing the student's motivation, you can better understand where the student is coming from. I
   use this information to inform the pace and depth of the initial lessons. I also try to determine
   the level of programming experience of each student. This helps with group formation in the
   beginning lessons where you try to pair experienced students with less experienced students to the
@@ -197,8 +176,7 @@ independent apps meaning a program written in Java will run across a variety of 
 
 Forum discussion
 ----------------
-[Lesson 1.01 Using Eclipse & Practice-it (TEALS Discourse account required)](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-01-using-eclipse-practice-it)
-
+[Lesson 1.01 Using IDE/Code Editor (TEALS Discourse account required)](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-01-using-eclipse-practice-it)
 
 [WS 1.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.1.docx
 [WS 1.1.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.2.docx

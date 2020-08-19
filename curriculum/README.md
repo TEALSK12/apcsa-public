@@ -1,38 +1,53 @@
-About the AP Computer Science A Curriculum
-====================================================================================================
+# About the AP Computer Science A Curriculum
 
-The [TEALS Program] has designed these curriculum materials for the use of teachers and volunteer
+The [TEALS Program][] has designed these curriculum materials for the use of teachers and volunteer
 tech professionals in high school classrooms. Any teacher with prior programming experience (or
 access to a computer science professional) can use this curriculum to teach the AP Computer Science
 A course.
 
 This curriculum is based on and aligned with Professor Stuart Reges' course at the University of
-Washington, CSE 142. The course uses the textbook _Building Java Programs: A Back to Basics
-Approach_, by Stuart Reges and Marty Stepp. The course is aligned with the AP Computer Science A
+Washington, CSE 142. The course uses the textbook:
+
+_Building Java Programs: A Back to Basics Approach_ by Stuart Reges and Marty Stepp.
+Publisher: Pearson; 5 edition (March 28, 2019)
+ISBN-10: 013547194X
+ISBN-13: 978-0135471944
+
+The course is aligned with the AP Computer Science A
 standards. TEALS has received AP Audit certification for previous versions of the course and
 syllabus.
 
 The TEALS AP curriculum was approved by the CollegeBoard so partner schools may use the “claim
 identical” function of the AP Audit website to obviate the need for their own curriculum audit.
-Specific instructions are available in the [AP CS A Course Audit Instructions].
+Specific instructions are available in the [AP CS A Course Audit Instructions][].
 
 This curriculum uses principles of universal design for learning (UDL). The curriculum was written
 for and tested in classrooms with diverse learners; students with individualized education plans,
 English language learners, students who have received sub-optimal math or language instruction in
-the past, students who are gifted/talented, students who are otherwise “outside the average.”  See 
+the past, students who are gifted/talented, students who are otherwise “outside the average.”  See
 [Additional Resources](#additional-resources) for more information on  universal design for learning.
 
-Accessing the Curriculum
-------------------------
+## Accessing the Curriculum
 
-The AP Computer Science A Curriculum GitBook is located at
-https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details.
+[College Board endorsed curriculum sequence (2020)](SUMMARY-Endorsed.md)
+This curriculum map follows the College Board Sequence of lessons.
+
+[Textbook sequence (before 2020 school year)](SUMMARY.md)
+This curriculum map follows the Building Java Program Textbook sequence of lessons
+
+The AP Computer Science A Curriculum is located on GitHub pages:
+
+<!-- double linebreak necessary for pandoc to render .pdf -->https://tealsk12.github.io/apcsa-public/
+
+The AP Computer Science A Curriculum GitBook has been deprecated:
+
+<!-- double linebreak necessary for pandoc to render .pdf -->https://www.gitbook.com/book/tealsk12/ap-computer-science-a/details.
 
 For contributions to the curriculum, the AP Computer Science A GitHub repository is located at
-https://github.com/TEALSK12/apcsa.
 
-Using the curriculum
---------------------
+<!-- double linebreak necessary for pandoc to render .pdf -->https://github.com/TEALSK12/apcsa.
+
+## Using the curriculum
 
 Each classroom has different physical, cultural, academic, and scheduling needs. Therefore, we have
 tried to create a collection of lessons and materials that are adaptable to most situations. TEALS
@@ -43,7 +58,7 @@ We have provided classroom management tips and engagement tips for TEALS volunte
 the classroom setting. Experienced teachers and volunteers will likely choose to skip such details
 and focus on the step-by-step lecture notes.
 
-You may browse the [Curriculum Map] for an overview of the pacing, objectives, and assessments.
+You may browse the [Curriculum Map][] for an overview of the pacing, objectives, and assessments.
 
 ### Year Round Pacing
 
@@ -59,6 +74,7 @@ class to suit their students' needs. That said, we've designed most of the lesso
 following daily structure:
 
 #### Hook & Instruction
+
 - Each lesson plan begins with one or several options for short (from seconds to 5 minutes) engaging
   or mystifying activities that introduce students to the topics to be introduced later in the
   lesson.
@@ -69,16 +85,18 @@ following daily structure:
   “Additional Resources” below.
 
 #### Student Practice
+
 - Student practice/activities are outlined with step-by-step instructions including pacing
   suggestions and alternative stopping points. Any special materials or preparation needed for the
   hook, lecture, or activity are listed in the Materials & Prep section.
 
 #### Warmup / DoNow / Boardwork/Ticket-to-leave
+
 - Since each classroom progresses at different rates, we have not included warm-up and cool-down
   questions (though time has been scheduled in the Pacing Guide for one or both of these
   activities). You should choose your questions based on the topics you felt were most challenging
   or confusing for your students. A good source for short-answer and multiple choice questions is
-  the [Barron's AP Computer Science A review book], which TEALS ships to each AP CS A volunteer.
+  the [Barron's AP Computer Science A review book][], which TEALS ships to each AP CS A volunteer.
 
 ### Scaffolding
 
@@ -136,21 +154,82 @@ CS A curriculum. Students will be entering the AP CS A course with varying degre
 and framing mathematical challenges in this familiar framework is helpful for avoiding stereotype
 threat and math anxiety.
 
-To learn more about the Pokémon storyline, game rules, underlying formulae, and characters, visit
-http://bulbapedia.bulbagarden.net/. For a more general introduction to the Pokémon franchise,
-visit http://www.pokemon.com/.
+To learn more about the Pokémon storyline, game rules, underlying formulae, and characters, visit:
+
+
+<!-- double linebreak necessary for pandoc to render .pdf -->http://bulbapedia.bulbagarden.net/. 
+For a more general introduction to the Pokémon franchise, visit:
+
+<!-- double linebreak necessary for pandoc to render .pdf -->http://www.pokemon.com/.
 
 ### AP Test Preparation
 
-The curriculum is designed with AP Test Prep in mind. All of the Unit tests are in the AP exam
-format. In classes where many students will take the exam, instructors should gradually adjust the
-testing environment to mimic that of the exam:
+Aligned to the College Board's curriculum framework, students explore the big ideas that encompass the core principles, theories, and processes of computer science.  Throughout the course, the student learns and practices the skills necessary to be successful on the AP exam.
 
-- Always provide/allow the [AP Java Quick Reference]
+#### Big Ideas of Computer Science
+
+1. Modularity --
+    Incorporating elements of abstraction, by breaking problems down into interacting pieces, each with their own purpose, makes writing complex programs easier. Abstracting simplifies concepts and processes by looking at the big picture rather than being overwhelmed by the details. Modularity in object-oriented programming allows us to use abstraction to break complex programs down into individual classes and methods.
+
+2. Variables --
+    Information used as a basis for reasoning, discussion, or calculation is referred to as data. Programs rely on variables to store data, on data structures to organize multiple values when program complexity increases, and on algorithms to sort, access, and manipulate this data. Variables create data abstractions, as they can represent a set of possible values or a group of related values.
+
+3. Control --
+    Doing things in order, making decisions, and doing the same process multiple times are represented in code by using control structures and specifying the order in which instructions are executed. Programmers need to think algorithmically in order to define and interpret processes that are used in a program.
+
+4. Impact of Computing --
+    Computers and computing have revolutionized our lives. To use computing safely and responsibly, we need to be aware of privacy, security, and ethical issues. As programmers, we need to understand how our programs will be used and be responsible for the consequences.
+
+#### Computational Thinking Practices: Skills
+
+1. Program Design and Algorithm Development  
+  A. Determine an appropriate program design to solve a problem or accomplish a task (not assessed by AP Exam).  
+  B. Determine code that would be used to complete code segments.  
+  C. Determine code that would be used to interact with completed program code.
+
+    *Curriculum Example of Skill 1.B:* In Lesson 1.06, students are challenged to design and write a class that reproduces a particular shape pattern that encourages decomposition into multiple static methods.
+
+2. Code Logic  
+  A. Apply the meaning of specific operators.  
+  B. Determine the result or output based on statement execution order in a code segment without method calls (other than output).  
+  C. Determine the result or output based on the statement execution order in a code segment  containing method calls.  
+  D. Determine the number of times a code segment will execute.
+
+    *Curriculum Example of Skill 2.A:* In Lesson 2.01, students are introduced to the modulus operator and practice evaluating expressions that use it.
+
+3. Code Implementation  
+  A. Write program code to create objects of a class and call methods.  
+  B. Write program code to define a new type by creating a class.  
+  C. Write program code to satisfy method specifications using expressions, conditional statements, and iterative statements.  
+  D. Write program code to create, traverse, and manipulate elements in 1D array or ArrayList  objects.  
+  E. Write program code to create, traverse, and manipulate elements in 2D array objects.
+
+    *Curriculum Example of Skill 3.C:* In Lesson 2.08, students write a method to reproduce an hourglass shape using nested for loops.
+
+4. Code Testing  
+  A. Use test-cases to find errors or validate results.  
+  B. Identify errors in program code.  
+  C. Determine if two or more code segments yield equivalent results.
+
+    *Curriculum Example of Skill 4.B:* In Lesson 3.09, students are asked to correct syntax errors in a series of conditional statements.
+
+5. Documentation  
+  A. Describe the behavior of a given segment of program code.  
+  B. Explain why a code segment will not compile or work as intended.  
+  C. Explain how the result of program code changes, given a change to the initial code.  
+  D. Describe the initial conditions that must be met for a program segment to work as intended or described.
+
+    *Curriculum Example of Skill 5.A:* In Lesson 3.12, students are tasked with starting a program that will be finished by partner, with the only communication between them being well-commented code. 
+
+#### AP Exam Preparation
+
+All of the Unit tests are in the AP exam format. In classes where many students will take the exam, instructors should gradually adjust the testing environment to mimic that of the exam:
+
+- Always provide/allow the [AP Java Quick Reference][]
 
 - Move from open-note (see “Tricky Code Cheat Sheet”) to closed-note
 
-- The AP exam has 40 multiple choice questions in 75 minutes (≈2 minutes per question). On the
+- The AP exam has 40 multiple choice questions in 90 minutes (≈2 minutes per question). On the
   earlier tests, start at a slower pace (perhaps 4 minutes per question). As the course progresses,
   work to a pace even faster than the actual test (90 seconds per question).
 
@@ -175,43 +254,98 @@ on their own later. Finally, students that have answered all or most of their wo
 a day off to do silent work/play on their own, which positively reinforces students to put in the
 initial effort to win a day off.
 
+### AP Test Preparation
+
+Aligned to the College Board's curriculum framework, students explore the big ideas that encompass the core principles, theories, and processes of computer science.  Throughout the course, the student learns and practices the skills necessary to be successful on the AP exam.
+
+#### Big Ideas of Computer Science
+
+1. Modularity -- 
+    Incorporating elements of abstraction, by breaking problems down into interacting pieces, each with their own purpose, makes writing complex programs easier. Abstracting simplifies concepts and processes by looking at the big picture rather than being overwhelmed by the details. Modularity in object-oriented programming allows us to use abstraction to break complex programs down into individual classes and methods.
+
+2. Variables -- 
+    Information used as a basis for reasoning, discussion, or calculation is referred to as data. Programs rely on variables to store data, on data structures to organize multiple values when program complexity increases, and on algorithms to sort, access, and manipulate this data. Variables create data abstractions, as they can represent a set of possible values or a group of related values. 
+
+3. Control --
+    Doing things in order, making decisions, and doing the same process multiple times are represented in code by using control structures and specifying the order in which instructions are executed. Programmers need to think algorithmically in order to define and interpret processes that are used in a program.
+
+4. Impact of Computing --
+    Computers and computing have revolutionized our lives. To use computing safely and responsibly, we need to be aware of privacy, security, and ethical issues. As programmers, we need to understand how our programs will be used and be responsible for the consequences.
+
+#### Computational Thinking Practices: Skills
+1. Program Design and Algorithm Development  
+  A. Determine an appropriate program design to solve a problem or accomplish a task (not assessed by AP Exam).  
+  B. Determine code that would be used to complete code segments.  
+  C. Determine code that would be used to interact with completed program code.
+
+    *Curriculum Example of Skill 1.B:* In Lesson 1.06, students are challenged to design and write a class that reproduces a particular shape pattern that encourages decomposition into multiple static methods.
+
+2. Code Logic  
+  A. Apply the meaning of specific operators.  
+  B. Determine the result or output based on statement execution order in a code segment without method calls (other than output).  
+  C. Determine the result or output based on the statement execution order in a code segment  containing method calls.  
+  D. Determine the number of times a code segment will execute.
+
+    *Curriculum Example of Skill 2.A:* In Lesson 2.01, students are introduced to the modulus operator and practice evaluating expressions that use it.
+
+3. Code Implementation  
+  A. Write program code to create objects of a class and call methods.  
+  B. Write program code to define a new type by creating a class.  
+  C. Write program code to satisfy method specifications using expressions, conditional statements, and iterative statements.  
+  D. Write program code to create, traverse, and manipulate elements in 1D array or ArrayList  objects.  
+  E. Write program code to create, traverse, and manipulate elements in 2D array objects.
+
+    *Curriculum Example of Skill 3.C:* In Lesson 2.08, students write a method to reproduce an hourglass shape using nested for loops.
+
+4. Code Testing  
+  A. Use test-cases to find errors or validate results.  
+  B. Identify errors in program code.  
+  C. Determine if two or more code segments yield equivalent results.
+
+    *Curriculum Example of Skill 4.B:* In Lesson 3.09, students are asked to correct syntax errors in a series of conditional statements.
+
+5. Documentation  
+  A. Describe the behavior of a given segment of program code.  
+  B. Explain why a code segment will not compile or work as intended.  
+  C. Explain how the result of program code changes, given a change to the initial code.  
+  D. Describe the initial conditions that must be met for a program segment to work as intended or described.
+
+    *Curriculum Example of Skill 5.A:* In Lesson 3.12, students are tasked with starting a program that will be finished by partner, with the only communication between them being well-commented code. 
+
+#### AP Exam Preparation
+All of the Unit tests are in the AP exam format. In classes where many students will take the exam, instructors should gradually adjust the testing environment to mimic that of the exam:
+
+- Always provide/allow the [AP Java Quick Reference]
+
+- Move from open-note (see “Tricky Code Cheat Sheet”) to closed-note
+
+- The AP exam has 40 multiple choice questions in 75 minutes (≈2 minutes per question). On the
+  earlier tests, start at a slower pace (perhaps 4 minutes per question). As the course progresses,
+  work to a pace even faster than the actual test (90 seconds per question).
+
 Video Tutorials
 ---------------
-- [Timing and Pacing] — Adjusting lessons and the curriculum map for the speed of your learners
-- [Projects and Labs] — Choosing whether your class completes the AP labs or the projects
+- [Timing and Pacing][] — Adjusting lessons and the curriculum map for the speed of your learners
+- [Projects and Labs][] — Choosing whether your class completes the AP labs or the projects
   (FracCalc/TextExcel)
-- [Supporting Visual-Spatial Learners] — Using the physical space in your classroom to enhance
+- [Supporting Visual-Spatial Learners][] — Using the physical space in your classroom to enhance
   learning
-- [Parson's Problems] — Assessing high-level programming skills quickly with Parson's Problems
-- [Grudgeball] — Reviewing material by playing a class game of Grudgeball
+- [Parson's Problems][] — Assessing high-level programming skills quickly with Parson's Problems
+- [Grudgeball][] — Reviewing material by playing a class game of Grudgeball
 
+### Recommended Hardware
 
-Digital Tools Associated with This Curriculum
----------------------------------------------
+In the classroom, it is recommended that each student have an internet-connected desktop computer capable of running an Integrated Design Environment (IDE).  Students will need to be able to save and access their programming projects locally or in the cloud.
 
-### Integrated Design Environment (IDE) — Eclipse
+### Integrated Design Environment (IDE)/Code Editor
 
 Coding in Java requires the Java Development Kit and a text editor or IDE. There are many Java IDEs
-available. Currently most of the TEALS classrooms use Eclipse. Unit 1 includes directions for
-installing Eclipse.
+available. There are any IDEs/Coded editors that can be used to teach AP CS A.  Unit 1 includes directions for
+installing IDE/Code Editor for Eclipse and VS Code.  You are free to choose the IDE/Code Editor that best fits your class.
 
-### Practice-It!
+### Textbook
 
-Professors Marty Stepp and Jessica Miller created the [Practice-It] online tool that allows students
-to complete Java exercises from the BJP textbook and get immediate feedback on their results.
-Detailed instructions for teacher and student registration on the site are included in Unit 1
-lessons.
-
-AP CS A TEALS volunteers have been provided the documentation (on Canvas) for access to the
-Practice-It dashboard. As an alternative, other instructors can use one of the following methods:
-
-1. Students take screen shots of their total correct problems (a table is available on their home
-   dashboard), and submit the screenshots by email or form submission on your chosen learning
-   management system.
-
-2. Implement the _Practice-It Grade Retrieval Tool_ created by Mauricio Del Carpio (of Bishop
-   Blanchet High School). Step-by-step instructions for installation are included in the Practice It
-   Grade Retrieval document included with the other Introduction materials.
+The TEALS curriculum requires each student to have a copy of the textbook. Many assignments require students to complete self-checks, exercises, and programming problems at the end of each chapter from the textbook. While Practice-it is available from the University of Washington, it is not necessary. As with all software services, it is the school’s sole decision to use the tool according to the use terms and privacy policies provided by its licensor and it is the school’s responsibility to ensure the tool meets it's IT policies.
 
 ### Detecting Cheating with MOSS
 
@@ -225,16 +359,14 @@ Occasionally, teachers have difficulty registering for an account. If this occur
 encouraged to email the program's creator Alex Aiken directly, at
 [aiken@cs.stanford.edu](mailto:aiken@cs.stanford.edu).
 
-
-### Additional Resources
-------------------------
+## Additional Resources
 
 - The free web-based game Code Hunt (http://www.codehunt.com) offers opportunities for students to
   find and fix errors by “discovering the missing code segments.” Assignments/Levels are
   automatically graded, and students can compete against each other to hone their programming
   skills.
 
-- Similar to PracticeIt, CodingBat (http://www.codingbat.com) offers Java practice problems with
+- CodingBat (http://www.codingbat.com) offers Java practice problems with
   instant feedback for students. The problems in CodingBat are distinct from those in the Building
   Java Programs textbook. CodingBat has a teacher dashboard, and a system of badges to motivate
   learners. Instructors can also upload their own sets of java problems for their classes to
@@ -246,9 +378,9 @@ encouraged to email the program's creator Alex Aiken directly, at
 - Emerging EdTech has collected a sample of 20 digital tools to increase collaboration in the
   classroom. One of them might be perfect for your classroom:
 
-- See _[20 Fun Free Tools for Interactive Classroom Collaboration]_. Other tools for collaboration
-  that have been successfully used in TEALS classrooms include [Twiddla], [Vyew], [Skype], and
-  [Google Hangouts].
+- See _[20 Fun Free Tools for Interactive Classroom Collaboration][]_. Other tools for collaboration
+  that have been successfully used in TEALS classrooms include [Twiddla][], [Vyew][], [Skype][], and
+  [Google Hangouts][].
 
 - If your classroom does not already have a digital grade management system, previous TEALS teaching
   teams have used Moodle, Canvas, Schoology, Excel Online, and Google Forms.
@@ -270,7 +402,7 @@ encouraged to email the program's creator Alex Aiken directly, at
   2. Where lecture activities have been suggested (_e.g._ think-pair-shares), consider embedding
      questions into your lesson plans.
 
-  3. Save class competitions for in-class, and leave reading and easy Practice-it, self check, and
+  3. Save class competitions for in-class, and leave reading and self check, and
      worksheet exercises for home review.
 
 - As you read through the lesson plans, you will find several classroom teaching activities and
@@ -279,26 +411,22 @@ encouraged to email the program's creator Alex Aiken directly, at
   error-checking and test review. While these lesson plans look identical at first glance, small
   adjustments have been made for content, timing, and AP test prep.
 
+## Printing GitBook
 
-### Printing GitBook
---------------------
 The AP CS A GitBook can be printed by navigating to 
-https://pdf.gitbook.cloud/preview?url=https://tealsk12.gitbook.io/apcsa/#. 
+https://aka.ms/TEALSAPCSAPDF. 
 However, the "Download" button does not work. There is workaround depending on the browser:
+
 - click on the document to enable the pdf menu to show and clicking the down arrow or "Save as Copy"
 - right click on the .pdf document and select "Save As"
 
-
-### Giving feedback on the curriculum
----------------------------------
+## Giving feedback on the curriculum
 
 TEALS intends for this curriculum to be a starting point; it's our first attempt at a complete AP CS
 A curriculum. We'll continue evolving and adapting the curriculum and associated materials as we
 learn more about teaching AP CS A. To participate in this process, we invite TEALS team members and
 independent teachers using this curriculum to submit edits and suggestions via the discussion forum
 on the TEALS dashboard or in this [Github repository issues page](https://github.com/TEALSK12/apcsa-public/issues).
-
-
 
 [20 Fun Free Tools for Interactive Classroom Collaboration]: http://tinyurl.com/k62tstg
 [AP Java Quick Reference]: http://apcentral.collegeboard.com/apc/public/repository/ap_comp_sci_a_quick_reference.pdf
@@ -307,7 +435,6 @@ on the TEALS dashboard or in this [Github repository issues page](https://github
 [Google Hangouts]: http://hangouts.google.com
 [Grudgeball]: https://www.youtube.com/watch?v=u_GzWwSrDlo
 [Parson's Problems]: https://www.youtube.com/watch?v=11n-AsaCd9w
-[Practice-It]: https://practiceit.cs.washington.edu/
 [Projects and Labs]: https://www.youtube.com/watch?v=WHvuK7LBe-o
 [Skype]: http://www.skype.com
 [Supporting Visual-Spatial Learners]: https://www.youtube.com/watch?v=O6yBe3J10vQ
@@ -315,4 +442,4 @@ on the TEALS dashboard or in this [Github repository issues page](https://github
 [Timing and Pacing]: https://www.youtube.com/watch?v=LkGh03UZ724
 [Twiddla]: http://www.twiddla.com
 [Vyew]: http://www.vyew.com
-[AP CS A Course Audit Instructions]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/AP%20CS%20A%20Course%20Audit%20Instructions.docx
+[AP CS A Course Audit Instructions]: https://apcentral.collegeboard.org/pdf/ap-course-audit-user-guide.pdf
