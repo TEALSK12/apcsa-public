@@ -17,17 +17,22 @@ Overview
 
 ### Homework — _Students will…_
 - **Read** BJP 8.1 up to “Mutators and Accessors”
-- **Complete** self-check questions \#9-11, 13-16
+- **Complete** self-check questions #9-11, 13-16
 
+### Lesson Theme Considerations - 2 Options
+1. Standard Radio  
+2. Pokemon Game
 
 Materials & Prep
 ----------------
 - **Projector and computer**
 - **Whiteboard and** **markers**
-- **Classroom copies** of [WS 5.2][]
-- Teacher access to CS Awesome **[Lesson 5.6: Writing Methods Class Lesson Plan]** Sign up at [CS Awesome AP CSA Java Curriculum]
-- Access to Dr. Nguyen **[Writing Methods]** slide deck
-- Access to CS Awesome **[5.6. Writing Methods]** 
+- **Option 1 Worksheet** - classroom copies of [Book Tracker][]
+- **Option 2 Worksheet** - Classroom copies of [WS 5.2][]
+- 
+- Teacher access to CS Awesome **[Lesson 5.6: Writing Methods Class Lesson Plan][]** Sign up at [CS Awesome AP CSA Java Curriculum][]
+- Access to Dr. Nguyen **[Writing Methods][]** slide deck
+- Access to CS Awesome **[5.6. Writing Methods][]** 
 
 You should read the introduction on the Bulbepedia website so you understand the main ideas behind
 the Pokémon game. If you search YouTube, you can find recorded games to see how a Pokémon battle
@@ -46,6 +51,7 @@ Pacing Guide
 
 Procedure
 ---------
+
 Yesterday you asked students to do some research on what fields, constructors, and methods would be
 appropriate for building a custom-made Pokémon class. Solicit students’ input before you work
 through a Pokémon class example.
@@ -57,6 +63,86 @@ examples of instances of the Pokémon class? (Any individual Pokémon is an inst
 class, for example Pikachu, Bulbasaur.)
 
 ### Bell-work and Attendance `[5 minutes]`
+
+## Option 1 - Standard Radio
+
+### Introduction/Recap `[10 minutes]`
+
+Ask students in the following discussion to review from the reading.
+- What is a field?
+- What is an  method?
+- What are two ways that we can write a translate instance method?
+
+```java
+public void translate(int dx, int dy) {
+    x += dx;
+    y += dy;
+}
+```
+```java
+public void translate(int dx, int dy) {
+    this.x += dx;
+    this.y += dy;
+}
+```
+
+### Lecture `[15 minutes]`
+
+#### Mutator Explanation
+
+Explain to students that the translate method is an example of a **mutator**. 
+Define Mutator: A **method** that modifies the object's internal state.
+Generally, a mutator assigns a new value to one of the object’s fields.
+
+In a radio, the mutators would be things like:
+- On/Off switch
+- Volume knob
+- Tuning dial
+- Preset station selection switches
+
+#### Mutator Conventions
+
+It is common for a mutator method’s name to begin with “set”
+- setVolume
+- setStation
+
+What was the return type of our translate instance method?
+- Usually mutators methods have a void return type; they change the state of the object but have nothing to return
+
+What were the formal parameters of our translate instance method?
+- Mutator methods often accept parameters that specify the new state of the object, or how to modify the object’s current state
+
+#### Accessor Explanation
+
+**Accessors** form a second important category of methods. **Accessor** is a  method that provides information about the state of an object without modifying it.
+- Generally, an accessor returns the value of one of the objects fields
+- In a radio, the accessors might:
+  - Tell us the current station
+  - Tell us the current volume
+  - Tell us whether the radio is turned on
+
+What are some accessor methods you have used on other classes?
+
+#### Accessor Conventions
+
+It is common for an accessor method’s name to begin with “get” or “is”
+- getVolume
+- getStation
+- isTurnedOn
+
+Accessor methods usually do not have a void return type
+- What might the return type be for each of the above three methods?
+- Accessor methods don’t usually have any formal parameters
+
+### Discussion `[10 minutes]`
+Ask students if they have any questions about **mutators** or **accessors**?
+
+Remind students that we’ve created fields in our classes that state what data will be stored in all instance objects.
+  - What would be a good method to include in all instances of the Student class?
+  - What would be a good method for all instances of the Dog class to have?
+  - What method should all forecasts have, no matter what area you’re forecasting for?
+
+## Option 2 - Pokemon Game Approach
 
 ### Introduction `[15-30 minutes]`
 
@@ -225,7 +311,7 @@ class, for example Pikachu, Bulbasaur.)
      and attack parameters. Since you wrote a custom-made constructor for your class, Java won’t let
      you call new Pokémon() anymore. Instead, your code just won’t compile.
 
-### Student Practice: WS 5.2 `[25 minutes]`
+## Student Practice: WS 5.2 `[25 minutes]`
 
 ---
 

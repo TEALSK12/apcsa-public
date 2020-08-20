@@ -6,7 +6,7 @@ echo %time%
 @REM headless chrome https://www.google.com/chrome/
 @REM pdftk https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/
 
-@REM usage to capture output and errors: md-tomarkdeep > out.txt 2>&1
+@REM usage to capture output and errors: md-to-markdeep > out.txt 2>&1
 
 @REM -- Set up the GitHub pages directory structure by copying curriculum content.
 robocopy /E .\curriculum .\docs

@@ -25,9 +25,9 @@ Materials & Prep
 - **Roll of tape/glue stick** for each group
 - **1 large, 1 medium, and 2 small sticky notes** for each group
 - **1 blank sheet of paper** for each group
-- Teacher access to CS Awesome **[Unit 5 Lesson 07 Static Variables and Methods Lesson Plan]** Sign up at [CS Awesome AP CSA Java Curriculum]
-- Access to Dr. Nguyen **[Variables, Scope and Semantics]** slide deck
-- Access to CS Awesome **[5.7. Static Variables and Methods]** 
+- Teacher access to CS Awesome **[Unit 5 Lesson 07 Static Variables and Methods Lesson Plan][]** Sign up at [CS Awesome AP CSA Java Curriculum][]
+- Access to Dr. Nguyen **[Variables, Scope and Semantics][]** slide deck
+- Access to CS Awesome **[5.7. Static Variables and Methods][]** 
 
 Most teachers will either already have these materials on hand, or be able to borrow them from
 another teacher or the main office. You should try to give your classroom teacher at least 1 week
