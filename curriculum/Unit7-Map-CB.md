@@ -31,7 +31,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [7.03][] 15|[Elevens Lab][] (day 15)| Elevens Lab Activity 11 (begin)||| | | |
 | [7.03][] 16|[Elevens Lab][] (day 16)| Elevens Lab Activity 11 (end)||| | | |
 | [7.04][]|Review|Review questions||Study| | | |
-| 7.99|Unit 7 test|[Test 6 Guide][] Test 6 Section I Test 6 Section II||| | | |
+| 7.99 |Unit 7 test|[Test 6 Guide][] Test 6 Section I Test 6 Section II||| | | |
 | [8.00][] |Test Review & Reteach|Review test||Test corrections| | | |
 | [7.PP][] | Unit 7 Personal Progress Check ArrayList | | | | | | |
 
