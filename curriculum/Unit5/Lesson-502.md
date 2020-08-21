@@ -3,46 +3,50 @@ Lesson 5.02 — Object State & Behavior
 
 Overview
 --------
-### Objectives — _Students will be able to…_
+
+### Objectives - Students will be able to
+
 - **Describe** classes, objects, and client code.
 - **Predict** the output of the code that uses objects.
 
-### Assessments — _Students will…_
+### Assessments —_Students will
+
 - **Complete** WS 5.2 individually or in pairs.
 
-### Homework — _Students will…_
+### Homework — Students will…_
+
 - **Read** BJP 8.1 up to “Mutators and Accessors”
 - **Complete** self-check questions #9-11, 13-16
 
 ### Lesson Theme Considerations - 2 Options
+
 1. Standard Radio  
 2. Pokemon Game
 
 Materials & Prep
 ----------------
+
 - **Projector and computer**
 - **Whiteboard and** **markers**
 - **Option 1 Worksheet** - classroom copies of [Book Tracker][]
 - **Option 2 Worksheet** - Classroom copies of [WS 5.2][]
-- 
 - Teacher access to CS Awesome **[Lesson 5.6: Writing Methods Class Lesson Plan][]** Sign up at [CS Awesome AP CSA Java Curriculum][]
 - Access to Dr. Nguyen **[Writing Methods][]** slide deck
-- Access to CS Awesome **[5.6. Writing Methods][]** 
+- Access to CS Awesome **[5.6. Writing Methods][]**
 
 You should read the introduction on the Bulbepedia website so you understand the main ideas behind
 the Pokémon game. If you search YouTube, you can find recorded games to see how a Pokémon battle
 starts, progresses, and ends.
 
-
 Pacing Guide
 ------------
+
 | Section                                 | Total Time |
 |-----------------------------------------|-----------:|
 | Bell-work and attendance                |       5min |
 | Introduction                            |   15-30min |
 | Student practice: WS 5.2                |      25min |
 | Students trade work, check, and turn in |      10min |
-
 
 Procedure
 ---------
@@ -64,6 +68,7 @@ class, for example Pikachu, Bulbasaur.)
 ### Introduction/Recap `[10 minutes]`
 
 Ask students in the following discussion to review from the reading.
+
 - What is a field?
 - What is an  method?
 - What are two ways that we can write a translate instance method?
@@ -74,6 +79,7 @@ public void translate(int dx, int dy) {
     y += dy;
 }
 ```
+
 ```java
 public void translate(int dx, int dy) {
     this.x += dx;
@@ -85,11 +91,12 @@ public void translate(int dx, int dy) {
 
 #### Mutator Explanation
 
-Explain to students that the translate method is an example of a **mutator**. 
+Explain to students that the translate method is an example of a **mutator**.
 Define Mutator: A **method** that modifies the object's internal state.
 Generally, a mutator assigns a new value to one of the object’s fields.
 
 In a radio, the mutators would be things like:
+
 - On/Off switch
 - Volume knob
 - Tuning dial
@@ -98,18 +105,22 @@ In a radio, the mutators would be things like:
 #### Mutator Conventions
 
 It is common for a mutator method’s name to begin with “set”
+
 - setVolume
 - setStation
 
 What was the return type of our translate instance method?
+
 - Usually mutators methods have a void return type; they change the state of the object but have nothing to return
 
 What were the formal parameters of our translate instance method?
+
 - Mutator methods often accept parameters that specify the new state of the object, or how to modify the object’s current state
 
 #### Accessor Explanation
 
 **Accessors** form a second important category of methods. **Accessor** is a  method that provides information about the state of an object without modifying it.
+
 - Generally, an accessor returns the value of one of the objects fields
 - In a radio, the accessors might:
   - Tell us the current station
@@ -121,21 +132,25 @@ What are some accessor methods you have used on other classes?
 #### Accessor Conventions
 
 It is common for an accessor method’s name to begin with “get” or “is”
+
 - getVolume
 - getStation
 - isTurnedOn
 
 Accessor methods usually do not have a void return type
+
 - What might the return type be for each of the above three methods?
 - Accessor methods don’t usually have any formal parameters
 
 ### Discussion `[10 minutes]`
+
 Ask students if they have any questions about **mutators** or **accessors**?
 
 Remind students that we’ve created fields in our classes that state what data will be stored in all instance objects.
-  - What would be a good method to include in all instances of the Student class?
-  - What would be a good method for all instances of the Dog class to have?
-  - What method should all forecasts have, no matter what area you’re forecasting for?
+
+- What would be a good method to include in all instances of the Student class?
+- What would be a good method for all instances of the Dog class to have?
+- What method should all forecasts have, no matter what area you’re forecasting for?
 
 ## Option 2 - Pokemon Game Approach
 
@@ -252,6 +267,7 @@ Remind students that we’ve created fields in our classes that state what data 
          attack += protein;
      }
      ```
+
      _Students may want to add other vitamins._
 
 5. Ask students if they can deduce the syntax rules for instance methods based on the two methods
@@ -264,10 +280,11 @@ Remind students that we’ve created fields in our classes that state what data 
        …
    }
    ```
+
    - See CS Awesome [Lesson 5.6: Writing Methods Class Lesson Plan]
-   - The slide deck for this lesson and Using the enhanced for and array algorithms are located on [Dr. Long Nguyen] GitHub at [Writing Methods] and can be used to review this topic      
+   - The slide deck for this lesson and Using the enhanced for and array algorithms are located on [Dr. Long Nguyen] GitHub at [Writing Methods] and can be used to review this topic
    - Have students navigate to CS Awesome [5.6. Writing Methods] and complete Activity 1-4
-   
+
 6. Since we know that all instances of our Pokémon class will have initial values to their stats, we
    could create a constructor to initialize all of our values.
 
@@ -328,11 +345,13 @@ Constantly evaluating and refining your skills will allow you to create more com
 2. Encourage students to work independently until the last 10 minutes of class.
 
 ### Students trade work, check, and turn in `[10 minutes]`
+
 Have students trade and error-check each other’s papers. Error-checking partners should write their
 name on the sheets to share credit for the work.
 
 College Board Topic Questions
 ---------------------------------
+
 After this lesson, students will be able to answer questions from the College Board Unit 2 Topic Questions 2.1 Objects - Instances of Classes and Unit 5 5.1 Anatomy of a Class and 5.9 this Keyword
 
 Accommodation and Differentiation
@@ -347,13 +366,14 @@ the different parts of a class and instance object that we introduced today. If 
 correct and thorough, give the student materials to turn the diagram into a large-format poster for
 the classroom.
 
-
 Teacher Prior CS Knowledge
 --------------------------
+
 - In _Novice Java Programmers’ Conceptions of `Object` and `Class`, and Variation Theory_ by
   Eckerdal and Thuné, novice students view objects at three levels:
 
   Objects:
+
   + Object is experienced as a piece of code
   + As above, and in addition object is experienced as something that is active in the program
   + As above, and in addition object is experienced as a model of some real world phenomenon
@@ -373,32 +393,32 @@ Teacher Prior CS Knowledge
   default access for fields when no access modifier is specified is package private. This means all
   classes in the same package where the variable is defined can access the field.
 
-
 Misconceptions
 --------------
+
 Students add static to class method definitions. Now that Classes have been introduced, static
 methods that are tied to the class are often confused with non static methods. Students can call
 static methods without creating an object, however, an object must be created first and the
 non-static method can be called.
 
-
 Videos
 ------
-- BJP 8-2: _Defining a Class_<br>
+
+- BJP 8-2: _Defining a Class_
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c8-2>
 
-- CSE 142, _Object Oriented Programming State_ (19:54–26:25)<br>
+- CSE 142, _Object Oriented Programming State_ (19:54–26:25)
   <https://www.youtube.com/watch?v=0IGWknpGPhM&start=1194>
 
-- CSE 142, _Object Oriented Programming Behavior_ (31:44–42:44)<br>
+- CSE 142, _Object Oriented Programming Behavior_ (31:44–42:44)
   <https://www.youtube.com/watch?v=0IGWknpGPhM&start=1905>
 
-- CSE 142, _Object methods_ (45:32–49:41)<br>
+- CSE 142, _Object methods_ (45:32–49:41)
   <https://www.youtube.com/watch?v=0IGWknpGPhM&start=2732>
-
 
 Forum discussion
 ----------------
+
 [Lesson 5.02 Object State & Behavior (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-5/5-02-object-state-behavior)
 
 [Dr. Long Nguyen]: https://longbaonguyen.github.io/courses/apcsa/apjava.html
@@ -406,6 +426,8 @@ Forum discussion
 [CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials
 
 [WS 5.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.2.docx
+[book tracker]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.2.1.docx
+
 [Lesson 5.6: Writing Methods Class Lesson Plan]: https://docs.google.com/document/d/1cjzzkbT6Y6zrUxqdw0QOiIzTu-AlHplEVZnlVH_wxcE/edit?usp=drive_web
 [Writing Methods]: https://longbaonguyen.github.io/courses/apcsa/lecture14.ppt
 [5.6. Writing Methods]: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/topic-5-6-writing-methods.html
