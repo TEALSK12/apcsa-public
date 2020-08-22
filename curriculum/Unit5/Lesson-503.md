@@ -3,20 +3,24 @@ Lesson 5.03 — Object Initialization: Constructors
 
 Overview
 --------
+
 ### Objectives — _Students will be able to…_
+
 - **Describe** and create classes, objects, and client code.
 - **Predict** the output of the code that uses objects.
 
 ### Assessments — _Students will…_
+
 - **Complete** Practice questions
 
 ### Homework — _Students will…_
+
 - **Read** BJP 8.3 up to “The Keyword this”
   - **Take notes**, since you will have to teach a mini-lesson later in this unit
 
-
 Materials & Prep
 ----------------
+
 - **Projector and computer**
 - **Whiteboard and** **markers**
 - **Classroom copies** of [WS 5.3.1][], [WS 5.3.2][]
@@ -39,6 +43,7 @@ so students can easily read the examples when they are posted around the room.
 
 Pacing Guide
 ------------
+
 | Section                       | Total Time |
 |-------------------------------|-----------:|
 | Bell-work and attendance      |       5min |
@@ -46,9 +51,9 @@ Pacing Guide
 | Student work                  |      30min |
 | Student viewing & exit ticket |      10min |
 
-
 Procedure
 ---------
+
 This lesson includes two hooks: First, assemble the packets of materials for each group before
 class, and lay the supplies out for students to see/wonder about. Secondly, introduce today’s lesson
 with a hipster flair (if you can pull it off) by emphasizing the artisanal, custom-made,
@@ -122,13 +127,12 @@ students work together with the guidance of WS 5.3.1
    auto-initialize your objects to zero values like it does for the Array class. The array class has
    its own constructor that says “set all initial values to zero-equivalents.” You will always need
    to write your own constructor to initialize your new objects.
-   
+
 3. Introduce the keyboard ``` static ``` from the Chapter 8.2. The topic is introduced here since it requires the concept of ``` this ``` covered in Chapter 8.3 in last night's reading assignment.
 
    - See CS Awesome [Unit 5 Lesson 07 Static Variables and Methods Lesson Plan]
    - The slide deck for this lesson are located on [Dr. Long Nguyen] GitHub at [Variables, Scope and Semantics] and can be used to review this topic.
    - Have students navigate to CS Awesome [5.7. Static Variables and Methods] and complete Activity 1-4.
-
 
 ### Student Work `[30 minutes]`
 
@@ -184,10 +188,12 @@ As you learn about the other classes and objects created by your classmates, and
 
 College Board Topic Questions
 ---------------------------------
-After this lesson, students will be able to answer questions from the College Board Unit 2 Topic Questions 2.2 Creating and Storing Objects also Unit 5 Topic Questions 5.2 Constructors and 5.7 Static Variables and Metods
+
+After this lesson, students will be able to answer questions from the College Board Unit 2 Topic Questions 2.2 Creating and Storing Objects also Unit 5 Topic Questions 5.2 Constructors and 5.7 Static Variables and Methods
 
 Accommodation and Differentiation
 ---------------------------------
+
 For ELL classes, you may want to let students investigate the sample finished product more closely
 to give them cues on instructions so they can focus on the coding instead. If the task is still
 slowing the class down too greatly, read the directions aloud to the class, and demonstrate the step
@@ -205,15 +211,17 @@ classroom, encourage students to:
 
 - reserve some time to complete today’s homework and move on to Lesson 5.4.
 
-
 Teacher Prior CS Knowledge
 --------------------------
+
 - Constructor syntax. Here is the statement for creating an object from class Phone:
+
   ``` Java
   Phone myPhone = new Phone();
   ```
 
   Here’s the constructor for class Phone:
+
   ``` Java
   public class Phone {
       public Phone () {
@@ -230,38 +238,36 @@ Teacher Prior CS Knowledge
   reference to an object in this example, a reference to a Phone. Since the constructor by
   definition can only return one type, it was removed from the syntax when defining a constructor.
 
-
 Misconceptions
 --------------
+
 Students adding void return type to constructor definition. Students are in the habit of specifying
 a return type for methods. The one case where the return type is not needed is when defining the
 class’ constructor. If a return type is specified, the method is treated as a method of the class
 and not as a constructor. The code will compile but the constructor will never be called.
 
-
 Videos
 ------
 
-- BJP 8-3, _Defining a Class_<br>
+- BJP 8-3, _Defining a Class_
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c8-3>
 
-- CSE 142, _Using vs building objects_ (1:41–7:36)<br>
+- CSE 142, _Using vs building objects_ (1:41–7:36)
   <https://www.youtube.com/watch?v=V3Gs1Ug82_E&start=101>
 
-- CSE 142, _toString()_ (optional) (7:37–23:33)<br>
+- CSE 142, _toString()_ (optional) (7:37–23:33)
   <https://www.youtube.com/watch?v=V3Gs1Ug82_E&start=457>
 
-- CSE 142, _Constructors_ (23:34–30:13)<br>
+- CSE 142, _Constructors_ (23:34–30:13)
   <https://www.youtube.com/watch?v=V3Gs1Ug82_E&start=1414>
 
-- CSE 142, _Multiple Constructors_ (optional) (30:14–35:37)<br>
+- CSE 142, _Multiple Constructors_ (optional) (30:14–35:37)
   <https://www.youtube.com/watch?v=V3Gs1Ug82_E&start=1814>
-
 
 Forum discussion
 ----------------
-[Lesson 5.03 Object Initialization: Constructors (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-5/5-03-object-initialization-constructors)
 
+[Lesson 5.03 Object Initialization: Constructors (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-5/5-03-object-initialization-constructors)
 
 [WS 5.3.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.3.1.docx
 [WS 5.3.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.3.2.docx
