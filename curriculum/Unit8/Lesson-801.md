@@ -19,7 +19,7 @@ Materials & Prep
 - **Projector and computer **
 - **Whiteboard and** **markers**
 - **Bookmarks** on each computer (or URL on projector) for
-  (http://www.softschools.com/games/logic\_games/tower\_of\_hanoi)
+  (https://www.mathplayground.com/logic_tower_of_hanoi.html)
 
 You should familiarize yourself with the Tower of Hanoi as needed. The (exhaustive) Wikipedia
 article covers the different algorithms that may be used to solve the problem (here:
