@@ -60,6 +60,8 @@ and focus on the step-by-step lecture notes.
 
 You may browse the [Curriculum Map][] for an overview of the pacing, objectives, and assessments.
 
+For TEALS schools in BC, Canada, please see [Aligning TEALS APCSA Teaching Resources with the BC Curriculum](CA-README.md).
+
 ### Year Round Pacing
 
 The table-of-contents (included with Introduction materials) contains coarse-grained time estimates
