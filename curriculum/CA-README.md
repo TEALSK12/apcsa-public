@@ -1,7 +1,7 @@
 Aligning TEALS APCSA Teaching Resources with the BC Curriculum
 --------
 
-This course focuses on object-oriented programming and problem solving in Java and is intended for use by schools offering AP College Board’s Computer Science A course. For schools in BC, Canada, the course can be adapted to align with BC’s grade 12 [Computer Programming](https://curriculum.gov.bc.ca/curriculum/adst/12/computer-programming) or [Computer Science](https://curriculum.gov.bc.ca/curriculum/mathematics/12/computer-science) courses. Since 2018, our community partner BCIT has been supporting the curriculum alignment work. Here are highlights of the changes:
+This course focuses on object-oriented programming and problem solving in Java. The intended use is for schools offering AP College Board’s Computer Science A course. For schools in BC, Canada, the course can be adapted to align with BC’s grade 12 [Computer Programming](https://curriculum.gov.bc.ca/curriculum/adst/12/computer-programming) or [Computer Science](https://curriculum.gov.bc.ca/curriculum/mathematics/12/computer-science) courses. Since 2018, our community partner BCIT has been supporting the curriculum alignment work. Here are highlights of the changes:
 
 * added Culture Days
 * created alternative projects for Unit 1-5
