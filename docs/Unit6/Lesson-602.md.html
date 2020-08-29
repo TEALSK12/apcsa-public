@@ -75,89 +75,104 @@ The original programmer can also think carefully about how additional features a
    think of an example from their own class hierarchy that they created in the previous lesson. Some
    examples to get the class started:
 
-   - Subclass Mammal might have a special case of Animal superclass method *feedYoung* (because they
+   - Subclass *Mammal* might have a special case of Animal superclass method *feedYoung* (because they
      lactate).
 
-   - Subclass *HotDrink* might use a different method chug from the *Drink* superclass (maybe the
+   - Subclass *HotDrink* might use a different method *consume* from the *Drink* superclass (maybe the
      method involves sipping or burning your tongue).
+
+   - Subclass *Drone* will have to have a modified *sting* method that doesn't actually sting. 
 
 2. Replacing superclass behavior by writing a new version of the methods in the subclass is called
    **overriding**. To override a method, write the method you want to replace in the subclass! No
    special syntax is required!
 
-   - Building on our *Drink* example from the last lesson, we can write our own *chug* method for
-     subclass *SugarFreeDrink*:
+   - Building on our *Vehicle* example from the last lesson, we can write our own *move* methods for
+     subclass *Submarine*:
 
      ``` Java
-     public void chug(double gulp) {
-         System.out.println(“Yuck, this tastes terrible!”);
-     }
+      class Submarine extends Vehicle {
+        
+        private int zCord;
+
+        public void move(int dx, int dy){
+          // Nuclear subs don't really run out of fuel so no need to check.
+          this.xCord += dx;
+          this.yCord += dy;
+        }
+
+        public void move(int dx, int dy, int dz){
+          this.xCord += dx;
+          this.yCord += dy;
+          this.zCord += dz;
+        }
+      }
      ```
 
-   - Compare this to the Drink superclass method chug, which is reproduced here for convenience:
+   - Compare this to the Vehicle superclass method move, which is reproduced here for convenience:
 
      ``` Java
-     public void chug (double gulp) {    // Superclass Drink method
-         if (ounces < gulp) {
-             throw new IllegalArgumentException();
-         } else {
-             System.out.println("Glug, glug, glug!");
-             ounces -=gulp;
-             System.out.println("You have " + ounces + "oz. of drink left.");
-         }
-     }
+      public void move(int dx, int dy){
+          // if there is enough fuel, move dx and dy feet.
+          double distance = Math.sqrt(Math.pow(dx, 2) + Math.pow(dy, 2));
+          double fuelUsed = distance / (5280 * milePerGallon); 
+          
+          if (fuelGallons - fuelUsed > 0){
+            this.xCord += dx;
+            this.yCord += dy;
+            this.fuelGallons -= fuelUsed;
+          }
+          else{
+            System.out.println("Not enough fuel.");
+          }
+        }
      ```
 
 3. Have students point out the differences between the two methods, predict the new output, and
-   offer additional or alternative changes to the overridden *SugarFreeDrink* *chug* method.
+   offer additional or alternative changes to the overridden *Submarine* *move* method.
 
-   - Make sure that they (or you) point out that the number of ounces in the drink will NOT be
-     updated in the overridden method as it stands.
 
-4. It would be a lot of extra work to re-write the rest of the glug method if all you had wanted to
-   do was add an extra println statement that we put in the overridden method. Fortunately, there is a
-   way to access that method to put it back into our new, overridden method (highlighted below):
+4. In this example, HybridCar uses the battery if it is charged, otherwise it reverts to the same move method the Car and therefore Vehicle class use.
 
    ``` Java
-   public void chug (double gulp) {
-       System.out.println("Yuck, this tastes terrible!");
-       super.chug(gulp);
-   }
+    class HybridCar extends Car {
+      private double batteryLife;
+      private double batteryPerMile;
+
+      public void move(int dx, int dy){
+        // If the battery is charged use it, otherwise use the fuel (use super.move())
+        double distance = Math.sqrt(Math.pow(dx, 2) + Math.pow(dy, 2));
+        double batteryUsed = distance / (5280 * batteryPerMile);
+        if (batteryLife - batteryUsed > 0){
+          batteryLife -= batteryUsed;
+        }
+        else{
+          super.move(dx, dy);
+        }
+      }
+    }
    ```
-
-   - This method now outputs “Yuck, this tastes terrible!”, updates the number of ounces to reflect
-     the amount you drank, throws an exception if you don’t have any ounces, and outputs the number
-     of ounces left in the drink.
-
-   - Ask students why it’s valid to call the overridden method *chug*, and reference the superclass
-     method *chug* by the same name. (The superclass method is accessed using dot notation, which
+   - Ask students why it’s valid to call the overridden method *move*, and reference the superclass
+     method *move* by the same name. (The superclass method is accessed using dot notation, which
      tells Java where to direct the flow of control.)
 
-5. What if we want to access other information directly from the *Drink* class? Remember, our drink
-   class had a fields for *name*, *hasCarbonation*, *gramsOfSugar*, and *ounces*, but they’re all
-   private because we were smart and remembered to encapsulate them.
+5. Pause at this point to point out that you have seen vehicles that in real life use several different kinds of engines (4 stroke internal combustion in cars, diesel in semis, turbines in airplanes, nuclear in subs, electric in hybrids), but your move methods do not need to worry about that. We have *abstracted* out the internal workings and are only focused on the input (fuel) and the output (movement in the coordinate space).
 
-   - If we wanted to write a method in our *SugarFreeDrink* subclass that accesses the data
-     contained in *name*, we would have to add a *get* method first in the Superclass *Drink*:
+5. Ask if they notice what is wrong with the code as it is (accessing private attributes xCord and yCord -- something we've done in a few classes so far so maybe they'll have noticed it then). What if we want to access other information directly from the *Vehicle* class? Remember, our class had a fields for *x*, *y*, and *fuelGallons*, but they’re all private because we were smart and remembered to encapsulate them.
 
-     ``` Java
-     public double getName() {    // Written in superclass Drink.
-         return name;
-     }
-     ```
-
-   - This makes a copy of *name* that is public, and can be accessed outside of the *Drink* class.
-     Now we can go ahead and write our subclass method using the accessor (highlighted below):
+   - If we wanted to write a method in our *HybridCar* subclass that accesses the data contained in *xCord*, we would have to add a *get* method first in the Superclass *Vehicle*:
 
      ``` Java
-     public void advertising() {
-         System.out.println (
-             "Avoid the extra calories by drinking delicious " + getName() + "every day!!"
-         );
-     }
+      public int getX(){
+        return xCord;
+      }
      ```
 
-6. Have students offer additional examples using the *Drink* superclass, or using examples from
+   - This makes a copy of *xCord* that is public, and can be accessed outside of the *Vehicle* class.
+   
+   If we want to change the value in a private attribute, we could use a setter that would check to make sure the value is valid.
+
+6. Have students offer additional examples using the *Vehicle* superclass, or using examples from
    their own class hierarchy.
 
 7. Complete the introduction by asking students to explain what the difference is between overriding
