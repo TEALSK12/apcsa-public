@@ -28,10 +28,12 @@
 * [Lesson 1.05: Static Methods & Method Calls (1/2)](Unit1/Lesson-105.md)
 * [Lesson 1.06: Static Methods & Method Calls (2/2)](Unit1/Lesson-106.md)
 * [Lesson 1.07: Programming Project](Unit1/Lesson-107.md)
+* [Lesson 1.07a: Open Ended Programming Project](Unit1/Lesson-107a.md)
+* [Lesson 1.07b: Open Ended Programming Project (Canadian version)](Unit1/Lesson-107b.md)
 * [Lesson 1.08: Finding & Fixing Errors](Unit1/Lesson-108.md)
 * [Lesson 1.09: Review](Unit1/Lesson-109.md)
 * [Lesson 1.99: (Unit 1 Test)](Curriculum-Map.md#199)
-* [Lesson 1.XX: Open Ended Programming Project](Unit1/Lesson-1XX.md)
+
 
 # [Unit 2: Working with Data & Basic Control Flow (3 weeks)](Unit2/Unit2-Map.md)
 
