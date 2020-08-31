@@ -1,4 +1,4 @@
-Lesson 1.07 Alternative — Open-Ended Programming Project (Canadian version)
+Lesson 1.07b Alternative — Open-Ended Programming Project (Canadian version)
 ====================================================================================================
 
 Overview
@@ -117,4 +117,4 @@ programming project \#4 in the text book.
 
 Forum discussion
 ---------------------------
-[Lesson 1.XX Programming Project (TEALS Discourse account required)](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-XX-programming-project)
+[Lesson 1.07 Programming Project (TEALS Discourse account required)](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-XX-programming-project)
