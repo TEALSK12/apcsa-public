@@ -196,6 +196,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 |:----------------|:-----------------------------
 | **In Class**    | Test 3 Section I  Test 3 Section II
 
+## 5.00
+
 | [Lesson 5.00][]   | _Test Review & Reteach_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
