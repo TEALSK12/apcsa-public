@@ -293,13 +293,19 @@ Students are expected to work on project in class.
 
 ## 3.18a
 
-| [Lesson 3.18a][] | _Calculator Project_
+| [Lesson 3.18a][] | _Alternative Project - Calculator Project_
 |:----------------|:-----------
 | **Objectives**  | Students will conduct user-centered research, plan and create, and test, evaluate, and share the end product.
 | **Assessments** | Students will submit project for end of Unit 3 assessment.
 | **In Class**    | Students are expected to work on project in class.
 | **Reading**     | Students are expected to conduct research
 | **Homework**    | Continue working on project.
+
+## 3.18b
+
+| Lesson 3.18b  | _Alternative Project - Frac Calc_
+|:----------------|:-----------
+| **In Class**    | [Frac Calc][]
 
 ## 3.19
 
@@ -318,11 +324,7 @@ Students are expected to work on project in class.
 | **Guide**       | [Test 2 Guide][]
 | **In Class**    | Test 2 Section I  Test 2 Section II
 
-## 3.XX
 
-| Unit 3 Alternative Project  | _Frac Calc_
-|:----------------|:-----------
-| **In Class**    | [Frac Calc][]
 
 
 
