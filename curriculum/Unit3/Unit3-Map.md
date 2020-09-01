@@ -36,9 +36,10 @@ Refer to the Introduction document for information about how to adjust this paci
 | [3.18][].5 | Consumer Review Lab (day 5) | Consumer Review Lab Activity 5 | |
 | [3.18][].6 | Consumer Review Lab (day 6) | Consumer Review Lab Activity 5 (day 2) | |
 | [3.18a] | Alternative Project: [Calculator][] | work on project | conduct research | Continue working on project |
+| 3.18b | Alternative Project: [Frac Calc][] | | | |
 | [3.19][] | Review | (Review questions), [WS 3.18][] practice test | |Study |
 | 3.99 | Unit 3 test | [Test 2 Guide][] Test 2 Section I Test 2 Section II | | |
-| 3.XX | Alternative Project: [Frac Calc][] | | | |
+
 
 
 Students are expected to work on project in class.
