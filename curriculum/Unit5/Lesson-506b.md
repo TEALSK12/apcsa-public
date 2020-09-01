@@ -1,9 +1,9 @@
-Lesson 5.XX — Programming Project (PictureLab Alternative)
+Lesson 5.06b — Alternative Project - Open-Ended Programming Project
 ====================================================================================================
 
 ### Overview 
 
-This lesson is intended to be a smaller scale alternative (2-3 hours) to PictureLab from the original AP computer science course.  Starting from 2014-2015 the College Board announced that 20 hours of hands-on lab time may replace the original required labs (MagPie, PictureLab, Elevens). In this lesson document, we recommend some open-ended alternatives.
+This lesson is intended to be a smaller scale alternative (2-3 hours) to the original AP computer science labs. In this lesson document, we recommend some open-ended alternatives.
 
 --------
 ### Objectives — _Students will be able to…_
