@@ -73,11 +73,11 @@
 * [Lesson 3.16: Boolean Logic (2 Days)](Unit3/Lesson-316.md)
 * [Lesson 3.17: Finding & Fixing Errors](Unit3/Lesson-317.md)
 * [Lesson 3.18: Consumer Lab](Unit3/Lesson-318.md)
+* [Lesson 3.18a: Alternative Programming Project - Calculator Project](Unit3/Lesson-318a.md)
 * [Lesson 3.19: Review](Unit3/Lesson-319.md)
 * [Lesson 3.99: (Unit 3 test)](Curriculum-Map.md#399)
   * [Test 2 Guide](Unit3/Test-2-Guide.md)
-* [Lesson 3.XX: Frac Calc](Assets.md)
-* [Lesson 3.XX1: Programming Project(FracCalc Alternative)](Unit3/Lesson-3XX1.md)
+
 
 # [Unit 4: Arrays, Lists, & Files (4 weeks)](Unit4/Unit4-Map.md)
 
@@ -92,9 +92,10 @@
 * [Lesson 4.08: Finding & Fixing Errors](Unit4/Lesson-408.md)
 * [Lesson 4.09: Magpie Lab (5 Days)](Unit4/Lesson-409.md)
 * [Lesson 4.09a: Steganography Lab](Unit4/Lesson-409a.md)
+* [Lesson 4.09b: Alternative Programming Project - Open-Ended Project](Unit4/Lesson-409b.md)
 * [Lesson 4.10: Review](Unit4/Lesson-410.md)
 * [Lesson 4.99: (Unit 4 test)](Curriculum-Map.md#499)
-* [Lesson 4.XX: Programming Project(Magpie Alternative)](Unit4/Lesson-4XX.md)
+
 
 # [Unit 5: Object-Oriented Programming (4 weeks)](Unit5/Unit5-Map.md)
 
@@ -106,9 +107,10 @@
 * [Lesson 5.05: Finding & Fixing Errors](Unit5/Lesson-505.md)
 * [Lesson 5.06: Picture Lab (9 Days)](Unit5/Lesson-506.md)
 * [Lesson 5.06a: Data Lab](Unit5/Lesson-506a.md)
+* [Lesson 5.06b: Alternative Programming Project - Open-Ended Project](Unit5/Lesson-506b.md) 
 * [Lesson 5.07: Review](Unit5/Lesson-507.md)
 * [Lesson 5.99: (Unit 5 test)](Curriculum-Map.md#599)
-* [Lesson 5.XX: Programming Project(Picture Lab Alternative)](Unit5/Lesson-5XX.md) 
+
 
 # [Unit 6: Inheritance & Polymorphism (4 weeks)](Unit6/Unit6-Map.md)
 
@@ -121,11 +123,12 @@
 * [Lesson 6.06: Interfaces](Unit6/Lesson-606.md)
 * [Lesson 6.07: Programming Project (5 Days)](Unit6/Lesson-607.md)
 * [Lesson 6.07a: Celebrity Lab](Unit6/Lesson-607a.md)
+* [Lesson 6.07b: Text Excel](Curriculum-Map.md#6xx)
 * [Lesson 6.08: Finding & Fixing Errors](Unit6/Lesson-608.md)
 * [Lesson 6.09: Review](Unit6/Lesson-609.md)
 * [Lesson 6.99: (Unit 6 test)](Curriculum-Map.md#699)
   * [Test 5 Guide](Unit6/Test-5-Guide.md)
-* [Lesson 6.XX: Text Excel](Curriculum-Map.md#6xx)
+
 
 # [Unit 7: Searching & Sorting (3 weeks)](Unit7/Unit7-Map.md)
 
