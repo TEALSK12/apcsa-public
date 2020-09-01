@@ -16,7 +16,7 @@ For Computer Programming 12 (Applied Design, Skills and Technologies)
 
 #### Content
 * Students learn advance programming structure, documentation, error handling and debugging, etc.
-* Throughout the course, students are encouraged to collaborate. Students are also given opportunities to develop interpersonal skills with Culture Day activities such as [Studebt Research Project/Presentation] (culturedays/culture_day_lesson_b.md) and [Interviewing an IT Professional](culturedays/culture_day_lesson_d.md) 
+* Throughout the course, students are encouraged to collaborate. Students are also given opportunities to develop interpersonal skills with Culture Day activities such as [Student Research Project and Presentation](culturedays/culture_day_lesson_b.md) and [Interviewing an IT Professional](culturedays/culture_day_lesson_d.md) 
 * In the open-ended projects, students apply design thinking skills and programming concepts.  
 
 For Computer Science 12 (Mathematics)
