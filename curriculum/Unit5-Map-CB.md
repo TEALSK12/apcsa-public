@@ -24,10 +24,10 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [5.06a][] 06|Data Lab (day 6)|Data Lab Activity 4 (day 2)|Read and highlight Barrons ch 5|SC 8.28, 8.30| | | |
 | [5.06a][] 07|Data Lab (day 7)|Data Lab Activity 4 (day 3)||Finish Data Lab Activity 8| | | |
 | [5.06a][] 08|Data Lab (day 8)|Data Lab Activity 4 (day 4)|8.5|Cont. Data Lab Activity 9| | | |
+| [5.06b][]   |PictureLab Alternative | | | | [MOD-2][], [MOD-3][], [VAR-1][] | [MOD-2.A][], [MOD-2.D][], [MOD-2.E][], [MOD-2.F][], [MOD-2.G][], [MOD-3.A][], [VAR-1.G][], [VAR-1.H][] | |
 | [5.07][]   |Review|Review question  [WS 5.7][] Test practice||Study| | | |
 |  5.99    |(Unit 5 test)|Test 4 Section I  Test 4 Section II|| | | | |
 | [6.00][] |Test Review & Reteach|(Review test)|9.1|Test corrections to Arrays and Methods, Test corrections| | | | |
-| [5.XX][]   |PictureLab Alternative | | | | [MOD-2][], [MOD-3][], [VAR-1][] | [MOD-2.A][], [MOD-2.D][], [MOD-2.E][], [MOD-2.F][], [MOD-2.G][], [MOD-3.A][], [VAR-1.G][], [VAR-1.H][] | |
 | [5.PPa][] | Unit 5 Personal Progress Check Part A Writing Objects | | | | | | |
 | [5.PPb][] | Unit 2 Personal Progress Check Part B Writing Objects | | | | | | |
 
@@ -147,6 +147,16 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Reading**     | 8.5
 | **Homework**    | Cont. Data Lab Activity 9
 
+## 5.06b
+
+| [Lesson 5.06b][]   | _Programming Project(PictureLab Alternative)_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will be able to conduct user-centered research, plan and create, test, evaluate and share.
+| **Assessments** | Apply 2-dimensional arrays, traversal, binary representations of data and submit a complete functional program.
+| **In Class**    | Project Design
+| **Reading**     |
+| **Homework**    | Conduct research work(survey or interviews) and communicating with end-user
+
 ## 5.07
 
 | [Lesson 5.07][]   | _Review_
@@ -173,15 +183,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Reading**     | 
 | **Homework**    | Test corrections
 
-## 5.XX
 
-| [Lesson 5.XX][]   | _Programming Project(PictureLab Alternative)_
-|:----------------|:-----------------------------
-| **Objectives**  | Students will be able to conduct user-centered research, plan and create, test, evaluate and share.
-| **Assessments** | Apply 2-dimensional arrays, traversal, binary representations of data and submit a complete functional program.
-| **In Class**    | Project Design
-| **Reading**     |
-| **Homework**    | Conduct research work(survey or interviews) and communicating with end-user
 
 ## 5.PPa
 
@@ -213,16 +215,16 @@ chronological order. The order has been adapted to follow the College Board AP C
 [5.04]: Unit5/Lesson-504.md
 [5.05]: Unit5/Lesson-505.md
 [5.06a]: Unit5/Lesson-506a.md
+[5.06b]: Unit5/Lesson-506b.md
 [5.07]: Unit5/Lesson-507.md
-[5.XX]: Unit5/Lesson-5XX.md
 [Curriculum Assets]: ../Assets.md
 [6.00]: Unit6/Lesson-600.md
 
 
 [Lesson 5.06a]: Unit5/Lesson-506a.md
 [Lesson 5.07]: Unit5/Lesson-507.md
-[Lesson 5.XX]: Unit5/Lesson-5XX.md
-[Picture Lab]: ../Assets.md#picturelab
+[Lesson 5.06b]: Unit5/Lesson-506b.md
+[Picture Lab]: Assets.md
 [Lesson 6.00]: Unit6/Lesson-600.md
 
 [5.PPa]: Lesson-5PPa.md
