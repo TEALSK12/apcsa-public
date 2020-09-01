@@ -245,6 +245,23 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  **Reading**       |  
 |  **Homework**      |
 
+## 3.18a
+
+|  Unit 3 Alternative Project   |  _Programming Project (FracCalc Alternative)_
+|:----------------|:-----------------------------
+|  **Guide**         |  [Calculator][]   |
+|  **Objectives**    |  Students will conduct user-centred research: plan, create, test, evaluate and share the end product.
+|  **Assessments**   |  Students will submit project for end of Unit 3 assessment.
+|  **In Class**      |  Students are expected to work on project in class.
+|  **Reading**       |  Students are expected to conduct resear  Chap.
+|  **Homework**      |  Continue working on project.
+
+## 3.18b
+
+|  Unit 3 Alternative Project    |  _Frac Calc_
+|:----------------|:-----------------------------
+|  **In Class**      |  [Frac Calc][]
+
 ## 3.19
 
 |  [Lesson 3.19][]     |  _Review_
@@ -273,22 +290,6 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Reading**     | 7.1 up to “_Arrays and Methods_”
 | **Homework**    | Test corrections
 
-## 3.18a
-
-|  Unit 3 Alternative Project   |  _Programming Project (FracCalc Alternative)_
-|:----------------|:-----------------------------
-|  **Guide**         |  [Consumer Review Lab][]   |
-|  **Objectives**    |  Students will conduct user-centred resear  Chap, plan and create, and test, evaluate, and share the end product.
-|  **Assessments**   |  Students will submit project for end of Unit 3 assessment.
-|  **In Class**      |  Students are expected to work on project in class.
-|  **Reading**       |  Students are expected to conduct resear  Chap.
-|  **Homework**      |  Continue working on project.
-
-## 3.18b
-
-|  Unit 3 Alternative Project    |  _Frac Calc_
-|:----------------|:-----------------------------
-|  **In Class**      |  [Frac Calc][]
 
 ## 4.PP
 
