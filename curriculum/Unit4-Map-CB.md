@@ -329,10 +329,10 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 [Lesson 4.PP]: Lesson-4PP.md
 
 [Algorithm for Solving Problems]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx
-[Curriculum Assets]: ../Assets.md
+[Curriculum Assets]: Assets.md
 [DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
 [Equestria]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Map%20of%20Equestria.pptx
-[Frac Calc]: ../Assets.md#fraccalc
+[Frac Calc]: Assets.md
 [Calculator]: Unit3/Lesson-318a.md
 [Lesson 2.05]: ./Unit2/Lesson-205.md
 [Lesson 2.06]: ./Unit2/Lesson-206.md
