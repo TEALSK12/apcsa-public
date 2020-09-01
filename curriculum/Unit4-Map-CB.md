@@ -35,8 +35,8 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  [3.19][]   | Review  | (Review questions), [WS 3.18][] practice test  |   | Study   | | | |
 |  3.99   | Unit 3 test  | [Test 2 Guide][] Test 2 Section I Test 2 Section II  |   |    | | | |
 | [4.00][] |Test Review & Reteach|Review test| |Test corrections | | | |
-|  3.XX   |  Alternative Project: [Frac Calc][]   |    |  |    | [CON-1][], [CON-2][], [MOD-1][], [VAR-1][] | [CON-1.F][], [CON-1.H][], [CON-2.A][], [CON-2.B][], [CON-2.C][], [CON-2.D][], [CON-2.E][], [MOD-1.B][], [MOD-1.C][], [MOD-1.D][], [MOD-1.E][], [MOD-1.F][], [VAR-1.D][], [VAR-1.E][] | |
-|  3.XX1   |  Alternative Project: [Calculator][]   |  work on project   |  conduct research   |  Continue working on project   | | | |
+|  3.18a   |  Alternative Project: [Calculator][]   |  work on project   |  conduct research   |  Continue working on project   | | | |
+|  3.18b   |  Alternative Project: [Frac Calc][]   |    |  |    | [CON-1][], [CON-2][], [MOD-1][], [VAR-1][] | [CON-1.F][], [CON-1.H][], [CON-2.A][], [CON-2.B][], [CON-2.C][], [CON-2.D][], [CON-2.E][], [MOD-1.B][], [MOD-1.C][], [MOD-1.D][], [MOD-1.E][], [MOD-1.F][], [VAR-1.D][], [VAR-1.E][] | |
 | [4.PP][] | Unit 4 Personal Progress Check Iteration | | | | | | |
 
 ## 2.05
@@ -273,13 +273,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **Reading**     | 7.1 up to “_Arrays and Methods_”
 | **Homework**    | Test corrections
 
-## 3.XX
-
-|  Unit 3 Alternative Project    |  _Frac Calc_
-|:----------------|:-----------------------------
-|  **In Class**      |  [Frac Calc][]
-
-## 3.XX1
+## 3.18a
 
 |  Unit 3 Alternative Project   |  _Programming Project (FracCalc Alternative)_
 |:----------------|:-----------------------------
@@ -289,6 +283,12 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  **In Class**      |  Students are expected to work on project in class.
 |  **Reading**       |  Students are expected to conduct resear  Chap.
 |  **Homework**      |  Continue working on project.
+
+## 3.18b
+
+|  Unit 3 Alternative Project    |  _Frac Calc_
+|:----------------|:-----------------------------
+|  **In Class**      |  [Frac Calc][]
 
 ## 4.PP
 
@@ -332,7 +332,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 [DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
 [Equestria]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Map%20of%20Equestria.pptx
 [Frac Calc]: ../Assets.md#fraccalc
-[Calculator]: Unit3/Lesson-3XX1.md
+[Calculator]: Unit3/Lesson-318a.md
 [Lesson 2.05]: ./Unit2/Lesson-205.md
 [Lesson 2.06]: ./Unit2/Lesson-206.md
 [Lesson 2.07]: ./Unit2/Lesson-207.md
