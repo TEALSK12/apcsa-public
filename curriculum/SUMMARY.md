@@ -32,7 +32,7 @@
 * [Lesson 1.07b: Open Ended Programming Project (Canadian version)](Unit1/Lesson-107b.md)
 * [Lesson 1.08: Finding & Fixing Errors](Unit1/Lesson-108.md)
 * [Lesson 1.09: Review](Unit1/Lesson-109.md)
-* [Lesson 1.99: (Unit 1 Test)](Curriculum-Map.md#199)
+* [Lesson 1.99: (Unit 1 Test)](Unit1/Unit1-Map.md#199)
 
 
 # [Unit 2: Working with Data & Basic Control Flow (3 weeks)](Unit2/Unit2-Map.md)
@@ -50,7 +50,7 @@
 * [Lesson 2.09: Programming Project](Unit2/Lesson-209.md)
 * [Lesson 2.10: Finding & Fixing Errors](Unit2/Lesson-210.md)
 * [Lesson 2.11: Review](Unit2/Lesson-211.md)
-* [Lesson 2.99: (Unit 2 Test)](Curriculum-Map.md#299)
+* [Lesson 2.99: (Unit 2 Test)](Unit2/Unit2-Map.md#299)
 
 # [Unit 3: Advanced Data & Control Flow (4 weeks)](Unit3/Unit3-Map.md)
 
@@ -76,7 +76,7 @@
 * [Lesson 3.18a: Alternative Programming Project - Calculator Project](Unit3/Lesson-318a.md)
 * [Lesson 3.18b: Alternative Programming Project - Frac Calc](Assets.md)
 * [Lesson 3.19: Review](Unit3/Lesson-319.md)
-* [Lesson 3.99: (Unit 3 test)](Curriculum-Map.md#399)
+* [Lesson 3.99: (Unit 3 test)](Unit3/Unit3-Map.md#399)
   * [Test 2 Guide](Unit3/Test-2-Guide.md)
 
 
@@ -95,7 +95,7 @@
 * [Lesson 4.09a: Steganography Lab](Unit4/Lesson-409a.md)
 * [Lesson 4.09b: Alternative Programming Project - Open-Ended Project](Unit4/Lesson-409b.md)
 * [Lesson 4.10: Review](Unit4/Lesson-410.md)
-* [Lesson 4.99: (Unit 4 test)](Curriculum-Map.md#499)
+* [Lesson 4.99: (Unit 4 test)](Unit4/Unit4-Map.md#499)
 
 
 # [Unit 5: Object-Oriented Programming (4 weeks)](Unit5/Unit5-Map.md)
@@ -110,7 +110,7 @@
 * [Lesson 5.06a: Data Lab](Unit5/Lesson-506a.md)
 * [Lesson 5.06b: Alternative Programming Project - Open-Ended Project](Unit5/Lesson-506b.md) 
 * [Lesson 5.07: Review](Unit5/Lesson-507.md)
-* [Lesson 5.99: (Unit 5 test)](Curriculum-Map.md#599)
+* [Lesson 5.99: (Unit 5 test)](Unit5/Unit5-Map.md#599)
 
 
 # [Unit 6: Inheritance & Polymorphism (4 weeks)](Unit6/Unit6-Map.md)
@@ -127,7 +127,7 @@
 * [Lesson 6.07b: Text Excel](Assets.md)
 * [Lesson 6.08: Finding & Fixing Errors](Unit6/Lesson-608.md)
 * [Lesson 6.09: Review](Unit6/Lesson-609.md)
-* [Lesson 6.99: (Unit 6 test)](Curriculum-Map.md#699)
+* [Lesson 6.99: (Unit 6 test)](Unit6/Unit6-Map.md#699)
   * [Test 5 Guide](Unit6/Test-5-Guide.md)
 
 
@@ -138,7 +138,7 @@
 * [Lesson 7.02: Sorting Algorithms](Unit7/Lesson-702.md)
 * [Lesson 7.03: Elevens Lab (16 Days)](Unit7/Lesson-703.md)
 * [Lesson 7.04: Review](Unit7/Lesson-704.md)
-* [Lesson 7.99: (Unit 7 test)](Curriculum-Map.md#799)
+* [Lesson 7.99: (Unit 7 test)](Unit7/Unit7-Map.md#799)
   * [Test 6 Guide](Unit7/Test-6-Guide.md)
 
 # [Unit 8: Recursion (2 weeks)](Unit8/Unit8-Map.md)
@@ -150,7 +150,7 @@
 * [Lesson 8.04: MergeSort](Unit8/Lesson-804.md)
 * [Lesson 8.05: Finding & Fixing Errors](Unit8/Lesson-805.md)
 * [Lesson 8.06: Review](Unit8/Lesson-806.md)
-* [Lesson 8.07: (Unit 8 quiz)](Curriculum-Map.md#807)
+* [Lesson 8.07: (Unit 8 quiz)](Unit8/Unit8-Map.md#807)
 * [Lesson 8.08: Quiz Review & Reteach](Unit8/Lesson-808.md)
 
 
