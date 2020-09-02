@@ -22,7 +22,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [1.07b][] | _Lesson 1.07 Alternative_  | Ideate and Construct Project  |  |  | | | |
 | [1.08][] | _Finding & Fixing Errors_             | Fix homework | | Submit questions for review | | | |
 | [1.09][] | _Review_                              | Review questions [WS 1.9][] Practice test | Review ch 1  | Study | | | |
-| [1.99][] | _Unit 1 Test_                         | Test 0 Section I Test 0 Section II | | | | | |
+| 1.99 | _Unit 1 Test_                         | Test 0 Section I Test 0 Section II | | | | | |
 | [2.00][] | Test Review & Reteach            | Review test |  | Test corrections | | | |
 | [2.01][] | Basic Data Concepts                 | [WS 2.1][]      | 2.1 except for “Mixing types and Casting” | SC 2.1-2.3  (4th, 5th : 2.1,2.3,2.4)|[CON-1][], [VAR-1][]|[CON-1.A][], [CON-1.B][], [VAR-1.B][]|[CON-1.A.1][], [CON-1.A.2][],[CON-1.A.3][],[CON-1.A.4][],[CON-1.A.5][], [CON-1.A.6][],[CON-1.A.7][],[CON-1.A.8][], [CON-1.B.2][], [CON-1.B.3][], [VAR-1.B.1][], [VAR-1.B.2][], [VAR-1.B.3][], [VAR-1.C.2][], [VAR-1.C.3][]|
 | [2.02][] | Declaring & Assigning Variables    | [WS 2.2][] SC 2.7, 2.11 (4th, 5th: 2.8, 2.13) E 2.1 | 2.2 up to “String Concatenation” | SC 2.5,2.6,2.9, 2.12-2.15 (4th, 5th: 2.6,2.7,2.1,2.14-2.17) |[CON-1][], [VAR-1][]|[CON-1.A][], [CON-1.B][], [VAR-1.B][]| [CON-1.A.8][], [CON-1.B.1][], [VAR-1.B.1][]|
@@ -143,7 +143,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 ## 1.99
 
 | Unit 1 Test     | _Programming & Java_
-|------------+----------------------------------------------------------------------
+|:----------------|:-----------------------------
 | **In Class**    | Test 0 Section I Test 0 Section II
 
 ## 2.00
@@ -230,6 +230,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [1.99]: ./Unit1/#199
 [1.07a]: ./Unit1/Lesson-107a.md
 [1.07b]: ./Unit1/Lesson-107b.md
+
 [Curriculum Assets]: ../Assets.md
 [Lesson 1.01]: ./Unit1/Lesson-101.md
 [Lesson 1.02]: ./Unit1/Lesson-102.md
