@@ -1,11 +1,11 @@
-Lesson 3.XX1 — Programming Project (FracCalc Alternative)
+Lesson 3.18a Programming Project Alternative - Calculator Project
 ====================================================================================================
 
 ## Overview
 --------
 ### Objectives — _Students will be able to…_
 - **Conduct user-centred research** to identify specific functions for a specialized calculator application
-- **Plan and create** a calculator that perform specialized operations for an end-user
+- **Plan and create** a calculator that performs specialized operations for an end-user
 - **Test, evaluate, and share** the end product
 
 ---
@@ -13,13 +13,11 @@ Lesson 3.XX1 — Programming Project (FracCalc Alternative)
 
 #### Content - arithmetic operations, data representation, applied design
 
-The "brain" of the computer is a block of circuitry called the "Central Processing Unit" (CPU).  
-Inside the CPU, there is a sub-block of circuitry called the "Arithmetic Logic Unit" (ALU).  As you might guess, this block performs arithmetic operations!
+The "brain" of the computer is a block of circuitry called the "Central Processing Unit" (CPU). Inside the CPU, there is a sub-block of circuitry called the "Arithmetic Logic Unit" (ALU).  As you might guess, this block performs arithmetic operations!
 
 At a most basic level, the computer is simply, a "deluxe calculator".   While hand-held calculators have limitations on the size of numbers you can work with, your desktop or laptop computer can support much larger numbers.  Not only can the computer calculate numbers quickly, and accurately, it is also great at doing it over, and over, and over again.  The computer never gets bored. 
 
-In what situations would you need to perform lots of calculations, possibly on very big, or very small, numbers?
-How often do you still use, or when would you use, a hand-held calculator (or the calculator on your phone)?
+In what situations would you need to perform lots of calculations, possibly on very big, or very small, numbers? How often do you still use, or when would you use, a hand-held calculator (or the calculator on your phone)?
 
 ---
 
@@ -28,7 +26,6 @@ How often do you still use, or when would you use, a hand-held calculator (or th
 - **Submit** a complete, functional program 
 
 ### Pacing Recommendation
-- This project is intended to be the same length as the FracCalc Project. 
 - The duration of this project is at the discretion of the teacher.  About 4-5 classes are recommended. 
 - Project involves conducting research work (survey or interviews), and communicating with end-user, outside of the classroom. 
 
@@ -36,13 +33,12 @@ How often do you still use, or when would you use, a hand-held calculator (or th
 
 ### Complexity and Creativity
 
-This project is an alternative to the FracCalc project in the existing AP Computer Science course. 
-Students should come up with the idea themselves, based on user-centred research, and ideate a calculator application to address the needs of a specific user group.  The "calculator application" could possibly involve several steps, such as solving the quadratic formula, or sharing the cost of a party. 
+This project is an alternative to the FracCalc project in the existing AP Computer Science course. Students should come up with the idea themselves, based on user-centred research, and ideate a calculator application to address the needs of a specific user group.  The "calculator application" could possibly involve several steps, such as solving the quadratic formula, or sharing the cost of a party. 
    
-Students will follow applied design process to implement the idea.  You should talk to your teacher often to ensure that your progress is in-line with expectations.   
+Students will follow applied design process to implement the idea.  Students should talk to the teacher often to ensure that their progress is in-line with expectations.   
    
 ### Documentation and Style
-As with all projects, your program must be well-written, well-documented, and readable.  Writing code with good style is always good idea. This will help you debug, pick up where you left off each day, and keep track of progress.
+As with all projects, the program must be well-written, well-documented, and readable.  Writing code with good style is always good idea. This will help you debug, pick up where you left off each day, and keep track of progress.
 
 --- 
 

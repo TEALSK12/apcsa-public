@@ -1,9 +1,9 @@
-Lesson 4.XX — Programming Project (MagPie Alternative)
+Lesson 4.09b — Alternative Project - Open-Ended Programming Project
 ====================================================================================================
 
 ## Overview
 
-This project is intended to be an alternative to the MagPie Lab in the original AP computer science course.  Starting from 2014-2015 the College Board announced that 20 hours of hands-on lab time may replace the original required labs (MagPie, PictureLab, Elevens). In this document, we recommend some open-ended alternatives.
+This project is intended to be an alternative to the original AP computer science course labs for this unit. In this document, we recommend some open-ended alternatives.
 
 --------
 ### Objectives — _Students will be able to…_

@@ -18,7 +18,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [1.05][] | _Static Methods & Method Calls_       | SC 1.22, 1.23, 1.26, 1.29 | 1.4 | EX 1.11, 1.12, 1.14, 1.16 |[MOD-2][]|[MOD-2.G][]|[MOD-2.G.1][],[MOD-2.G.2][]
 | [1.06][] | _Static Methods & Method Calls_       | LP StarFigures LP PikachuChatter |1.5 | Outline ch 1 PP 1.1, 1.3 |[MOD-2][]|[MOD-2.G][]|[MOD-2.G.1][],[MOD-2.G.2][]
 | [1.07][] | _Programming Project_                 | PP 1.2, 1.5 | | Note check (add summaries if needed) | [MOD-1][], [MOD-2][], [VAR-1][] | [VAR-1.A][], [MOD-1.A][], [MOD-2.C][], [MOD-2.G][], [VAR-1.G][] | |
-| [1.XX][] | _Lesson 1.07 Alternative_  | Ideate and Construct Project  |  |  | | | |
+| [1.07a][] | _Lesson 1.07 Alternative_  | Ideate and Construct Project  |  |  | | | |
+| [1.07b][] | _Lesson 1.07 Alternative_  | Ideate and Construct Project  |  |  | | | |
 | [1.08][] | _Finding & Fixing Errors_             | Fix homework | | Submit questions for review | | | |
 | [1.09][] | _Review_                              | Review questions [WS 1.9][] Practice test | Review ch 1  | Study | | | |
 | 1.99 | _Unit 1 Test_                         | Test 0 Section I Test 0 Section II | | | | | |
@@ -100,9 +101,18 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Reading**     |
 | **Homework**    | Note check (add summaries if needed)
 
-## 1.XX
+## 1.07a
 
-| [Lesson 1.XX][]   | _Open Ended Programming Project(Lesson 1.07 Alternative)_
+| [Lesson 1.07a][]   | _Open Ended Programming Project(Lesson 1.07 Alternative)_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will be able to ideate and construct a program containing method calls and static methods.
+| **Assessments** | Submit a complete, functional program by the end of class
+| **In Class**    | Check class notes for completion
+| **Reading**     |
+| **Homework**    | All students must turn in notes for each day of class
+
+
+| [Lesson 1.07b][]   | _Open Ended Programming Project - Canadian version (Lesson 1.07 Alternative)_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will be able to ideate and construct a program containing method calls and static methods.
 | **Assessments** | Submit a complete, functional program by the end of class
@@ -217,7 +227,10 @@ chronological order. The order has been adapted to follow the College Board AP C
 [1.07]: ./Unit1/Lesson-107.md
 [1.08]: ./Unit1/Lesson-108.md
 [1.09]: ./Unit1/Lesson-109.md
-[1.XX]: ./Unit1/Lesson-1XX.md
+[1.99]: ./Unit1/#199
+[1.07a]: ./Unit1/Lesson-107a.md
+[1.07b]: ./Unit1/Lesson-107b.md
+
 [Curriculum Assets]: ../Assets.md
 [Lesson 1.01]: ./Unit1/Lesson-101.md
 [Lesson 1.02]: ./Unit1/Lesson-102.md
@@ -228,7 +241,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 [Lesson 1.07]: ./Unit1/Lesson-107.md
 [Lesson 1.08]: ./Unit1/Lesson-108.md
 [Lesson 1.09]: ./Unit1/Lesson-109.md
-[Lesson 1.XX]: ./Unit1/Lesson-1XX.md
+[Lesson 1.07a]: ./Unit1/Lesson-107a.md
+[Lesson 1.07b]: ./Unit1/Lesson-107b.md
 [Unit 1 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/Unit1.pptx
 [Unit 1 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/Unit%201%20Word%20Bank.docx
 [WS 1.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.1.docx

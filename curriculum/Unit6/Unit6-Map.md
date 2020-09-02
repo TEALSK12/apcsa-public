@@ -33,10 +33,11 @@ classroom.
 | [6.07a][] 05|Celebrity Lab (day 5)|Celebrity Lab Activity 5|Review Ch. 9|Submit questions for review
 | [6.07a][] 06|Celebrity Lab (day 5)|Celebrity Lab Activity 5 (day 2)|Review Ch. 9|Submit questions for review
 | [6.07a][] 07|Celebrity Lab (day 5)|Celebrity Lab Activity 5 (day 3), outline checks|Review Ch. 9|Submit questions for review
+| 6.07b |Text Excel|[Text Excel][]  [Text Excel Student Guide A][]  [Text Excel Student Guide B][]  [Text Excel Student Guide C][]  [Text Excel Teacher Guide][]||
 | [6.08][] |Finding & Fixing Errors|(Fix HW)|Review Ch. 9|Submit questions for review
 | [6.09][] |Review|Review questions  [WS 6.5][] Test practice||Study
 | 6.99 |Unit 6 test|[Test 5 Guide][]  Test 5 Section I  Test 5 Section II||
-| 6.XX |[Text Excel][]|[Text Excel Student Guide A][]  [Text Excel Student Guide B][]  [Text Excel Student Guide C][]  [Text Excel Teacher Guide][]||
+
 
 ## 6.00
 
@@ -238,6 +239,13 @@ classroom.
 | **Reading**     | Review Ch. 9
 | **Homework**    | Submit questions for review
 
+
+## 6.07b
+
+| Lesson 6.07b  | _Text Excel_
+|:----------------|:------------
+| **In Class**    | [Text Excel][] [Text Excel Student Guide A][]  [Text Excel Student Guide B][]  [Text Excel Student Guide C][]  [Text Excel Teacher Guide][]
+
 ## 6.08
 
 | [Lesson 6.08][]   | _Finding & Fixing Errors_
@@ -265,11 +273,6 @@ classroom.
 | **Guide**       | [Test 5 Guide][]
 | **In Class**    | Test 5 Section I  Test 5 Section II
 
-## 6.XX
-
-| Unit 6 Project  | _Text Excel_
-|:----------------|:------------
-| **In Class**    | [Text Excel][]  [Text Excel Student Guide A][]  [Text Excel Student Guide B][]  [Text Excel Student Guide C][]  [Text Excel Teacher Guide][]
 
 ## Abbreviations
 
@@ -304,6 +307,7 @@ classroom.
 [Poster 6.3]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Poster%206.3.pptx
 [Poster 6.6]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Poster%206.6.pptx
 [Test 5 Guide]: Test-5-Guide.md
+[Text Excel]: ../Assets.md
 [Text Excel Student Guide A]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Text%20Excel%20A%20Student%20Guide.docx
 [Text Excel Student Guide B]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Text%20Excel%20B%20Student%20Guide.docx
 [Text Excel Student Guide C]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Text%20Excel%20C%20Student%20Guide.docx

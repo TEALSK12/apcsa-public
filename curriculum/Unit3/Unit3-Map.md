@@ -35,10 +35,12 @@ Refer to the Introduction document for information about how to adjust this paci
 | [3.18][].4 | Consumer Review Lab (day 4) | Consumer Review Lab Activity 4 | |
 | [3.18][].5 | Consumer Review Lab (day 5) | Consumer Review Lab Activity 5 | |
 | [3.18][].6 | Consumer Review Lab (day 6) | Consumer Review Lab Activity 5 (day 2) | |
+| [3.18a] | Alternative Project: [Calculator][] | work on project | conduct research | Continue working on project |
+| 3.18b | Alternative Project: [Frac Calc][] | | | |
 | [3.19][] | Review | (Review questions), [WS 3.18][] practice test | |Study |
 | 3.99 | Unit 3 test | [Test 2 Guide][] Test 2 Section I Test 2 Section II | | |
-| 3.XX | Alternative Project: [Frac Calc][] | | | |
-| 3.XX1 | Alternative Project: [Calculator][] | work on project | conduct research | Continue working on project |
+
+
 
 Students are expected to work on project in class.
 | **Reading**     | Students are expected to conduct research.
@@ -289,6 +291,22 @@ Students are expected to work on project in class.
 | **Reading**     |
 | **Homework**    |
 
+## 3.18a
+
+| [Lesson 3.18a][] | _Alternative Project - Calculator Project_
+|:----------------|:-----------
+| **Objectives**  | Students will conduct user-centered research, plan and create, and test, evaluate, and share the end product.
+| **Assessments** | Students will submit project for end of Unit 3 assessment.
+| **In Class**    | Students are expected to work on project in class.
+| **Reading**     | Students are expected to conduct research
+| **Homework**    | Continue working on project.
+
+## 3.18b
+
+| Lesson 3.18b  | _Alternative Project - Frac Calc_
+|:----------------|:-----------
+| **In Class**    | [Frac Calc][]
+
 ## 3.19
 
 | [Lesson 3.19][]   | _Review_
@@ -306,21 +324,9 @@ Students are expected to work on project in class.
 | **Guide**       | [Test 2 Guide][]
 | **In Class**    | Test 2 Section I  Test 2 Section II
 
-## 3.XX
 
-| Unit 3 Alternative Project  | _Frac Calc_
-|:----------------|:-----------
-| **In Class**    | [Frac Calc][]
 
-## 3.XX1
 
-| Unit 3 Alternative Project | [Consumer Review Lab][] | _Programming Project (FracCalc Alternative)_
-|:----------------|:-----------
-| **Objectives**  | Students will conduct user-centered research, plan and create, and test, evaluate, and share the end product.
-| **Assessments** | Students will submit project for end of Unit 3 assessment.
-| **In Class**    | Students are expected to work on project in class.
-| **Reading**     | Students are expected to conduct research
-| **Homework**    | Continue working on project.
 
 ## Abbreviations
 
@@ -348,12 +354,13 @@ Students are expected to work on project in class.
 [3.16]: Lesson-316.md
 [3.17]: Lesson-317.md
 [3.18]: Lesson-318.md
+[3.18a]: Lesson-318a.md
 [3.19]: Lesson-319.md
 [Algorithm for Solving Problems]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx
+[Calculator]: Lesson-318a.md
 [DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
 [Equestria]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Map%20of%20Equestria.pptx
 [Frac Calc]: ../Assets.md#fraccalc
-[Calculator]: Lesson-3XX1.md
 [Lesson 3.00]: Lesson-300.md
 [Lesson 3.01]: Lesson-301.md
 [Lesson 3.02]: Lesson-302.md
@@ -373,6 +380,7 @@ Students are expected to work on project in class.
 [Lesson 3.16]: Lesson-316.md
 [Lesson 3.17]: Lesson-317.md
 [Lesson 3.18]: Lesson-318.md
+[Lesson 3.18a]: Lesson-318a.md
 [Lesson 3.19]: Lesson-319.md
 [Operator Precedence]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Operator%20Precedence.pptx
 [Poster 3.16.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Poster%203.16.1.pdf

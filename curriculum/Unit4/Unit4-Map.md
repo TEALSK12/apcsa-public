@@ -34,9 +34,10 @@ classroom.
 | [4.09a][] 04|Steganography Lab (Day 4)|Steganography Lab Activity 4|Barron's Ch. 6 (8th or later: Ch. 7)|
 | [4.09a][] 05|Steganography Lab (Day 5)|Steganography Lab Activity 5||Barron's Ch. 6 (8th or later: Ch. 7)practice questions
 | [4.09a][] 06|Steganography Lab (Day 6)|Steganography Lab Activity 5 (Day 2)||Check and correct Barron's Ch. 6 (8th or later: Ch. 7) questions
+| [4.09b][] |[Open-Ended Programming Project][]|
 | [4.10][] |Review|Review questions [WS 4.10][] practice test||Study
 | 4.99 |Unit 4 test|Test 3 Section I Test 3 Section II||
-| [4.XX][] |[Programming Project][](Magpie Alternative)|
+
 
 ## 4.00
 
@@ -264,9 +265,9 @@ classroom.
 |:----------------|:-----------------------
 | **In Class**    | Test 3 Section I Test 3 Section II
 
-## 4.XX
+## 4.09b
 
-| [Lesson 4.XX][]    |_Programming Project(Magpie Alternative)_
+| [Lesson 4.09b][]    |_Open-Ended Programming Project_
 |:----------------|:------------------------
 | **Objectives**  | Students will be able to conduct user-centered research, plan and create, test evaluate and share
 | **Assessments** | Students will apply if-else, String methods to implement a software application and Submit a complete, functional program.
@@ -292,8 +293,8 @@ classroom.
 [4.08]: Lesson-408.md
 [4.09]: Lesson-409.md
 [4.09a]: Lesson-409a.md
+[4.09b]: Lesson-409b.md
 [4.10]: Lesson-410.md
-[4.XX]: Lesson-4XX.md
 [Lesson 4.00]: Lesson-400.md
 [Lesson 4.01]: Lesson-401.md
 [Lesson 4.02]: Lesson-402.md
@@ -305,8 +306,10 @@ classroom.
 [Lesson 4.08]: Lesson-408.md
 [Lesson 4.09]: Lesson-409.md
 [Lesson 4.09a]: Lesson-409a.md
+[Lesson 4.09b]: Lesson-409b.md
 [Lesson 4.10]: Lesson-410.md
-[Lesson 4.XX]: Lesson-4XX.md
+[Lesson 4.09b]: Lesson-409b.md
+[Open-Ended Programming Project]: Lesson-409b.md
 [Poster 4.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.1.pptx
 [Poster 4.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.2.pptx
 [Poster 4.7]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.7.pptx

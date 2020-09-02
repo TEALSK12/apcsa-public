@@ -1,4 +1,4 @@
-Lesson 1.07 Alternative — Open-Ended Programming Project (Canadian version)
+Lesson 1.07a Alternative — Open-Ended Programming Project
 ====================================================================================================
 
 Overview
@@ -24,7 +24,7 @@ Computers are great at doing repetitive tasks.  In computational thinking, we us
 
 In daily life, human beings enjoy repetition and patterns in many areas of life and nature.   For the written word, repetition is useful for the learning of songs or poetry.  It's a literary technique.   Repetition enhances significance and meaning.
 
-Consider the [national anthem of Canada](https://www.canada.ca/en/canadian-heritage/services/anthems-canada.html#a13). Did you know that there is an English version, a French version, and even a bilingual version?
+Consider the [national anthem of USA](https://en.wikipedia.org/wiki/The_Star-Spangled_Banner#Lyrics). Did you know that there is an English version, a [Spanish version](https://www.npr.org/templates/story/story.php?storyId=5369145)?
 
 Imagine that you are creating a national anthem medley for your class to perform at a special event.  Your challenge is to include a combination of language versions.  How can you use static methods to design this musical piece?
 
@@ -117,4 +117,4 @@ programming project \#4 in the text book.
 
 Forum discussion
 ---------------------------
-[Lesson 1.XX Programming Project (TEALS Discourse account required)](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-XX-programming-project)
+[Lesson 1.07 Programming Project (TEALS Discourse account required)](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-XX-programming-project)
