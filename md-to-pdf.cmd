@@ -53,7 +53,7 @@ About.pdf CONTRIBUTING.pdf cat output AP-CSA.pdf
 
 @REM delete all temporary .pdf files  
 move /Y AP-CSA.pdf AP-CSA.save
-@REM del /s *.pdf
+del /s *.pdf
 move /Y AP-CSA.save AP-CSA.pdf
 
 
