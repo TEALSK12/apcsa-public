@@ -20,10 +20,10 @@ Overview
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
 | [1.04][] | _Common Errors & Comments_            | [WS 1.4][] | 1.3 | EX 1.6–9|[MOD-2][]|[MOD-2.B][]|[MOD-2.B.1][],[MOD-2.B.2][]|
 
-Students will start compuational thinking skills Practice 2 Code logic and Practice 4 Code Testing by completing [WS 1.4][].
-Students will determine output by tracing code, skill 2.B Determining the results or output based on statement execution order in a code segment without method cals (other than output.
+Students will start computational thinking skills Practice 2 Code logic and Practice 4 Code Testing by completing [WS 1.4][].
+Students will determine output by tracing code, skill 2.B Determining the results or output based on statement execution order in a code segment without method calls (other than output.
 Students will identify errors in existing code, skill 4.B Identify errors in program code.
-Code logic is 40-45% of the AP exam.  Student can expect questions similiar to the following example from the AP Computer Science A CED:
+Code logic is 40-45% of the AP exam.  Student can expect questions similar to the following example from the AP Computer Science A CED:
 
 ``` Java
 Consider the following code segment.
