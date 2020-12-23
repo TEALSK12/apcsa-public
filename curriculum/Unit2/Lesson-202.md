@@ -28,7 +28,6 @@ working on developing note-taking skills in your classroom. We recommend leaving
 for English Language Learner (ELL) classrooms, so your students can focus on syntax rules instead of translating what they are
 hearing to vocabulary they need to then write in their notebooks.
 
-
 Pacing Guide
 ------------
 | Section                              | Total Time |
@@ -37,7 +36,6 @@ Pacing Guide
 | Introduction and worksheet exercises |      25min |
 | Practice exercises                   |      20min |
 | Turn in worksheets, wrap up          |       5min |
-
 
 Procedure
 ---------
@@ -112,8 +110,8 @@ string concatenation, go through the examples as above.
    own set of work.
 
 ### Students turn in worksheets, wrap up `[5 minutes]`
-At the end of class, collect WS 2.2 and practice problems submissions.
 
+At the end of class, collect WS 2.2 and practice problems submissions.
 
 Accommodation and Differentiation
 ---------------------------------
@@ -132,17 +130,16 @@ If your class is struggling with learning syntax, you can split the lesson into 
 take off some of the homework questions. If splitting the lesson in two, we recommend stopping
 today’s lesson before string concatenation.
 
-
 Common Mistakes
 ---------------
+
 Variables common mistakes:
 <http://interactivepython.org/runestone/static/JavaReview/VariableBasics/commonMistakes.html>
 
-
 Misconceptions
 --------------
-- Students will draw on their math knowledge when learning variables. This leads to confusion on the
-  differences in a programming language.
+
+- Students will draw on their math knowledge when learning variables. This leads to confusion on the differences in a programming language.
 
 - The equal sign `=` is assignment in Java, not equality. When reading out code, explicitly saying
   “assignment” will help reinforce the concept that `=` is not equality: `x = 1` is read as “x is
@@ -150,23 +147,27 @@ Misconceptions
 
 - A variable is a container for value that can change, it does not denote a fixed value. From WS2.2,
   consider the following statements:
-  ``` Java
+
+  ```Java
   int age = 17;
   age = age + 1;
   ```
-  Students may view the second line of code as a math equation and miss the point that age is a
+  
+Students may view the second line of code as a math equation and miss the point that age is a
   variable and contains a value. The age = age + 1 changes the value of age. When learning Java
   there is the code which is static, the running of the code, and the state of the variable during
   runtime which is fundamentally different from an equation in math that can be substituted and
   manipulated to solve for some unknown.
 
 - Students read `y = x + 2;` and think the _equation_ is stored in y, not a _value_.
+  
   ``` Java
   x = 1;
   y = x + 2;
   x = 3;
   System.out.println (y); // what is displayed for y?
   ```
+
   For students with the misconception that the _equation_ is stored, they will incorrectly compute 6
   as what is displayed for y.
 
@@ -176,7 +177,6 @@ Misconceptions
   achieved using the whiteboard, the debugger by stepping through one line of code at a time, and
   examining variables, or using a visualization tool like
   <http://cscircles.cemc.uwaterloo.ca/java_visualize/>.
-
 
 Video
 -----
@@ -189,10 +189,8 @@ Video
 - CS Homework Bytes, _Variable and Assignment, with Elizabeth_<br>
   <https://www.youtube.com/watch?v=fPqGiexXi_Y>
 
-
 Forum discussion
 ---------------------------
 [Lesson 2.02 Declaring and Assigning Variables (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-2/2-02-declaring-assigning-variables)
-
 
 [WS 2.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/WS%202.2.docx

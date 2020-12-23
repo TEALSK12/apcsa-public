@@ -3,21 +3,24 @@ Lesson 1.03 — String & Console Output
 
 Overview
 --------
+
 ### Objectives — _Students will be able to…_
+
 - **Describe** the history of computer science and Java and why they're used today.
 - **Correctly assemble** a complete program with a class header, body, and main method.
 - **Correctly use** print, `println`, and escape sequences.
 
 ### Assessments — _Students will…_
+
 - **Create** starter Pokémon program
 
 ### Homework — _Students will…_
 - **Read** BJP 1.2
 - **Complete** Ch.1 exercises 1-5
 
-
 Materials & Prep
 ----------------
+
 - **Projector and computer**
 - **Whiteboard and marker**
 - **ASCII Pokémon art**
@@ -47,9 +50,9 @@ In this lesson, you will introduce the parts of a program, then have students cr
 to write their very first program ever! (2) Have samples of ASCII art available for them to view,
 and let them know that they will be creating their own pictures today as well.
 
-### Bell-work and Attendance \[5 minutes\]
+### Bell-work and Attendance (5 minutes)
 
-### Introduction to Vocabulary and Syntax \[10 minutes\]
+### Introduction to Vocabulary and Syntax (10 minutes)
 
 1. Begin your lecture with a quick overview of Java and why we're using it.
    - Brief history of Java
@@ -108,7 +111,6 @@ and let them know that they will be creating their own pictures today as well.
    - Finally, bring students' attention to **escape sequences**, and add some quotation marks to
      your sample code as an example.
 
-
 ### Chapter 1: Introduction to Java Programming Questions (15 minutes)
 
 Have students complete the following questions:
@@ -123,6 +125,7 @@ Have students complete the following questions:
   8. Self-Check 1.14: TestOfKnowledge
 
 ### Pokémon Challenge (10 minutes)
+
 On the board or projector, post the following challenge:
 
 Write a program called Welcome that outputs the following:
@@ -134,28 +137,31 @@ Write a program called Welcome that outputs the following:
     z(_(")(")
 
 ### Students Trade Work and Debug (5 minutes)
+
 Have students trade their work and debug each other's programs.
 
-If IDE is available, have students mail you their completed program using the file submission
+If IDE is available, have students submit their completed program using the file submission
 procedure of your choice. Otherwise, have students submit a handwritten form AFTER they have traded
 their paper with a friend to check and debug.
 
-
 Accommodation and Differentiation
 ---------------------------------
+
 If students are struggling with the Pokemon challenge:
+
 - Try pairing up students so they can check each other as they work
 - Write the first line of Pikachu code together as a class, modeling the use of escape sequences
 
 If you have students who are speeding through this lesson, you should encourage them to:
+
 - Add additional pictures or text to their Welcome program,
 - Help a student that is struggling with the material,
 - Create a poster for the classroom with steps (an algorithm!) for checking code for errors (many
   tips can be found in § 1.3).
 
-
 About Pokemon
 -------------
+
 Throughout the AP CS curriculum, we will gradually be building a larger program around Pokemon,
 which is: familiar to male and female students from all socioeconomic backgrounds, available across
 the digital divide as both a card game and a video game, and has been translated into 10 different
@@ -173,9 +179,9 @@ In the final project of the course, students will be developing software that us
 To learn more about the Pokemon storyline, game rules, underlying formulae, and characters, visit
 <http://bulbapedia.bulbagarden.net>.
 
-
 Teacher Prior CS Knowledge
 --------------------------
+
 - The "Hello world!" program is the classic first program taught for many beginner programming
   classes. It demonstrates the simplest way to get output from the program to the user. The Java
   "Hello world!" program is chock full of syntax heavy constructs that would not be particularly
