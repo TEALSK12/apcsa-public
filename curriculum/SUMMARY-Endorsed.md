@@ -92,7 +92,6 @@
 * [Lesson 5.02: Object State & Behavior](Unit5/Lesson-502.md)
 * [Lesson 5.03: Object Initialization: Constructors](Unit5/Lesson-503.md)
 * [Lesson 5.04: Encapsulation](Unit5/Lesson-504.md)
-* [Lesson 5.06a: Data Lab](Unit5/Lesson-506a.md)
 * [Lesson 5.07: Review](Unit5/Lesson-507.md)
 * [Lesson 5.99: (Unit 5 test)](Curriculum-Map.md#599)
 * [Lesson 6.00: Test Review & Reteach](Unit6/Lesson-600.md)
@@ -115,7 +114,7 @@
 * [Lesson 7.99: (Unit 7 test)](Curriculum-Map.md#799)
 * [Test 6 Guide](Unit7/Test-6-Guide.md)
 * [Lesson 8.00: Test Review & Reteach](Unit8/Lesson-800.md)
-
+* [Lesson 5.06a: Data Lab](Unit5/Lesson-506a.md)
 ## [CB Unit 8: 2D Array](Unit8-Map-CB.md)
 
 * [Lesson 4.06: Nested Loop Algorithms & Rectangular Arrays](Unit4/Lesson-406.md)
