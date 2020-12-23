@@ -109,7 +109,6 @@
 * [Lesson 4.07: ArrayList](Unit4/Lesson-407.md)
 * [Lesson 7.01: Searching Algorithms](Unit7/Lesson-701.md)
 * [Lesson 7.02: Sorting Algorithms](Unit7/Lesson-702.md)
-* [Lesson 7.03: Elevens Lab (16 Days)](Unit7/Lesson-703.md)
 * [Lesson 7.04: Review](Unit7/Lesson-704.md)
 * [Lesson 7.99: (Unit 7 test)](Curriculum-Map.md#799)
 * [Test 6 Guide](Unit7/Test-6-Guide.md)
@@ -118,15 +117,14 @@
 ## [CB Unit 8: 2D Array](Unit8-Map-CB.md)
 
 * [Lesson 4.06: Nested Loop Algorithms & Rectangular Arrays](Unit4/Lesson-406.md)
-* [Lesson 4.09a: Steganography Lab](Unit4/Lesson-409a.md)
-* [Lesson 4.09b: Alternative Project - Open-Ended Project](Unit4/Lesson-409b.md)
 * [Lesson 4.10: Review](Unit4/Lesson-410.md)
 * [Lesson 4.99: (Unit 4 test)](Curriculum-Map.md#499)
 * [Lesson 5.00: Test Review & Reteach](Unit5/Lesson-500.md)
 * [Lesson 5.05: Finding & Fixing Errors](Unit5/Lesson-505.md)
 * [Lesson 5.06: Picture Lab (9 Days)](Unit5/Lesson-506.md)
 * [Lesson 5.06b: Alternative Project - Open-Ended Project](Unit5/Lesson-506b.md)
-
+* [Lesson 4.09a: Steganography Lab](Unit4/Lesson-409a.md)
+* [Lesson 4.09b: Alternative Project - Open-Ended Project](Unit4/Lesson-409b.md)
 
 ## [CB Unit 9: Inheritance](Unit9-Map-CB.md)
 
@@ -165,6 +163,7 @@
 * [Character Clash](finalproject/CharacterClashProject.md)
 * [SpaceBattleArena](http://mikeware.github.io/SpaceBattleArena/)
 * [TEALS Minecraft Modding](https://tealsk12.github.io/teals-minecraft/)
+* [Elevens Lab (16 Days)](Unit7/Lesson-703.md)
 
 ## Culture Days (4 days)
 
