@@ -57,6 +57,9 @@
 * [Lesson 3.09: Relational Operators & if/else](Unit3/Lesson-309.md)
 * [Lesson 3.10: Nested if/else Statements](Unit3/Lesson-310.md)
 * [Lesson 3.11: Reducing Redundancy](Unit3/Lesson-311.md)
+* [Lesson 3.16: Boolean Logic (2 Days)](Unit3/Lesson-316.md)
+* [Lesson 4.08: Finding & Fixing Errors](Unit4/Lesson-408.md)
+* [Lesson 4.09: Magpie Lab (5 Days)](Unit4/Lesson-409.md)
 
 ## [CB Unit 4: Iteration](Unit4-Map-CB.md)
 
@@ -74,7 +77,6 @@
 * [Lesson 3.13: while Loops](Unit3/Lesson-313.md)
 * [Lesson 3.14: Random Numbers](Unit3/Lesson-314.md)
 * [Lesson 3.15: Fencepost & Sentinel Loops](Unit3/Lesson-315.md)
-* [Lesson 3.16: Boolean Logic (2 Days)](Unit3/Lesson-316.md)
 * [Lesson 3.17: Finding & Fixing Errors](Unit3/Lesson-317.md)
 * [Lesson 3.18: Consumer Lab](Unit3/Lesson-318.md)
 * [Lesson 3.18a: Alternative Project - Calculator Project](Unit3/Lesson-318a.md)
@@ -90,10 +92,7 @@
 * [Lesson 5.02: Object State & Behavior](Unit5/Lesson-502.md)
 * [Lesson 5.03: Object Initialization: Constructors](Unit5/Lesson-503.md)
 * [Lesson 5.04: Encapsulation](Unit5/Lesson-504.md)
-* [Lesson 5.05: Finding & Fixing Errors](Unit5/Lesson-505.md)
-* [Lesson 5.06: Picture Lab (9 Days)](Unit5/Lesson-506.md)
 * [Lesson 5.06a: Data Lab](Unit5/Lesson-506a.md)
-* [Lesson 5.06b: Alternative Project - Open-Ended Project](Unit5/Lesson-506b.md) 
 * [Lesson 5.07: Review](Unit5/Lesson-507.md)
 * [Lesson 5.99: (Unit 5 test)](Curriculum-Map.md#599)
 * [Lesson 6.00: Test Review & Reteach](Unit6/Lesson-600.md)
@@ -120,13 +119,15 @@
 ## [CB Unit 8: 2D Array](Unit8-Map-CB.md)
 
 * [Lesson 4.06: Nested Loop Algorithms & Rectangular Arrays](Unit4/Lesson-406.md)
-* [Lesson 4.08: Finding & Fixing Errors](Unit4/Lesson-408.md)
-* [Lesson 4.09: Magpie Lab (5 Days)](Unit4/Lesson-409.md)
 * [Lesson 4.09a: Steganography Lab](Unit4/Lesson-409a.md)
 * [Lesson 4.09b: Alternative Project - Open-Ended Project](Unit4/Lesson-409b.md)
 * [Lesson 4.10: Review](Unit4/Lesson-410.md)
 * [Lesson 4.99: (Unit 4 test)](Curriculum-Map.md#499)
 * [Lesson 5.00: Test Review & Reteach](Unit5/Lesson-500.md)
+* [Lesson 5.05: Finding & Fixing Errors](Unit5/Lesson-505.md)
+* [Lesson 5.06: Picture Lab (9 Days)](Unit5/Lesson-506.md)
+* [Lesson 5.06b: Alternative Project - Open-Ended Project](Unit5/Lesson-506b.md)
+
 
 ## [CB Unit 9: Inheritance](Unit9-Map-CB.md)
 
