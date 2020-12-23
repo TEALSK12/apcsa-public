@@ -279,7 +279,6 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 |  **Guide**         |  [Test 2 Guide][]
 |  **In Class**      |  Test 2 Section I Test 2 Section II
 
-
 ## 4.00
 
 | [Lesson 4.00][]   | _Test Review & Reteach_
@@ -289,7 +288,6 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | **In Class**    | Review test
 | **Reading**     | 7.1 up to “_Arrays and Methods_”
 | **Homework**    | Test corrections
-
 
 ## 4.PP
 
@@ -328,7 +326,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 [Lesson 4.PP]: Lesson-4PP.md
 
 [Algorithm for Solving Problems]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx
-[Curriculum Assets]: Assets.md
+[Curriculum Assets]: ./Assets.md
 [DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
 [Equestria]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Map%20of%20Equestria.pptx
 [Frac Calc]: Assets.md

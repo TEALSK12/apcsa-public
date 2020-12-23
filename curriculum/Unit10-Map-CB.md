@@ -121,7 +121,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [8.06]: Unit8/Lesson-806.md
 [8.07]: #807
 [8.08]: Unit8/Lesson-808.md
-[Curriculum Assets]: ../Assets.md
+[Curriculum Assets]: ./Assets.md
 
 [Lesson 8.00]: Unit8/Lesson-800.md
 [Lesson 8.01]: Unit8/Lesson-801.md

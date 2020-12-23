@@ -186,7 +186,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [7.03]: Unit7Lesson-703.md
 [7.04]: Unit7Lesson-704.md
 [8.00]: Unit8/Lesson-800.md
-[Curriculum Assets]: ../Assets.md
+[Curriculum Assets]: ./Assets.md
 [Lesson 4.07]: Unit4/Lesson-407.md
 [Lesson 7.00]: Unit7Lesson-700.md
 [Lesson 7.01]: Unit7Lesson-701.md

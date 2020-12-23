@@ -269,7 +269,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [4.XX]: Unit4/Lesson-4XX.md
 [5.00]: Unit5/Lesson-500.md
 [5.06]: Unit5/Lesson-506.md
-[Curriculum Assets]: ../Assets.md
+[Curriculum Assets]: ./Assets.md
 
 [Lesson 4.00]: Unit4/Lesson-400.md
 [Lesson 4.01]: Unit4/Lesson-401.md
