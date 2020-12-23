@@ -116,9 +116,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 [5.06a]: Unit5/Lesson-506a.md
 [5.06b]: Unit5/Lesson-506b.md
 [5.07]: Unit5/Lesson-507.md
-[Curriculum Assets]: Assets.md
+[Curriculum Assets]: /Assets.md
 [6.00]: Unit6/Lesson-600.md
-
 
 [Lesson 5.06a]: Unit5/Lesson-506a.md
 [Lesson 5.07]: Unit5/Lesson-507.md
