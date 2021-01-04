@@ -6,6 +6,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 - [Unit 3 Slides][]
 - [Unit 3 Word Bank][]
 - [Curriculum Assets][]
+- [Magpie Chatbot Lab][]
 
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
@@ -15,6 +16,13 @@ chronological order. The order has been adapted to follow the College Board AP C
 |  [3.16][].1  | Boolean Logic                | SC 5.27, 5.29 [WS 3.16][] (RPS, Pig) [DeMorgan’s Law][], [Poster 3.16.1][], [Poster 3.16.2][]  | 5.3  | Outline   Chap 5 (through 5.3)   | | | |
 |  [3.16][].2  | Boolean Logic (Day 2)        |   |   | | | | |
 | [3.PP][] | Unit 3 Personal Progress Check Boolean Expressions and if Statements | | | | | | |
+| [4.08][] |Finding & Fixing Errors|Fix HW|Review ch 7, 10.1 for Magpie lab|Submit questions for review| | | |
+| [4.09][] 01|[Magpie Chatbot Lab][] (day&nbsp;1)|Magpie Chatbot Lab Activity 1 & 2|Barrons ch 6 (8th or later: ch 7)|| | | |
+| [4.09][] 02|[Magpie Chatbot Lab][] (day&nbsp;2)|Magpie Chatbot Lab Activity 2|Barrons ch 6 (8th or later: ch 7)|| | | |
+| [4.09][] 03|[Magpie Chatbot Lab][] (day&nbsp;3)|Magpie Chatbot Lab Activity 3|Barrons ch 6 (8th or later: ch 7)|| | | |
+| [4.09][] 04|[Magpie Chatbot Lab][] (day&nbsp;4)|Magpie Chatbot Lab Activity 4||Barrons ch 6 (8th or later: ch 7)practice questions| | | |
+| [4.09][] 05|[Magpie Chatbot Lab][] (day&nbsp;5)|Magpie Chatbot Lab Activity 5||Check and correct Barrons ch 6 (8th or later: ch 7) questions| | | |
+| [4.XX][] |[Programming Project][](Magpie Alternative)| | | |  [VAR-2][], [CON-2][] | [VAR-2.F][], [VAR-2.G][], [CON-2.N][] | |
 
 ## 3.09
 
@@ -60,6 +68,11 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 |  [Lesson 3.16][]     |  _Boolean Logic (Day 2)_
 |:----------------|:-----------------------------
+|  **Objectives**    |  Students will work in pairs to write a game that plays Rock Paper Scissors.
+|  **Assessments**   |  Students will submit a program at the end of 2 or 3 class periods.
+|  **In Class**      |  SC 5.27, 5.29 [WS 3.16][] (RPS, Pig) [DeMorgan’s Law][] [Poster 3.16.1][] [Poster 3.16.2][]
+|  **Reading**       |  5.3
+|  **Homework**      |  Outline   Chap 5 (through 5.3)
 
 ## 3.PP
 
@@ -68,6 +81,75 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **Objectives**  | Identify weaknesses in student's Unit 3 knowledge
 | **Assessments** | Students will take Unit 3 Personal Progress Check
 
+## 4.08
+
+| [Lesson 4.08][]   | _Finding & Fixing Errors_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will find errors in their returned homework assignments, and correct their code.
+| **Assessments** | Students will re-submit all homework assignments with corrected answers.
+| **In Class**    | Fix homework
+| **Reading**     | Review ch 7, 10.1 for Magpie lab
+| **Homework**    | Submit questions for review
+
+## 4.09.1
+
+| [Lesson 4.09][]   | _Magpie Lab (Day 1)_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will complete a long-form lab, using if statements, algorithms, the String class, arrays, and ArrayLists.
+| **Assessments** | Students will complete the College Board’s AP CS A Magpie Chatbot Lab.  Students will answer assessment questions on the fourth class exam.
+| **In Class**    | Lab: [Magpie Chatbot Lab][]  Magpie Chatbot Lab Activity 1 & 2
+| **Reading**     | 
+| **Homework**    |
+
+## 4.09.2
+
+| [Lesson 4.09][]   | _Magpie Lab (Day 2)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Magpie Chatbot Lab Activity 2
+| **Reading**     | Barrons ch 6 (8th or later: ch 7)
+| **Homework**    |
+
+## 4.09.3
+
+| [Lesson 4.09][]   | _Magpie Lab (Day 3)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Magpie Chatbot Lab Activity 3
+| **Reading**     | Barrons ch 6 (8th or later: ch 7)
+| **Homework**    |
+
+## 4.09.4
+
+| [Lesson 4.09][]   | _Magpie Lab (Day 4)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Magpie Chatbot Lab Activity 4
+| **Reading**     | Barrons ch 6 (8th or later: ch 7)
+| **Homework**    | Barrons ch 6 (8th or later: ch 7)practice questions
+
+## 4.09.5
+
+| [Lesson 4.09][]   | _Magpie Lab (Day 5)_
+|:----------------|:-----------------------------
+| **Objectives**  |
+| **Assessments** |
+| **In Class**    | Magpie Chatbot Lab Activity 5
+| **Reading**     |
+| **Homework**    | Check and correct Barrons ch 6 (8th or later: ch 7) questions
+
+## 4.XX
+
+| [Lesson 4.XX][]    |_Programming Project(Magpie Alternative)_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will be able to conduct user-centered research, plan and create, test evaluate and share
+| **Assessments** | Students will apply if-else, String methods to implement a software application and Submit a complete, functional program.
+| **In Class**    |
+| **Reading**     |
+| **Homework**    | Conduct user-centered research to find design opportunities and barriers.
 ## Abbreviations
 
 - **WS** — Worksheet
@@ -81,7 +163,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [3.16]: Unit3/Lesson-316.md
 
 [Algorithm for Solving Problems]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx
-[Curriculum Assets]: ../Assets.md
+[Curriculum Assets]: ./Assets.md
 [DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
 [Equestria]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Map%20of%20Equestria.pptx
 [Frac Calc]: ../Assets.md#fraccalc
@@ -101,6 +183,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 [Test 2 Guide]: Test-2-Guide.md
 [Unit 3 Slides]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Unit3.pptx
 [Unit 3 Word Bank]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Unit%203%20Word%20Bank.docx
+[Magpie Chatbot Lab]: ../Assets.md#magpie
+
 
 [CON-1.A.1]:eu_lo_ek.md#con-1.a.1
 [CON-1.A.2]:eu_lo_ek.md#con-1.a.2

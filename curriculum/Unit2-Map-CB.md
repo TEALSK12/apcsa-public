@@ -134,7 +134,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [3.08]: Unit3/Lesson-308.md
 
 [Algorithm for Solving Problems]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Algorithm%20for%20Solving%20Problems.docx
-[Curriculum Assets]: ../Assets.md
+[Curriculum Assets]: ./Assets.md
 [DeMorgan’s Law]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/DeMorgan%27s%20Law.pptx
 [Equestria]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Map%20of%20Equestria.pptx
 [Calculator]: Unit3/Lesson-3XX1.md

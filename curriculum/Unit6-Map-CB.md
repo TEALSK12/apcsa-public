@@ -101,7 +101,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [4.04]: Unit4/Lesson-404.md
 [4.05]: Unit4/Lesson-405.md
 
-[Curriculum Assets]: ../Assets.md
+[Curriculum Assets]: ./Assets.md
 [Lesson 4.00]: Unit4/Lesson-400.md
 [Lesson 4.01]: Unit4/Lesson-401.md
 [Lesson 4.02]: Unit4/Lesson-402.md
@@ -112,7 +112,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 [6.PP]: Lesson-6PP.md
 [Lesson 6.PP]: Lesson-6PP.md
 
-[Magpie Chatbot Lab]: ../Assets.md#magpie
+[Magpie Chatbot Lab]: ./Assets.md#magpie
 [Poster 4.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.1.pptx
 [Poster 4.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.2.pptx
 [Poster 4.7]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/Poster%204.7.pptx

@@ -296,7 +296,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 [6.08]: Unit6/Lesson-608.md
 [6.09]: Unit6/Lesson-609.md
 [7.00]: Unit7/Lesson-700.md
-[Curriculum Assets]: ../Assets.md
+[Curriculum Assets]: ./Assets.md
 [Example 6.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Example%206.1.jpg
 
 [Lesson 6.00]: Unit6/Lesson-600.md

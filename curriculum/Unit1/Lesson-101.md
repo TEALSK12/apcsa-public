@@ -180,3 +180,5 @@ Forum discussion
 
 [WS 1.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.1.docx
 [WS 1.1.2]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.2.docx
+[WS 1.1.1 VS Code]: https://github.com/TEALSK12/apcsa-public/raw/master/curriculum/Unit1/WS%201.1.1%20VS%20Code.docx
+[WS 1.1.2 VS Code]https://github.com/TEALSK12/apcsa-public/raw/master/curriculum/Unit1/WS%201.1.2%20VS%20Code.docx
