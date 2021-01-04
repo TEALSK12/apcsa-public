@@ -121,9 +121,9 @@
 * [Lesson 5.00: Test Review & Reteach](Unit5/Lesson-500.md)
 * [Lesson 5.05: Finding & Fixing Errors](Unit5/Lesson-505.md)
 * [Lesson 5.06: Option 1 - Picture Lab (9 Days)](Unit5/Lesson-506.md)
-* [Lesson 5.06b: Option 2 - Open-Ended Project](Unit5/Lesson-506b.md)
-* [Lesson 4.09a: Option 1 - Steganography Lab](Unit4/Lesson-409a.md)
-* [Lesson 4.09b: Option 2 - Open-Ended Project](Unit4/Lesson-409b.md)
+* [Lesson 5.06b: Option 2 - Open-Ended Project 1](Unit5/Lesson-506b.md)
+* [Lesson 4.09a: Option 3 - Steganography Lab](Unit4/Lesson-409a.md)
+* [Lesson 4.09b: Option 4 - Open-Ended Project 2](Unit4/Lesson-409b.md)
 
 ## [CB Unit 9: Inheritance](Unit9-Map-CB.md)
 
