@@ -1,12 +1,8 @@
 TEALS AP CS A Curriculum Assets
 ====================================================================================================
 
-The TEALS AP CS A Curriculum assets may be downloaded from the [Additional Curriculum Materials][]
-section of the TEALS Dashboard
-
-[Note: you need to be a current TEALS volunteer or classroom teacher to access the TEALS Dashboard]
-
-The latest version is TEALS-APCSA-Curriculum-v2.0.2.zip.
+The TEALS AP CS A curriculum, tests, answer keys, resources and exam can be downloaded from the [Additional Curriculum Materials][]
+section of the TEALS Dashboard. These items are protected to give the teaching teams the control over when to release these items to their students.
 
 Contents
 --------
@@ -44,5 +40,3 @@ Contents
   - `/Unit7/` — Assets for Unit 7: Searching & Sorting.
   - `/Unit8/` — Assets for Unit 8: Recursion.
   - `/Unit9/` — Assets for Unit 9: AP Test Review.
-
-[Additional Curriculum Materials]: https://www.tealsk12.org/dashboard/curriculum-repository/

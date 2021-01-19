@@ -1,4 +1,4 @@
-Test 5 Guide
+Unit 6 Test Guide
 ====================================================================================================
 
 As written, the test for this unit is probably too long for students to complete in one class
