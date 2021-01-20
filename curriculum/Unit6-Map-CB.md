@@ -93,7 +93,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 - **EX** — Exercise (in the textbook)
 - **PP** — Programming Project (in the textbook)
 
-
 [4.00]: Unit4/Lesson-400.md
 [4.01]: Unit4/Lesson-401.md
 [4.02]: Unit4/Lesson-402.md

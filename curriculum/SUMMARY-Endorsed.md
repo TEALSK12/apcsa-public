@@ -83,7 +83,7 @@
 * [Lesson 3.18a: Option 2 - Calculator Project](Unit3/Lesson-318a.md)
 * [Lesson 3.18b: Option 3 - Fraction Calculator](Assets.md)
 * [Lesson 2.11: Unit Review](Unit2/Lesson-211.md.html)
-* [Lesson 3.19: Test Review](Unit3/Lesson-319.md)
+* [Lesson 3.19: Unit Review](Unit3/Lesson-319.md)
 * Unit 4 test
 
 ## [CB Unit 5: Writing Classes](Unit5-Map-CB.md)
@@ -105,7 +105,7 @@
 * [Lesson 4.03: Printing, Searching, & Testing for Equality (2 Days)](Unit4/Lesson-403.md)
 * [Lesson 4.04: Reference Semantics](Unit4/Lesson-404.md)
 * [Lesson 4.05: Shifting Values & Arrays of Objects](Unit4/Lesson-405.md)
-* [Lesson 4.99: Unit Review)](Unit4/Unit4-Map.md.html#499)
+* [Lesson 4.99: Unit Review](Unit4/Unit4-Map.md.html#499)
 * Unit 6 Test
 
 ## [CB Unit 7: ArrayList](Unit7-Map-CB.md)
@@ -121,11 +121,11 @@
 ## [CB Unit 8: 2D Array](Unit8-Map-CB.md)
 
 * [Lesson 4.06: Nested Loop Algorithms & Rectangular Arrays](Unit4/Lesson-406.md)
-* [Lesson 4.10: Review](Unit4/Lesson-410.md)
 * [Lesson 5.06: Option 1 - Picture Lab (9 Days)](Unit5/Lesson-506.md)
 * [Lesson 5.06b: Option 2 - Open-Ended Project 1](Unit5/Lesson-506b.md)
 * [Lesson 4.09a: Option 3 - Steganography Lab](Unit4/Lesson-409a.md)
 * [Lesson 4.09b: Option 4 - Open-Ended Project 2](Unit4/Lesson-409b.md)
+* [Lesson 4.10: Review](Unit4/Lesson-410.md)
 * Unit 8 Test
 
 ## [CB Unit 9: Inheritance](Unit9-Map-CB.md)
