@@ -18,7 +18,7 @@
 * [CB Unit 8: 2D Array](Unit8-Map-CB.md)
 * [CB Unit 9: Inheritance](Unit9-Map-CB.md)
 * [CB Unit 10: Recursion](Unit10-Map-CB.md)
-* [Test Review (3 weeks)](Unit9/Unit9-Map.md)
+* [Unit Review (3 weeks)](Unit9/Unit9-Map.md)
 * [Post-AP Exam Projects (4–5 weeks)](UnitA/UnitA-Map.md)
 
 ## [CB Unit 1: Primitive Types](Unit1-Map-CB.md)
@@ -37,12 +37,12 @@
 * [Lesson 2.02: Declaring & Assigning Variables](Unit2/Lesson-202.md)
 * [Lesson 2.03: String Concatenation & Increment Decrement Operators](Unit2/Lesson-203.md)
 * [Lesson 2.04: Mixing Types & Casting](Unit2/Lesson-204.md)
-* [Lesson 1.09: Review](Unit1/Lesson-109.md)
+* [Lesson 1.09: Unit Review](Unit1/Lesson-109.md)
 * Unit 1 Test
 
 ## [CB Unit 2: Using Objects](Unit2-Map-CB.md)
 
-* [Lesson 2.00: Test Review & Reteach](Unit2/Lesson-200.md)
+* [Lesson 3.00: Test Review & Reteach](Unit3/Lesson-300.md.html)
 * [Lesson 3.01: Parameters](Unit3/Lesson-301.md)
 * [Lesson 3.02: Limitations of Parameters & Multiple Parameters](Unit3/Lesson-302.md)
 * [Lesson 3.03: Return Values](Unit3/Lesson-303.md)
@@ -61,12 +61,12 @@
 * [Lesson 3.16: Boolean Logic (2 Days)](Unit3/Lesson-316.md)
 * [Lesson 4.08: Finding & Fixing Errors](Unit4/Lesson-408.md)
 * [Lesson 4.09: Optional - Magpie Lab (5 Days)](Unit4/Lesson-409.md)
-* [Lesson 2.11: Test Review](Unit2/Lesson-211.md.html)
+* [Lesson 3.19: Unit Review](Unit3/Lesson-319.md.html)
 * Unit 3 Test - Student are assessed on both Unit 2 and Unit 3.
 
 ## [CB Unit 4: Iteration](Unit4-Map-CB.md)
 
-* [Lesson 4.00: Test Review & Reteach](Unit4/Lesson-400.md)
+* [Lesson 2.00: Test Review & Reteach](Unit2/Lesson-200.md)
 * [Lesson 2.05: for Loops](Unit2/Lesson-205.md)
 * [Lesson 2.06: nested for Loops](Unit2/Lesson-206.md)
 * [Lesson 2.07: Scope & Pseudocode](Unit2/Lesson-207.md)
@@ -82,6 +82,7 @@
 * [Lesson 3.18: Option 1 - Consumer Lab](Unit3/Lesson-318.md)
 * [Lesson 3.18a: Option 2 - Calculator Project](Unit3/Lesson-318a.md)
 * [Lesson 3.18b: Option 3 - Fraction Calculator](Assets.md)
+* [Lesson 2.11: Unit Review](Unit2/Lesson-211.md.html)
 * [Lesson 3.19: Test Review](Unit3/Lesson-319.md)
 * Unit 4 test
 
@@ -92,17 +93,20 @@
 * [Lesson 5.02: Object State & Behavior](Unit5/Lesson-502.md)
 * [Lesson 5.03: Object Initialization: Constructors](Unit5/Lesson-503.md)
 * [Lesson 5.04: Encapsulation](Unit5/Lesson-504.md)
-* [Lesson 5.07: Test Review](Unit5/Lesson-507.md)
+* [Lesson 5.05: Finding & Fixing Errors](Unit5/Lesson-505.md)
+* [Lesson 5.07: Unit Review](Unit5/Lesson-507.md)
 * Unit 5 test
 
 ## [CB Unit 6: Array](Unit6-Map-CB.md)
 
-* [Lesson 6.00: Test Review & Reteach](Unit6/Lesson-600.md)
+* [Lesson 4.00: Test Review & Reteach](Unit4/Lesson-400.md.html)
 * [Lesson 4.01: Array Basics](Unit4/Lesson-401.md)
 * [Lesson 4.02: For-Each Loop & Arrays Class](Unit4/Lesson-402.md)
 * [Lesson 4.03: Printing, Searching, & Testing for Equality (2 Days)](Unit4/Lesson-403.md)
 * [Lesson 4.04: Reference Semantics](Unit4/Lesson-404.md)
 * [Lesson 4.05: Shifting Values & Arrays of Objects](Unit4/Lesson-405.md)
+* [Lesson 4.99: Unit Review)](Unit4/Unit4-Map.md.html#499)
+* Unit 6 Test
 
 ## [CB Unit 7: ArrayList](Unit7-Map-CB.md)
 
@@ -111,16 +115,13 @@
 * [Lesson 7.01: Searching Algorithms](Unit7/Lesson-701.md)
 * [Lesson 7.02: Sorting Algorithms](Unit7/Lesson-702.md)
 * [Lesson 5.06a: Data Lab](Unit5/Lesson-506a.md)
-* [Lesson 7.04: Test Review](Unit7/Lesson-704.md)
+* [Lesson 7.04: Unit Review](Unit7/Lesson-704.md)
 * Unit 7 test
 
 ## [CB Unit 8: 2D Array](Unit8-Map-CB.md)
 
-* [Lesson 8.00: Test Review & Reteach](Unit8/Lesson-800.md)
 * [Lesson 4.06: Nested Loop Algorithms & Rectangular Arrays](Unit4/Lesson-406.md)
 * [Lesson 4.10: Review](Unit4/Lesson-410.md)
-* [Lesson 5.00: Test Review & Reteach](Unit5/Lesson-500.md)
-* [Lesson 5.05: Finding & Fixing Errors](Unit5/Lesson-505.md)
 * [Lesson 5.06: Option 1 - Picture Lab (9 Days)](Unit5/Lesson-506.md)
 * [Lesson 5.06b: Option 2 - Open-Ended Project 1](Unit5/Lesson-506b.md)
 * [Lesson 4.09a: Option 3 - Steganography Lab](Unit4/Lesson-409a.md)
@@ -129,6 +130,7 @@
 
 ## [CB Unit 9: Inheritance](Unit9-Map-CB.md)
 
+* [Lesson 6.00: Test Review & Reteach](Unit6/Lesson-600.md)
 * [Lesson 6.01: Inheritance Basics (2 Days)](Unit6/Lesson-601.md)
 * [Lesson 6.02: Overriding Methods & Accessing Inherited Code](Unit6/Lesson-602.md)
 * [Lesson 6.03: Interacting with the Object Superclass](Unit6/Lesson-603.md)
@@ -139,18 +141,19 @@
 * [Lesson 6.07a: Option 2 - Celebrity Lab](Unit6/Lesson-607a.md)
 * [Lesson 6.07b: Option 3 - Text Excel](Assets.md)
 * [Lesson 6.08: Finding & Fixing Errors](Unit6/Lesson-608.md)
-* [Lesson 6.09: Review](Unit6/Lesson-609.md)
+* [Lesson 6.09: Unit Review](Unit6/Lesson-609.md)
 * Unit 9 Test
 
 ## [CB Unit 10: Recursion](Unit10-Map-CB.md)
 
+* [Lesson 8.00: Test Review & Reteach](Unit8/Lesson-800.md.html)
 * [Lesson 8.01: Thinking Recursively](Unit8/Lesson-801.md)
 * [Lesson 8.02: Writing Recursive Solutions](Unit8/Lesson-802.md)
 * [Lesson 8.03: Mechanics of Recursion](Unit8/Lesson-803.md)
 * [Lesson 8.04: MergeSort](Unit8/Lesson-804.md)
 * [Lesson 8.05: Finding & Fixing Errors](Unit8/Lesson-805.md)
 * [Lesson 8.06: Review](Unit8/Lesson-806.md)
-* [Lesson 8.08: Quiz Review & Reteach](Unit8/Lesson-808.md)
+* [Lesson 8.08: Unit Review](Unit8/Lesson-808.md)
 * Unit 10 Test
 
 ## [AP Test Review (3 weeks)](Unit9/Unit9-Map.md)
