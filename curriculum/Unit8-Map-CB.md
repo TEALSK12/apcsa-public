@@ -13,15 +13,12 @@ chronological order. The order has been adapted to follow the College Board AP C
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
 | [4.06][] |Nested Loop Algorithms & Rectangular Arrays|[WS 4.6][]|12.1 up to “Structure of recursive solutions”|SC [TBD][]| [VAR-2][], [CON-2][] | [VAR-2.F][], [VAR-2.G][], [CON-2.N][] | [VAR-2.F.1][], [VAR-2.F.2][], [VAR-2.F.3][], [VAR-2.F.4][], [VAR-2.G.1][], [CON-2.N.2][] |
 | [4.07][] |Arraylists|Grudgeball  [Poster 4.7][]|10.1 up to “_Adding to and Removing from an ArrayList_”|Outline ch 7 and 10.1| | | |
-| [4.09a][] 01|Steganography Lab (day&nbsp;1)|Steganography Lab Activity 1|Barrons ch 6 (8th or later: ch 7)|| | | |
-| [4.09a][] 02|Steganography Lab (day&nbsp;2)|Steganography Lab Activity 2|Barrons ch 6 (8th or later: ch 7)|| | | |
-| [4.09a][] 03|Steganography Lab (day&nbsp;3)|Steganography Lab Activity 3|Barrons ch 6 (8th or later: ch 7)|| | | |
-| [4.09a][] 04|Steganography Lab (day&nbsp;4)|Steganography Lab Activity 4|Barrons ch 6 (8th or later: ch 7)|| | | |
-| [4.09a][] 05|Steganography Lab (day&nbsp;5)|Steganography Lab Activity 5||Barrons ch 6 (8th or later: ch 7)practice questions| | | |
-| [4.09a][] 06|Steganography Lab (day&nbsp;6)|Steganography Lab Activity 5 (day 2)||Check and correct Barrons ch 6 (8th or later: ch 7) questions| | | |
-| [4.10][] |Review|Review questions [WS 4.10][] practice test||Study| | | |
-| 4.99 |Unit 4 test|Test 3 Section I  Test 3 Section II||| | | |
-| [5.00][]   |Test Review & Reteach|Review test| |Test corrections| | | |
+| [4.09a][] 01|Steganography Lab (day 1)|Steganography Lab Activity 1|Barrons ch 6 (8th or later: ch 7)|| | | |
+| [4.09a][] 02|Steganography Lab (day 2)|Steganography Lab Activity 2|Barrons ch 6 (8th or later: ch 7)|| | | |
+| [4.09a][] 03|Steganography Lab (day 3)|Steganography Lab Activity 3|Barrons ch 6 (8th or later: ch 7)|| | | |
+| [4.09a][] 04|Steganography Lab (day 4)|Steganography Lab Activity 4|Barrons ch 6 (8th or later: ch 7)|| | | |
+| [4.09a][] 05|Steganography Lab (day 5)|Steganography Lab Activity 5||Barrons ch 6 (8th or later: ch 7)practice questions| | | |
+| [4.09a][] 06|Steganography Lab (day 6)|Steganography Lab Activity 5 (day 2)||Check and correct Barrons ch 6 (8th or later: ch 7) questions| | 
 | [5.05][]   |Finding & Fixing Errors|Fix HW|Review ch 8 for Picture Lab|Submit questions for review|[MOD-2][],[MOD-3][] |[MOD-2.A][],[MOD-3.A][] |[MOD-2.A.4][],[MOD-3.A.1][],[MOD-3.A.2][],[MOD-3.A.3][],[MOD-3.A.4][]|
 | [5.06][] 01|[Picture Lab][] (day 1)|Picture Lab Activity 1 & 2  Picture Lab||Summarize notes since last exam| | | |
 | [5.06][] 02|[Picture Lab][] (day 2)|Picture Lab Activity 3 & 4, notebook checks||Outline ch 8| | | |
@@ -34,6 +31,8 @@ chronological order. The order has been adapted to follow the College Board AP C
 | [5.06][] 09|[Picture Lab][] (day 9)|Picture Lab Activity 9, cont.||Submit questions for review| | | |
 | [5.06b][]   |PictureLab Alternative | | | | [MOD-2][], [MOD-3][], [VAR-1][] | [MOD-2.A][], [MOD-2.D][], [MOD-2.E][], [MOD-2.F][], [MOD-2.G][], [MOD-3.A][], [VAR-1.G][], [VAR-1.H][] | |
 | [8.PP][] | Unit 8 Personal Progress Check 2D Array | | | | | | |
+| [4.10][] |Review|Review questions [WS 4.10][] practice test||Study| | | |
+| 4.99 |Unit 8 test|Unit 8 Test Section I; Unit 8 Test Section II||| | | |
 
 ## 4.06
 
@@ -115,32 +114,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 | **In Class**    | Steganography Lab Activity 5 (day 2)
 | **Reading**     |
 | **Homework**    | Check and correct Barrons ch 6 (8th or later: ch 7) questions
-
-## 4.10
-
-| [Lesson 4.10][]  | _Review_
-|:----------------|:-----------------------------
-| **Objectives**  | Students will identify weaknesses in their Unit 4 knowledge.
-| **Assessments** | Students will create a personalized list of review topics to guide tonight’s study session.
-| **In Class**    | Review questions  [WS 4.10][]  Practice test
-| **Reading**     |
-| **Homework**    | Study
-
-## 4.99
-
-| Unit 4 Test     | _Arrays, Lists & Files_
-|:----------------|:-----------------------------
-| **In Class**    | Test 3 Section I  Test 3 Section II
-
-## 5.00
-
-| [Lesson 5.00][]   | _Test Review & Reteach_
-|:----------------|:-----------------------------
-| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
-| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
-| **In Class**    | Review test
-| **Reading**     | 4.1 up to “_Nested If/Else Statements_”
-| **Homework**    | Test corrections
 
 ## 5.06.1
 
@@ -246,6 +219,22 @@ chronological order. The order has been adapted to follow the College Board AP C
 |:----------------|:-----------------------------
 | **Objectives**  | Identify weaknesses in student's Unit 8 knowledge
 | **Assessments** | Students will take Unit 8 Personal Progress Check
+
+## 4.10
+
+| [Lesson 4.10][]  | _Review_
+|:----------------|:-----------------------------
+| **Objectives**  | Students will identify weaknesses in their Unit 4 knowledge.
+| **Assessments** | Students will create a personalized list of review topics to guide tonight’s study session.
+| **In Class**    | Review questions  [WS 4.10][]  Practice test
+| **Reading**     |
+| **Homework**    | Study
+
+## 4.99
+
+| Unit 8 Test     | _Arrays, Lists & Files_
+|:----------------|:-----------------------------
+| **In Class**    | Unit 8 Test Section I; Unit 8 Test Section II
 
 ## Abbreviations
 

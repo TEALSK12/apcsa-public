@@ -10,48 +10,62 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 | LP | Title | In Class | Reading | Homework | Enduring Understanding | Learning Objective | Essential knowledge |
 | :-- | :-- | :----- | :--- | :----- | :-- | :-- | :-- |
-| [5.01][]   |Object Oriented Programming|SC 8.1-8.5<br>[WS 5.1.1][]|8.1||[MOD-2][] |[MOD-2.D][],[MOD-2.E][],[MOD-2.G][] |[MOD-2.D.6][],[MOD-2.D.7][][][],[MOD-2.E][],[MOD-2.G][]|
+| [5.00][]   |Test Review & Reteach|Review test|8.1|Test corrections | | | |
+| [5.01][]   |Object Oriented Programming|SC 8.1-8.5 [WS 5.1.1][]|8.1||[MOD-2][] |[MOD-2.D][],[MOD-2.E][],[MOD-2.G][] |[MOD-2.D.6][],[MOD-2.D.7][][][],[MOD-2.E][],[MOD-2.G][]|
 | [5.02][]   |Object State & Behavior|[WS 5.2][]|8.2 up to “Mutators and Accessors.”|SC 8.9-8.11, 8.13-8.16|[MOD-2][],[VAR-1][]|[MOD-2.G][],[VAR-1.G][]|[MOD-2.G.5][],[VAR-1.G.1][],[VAR-1.G.2][]|
-| [5.03][]   |Object Initialization: Constructors|[WS 5.3.1][]<br>[WS 5.3.2][]|8.3 up to “The Keyword this.”||[MOD-2][]|[MOD-2.A][],[MOD-2.B][],[VAR-1.H][]|[MOD-2.A.1][],[MOD-2.A.5][],[MOD-2.A][],[MOD-2.B.2][],[MOD-2.B.3][][MOD-2.B.5][],[VAR-1.H.1][],[VAR-1.H.2][]|
+| [5.03][]   |Object Initialization: Constructors|[WS 5.3.1][] [WS 5.3.2][]|8.3 up to “The Keyword this.”||[MOD-2][]|[MOD-2.A][],[MOD-2.B][],[VAR-1.H][]|[MOD-2.A.1][],[MOD-2.A.5][],[MOD-2.A][],[MOD-2.B.2][],[MOD-2.B.3][][MOD-2.B.5][],[VAR-1.H.1][],[VAR-1.H.2][]|
 | [5.04][]   |Encapsulation|[WS 5.4][] Mini-lessons|8.4|SC 8.22-8.28|[MOD-2][],[MOD-3][]|[MOD-2.A][],[MOD-2.F][],[MOD-3.A][]|[MOD-2.A.2][],[MOD-2.A.4][],[MOD-2.A.6][],[MOD-2.D.1][],[MOD-2.E.2][],[MOD-2.F.1][],[MOD-3.A.1][],[MOD-3.A.2][],[MOD-3.A.3][],[MOD-3.A.4][]|
 | [5.07][]   |Review|Review question  [WS 5.7][] Test practice||Study| | | |
-|  5.99    |(Unit 5 test)|Test 4 Section I  Test 4 Section II|| | | | |
-| [6.00][] |Test Review & Reteach|(Review test)|9.1|Test corrections to Arrays and Methods, Test corrections| | | | |
+|  5.99    |Unit 5 test|Unit 5 Test Section I; Unit 5 Test Section II|| | | | |
 | [5.PPa][] | Unit 5 Personal Progress Check Part A Writing Objects | | | | | | |
 | [5.PPb][] | Unit 2 Personal Progress Check Part B Writing Objects | | | | | | |
 
+## 5.00
+
+| [Lesson 5.00][]   | _Test Review & Reteach_
+|:----------------|:-----------------------
+| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 4
+| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
+| **In Class**    | Review test
+| **Reading**     | 8.1
+| **Homework**    | Test corrections
+
 ## 5.01
+
 | [Lesson 5.01][]   | _Object Oriented Programming_
 |:----------------|:-----------------------------
-| **Objectives**  | Students will be able to describe the relationship between classes, objects, and client code.<br>Students will be able to predict the output of the code that uses objects.
+| **Objectives**  | Students will be able to describe the relationship between classes, objects, and client code . Students will be able to predict the output of the code that uses objects.
 | **Assessments** | Students will complete questions.
-| **In Class**    | SC 8.1–5<br>[WS 5.1.1][]
+| **In Class**    | SC 8.1–5 [WS 5.1.1][]
 | **Reading**     | 8.1
 | **Homework**    |
 
 ## 5.02
+
 | [Lesson 5.02][]   | _Object State & Behavior_
 |:----------------|:-----------------------------
-| **Objectives**  | Students will be able to describe classes, objects, and client code.<br>Students will be able to predict the output of the code that uses objects.
+| **Objectives**  | Students will be able to describe classes, objects, and client code. Students will be able to predict the output of the code that uses objects.
 | **Assessments** | Students will complete WS 5.2 individually or in pairs.
 | **In Class**    | [WS 5.2][]
 | **Reading**     | 8.2 up to “_Mutators and Accessors_”
 | **Homework**    | SC 8.9–11,13–16
 
 ## 5.03
+
 | [Lesson 5.03][]   | _Object Initialization: Constructors_
 |:----------------|:-----------------------------
-| **Objectives**  | Students will be able to describe and create classes, objects, and client code.<br>Students will be able to predict the output of the code that uses objects.
+| **Objectives**  | Students will be able to describe and create classes, objects, and client code. Students will be able to predict the output of the code that uses objects.
 | **Assessments** | Students will complete questions.
-| **In Class**    | [WS 5.3.1][]<br>[WS 5.3.2][]
+| **In Class**    | [WS 5.3.1][] [WS 5.3.2][]
 | **Reading**     | 8.3 up to “_The Keyword_ this”
 | **Homework**    |
 
 ## 5.04
+
 | [Lesson 5.04][]   | _Encapsulation_
 |:----------------|:-----------------------------
 | **Objectives**  | Students will be able to manipulate single-dimension arrays using a variety of array transversal algorithms.
-| **Assessments** | Students will teach a mini-lesson on printing, searching/replacing, testing for equality, reversing an array, or string traversal.<br>Students will complete a quiz at the end of Day 2.
+| **Assessments** | Students will teach a mini-lesson on printing, searching/replacing, testing for equality, reversing an array, or string traversal. Students will complete a quiz at the end of Day 2.
 | **In Class**    | [WS 5.4][] Teach mini-lessons
 | **Reading**     | 8.4
 | **Homework**    | SC 8.22–28
@@ -70,19 +84,7 @@ chronological order. The order has been adapted to follow the College Board AP C
 
 | Unit 5 Test     | _Object Oriented Programming_
 |:----------------|:-----------------------------
-| **In Class**    | Test 4 Section I  Test 4 Section II
-
-## 6.00
-
-| [Lesson 6.00][]   | _Test Review & Reteach_
-|:----------------|:-----------------------------
-| **Objectives**  | Students will re-learn or strengthen content knowledge and skills from Unit 5.
-| **Assessments** | Students will re-submit test answers with updated corrections for partial or full credit, depending on instructor preference.
-| **In Class**    | Review test
-| **Reading**     | 
-| **Homework**    | Test corrections
-
-
+| **In Class**    | Unit 5 Test Section I; Unit 5 Test Section II
 
 ## 5.PPa
 
@@ -97,7 +99,6 @@ chronological order. The order has been adapted to follow the College Board AP C
 |:----------------|:-----------------------------
 | **Objectives**  | Identify weaknesses in student's Unit 5 knowledge
 | **Assessments** | Students will take Unit 5 Personal Progress Check Part B
-
 
 ## Abbreviations
 

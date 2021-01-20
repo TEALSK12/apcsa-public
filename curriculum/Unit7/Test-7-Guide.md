@@ -1,4 +1,4 @@
-Test 6 Guide
+Unit 7 Test Guide
 ====================================================================================================
 
 As written, the test for this unit is probably too long for students to complete in one class
@@ -28,7 +28,6 @@ Even in the final (reduced-size) version, the test will be very long. Be sure to
 account when photocopying versions of the test. If you teach multiple sections of this class, you
 may want to have students use bubble-in sheets so you can erase student markings and re-use test
 packets between class periods.
-
 
 Forum discussion
 ----------------
