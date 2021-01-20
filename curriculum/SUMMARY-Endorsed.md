@@ -42,7 +42,7 @@
 
 ## [CB Unit 2: Using Objects](Unit2-Map-CB.md)
 
-* [Lesson 3.00: Test Review & Reteach](Unit3/Lesson-300.md.html)
+* [Lesson 3.00: Test Review & Reteach](Unit3/Lesson-300.md)
 * [Lesson 3.01: Parameters](Unit3/Lesson-301.md)
 * [Lesson 3.02: Limitations of Parameters & Multiple Parameters](Unit3/Lesson-302.md)
 * [Lesson 3.03: Return Values](Unit3/Lesson-303.md)
@@ -53,7 +53,7 @@
 * [Lesson 3.08: Finding & Fixing Errors](Unit3/Lesson-308.md)
 * There is no Unit 2 test.
 
-## [CB Unit 3: Boolean Expressions and if Statements](Unit3-Map-CB.md.html)
+## [CB Unit 3: Boolean Expressions and if Statements](Unit3-Map-CB.md)
 
 * [Lesson 3.09: Relational Operators & if/else](Unit3/Lesson-309.md)
 * [Lesson 3.10: Nested if/else Statements](Unit3/Lesson-310.md)
@@ -61,7 +61,7 @@
 * [Lesson 3.16: Boolean Logic (2 Days)](Unit3/Lesson-316.md)
 * [Lesson 4.08: Finding & Fixing Errors](Unit4/Lesson-408.md)
 * [Lesson 4.09: Optional - Magpie Lab (5 Days)](Unit4/Lesson-409.md)
-* [Lesson 3.19: Unit Review](Unit3/Lesson-319.md.html)
+* [Lesson 3.19: Unit Review](Unit3/Lesson-319.md)
 * Unit 3 Test - Student are assessed on both Unit 2 and Unit 3.
 
 ## [CB Unit 4: Iteration](Unit4-Map-CB.md)
@@ -82,13 +82,13 @@
 * [Lesson 3.18: Option 1 - Consumer Lab](Unit3/Lesson-318.md)
 * [Lesson 3.18a: Option 2 - Calculator Project](Unit3/Lesson-318a.md)
 * [Lesson 3.18b: Option 3 - Fraction Calculator](Assets.md)
-* [Lesson 2.11: Unit Review](Unit2/Lesson-211.md.html)
+* [Lesson 2.11: Unit Review](Unit2/Lesson-211.md)
 * [Lesson 3.19: Unit Review](Unit3/Lesson-319.md)
 * Unit 4 test
 
 ## [CB Unit 5: Writing Classes](Unit5-Map-CB.md)
 
-* [Lesson 5.00: Test Review & Reteach](Unit5/Lesson-500.md.html)
+* [Lesson 5.00: Test Review & Reteach](Unit5/Lesson-500.md)
 * [Lesson 5.01: Object Oriented Programming](Unit5/Lesson-501.md)
 * [Lesson 5.02: Object State & Behavior](Unit5/Lesson-502.md)
 * [Lesson 5.03: Object Initialization: Constructors](Unit5/Lesson-503.md)
@@ -99,18 +99,18 @@
 
 ## [CB Unit 6: Array](Unit6-Map-CB.md)
 
-* [Lesson 4.00: Test Review & Reteach](Unit4/Lesson-400.md.html)
+* [Lesson 4.00: Test Review & Reteach](Unit4/Lesson-400.md)
 * [Lesson 4.01: Array Basics](Unit4/Lesson-401.md)
 * [Lesson 4.02: For-Each Loop & Arrays Class](Unit4/Lesson-402.md)
 * [Lesson 4.03: Printing, Searching, & Testing for Equality (2 Days)](Unit4/Lesson-403.md)
 * [Lesson 4.04: Reference Semantics](Unit4/Lesson-404.md)
 * [Lesson 4.05: Shifting Values & Arrays of Objects](Unit4/Lesson-405.md)
-* [Lesson 4.99: Unit Review](Unit4/Unit4-Map.md.html#499)
+* [Lesson 4.99: Unit Review](Unit4/Unit4-Map.md)
 * Unit 6 Test
 
 ## [CB Unit 7: ArrayList](Unit7-Map-CB.md)
 
-* [Lesson 7.00: Test Review & Reteach](Unit7/Lesson-700.md.html)
+* [Lesson 7.00: Test Review & Reteach](Unit7/Lesson-700.md)
 * [Lesson 4.07: ArrayList](Unit4/Lesson-407.md)
 * [Lesson 7.01: Searching Algorithms](Unit7/Lesson-701.md)
 * [Lesson 7.02: Sorting Algorithms](Unit7/Lesson-702.md)
@@ -146,7 +146,7 @@
 
 ## [CB Unit 10: Recursion](Unit10-Map-CB.md)
 
-* [Lesson 8.00: Test Review & Reteach](Unit8/Lesson-800.md.html)
+* [Lesson 8.00: Test Review & Reteach](Unit8/Lesson-800.md)
 * [Lesson 8.01: Thinking Recursively](Unit8/Lesson-801.md)
 * [Lesson 8.02: Writing Recursive Solutions](Unit8/Lesson-802.md)
 * [Lesson 8.03: Mechanics of Recursion](Unit8/Lesson-803.md)
