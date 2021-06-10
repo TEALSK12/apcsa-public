@@ -122,8 +122,3 @@ a few options (some more drastic than others):
 
 - Encourage students to carefully name their files, and leave lots of comments so they can use the
   code later in the year to put the game together.
-
-
-  Forum discussion
-  ----------------
-  [Lesson 3.00 Test Review & Reteach (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-00-test-review-reteach)

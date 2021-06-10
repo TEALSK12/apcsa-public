@@ -142,8 +142,3 @@ the assignment.
 
 Remind students to always draw a structure diagram, sketch out their plan using pseudocode, and
 include comments to remind themselves (and you!) of what each section of code is for.
-
-
-Forum discussion
-----------------
-[Lesson 6.07 Programming Project (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-6/6-0701-0705-programming-project)

@@ -165,11 +165,5 @@ Video
 - CSE 143, _Interacting walkthrough_ (31:38–40:10)<br>
   <https://www.youtube.com/watch?v=ewsM5Iak83g&start=1840>
 
-
-Forum discussion
-----------------
-[Lesson 6.03 Interacting with the Object Superclass (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-6/6-03-interacting-with-the-object-superclass)
-
-
 [WS 6.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/WS%206.3.docx
 [Poster 6.3]:    https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit6/Poster%206.3.pptx

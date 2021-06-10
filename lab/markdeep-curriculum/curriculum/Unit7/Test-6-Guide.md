@@ -28,8 +28,3 @@ Even in the final (reduced-size) version, the test will be very long. Be sure to
 account when photocopying versions of the test. If you teach multiple sections of this class, you
 may want to have students use bubble-in sheets so you can erase student markings and re-use test
 packets between class periods.
-
-
-Forum discussion
-----------------
-[Test 6 Guide (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-7/7-99-unit-7-test)

@@ -220,8 +220,3 @@ Video
 
 - CSE 142, _Nested for Loops_ (16:18–37:50)<br>
   <https://www.youtube.com/watch?v=0eUm1RFGkWw&start=2524>
-
-
-Forum discussion
----------------------------
-[Lesson 2.06 Nested for Loops (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-2/2-06-nested-for-loops)

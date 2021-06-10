@@ -159,8 +159,3 @@ quick survey of student concerns and questions.
 - Adaptations for group work can be found on page 19 of the Teacher’s guide.
 
 Assessment questions have been relocated to the practice exam, WS 5.7.
-
-
-Forum discussion
-----------------
-[Lesson 5.06 Picture Lab (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-5/5-0601-0609-picture-lab)
