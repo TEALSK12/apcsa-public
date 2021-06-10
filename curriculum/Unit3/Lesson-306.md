@@ -150,9 +150,6 @@ into classroom posters will be helpful in helping students remember syntax.
 
 
 Video
------
-- BJP 3–4, _Programming with Parameters_<br>
-  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c3-4>
 
 - CSE 142, _Scanner_ (0:21-23:06)<br>
   <https://www.youtube.com/watch?v=fo9_kOSs1Y8&start=21>

@@ -112,8 +112,6 @@ an entire program (complete with class header).
 
 Video
 -----
-- BJP 2–5, _Drawing Complex Figures with for Loops_<br>
-  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c2-5>
 
 - CSE 142, _Managing Complexity: Problem Decomposition and Pseudocode_ (1:58–16:17)<br>
   <https://www.youtube.com/watch?v=xQPlOF9KpbM&start=118>

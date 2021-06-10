@@ -321,21 +321,11 @@ Misconceptions
 
 Video
 -----
-- BJP 4–2, _Nested if/else Statements_
-  (note: title of video is mislabeled, should be “if/else Statements”)<br>
-  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c4-2>
 
 - CSE 142, _if/else Statements_ (38:41-50:15)<br>
   <https://www.youtube.com/watch?v=fo9_kOSs1Y8&start=2321>
 
 - CSE 142, _Methods with Conditional Execution_ (4:08-18:39)<br>
   <https://www.youtube.com/watch?v=0mqNzejWfSY&start=248>
-
-- CS Homework Bytes, _Relational and Conditional Operators, with Elizabeth_<br>
-  <https://www.youtube.com/watch?v=M-mYpnPygY0>
-
-- CS Homework Bytes, _If-Statements, with Jim_<br>
-  <https://www.youtube.com/watch?v=SxWFYfA4i0M>
-
 
 [Operator Precedence]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/Operator%20Precedence.pptx
