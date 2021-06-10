@@ -130,12 +130,6 @@ If your class is struggling with learning syntax, you can split the lesson into 
 take off some of the homework questions. If splitting the lesson in two, we recommend stopping
 today’s lesson before string concatenation.
 
-Common Mistakes
----------------
-
-Variables common mistakes:
-<http://interactivepython.org/runestone/static/JavaReview/VariableBasics/commonMistakes.html>
-
 Misconceptions
 --------------
 
@@ -180,13 +174,7 @@ Students may view the second line of code as a math equation and miss the point 
 
 Video
 -----
-- BJP 2–2, _Variables and Assignment_<br>
-  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c2-2>
-
 - CSE 142, _Variables_ (5:12–12:48)<br>
   <https://www.youtube.com/watch?v=0eUm1RFGkWw&start=310>
-
-- CS Homework Bytes, _Variable and Assignment, with Elizabeth_<br>
-  <https://www.youtube.com/watch?v=fPqGiexXi_Y>
 
 [WS 2.2]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/WS%202.2.docx
