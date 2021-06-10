@@ -253,10 +253,4 @@ Video
 - CSE 142, _Cumulative Sum_ (23:07-38:40)<br>
   <https://www.youtube.com/watch?v=fo9_kOSs1Y8&start=1387>
 
-
-Forum discussion
-----------------
-[Lesson 3.12 Cumulative Algorithms (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-12-cumulative-algorithms)
-
-
 [WS 3.12]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.12.docx

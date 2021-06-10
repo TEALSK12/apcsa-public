@@ -216,10 +216,4 @@ Videos
 - CSE 142, _“this” notation_ (optional) (45:59–49:46)<br>
   <https://www.youtube.com/watch?v=V3Gs1Ug82_E&start=2759>
 
-
-Forum discussion
-----------------
-[Lesson 5.04 Encapsulation (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-5/5-04-encapsulation)
-
-
 [WS 5.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.4.docx

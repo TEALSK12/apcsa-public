@@ -69,8 +69,3 @@ The quiz features a recursive method to produce the Fibonacci sequence. If your 
 help/scaffolding, you might want to show students this YouTube video
 (<https://youtu.be/dsmBRUCzS7k>) and lead a class discussion to ensure students are familiar with
 the math involved.
-
-
-Forum discussion
-----------------
-[Lesson 8.06 Review & Quiz (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-8/8-06-review-quiz)

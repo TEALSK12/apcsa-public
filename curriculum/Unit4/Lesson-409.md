@@ -101,8 +101,3 @@ each other with reading comprehension (but remind students that they each must s
 code). Each day that you begin the lab, start with a quick survey of student concerns and questions.
 
 Differentiation of the lab assignment can be found on page 14 of the Teacher’s guide.
-
-
-Forum discussion
-----------------
-[Lesson 4.09 Magpie Lab (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-4/4-0901-0905-magpie-lab)

@@ -238,8 +238,3 @@ Videos
 
 - CS Homework Bytes, _Mathematical Operators and Precedence, with Vinnie_<br>
   <https://www.youtube.com/watch?v=RTmRwEy-yFA>
-
-
-Forum discussion
----------------------------
-[Lesson 2.03 String Concatenation & Increment Decrement Operators (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-2/2-03-string-concatenation-increment-decrement-op)

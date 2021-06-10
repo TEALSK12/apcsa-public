@@ -200,8 +200,3 @@ An event like this maintains/raises student morale as students:
 - take ownership of their work,
 - receive praise for their hard-earned accomplishments thus far, and
 - realize how much they’ve learned when they explain code to a non-coder.
-
-
-Forum discussion
-----------------
-[Lesson 3.02 Limitations of Parameters & Multiple Parameters (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-02-limitations-of-parameters-multiple-paramete)

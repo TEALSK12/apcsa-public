@@ -230,8 +230,3 @@ Video
 
 - CSE 142: _Return value worked example_ (8:46-38:32)<br>
   <https://www.youtube.com/watch?v=kCqcmWk8qoY&start=526>
-
-
-Forum discussion
-----------------
-[Lesson 3.03 Return Values (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-03-return-values)

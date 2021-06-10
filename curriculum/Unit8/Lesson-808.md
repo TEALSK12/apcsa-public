@@ -95,8 +95,3 @@ excellent recursive graphics lab that would be a wonderful assignment for advanc
 
 If you have a few students that are struggling with the class, choose these students to create your
 classroom posters after school or for extra credit.
-
-
-Forum discussion
-----------------
-[Lesson 8.08 Test Review & Reteach (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-8/8-08-Test-review-reteach)

@@ -141,7 +141,3 @@ quick survey of student concerns and questions.
 
 Assessment questions have been relocated to the practice exam, WS 5.7.
 
-
-Forum discussion
-----------------
-[Lesson 5.06a Data Lab (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-5/5-06a-data-lab)

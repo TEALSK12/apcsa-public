@@ -106,8 +106,3 @@ In ELL classrooms, read all directions aloud before breaking into individual pra
 to twice the amount of time for completion of the lab. As needed, allow students to pair up to help
 each other with reading comprehension (but remind students that they each must submit their own
 code). Each day that you begin the lab, start with a quick survey of student concerns and questions.
-
-
-Forum discussion
-----------------
-[Lesson 4.09 Steganography (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-4/4-09a-steganography-lab)

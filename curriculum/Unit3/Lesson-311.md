@@ -134,8 +134,3 @@ Video
 
 - CSE 142: _Factoring if/else Statements and Reasoning about Paths_ (18:40-34:05)<br>
   <https://www.youtube.com/watch?v=0mqNzejWfSY&start=1120>
-
-
-Forum discussion
-----------------
-[Lesson 3.11 Reducing Redundancy (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-11-reducing-redundancy)

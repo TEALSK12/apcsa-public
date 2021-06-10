@@ -120,8 +120,3 @@ to twice the amount of time for completion of the lab.
 As needed, allow students to pair up to help each other with reading comprehension (but remind
 students that they each must submit their own code). Each day that you begin the lab, start with a
 quick survey of student concerns and questions.
-
-
-Forum discussion
-----------------
-[Lesson 6.07a Celebrity Lab (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-6/6-07a-celebrity-lab)

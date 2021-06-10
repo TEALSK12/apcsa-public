@@ -108,13 +108,7 @@ before they submit.
 
 **Evaluation Question:**  How many lines of code did this program "save" by calling static methods, instead of calling print statements to output every single line of text?
 
-
 Accommodation and Differentiation
 ---------------------------------
 If you have students who are speeding through this lesson, you should encourage them to tackle
 programming project \#4 in the text book.
-
-
-Forum discussion
----------------------------
-[Lesson 1.07 Programming Project (TEALS Discourse account required)](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-XX-programming-project)

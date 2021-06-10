@@ -93,10 +93,4 @@ As written, the exams increase in length and complexity with each unit. If your 
 acing the test, challenge your students by modifying the section 2 questions, and adding extra
 section 1 questions.
 
-
-Forum discussion
-----------------
-[Lesson 3.19 Review (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-19-review)
-
-
 [WS 3.18]:  https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.18.docx

@@ -79,12 +79,4 @@ If you have a student that appreciates public recognition, have them serve as yo
 going around to help students correct their papers. Remind them to guide students through the
 process instead of just giving them the answers.
 
-
-
 [webmaker.org]: http://www.webmaker.org
-
-
-
-Forum discussion
-----------------
-[Lesson 3.08 Finding & Fixing Errors (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-08-finding-fixing-errors)
