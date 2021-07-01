@@ -27,8 +27,7 @@ the past, students who are gifted/talented, students who are otherwise “outsid
 
 ## Accessing the curriculum
 
-[College Board endorsed curriculum sequence (2020)](SUMMARY-Endorsed.md)
-This curriculum map follows the College Board Sequence of lessons.
+[College Board endorsed curriculum sequence (2020)](SUMMARY-Endorsed.md) This curriculum map follows the College Board Sequence of lessons.
 
 [Textbook sequence (before 2020 school year)](SUMMARY.md)
 This curriculum map follows the Building Java Program Textbook sequence of lessons
