@@ -77,7 +77,6 @@ subject matter.
 ### Check student study lists `[5 minutes]`
 Spend the last 5 minutes of class checking each student’s review topic list.
 
-
 Accommodation and Differentiation
 ---------------------------------
 In ELL classes, you may want to change code-writing questions to Parsons Problems. Educational
@@ -90,15 +89,8 @@ Even in a non-ELL class, you may want to change some Section II questions to Par
 because (1) grading the questions is easier, since logic and syntax errors are easy to discern, and
 (2) students challenged by language processing are able to more quickly complete the problem.
 
-
 Teaching Tips
 -------------
 Tips for Assessment: <http://csteachingtips.org/tips-for-assessing-programming>
-
-
-Forum discussion
----------------------------
-[Lesson 1.09 Unit 1 Test (TEALS Discourse account required)](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-99-unit-1-test)
-
 
 [WS 1.9]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.9.docx

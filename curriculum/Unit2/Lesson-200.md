@@ -102,8 +102,3 @@ examples, worksheets, and tests.
 
 In ELL classrooms, you should give more examples for each type, and spend more time drilling during
 the introduction and note-taking segments.
-
-
-Forum discussion
----------------------------
-[Lesson 2.00 Test Review and Reteach (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-2/2-00-test-review-reteach)

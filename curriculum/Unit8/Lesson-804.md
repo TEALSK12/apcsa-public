@@ -122,8 +122,4 @@ Video
 
 - CSE 143, _Merge Sort_ (20:50–26:15)<br>
   <https://www.youtube.com/watch?v=CTDtbbCKmSY&start=1250>
-
-
-Forum discussion
-----------------
-[Lesson 8.04 MergeSort (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-8/8-04-mergesort)
+  

@@ -112,8 +112,6 @@ an entire program (complete with class header).
 
 Video
 -----
-- BJP 2–5, _Drawing Complex Figures with for Loops_<br>
-  <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c2-5>
 
 - CSE 142, _Managing Complexity: Problem Decomposition and Pseudocode_ (1:58–16:17)<br>
   <https://www.youtube.com/watch?v=xQPlOF9KpbM&start=118>
@@ -126,11 +124,5 @@ Video
 
 - CSE 142, _Managing Complexity: Review_ (Optional) (0:58–21:04)<br>
   <https://www.youtube.com/watch?v=otR7yEbRZAs&start=58>
-
-
-Forum discussion
----------------------------
-[Lesson 2.07 Scope & Pseudocode (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-2/2-07-scope-pseudocode)
-
 
 [WS 2.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/WS%202.7.docx

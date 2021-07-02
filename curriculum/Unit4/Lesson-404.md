@@ -130,10 +130,4 @@ Video
 - CSE 142, _modifying array when passed as parameter_ (39:19–43:41)<br>
   <https://www.youtube.com/watch?v=DieHL2VO83k&start=2359>
 
-
-Forum discussion
-----------------
-[Lesson 4.04 Reference Semantics (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-4/4-04-reference-semantics)
-
-
 [WS 4.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/WS%204.4.docx

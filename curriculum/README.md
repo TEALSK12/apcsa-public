@@ -413,7 +413,7 @@ encouraged to email the program's creator Alex Aiken directly, at
   error-checking and test review. While these lesson plans look identical at first glance, small
   adjustments have been made for content, timing, and AP test prep.
 
-## Printing
+## Printing curriculum
 
 The AP CS A curriculum can be printed by navigating to [https://aka.ms/TEALSAPCSAPDF](https://aka.ms/TEALSAPCSAPDF).
 However, the "Download" button does not work. There is workaround depending on the browser:
@@ -426,8 +426,7 @@ However, the "Download" button does not work. There is workaround depending on t
 TEALS intends for this curriculum to be a starting point; it's our first attempt at a complete AP CS
 A curriculum. We'll continue evolving and adapting the curriculum and associated materials as we
 learn more about teaching AP CS A. To participate in this process, we invite TEALS team members and
-independent teachers using this curriculum to submit edits and suggestions via the discussion forum
-on the TEALS dashboard or in this [Github repository issues page](https://github.com/TEALSK12/apcsa-public/issues).
+independent teachers using this curriculum to submit edits in this [Github repository issues page](https://github.com/TEALSK12/apcsa-public/issues).
 
 [20 Fun Free Tools for Interactive Classroom Collaboration]: http://tinyurl.com/k62tstg
 [AP Java Quick Reference]: http://apcentral.collegeboard.com/apc/public/repository/ap_comp_sci_a_quick_reference.pdf

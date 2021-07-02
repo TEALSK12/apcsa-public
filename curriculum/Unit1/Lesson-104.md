@@ -259,13 +259,6 @@ Video
 - CSE 142, _Common Errors_ (36:10–44:11)<br>
   <https://www.youtube.com/watch?v=i2pQHeW5CeY&start=2170>
 
-
-Forum discussion
----------------------------
-[Lesson 1.04 Common Errors & Comments (TEALS Discourse account required)](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-04-common-errors-comments)
-
-
-
 [WS 1.4]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.4.docx
 [1.04]: Lesson-104.md
 [CON-1]: https://github.com/TEALSK12/apcsa-public/blob/master/curriculum/eu_lo_ek.md#con-1

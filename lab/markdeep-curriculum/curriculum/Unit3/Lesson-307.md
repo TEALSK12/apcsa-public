@@ -192,10 +192,4 @@ to add that factor into their battle simulation as they read through Ch. 4 and C
 If students are struggling with creating the graphic in Exercise 3, help students by writing helper
 lines of code on the board, or creating a pseudocode outline as a whole group.
 
-
-Forum discussion
-----------------
-[Lesson 3.07 Pokémon Battle Programming Project (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-07-pokemon-battle-programming-project)
-
-
 [WS 3.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.7.docx

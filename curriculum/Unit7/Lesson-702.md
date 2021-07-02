@@ -296,9 +296,3 @@ Video
 
 - CSE 143, _Bubble Sort_ (optional) (14:04–16:18)<br>
   <https://www.youtube.com/watch?v=CTDtbbCKmSY&start=844>
-
-
-
-Forum discussion
-----------------
-[Lesson 7.02 Sorting Algorithms (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-7/7-02-sorting-algorithms)

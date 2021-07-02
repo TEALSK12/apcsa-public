@@ -215,6 +215,3 @@ Video
 - CSE 142, _Hello World_ (29:24–36:09)<br>
   https://www.youtube.com/watch?v=i2pQHeW5CeY&start=1765
 
-Forum discussion
----------------------------
-[Lesson 1.03 String Console Output](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-03-string-console-output)

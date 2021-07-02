@@ -140,8 +140,3 @@ Video
 -----
 - CSE 142, _While Loop_ (11:21-15:55)<br>
   <https://www.youtube.com/watch?v=hpDQ9tdrj1Y&start=681>
-
-
-Forum discussion
-----------------
-[Lesson 3.13 while Loops (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-13-while-loops)

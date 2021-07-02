@@ -230,10 +230,4 @@ Video
 - CSE 142, _Random Access to Array_ (33:26-42:00)<br>
   <https://www.youtube.com/watch?v=6M3KEfFpYiM&start=2006>
 
-
-Forum discussion
-----------------
-[Lesson 4.03 Printing, Searching, & Testing for Equality (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-4/4-03-printing-searching-testing-for-equality)
-
-
 [WS 4.3]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit4/WS%204.3.docx

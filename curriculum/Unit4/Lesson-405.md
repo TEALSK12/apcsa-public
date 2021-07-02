@@ -269,11 +269,6 @@ Video
 - CSE 142: _Absolute values an array_ (1:42–5:11)<br>
   <https://www.youtube.com/watch?v=DieHL2VO83k&start=102>
 
-
-Forum discussion
-----------------
-[Lesson 4.05 Shifting Values & Arrays of Objects (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-4/4-05-shifting-values-arrays-of-objects)
-
 [Dr. Long Nguyen]: https://longbaonguyen.github.io/courses/apcsa/apjava.html
 [Teaching CSAwesome google group]: https://groups.google.com/forum/#!forum/teaching-csawesome
 [CS Awesome AP CSA Java Curriculum]: https://sites.google.com/css.edu/csawesome/teacher-materials

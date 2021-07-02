@@ -16,7 +16,4 @@ When modifying the test to suit your students, don’t forget to:
 3. Adjust the test pacing for your class period’s time span. The ultimate goal is to work your
    students up to a pace of 2 minutes per Section I question, and 26 minutes per Section II question
    (including time for checking).
-
-Forum discussion
- ----------------
- [Test 2 Guide (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-99-unit-3-test)
+   

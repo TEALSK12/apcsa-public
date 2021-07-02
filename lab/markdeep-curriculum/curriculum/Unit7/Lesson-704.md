@@ -61,7 +61,3 @@ Procedure
 Spend the last 5 minutes of class checking each student’s review topic list as a class participation
 grade.
 
-
-Forum discussion
-----------------
-[Lesson 7.04 Unit 7 Review (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-7/7-04-review)

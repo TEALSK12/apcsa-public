@@ -199,10 +199,4 @@ Video
 - CSE 142, _The for Loop_ (31:30–42:03)<br>
   <https://www.youtube.com/watch?v=0eUm1RFGkWw&start=1890>
 
-
-Forum discussion
----------------------------
-[Lesson 2.05 for Loops (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-2/2-05-for-loops)
-
-
 [WS 2.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/WS%202.5.docx

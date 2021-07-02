@@ -113,8 +113,3 @@ Accommodation and Differentiation
 ---------------------------------
 If you have students who are speeding through this lesson, you should encourage them to tackle
 programming project \#4 in the text book.
-
-
-Forum discussion
----------------------------
-[Lesson 1.07 Programming Project (TEALS Discourse account required)](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-XX-programming-project)

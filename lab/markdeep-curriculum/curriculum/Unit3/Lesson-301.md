@@ -201,8 +201,3 @@ Video
 
 - CS Homework Bytes, _Functions and Parameters, with Komal_<br>
   <https://www.youtube.com/watch?v=UuZCQWErV-A>
-
-
-Forum discussion
-----------------
-[Lesson 3.01 Parameters (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-01-parameters)

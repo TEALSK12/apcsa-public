@@ -369,11 +369,6 @@ Videos
   <https://www.youtube.com/watch?v=0IGWknpGPhM&start=1596>
 
 
-Forum discussion
-----------------
-[Lesson 5.01 Object Oriented Programming (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-5/5-01-object-oriented-programming)
-
-
 [WS 5.1.1]: https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.1.1.pdf
 
 [Dr. Long Nguyen]: https://longbaonguyen.github.io/courses/apcsa/apjava.html

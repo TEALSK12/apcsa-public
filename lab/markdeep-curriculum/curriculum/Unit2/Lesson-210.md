@@ -94,8 +94,3 @@ programming project 2 & 3 in the text book.
 
 If you were unable to finish grading student notebooks yesterday, finish them today while students
 are working. Return notebooks by the end of class so students may use them to study for the exam.
-
-
-Forum discussion
----------------------------
-[Lesson 2.10 Finding & Fixing Errors (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-2/2-10-finding-fixing-errors)

@@ -84,8 +84,3 @@ Section II questions. Students can access Section II questions from 2009 – 201
 here: <http://tinyurl.com/m7ljyec>. The most recent released Section II test questions and scoring
 rubric are included with Unit 9 materials. 2014’s questions and scoring rubric are available on the
 [AP web site](http://apcentral.collegeboard.com/apc/public/exam/exam_information/2000.html).
-
-
-Forum discussion
-----------------
-[Lesson 9.0 Reviewing for the AP Exam (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-9/9-00-reviewing-for-the-ap-exam)

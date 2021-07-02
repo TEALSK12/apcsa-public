@@ -194,8 +194,4 @@ Video
 -----
 - BJP 1–4, _Drawing Complex Figures with Static Methods_<br>
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c1-4>
-
-
-Forum discussion
----------------------------
-[Lesson 1.06 Static Methods and Method Calls (TEALS Discourse account required)](http://forums.tealsk12.org/c/ap-cs-a-unit-1/1-05-static-methods-method-calls)
+  

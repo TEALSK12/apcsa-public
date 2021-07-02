@@ -174,10 +174,4 @@ Videos
 - UW AP CS Prep, _Java String Processing_<br>
   <https://www.youtube.com/playlist?list=PL_bszZLe8OFfnueQ6fn7wNqu87k3X2Nin>
 
-
-Forum discussion
-----------------
-[Lesson 3.05 Using Objects & String Processing (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-3/3-05-using-objects-string-processing)
-
-
 [WS 3.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit3/WS%203.5.docx

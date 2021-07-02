@@ -70,9 +70,4 @@ Procedure
 Spend the last 5 minutes of class checking each student’s review topic list.
 
 
-Forum discussion
-----------------
-[Lesson 5.0 Unit 5 Review (TEALS Discourse account required)](http://forums.tealsk12.org/c/unit-5/5-07-review)
-
-
 [WS 5.7]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit5/WS%205.7.docx
