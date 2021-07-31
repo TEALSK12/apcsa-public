@@ -421,12 +421,15 @@ However, the "Download" button does not work. There is workaround depending on t
 - Click on the document to enable the pdf menu to show and clicking the down arrow or "Save as Copy".
 - Right click on the .pdf document and select "Save As".
 
-## Giving feedback on the curriculum
+## Curriculum Issues
 
-TEALS intends for this curriculum to be a starting point; it's our first attempt at a complete AP CS
-A curriculum. We'll continue evolving and adapting the curriculum and associated materials as we
-learn more about teaching AP CS A. To participate in this process, we invite TEALS team members and
-independent teachers using this curriculum to submit edits in this [Github repository issues page](https://github.com/TEALSK12/apcsa-public/issues).
+TEALS will only continue making small corrections and critical updates to TEALS curricula. Please <a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue">open an issue</a> if you encounter things like factual, spelling, or grammatical errors, broken links, sequencing problems (topics needed before they are taught), or incomplete/missing materials.
+
+## Giving feedback and asking questions about the curriculum
+
+TEALS intends for our curricula to be starting points for teaching teams. We invite volunteers and classroom teachers using our curricula to <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo">fork</a> them as appopriate! If you'd like to suggest changes or additions to a curriculum be added to the master branch, please submit a <a href="https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests">pull request</a> containing your changes. As a best practice, each pull request should contain a singular atomic change.
+
+For general curriculum-related questions and discussion not tied to a specific reported issue, we encourage everyone to actively participate in the <a href="https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions">GitHub Discussions</a> board for the corresponding curriculum.  This is a great place to share alternative lesson ideas, share pro-tips for implementation and differentiation, pacing advice, etc...
 
 [20 Fun Free Tools for Interactive Classroom Collaboration]: http://tinyurl.com/k62tstg
 [AP Java Quick Reference]: http://apcentral.collegeboard.com/apc/public/repository/ap_comp_sci_a_quick_reference.pdf
