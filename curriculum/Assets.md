@@ -21,5 +21,3 @@ In this document set, you will find resources related to the College board.
 ### /Full Curriculum Package - Releases/
 
 In this folder, you will find the latest full release of the curriculum files including all the latest updates to the curriculum. These releases include project files, solutions, lab documents, starter code, etc.
-
-[Additional Curriculum Materials][]
