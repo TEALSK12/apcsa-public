@@ -3,44 +3,44 @@
 <a href="https://tealsk12.github.io/apcsa-public/">Home</a> | 
 <a href="https://tealsk12.github.io/apcsa-public/SUMMARY-Endorsed.md">Curriculum Map</a>
 
-Lesson 2.05 — for Loops
-====================================================================================================
+# Lesson 2.05 — for Loops
 
-Overview
---------
+## Overview
+
 ### Objectives — _Students will be able to…_
+
 - **Trace** loops to predict program behavior.
 - **Construct** loops to execute simple tasks.
 
 ### Prerequisite Skills
+
 - 1.B Determine Code that would be used to complete code segment
 - 2.B Determine the result or output based on statement execution order in a code segment without method calls
 
 ### Assessments — _Students will…_
+
 - **Trace and construct** loops in practice problems
 
-### Homework — _Students will…_
+### Homework — _Students will
+
 - **Read** BJP 2.3 up to “Nested for Loops"
 - **Complete** self-check questions 19-21 (4<sup>th</sup> edition: 22-24)
 
+### Materials & Prep
 
-Materials & Prep
-----------------
 - **Projector and computer**
 - **White paper** **and** **markers**
 - **Classroom copies** of [WS 2.5][]
 
+### Pacing Guide
 
-Pacing Guide
-------------
 | Section                   | Total Time |
 |---------------------------|-----------:|
 | Bell-work and attendance  |       5min |
 | Introduction to for loops |      15min |
 
+### Procedure
 
-Procedure
----------
 For loops are very confusing in the beginning, so we’ve prepared a student handout that diagrams the
 parts of a loop. Encourage students to take notes in their notebook and on the handout.
 
@@ -53,7 +53,7 @@ integers in fewer than 10 lines of code (feel free to adjust these numbers to ch
 
 ---
 
-#### Emphasize with students...
+#### Emphasize with students
 
 #### Content - Management of complexity
 
@@ -112,7 +112,7 @@ There are several flow chart creation programs available online, these can help 
    public class Count1000 {
 
        public static void main (String[] args) {
-           for (int i = 1; i < 1000; i++) {
+           for (int i = 1; i <= 1000; i++) {
                System.out.println(i);
            }
        }
@@ -127,9 +127,9 @@ There are several flow chart creation programs available online, these can help 
    - If any of these examples stump your class (and they will), take them through the loop, one
      step at a time, writing down sample output to find the new pattern.
 
-   Loops can be analyzed to determine how many times they run. This is called run-time analysis or a statement execution count. 
+   Loops can be analyzed to determine how many times they run. This is called run-time analysis or a statement execution count.
    For each of the above examples, ask how many times each loop executes.
-   
+
 ### Practice Activity `[35 minutes]`
 
 1. Depending on the mood and frustration levels in the class, you may choose to have students work
@@ -149,25 +149,23 @@ There are several flow chart creation programs available online, these can help 
 3. If more 25% or more of the class is struggling, return to whole group with the stipulation that
    students who understand it may continue working independently.
 
+### Accommodation and Differentiation
 
-Accommodation and Differentiation
----------------------------------
 If you have students who are speeding through this lesson, you should encourage them to complete
 Self-Check 2.25: numberTotal and Self-Check 2.28: blastOff.
 
+### Teacher Prior CS Knowledge
 
-Teacher Prior CS Knowledge
---------------------------
 The textbook BJP introduces reducing redundancy and generalization early in the curriculum. Because
 of the early introduction, student have not been exposed to the logical operators and have only been
-introduced to the notion of boolean types. You can let students know that the class will go over the
+introduced to the notion of Boolean types. You can let students know that the class will go over the
 middle part of the for statement, the “continuation test”, will be covered in detail in a future
 lesson.
 
+### Misconceptions
 
-Misconceptions
---------------
 ### Common Syntax Errors
+
 - Using commas as the delimiter in the for statement is a common error. This could stem from the
   difference in pattern between method calls that use comma and for statements that use the
   semi-colon.
@@ -187,6 +185,7 @@ Misconceptions
 - Incorrect ending for statement with semi-colon.
 
 ### Conceptual Errors
+
 - Variable scope for the counting variable is restricted to the for block.
 
 - Order of execution of the initialization, continuation test, conditional statements, and update
@@ -195,13 +194,12 @@ Misconceptions
   When walking through examples of a for loop, it is tempting to use boxes to represent the loop
   variable. However, as the loop variable changes, the value is erased to indicate the new value. We recommend using a table and crossing out the value of the loop, the students can then see the progression of the variable through the iterations.
 
+### Video
 
-Video
------
-- BJP 2–3, _for Loops_<br>
+- BJP 2–3, _for Loops
   <http://media.pearsoncmg.com/aw/aw_reges_bjp_2/videoPlayer.php?id=c2-3>
 
-- CSE 142, _The for Loop_ (31:30–42:03)<br>
+- CSE 142, _The for Loop_ (31:30–42:03)
   <https://www.youtube.com/watch?v=0eUm1RFGkWw&start=1890>
 
 [WS 2.5]:   https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit2/WS%202.5.docx
