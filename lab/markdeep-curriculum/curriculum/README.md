@@ -4,7 +4,6 @@ AP Computer Science A Curriculum Development
 This project contains the source for the TEALS AP Computer Science A Curriculum. Content can be
 browsed in the following ways:
 
-- [On GitBook][] — The official source for the book
 - [On GitHub][] — From the repository contents on GitHub
 - [Locally][] – From a local clone of the development repository
 
@@ -70,9 +69,7 @@ Acknowledgements
 
 
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International]: https://creativecommons.org/licenses/by-nc-sa/4.0/
-[GitBook]:        https://www.gitbook.com
 [LICENSE.md]:     ../LICENSE.md
 [Locally]:        SUMMARY.md.html
-[On GitBook]:     https://tealsk12.gitbooks.io/ap-computer-science-a/content/
 [On GitHub]:      https://github.com/TEALSK12/apcsa-public/blob/master/SUMMARY.md.html
 [Steve Hollasch]: https://github.com/hollasch

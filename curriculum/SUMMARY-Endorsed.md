@@ -176,7 +176,6 @@
 ## Appendix
 
 * [About This Curriculum](About.md)
-* [Changelog](CHANGELOG.md)
 * [Learning Objectives](eu_lo_ek.md)
 * [Contributing](CONTRIBUTING.md)
 * [Acknowledgements](About.md#acknowledgements)
