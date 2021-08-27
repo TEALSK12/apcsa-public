@@ -1,12 +1,11 @@
 # AP CS A - Endorsed Curriculum
 
-## Curriculum Introduction
+## Curriculum resources
 
-* [Introduction](README.md)
 * [Video Tutorials](Video-Tutorials.md)
 * [Curriculum Assets](Assets.md)
 
-## Curriculum Maps
+## Curriculum maps
 
 * [CB Unit 1: Primitive Types](Unit1-Map-CB.md)
 * [CB Unit 2: Using Objects](Unit2-Map-CB.md)

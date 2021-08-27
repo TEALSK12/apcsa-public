@@ -13,6 +13,8 @@ Publisher: Pearson; 5 edition (March 28, 2019)
 ISBN-10: 013547194X
 ISBN-13: 978-0135471944
 
+The TEALS curriculum requires each student to have a copy of the textbook. Many assignments require students to complete self-checks, exercises, and programming problems at the end of each chapter from the textbook. While Practice-it is available from the University of Washington, it is not necessary. As with all software services, it is the school’s sole decision to use the tool according to the use terms and privacy policies provided by its licensor and it is the school’s responsibility to ensure the tool meets it's IT policies.
+
 The curriculum is aligned with the AP Computer Science A standards. TEALS has received AP Audit certification for previous versions of the course and syllabus.
 
 The TEALS AP curriculum was approved by the College Board so partner schools may use the “claim
@@ -36,9 +38,6 @@ The AP Computer Science A Curriculum is located on GitHub pages:
 
 <!-- double linebreak necessary for pandoc to render .pdf -->
 [https://tealsk12.github.io/apcsa-public/](https://tealsk12.github.io/apcsa-public/)
-
-The AP Computer Science A Curriculum GitBook has been deprecated:
-
 
 For contributions to the curriculum, the AP Computer Science A GitHub repository is located at
 
@@ -161,7 +160,13 @@ For a more general introduction to the Pokémon franchise, visit:
 
 <!-- double linebreak necessary for pandoc to render .pdf -->http://www.pokemon.com/.
 
-### AP test preparation
+### AP Exam preparation
+
+All of the Unit tests are in the AP exam format. In classes where many students will take the exam, instructors should gradually adjust the testing environment to mimic that of the exam:
+
+- Always provide/allow the [AP Java Quick Reference][]
+- Move from open-note (see “Tricky Code Cheat Sheet”) to closed-note
+- The AP exam has 40 multiple choice questions in 90 minutes (≈2 minutes per question). On the earlier tests, start at a slower pace (perhaps 4 minutes per question). As the course progresses, work to a pace even faster than the actual test (90 seconds per question).
 
 Aligned to the College Board's curriculum framework, students explore the big ideas that encompass the core principles, theories, and processes of computer science.  Throughout the course, the student learns and practices the skills necessary to be successful on the AP exam.
 
@@ -220,18 +225,6 @@ Aligned to the College Board's curriculum framework, students explore the big id
 
     *Curriculum Example of Skill 5.A:* In Lesson 3.12, students are tasked with starting a program that will be finished by partner, with the only communication between them being well-commented code.
 
-#### AP exam preparation
-
-All of the Unit tests are in the AP exam format. In classes where many students will take the exam, instructors should gradually adjust the testing environment to mimic that of the exam:
-
-- Always provide/allow the [AP Java Quick Reference][]
-
-- Move from open-note (see “Tricky Code Cheat Sheet”) to closed-note
-
-- The AP exam has 40 multiple choice questions in 90 minutes (≈2 minutes per question). On the
-  earlier tests, start at a slower pace (perhaps 4 minutes per question). As the course progresses,
-  work to a pace even faster than the actual test (90 seconds per question).
-
 ### Vocabulary
 
 A comprehensive vocabulary list for each unit is provided for teachers to generate word walls in
@@ -252,10 +245,6 @@ answers as correct/incorrect, since students will be challenged with finding and
 on their own later. Finally, students that have answered all or most of their work correctly receive
 a day off to do silent work/play on their own, which positively reinforces students to put in the
 initial effort to win a day off.
-
-### AP test preparation (cont'd)
-
-Aligned to the College Board's curriculum framework, students explore the big ideas that encompass the core principles, theories, and processes of computer science.  Throughout the course, the student learns and practices the skills necessary to be successful on the AP exam.
 
 #### Big ideas of computer science
 
@@ -312,18 +301,6 @@ Aligned to the College Board's curriculum framework, students explore the big id
 
     *Curriculum Example of Skill 5.A:* In Lesson 3.12, students are tasked with starting a program that will be finished by partner, with the only communication between them being well-commented code.
 
-#### AP Exam Preparation
-
-All of the Unit tests are in the AP exam format. In classes where many students will take the exam, instructors should gradually adjust the testing environment to mimic that of the exam:
-
-- Always provide/allow the [AP Java Quick Reference]
-
-- Move from open-note (see “Tricky Code Cheat Sheet”) to closed-note
-
-- The AP exam has 40 multiple choice questions in 75 minutes (≈2 minutes per question). On the
-  earlier tests, start at a slower pace (perhaps 4 minutes per question). As the course progresses,
-  work to a pace even faster than the actual test (90 seconds per question).
-
 ### Video tutorials
 
 - [Timing and pacing][] — Adjusting lessons and the curriculum map for the speed of your learners
@@ -340,12 +317,8 @@ In the classroom, it is recommended that each student have an internet-connected
 
 ### Integrated design environment (IDE) or code editor
 
-Coding in Java requires the Java Development Kit and a text editor or IDE. There are many Java IDEs
-available. There are any IDEs/Coded editors that can be used to teach AP CS A.  Unit 1 includes directions for installing IDE/Code Editor for Eclipse and VS Code.  You are free to choose the IDE/Code Editor that best fits your class.
+Coding in Java requires the Java Development Kit and a text editor or IDE. There are many Java IDEs available. There are any IDEs/Coded editors that can be used to teach AP CS A.  Unit 1 includes directions for installing IDE/Code Editor for Eclipse and VS Code.  You are free to choose the IDE/Code Editor that best fits your class.
 
-### Textbook
-
-The TEALS curriculum requires each student to have a copy of the textbook. Many assignments require students to complete self-checks, exercises, and programming problems at the end of each chapter from the textbook. While Practice-it is available from the University of Washington, it is not necessary. As with all software services, it is the school’s sole decision to use the tool according to the use terms and privacy policies provided by its licensor and it is the school’s responsibility to ensure the tool meets it's IT policies.
 
 ### Detecting Cheating with MOSS
 
@@ -365,30 +338,19 @@ encouraged to email the program's creator Alex Aiken directly, at
   find and fix errors by “discovering the missing code segments.” Assignments/Levels are
   automatically graded, and students can compete against each other to hone their programming
   skills.
-
 - [CodingBat](http://www.codingbat.com) offers Java practice problems with
   instant feedback for students. The problems in CodingBat are distinct from those in the Building
   Java Programs textbook. CodingBat has a teacher dashboard, and a system of badges to motivate
   learners. Instructors can also upload their own sets of java problems for their classes to
   complete.
-
 - If you are interested in learning more about principles of universal design for learning, please
   visit [http://www.udlcenter.org/aboutudl/udlguidelines](http://www.udlcenter.org/aboutudl/udlguidelines).
-
 - Emerging EdTech has collected a sample of 20 digital tools to increase collaboration in the
   classroom. One of them might be perfect for your classroom:
 
-- See _[20 Fun Free Tools for Interactive Classroom Collaboration][]_. Other tools for collaboration
-  that have been successfully used in TEALS classrooms include [Twiddla][], [Vyew][], [Skype][], and
-  [Google Hangouts][].
-
-- If your classroom does not already have a digital grade management system, previous TEALS teaching
+  - If your classroom does not already have a digital grade management system, previous TEALS teaching
   teams have used Moodle, Canvas, Schoology, Excel Online, and Google Forms.
-
-- To create digital, self-grading, and responsive quizzes, Google Forms and Socrative offer free
-  tools and tutorials to use their systems.
-
-- If you are stationed in a high-performing school, or in a school where many students have already
+  - If you are stationed in a high-performing school, or in a school where many students have already
   mastered other programming languages, you may want to consider flipping (or inverting) your
   classroom. To learn more about the theory and practice of teaching in a flipped classroom,
   Vanderbilt University offers a comprehensive introduction and links to practical
