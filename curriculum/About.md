@@ -22,9 +22,7 @@ Authors
 
 License
 -------
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International][] license.
-See [LICENSE.md][] for the full license.
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International][] license.See [LICENSE.md][] for the full license.
 
 
 Acknowledgements
