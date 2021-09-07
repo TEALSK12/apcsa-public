@@ -1,9 +1,5 @@
 # About the AP Computer Science A Curriculum
 
-# This Gitbook curriculum experience will no longer be accessible starting October 1, 2021
-
-Please update your bookmarks to the following curriculum landing page [https://tealsk12.github.io/apcsa-public/](https://tealsk12.github.io/apcsa-public/)
-
 The [TEALS Program][] has designed these curriculum materials for the use of teachers and volunteer
 tech professionals in high school classrooms. Any teacher with prior programming experience (or
 access to a computer science professional) can use this curriculum to teach the AP Computer Science
