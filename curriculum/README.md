@@ -2,7 +2,7 @@
 
 # This Gitbook curriculum experience will no longer be accessible starting October 1, 2021
 
-Please update your bookmarks to the following curriculum landing page [https://tealsk12.github.io/apcsa-public/](https://tealsk12.github.io/apcsa-public/)
+Please update your bookmarks to the following curriculum landing page [https://aka.ms/ap-csa](https://aka.ms/ap-csa)
 
 The [TEALS Program][] has designed these curriculum materials for the use of teachers and volunteer
 tech professionals in high school classrooms. Any teacher with prior programming experience (or
